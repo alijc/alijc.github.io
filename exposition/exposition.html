@@ -1,40 +1,53 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>1905 Lewis and Clark Exposition - Then and Now</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+// This example uses a GroundOverlay to place an image on the map
+// showing an antique map of Newark, NJ.
 
-<style>
-img {
-    width: 100%;
-    height: auto;
+var historicalOverlay;
+
+function initMap() {
+  var map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 45.54, lng: -122.71},
+          zoom: 16
+  });
+
+  var imageBounds = {
+    north: 45.5446,
+    south: 45.5348,
+    east: -122.7013,
+    west: -122.718444
+  };
+
+  var overlayOpts = {
+      opacity:0.5
+  }
+
+  historicalOverlay = new google.maps.GroundOverlay(
+      './official-map-trimmed.jpg',
+      imageBounds, overlayOpts);
+  historicalOverlay.setMap(map);
 }
 
-</style>
-
-<script>
-function changeImage() {
-    var image = document.getElementById('map');
-    if (image.src.match("1905")) {
-        image.src = "portland2016.gif";
-    } else if (image.src.match("2016")) {
-        image.src = "portlandboth.gif";
-    } else {
-        image.src = "portland1905.gif";
-    }
-}
-</script>
-
-<body>
-
-<h1>1905 Lewis and Clark Exposition</h1>
-
-<img id="map" onclick="changeImage()" src="portland1905.gif" 
-     width="1209" height="1001">
-<p>Click the map to advance to the next one.</p>
-
-
-<p>
-<a href="official-ground-plan-of-the-lewis-and-clark-centennial-exposition-1905.jpg">
-Full size map</a></p>
-
-
-</body>
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDkY8VPHt72giraWfg4XgMaYY4P6W7I4Q8&callback=initMap&signed_in=true" async defer>
+    </script>
+  </body>
 </html>
