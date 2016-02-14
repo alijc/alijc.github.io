@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+map-container img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+
+</style>
+
+<script>
+function changeImage() {
+    var image = document.getElementById('map');
+    if (image.src.match("1905")) {
+        image.src = "portland2016.gif";
+    } else if (image.src.match("2016")) {
+        image.src = "portlandboth.gif";
+    } else {
+        image.src = "portland1905.gif";
+    }
+}
+</script>
+
+<body>
+
+<h1>1905 Lewis and Clark Exposition</h1>
+
+<div class="map-container"  onclick="changeImage()">
+  <img id="map1905" src="portland1905.gif" width="1209" height="1001" style="position: relative; top: 0; left: 0;">
+  <img id="map2016" src="portland2016.gif" width="1209" height="1001" style="position: absolute; top: 0; left: 0;" >
+</div>
+<p>Click the map to advance to the next one.</p>
+
+
+<p>
+<a href="official-ground-plan-of-the-lewis-and-clark-centennial-exposition-1905.jpg">
+Full size map</a></p>
+
+
+</body>
+</html>
