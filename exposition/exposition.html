@@ -31,7 +31,7 @@ function initMap() {
 
   var imageBounds = {
     north: 45.5446,
-    south: 45.5348,
+    south: 45.53505,
     east: -122.7013,
     west: -122.718444
   };
@@ -41,7 +41,7 @@ function initMap() {
   }
 
   historicalOverlay = new google.maps.GroundOverlay(
-      './official-map-trimmed.jpg',
+    './official-map-trimmed.jpg',
       imageBounds, overlayOpts);
   historicalOverlay.setMap(map);
 }
