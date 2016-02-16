@@ -16,8 +16,18 @@
     </style>
   </head>
   <body>
-    <input type="text" id="opacity" value="0.2"></input>
-    <input type="button" value="setOpacity" onclick="setOpacity();"></input>
+<button type="button" onclick="setOpacity(1.0);">Then</button>
+<button type="button" onclick="setOpacity(0.9);">.</button>
+<button type="button" onclick="setOpacity(0.8);">.</button>
+<button type="button" onclick="setOpacity(0.7);">.</button>
+<button type="button" onclick="setOpacity(0.6);">.</button>
+<button type="button" onclick="setOpacity(0.5);">.</button>
+<button type="button" onclick="setOpacity(0.4);">.</button>
+<button type="button" onclick="setOpacity(0.3);">.</button>
+<button type="button" onclick="setOpacity(0.2);">.</button>
+<button type="button" onclick="setOpacity(0.1);">.</button>
+<button type="button" onclick="setOpacity(0.0);">Now</button>
+
     <div id="map"></div>
     <script>
 
@@ -43,8 +53,7 @@ function initMap() {
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
-function setOpacity() {
-  var opacityStr = document.getElementById('opacity').value;
+function setOpacity(opacityStr) {
   var opacity = parseFloat(opacityStr);
   historicalOverlay.setOpacity(opacity);
 }
