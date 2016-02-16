@@ -16,10 +16,10 @@
     </style>
   </head>
   <body>
+    <input type="text" id="opacity" value="0.2"></input>
+    <input type="button" value="setOpacity" onclick="setOpacity();"></input>
     <div id="map"></div>
     <script>
-// This example uses a GroundOverlay to place an image on the map
-// showing an antique map of Newark, NJ.
 
 var historicalOverlay;
 
@@ -36,14 +36,17 @@ function initMap() {
     west: -122.718444
   };
 
-  var overlayOpts = {
-      opacity:0.5
-  }
-
   historicalOverlay = new google.maps.GroundOverlay(
     './official-map-trimmed.jpg',
-      imageBounds, overlayOpts);
+      imageBounds);
   historicalOverlay.setMap(map);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+function setOpacity() {
+  var opacityStr = document.getElementById('opacity').value;
+  var opacity = parseFloat(opacityStr);
+  historicalOverlay.setOpacity(opacity);
 }
 
     </script>
