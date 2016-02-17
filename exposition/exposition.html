@@ -46,6 +46,7 @@ Then
 <input type="radio" name="trans"  onclick="setOpacity(0.0);"/>
 Now
 </div>
+
     <div id="map"></div>
     <script>
 
@@ -76,6 +77,8 @@ var forestryBuildingContent ='<div>'+
 
 
 function initMap() {
+
+  // A google map, centered on Nicholai.
   var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 45.54, lng: -122.71},
           zoom: 16
@@ -88,12 +91,15 @@ function initMap() {
     west: -122.718444
   };
 
+  // The official map of the 1905 Lewis and Clark Exposition,
+  // overlaid on top of the google map.
   historicalOverlay = new google.maps.GroundOverlay(
     './official-map-trimmed.jpg',
       imageBounds);
   historicalOverlay.setMap(map);
 
 
+  // Markers for points of interest, with info windows with words and photos.
   var info1874window = new google.maps.InfoWindow({ content: house1874Content });
   marker = new google.maps.Marker({
     position: then1874houseLatLng,
