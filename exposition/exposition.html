@@ -11,7 +11,7 @@
         padding: 0;
       }
       #map {
-        height: 100%;
+        height: 95%;
       }
       .center {
         margin: auto;
@@ -42,6 +42,11 @@ Now
 
 var historicalOverlay;
 
+var marker;
+var then1874houseLatLng = {lat: 45.53795581, lng: -122.71530569};
+var now1874houseLatLng  = {lat: 45.53758006, lng: -122.71267176};
+var forestryCenterLatLng = {lat: 45.53646409, lng: -122.70871282};
+
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 45.54, lng: -122.71},
@@ -59,9 +64,36 @@ function initMap() {
     './official-map-trimmed.jpg',
       imageBounds);
   historicalOverlay.setMap(map);
+
+  new google.maps.Marker({
+    position: then1874houseLatLng,
+    map: map,
+    title: '1874 House'
+  });
+  new google.maps.Marker({
+    position: now1874houseLatLng,
+    map: map,
+    title: '1874 House'
+  });
+  var lineCoords = [ then1874houseLatLng, now1874houseLatLng ];
+  var line = new google.maps.Polyline({
+    path: lineCoords,
+    strokeColor: '#FF0000',
+    strokeOpacity: 1.0,
+    strokeWeight: 2
+  });
+  line.setMap(map);
+
+
+
+  new google.maps.Marker({
+    position: forestryCenterLatLng,
+    map: map,
+    title: 'Forestry Center'
+  });
+
 }
 
-google.maps.event.addDomListener(window, 'load', initialize);
 function setOpacity(opacityStr) {
   var opacity = parseFloat(opacityStr);
   historicalOverlay.setOpacity(opacity);
