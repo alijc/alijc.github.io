@@ -18,6 +18,9 @@
         width: 50%;
         padding: 10px;
       }
+      img { 
+        width:100%; 
+      }
     </style>
   </head>
   <body>
@@ -47,6 +50,25 @@ var then1874houseLatLng = {lat: 45.53795581, lng: -122.71530569};
 var now1874houseLatLng  = {lat: 45.53758006, lng: -122.71267176};
 var forestryCenterLatLng = {lat: 45.53646409, lng: -122.70871282};
 
+var infowindow;
+var house1874Content ='<div>'+
+'<h1>1874 House</h1>'+
+'Built in 1874 as a stagecoach inn on the road to Linnton.'+
+'Moved to 3007 NW Wilson St in 2003, to make way for new construction.'+
+'<img src="./Guilds_Lake_1874_House_1.jpg">'+
+'<img src="./Guilds-Lake-1874-House-2.jpg">'+
+'</div>';
+
+var forestryBuildingContent ='<div>'+
+'<h1>Forestry Building</h1>'+
+'A three story log cabin.'+
+'Burned down in 1964.'+
+'<img src="./ForestryBuilding-fromS.jpg">'+
+'<img src="./ForestryBuilding-fromE.jpg">'+
+'<img src="./ForestryBuilding-fromNW.jpg">'+
+'</div>';
+
+
 function initMap() {
   var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 45.54, lng: -122.71},
@@ -65,16 +87,20 @@ function initMap() {
       imageBounds);
   historicalOverlay.setMap(map);
 
-  new google.maps.Marker({
+
+  var info1874window = new google.maps.InfoWindow({ content: house1874Content });
+  marker = new google.maps.Marker({
     position: then1874houseLatLng,
     map: map,
     title: '1874 House'
   });
-  new google.maps.Marker({
+  marker.addListener('click', function() { info1874window.open(map, marker); });
+  marker = new google.maps.Marker({
     position: now1874houseLatLng,
     map: map,
     title: '1874 House'
   });
+  marker.addListener('click', function() { info1874window.open(map, marker); });
   var lineCoords = [ then1874houseLatLng, now1874houseLatLng ];
   var line = new google.maps.Polyline({
     path: lineCoords,
@@ -85,12 +111,13 @@ function initMap() {
   line.setMap(map);
 
 
-
-  new google.maps.Marker({
+  var forestryinfowindow = new google.maps.InfoWindow({ content: forestryBuildingContent });
+  marker = new google.maps.Marker({
     position: forestryCenterLatLng,
     map: map,
-    title: 'Forestry Center'
+    title: 'Forestry Building'
   });
+  marker.addListener('click', function() { forestryinfowindow.open(map, marker); });
 
 }
 
