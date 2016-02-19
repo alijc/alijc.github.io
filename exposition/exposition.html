@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <title>1905 Lewis and Clark Exposition - Then and Now</title>
@@ -29,6 +30,7 @@
     </style>
   </head>
   <body>
+<button id="btn1">Show Text</button>
 
 <!-- Radio button array to set the transparency of the historical overlay.-->
 <div class="thennow">
@@ -50,6 +52,7 @@ Now
     <div id="map"></div>
     <script>
 
+var map;
 var historicalOverlay;
 
 var marker;
@@ -79,7 +82,7 @@ var forestryBuildingContent ='<div>'+
 function initMap() {
 
   // A google map, centered on Nicholai.
-  var map = new google.maps.Map(document.getElementById('map'), {
+  map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 45.54, lng: -122.71},
           zoom: 16
   });
@@ -123,19 +126,59 @@ function initMap() {
   line.setMap(map);
 
 
-  var forestryinfowindow = new google.maps.InfoWindow({ content: forestryBuildingContent });
-  marker = new google.maps.Marker({
-    position: forestryCenterLatLng,
-    map: map,
-    title: 'Forestry Building'
-  });
-  marker.addListener('click', function() { forestryinfowindow.open(map, marker); });
+//  var forestryinfowindow = new google.maps.InfoWindow({ content: forestryBuildingContent });
+//  marker = new google.maps.Marker({
+//    position: forestryCenterLatLng,
+//    map: map,
+//    title: 'Forestry Building'
+//  });
+//  marker.addListener('click', function() { forestryinfowindow.open(map, marker); });
+
+  createPointofInterest("forestrybuilding");
 
 }
 
 function setOpacity(opacityStr) {
   var opacity = parseFloat(opacityStr);
   historicalOverlay.setOpacity(opacity);
+}
+
+
+
+function createPointofInterest(name) {
+
+  // Read the file off the server.
+  var url = "http://alijc.github.io/exposition/" + name + ".html";
+  jQuery.get(url, function( data ) {
+    
+    var found;
+
+    // Find the title
+    found = data.match(/<h1>(.*)<\/h1>/);
+    var title = found[1];
+
+    // Find the old location
+    found = data.match(/Location in 1905: (.*), (.*)/);
+    var latlng = new google.maps.LatLng( found[1], found[2])
+
+    // Stick a pin into the old location
+    var marker = new google.maps.Marker({
+      position: latlng,
+      map: map,
+      title: title
+    });
+
+
+//  marker.addListener('click', function() { forestryinfowindow.open(map,
+//    marker); });
+
+    // If there's a current location listed...
+    found = data.match(/Current Location: (.*), (.*)/);
+    if (found) {
+	alert (found);
+    }
+
+  });
 }
 
     </script>
