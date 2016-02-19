@@ -150,7 +150,7 @@ function createPointofInterest(name) {
   // Read the file off the server.
   var url = "http://alijc.github.io/exposition/" + name + ".html";
   jQuery.get(url, function( data ) {
-    
+
     var found;
 
     // Find the title
@@ -161,6 +161,7 @@ function createPointofInterest(name) {
     found = data.match(/Location in 1905: (.*), (.*)/);
     var latlng = new google.maps.LatLng( found[1], found[2])
 
+
     // Stick a pin into the old location
     var marker = new google.maps.Marker({
       position: latlng,
@@ -169,8 +170,10 @@ function createPointofInterest(name) {
     });
 
 
-//  marker.addListener('click', function() { forestryinfowindow.open(map,
-//    marker); });
+    // Extract the inner div from the full web page.
+    var content = data.slice( 7+data.search("<body>"), data.search("</body>"));
+    var infowindow = new google.maps.InfoWindow({ content: content });
+    marker.addListener('click', function() { infowindow.open(map, marker); });
 
     // If there's a current location listed...
     found = data.match(/Current Location: (.*), (.*)/);
