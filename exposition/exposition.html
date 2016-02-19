@@ -30,7 +30,6 @@
     </style>
   </head>
   <body>
-<button id="btn1">Show Text</button>
 
 <!-- Radio button array to set the transparency of the historical overlay.-->
 <div class="thennow">
@@ -54,29 +53,6 @@ Now
 
 var map;
 var historicalOverlay;
-
-var marker;
-var then1874houseLatLng = {lat: 45.53795581, lng: -122.71530569};
-var now1874houseLatLng  = {lat: 45.53758006, lng: -122.71267176};
-var forestryCenterLatLng = {lat: 45.53646409, lng: -122.70871282};
-
-var infowindow;
-var house1874Content ='<div>'+
-'<h1>1874 House</h1>'+
-'Built in 1874 as a stagecoach inn on the road to Linnton.'+
-'Moved to 3007 NW Wilson St in 2003, to make way for new construction.'+
-'<img src="./Guilds_Lake_1874_House_1.jpg">'+
-'<img src="./Guilds-Lake-1874-House-2.jpg">'+
-'</div>';
-
-var forestryBuildingContent ='<div>'+
-'<h1>Forestry Building</h1>'+
-'A three story log cabin.'+
-'Burned down in 1964.'+
-'<img src="./ForestryBuilding-fromS.jpg">'+
-'<img src="./ForestryBuilding-fromE.jpg">'+
-'<img src="./ForestryBuilding-fromNW.jpg">'+
-'</div>';
 
 
 function initMap() {
@@ -102,38 +78,7 @@ function initMap() {
   historicalOverlay.setMap(map);
 
 
-  // Markers for points of interest, with info windows with words and photos.
-  var info1874window = new google.maps.InfoWindow({ content: house1874Content });
-  marker = new google.maps.Marker({
-    position: then1874houseLatLng,
-    map: map,
-    title: '1874 House'
-  });
-  marker.addListener('click', function() { info1874window.open(map, marker); });
-  marker = new google.maps.Marker({
-    position: now1874houseLatLng,
-    map: map,
-    title: '1874 House'
-  });
-  marker.addListener('click', function() { info1874window.open(map, marker); });
-  var lineCoords = [ then1874houseLatLng, now1874houseLatLng ];
-  var line = new google.maps.Polyline({
-    path: lineCoords,
-    strokeColor: '#FF0000',
-    strokeOpacity: 1.0,
-    strokeWeight: 2
-  });
-  line.setMap(map);
-
-
-//  var forestryinfowindow = new google.maps.InfoWindow({ content: forestryBuildingContent });
-//  marker = new google.maps.Marker({
-//    position: forestryCenterLatLng,
-//    map: map,
-//    title: 'Forestry Building'
-//  });
-//  marker.addListener('click', function() { forestryinfowindow.open(map, marker); });
-
+  createPointofInterest("1874house");
   createPointofInterest("forestrybuilding");
 
 }
@@ -161,24 +106,41 @@ function createPointofInterest(name) {
     found = data.match(/Location in 1905: (.*), (.*)/);
     var latlng = new google.maps.LatLng( found[1], found[2])
 
+    // Extract the inner div from the full web page.
+    var content = data.slice( 7+data.search("<body>"), data.search("</body>"));
+    var infowindow = new google.maps.InfoWindow({ content: content });
 
-    // Stick a pin into the old location
+
+    // Stick a pin into the old location, adding an info window.
     var marker = new google.maps.Marker({
       position: latlng,
       map: map,
       title: title
     });
-
-
-    // Extract the inner div from the full web page.
-    var content = data.slice( 7+data.search("<body>"), data.search("</body>"));
-    var infowindow = new google.maps.InfoWindow({ content: content });
     marker.addListener('click', function() { infowindow.open(map, marker); });
 
     // If there's a current location listed...
     found = data.match(/Current Location: (.*), (.*)/);
     if (found) {
-	alert (found);
+	// Stick a pin there as well.
+        var newlatlng = new google.maps.LatLng( found[1], found[2])
+        var newmarker = new google.maps.Marker({
+          position: newlatlng,
+          map: map,
+          title: title + ", now"
+        });
+        newmarker.addListener('click', function() {
+                 infowindow.open(map, newmarker); });
+
+        // And draw a line to connect the two locations.
+        var lineCoords = [ latlng, newlatlng ];
+        var line = new google.maps.Polyline({
+          path: lineCoords,
+          strokeColor: '#FF0000',
+          strokeOpacity: 1.0,
+          strokeWeight: 2
+        });
+        line.setMap(map); 
     }
 
   });
