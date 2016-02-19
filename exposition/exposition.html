@@ -108,7 +108,9 @@ function createPointofInterest(name) {
 
     // Extract the inner div from the full web page.
     var content = data.slice( 7+data.search("<body>"), data.search("</body>"));
-    var infowindow = new google.maps.InfoWindow({ content: content });
+    var infowindow = new google.maps.InfoWindow({ 
+	  content: '<a href="'+url+'">full page</a>'+ content 
+	  });
 
 
     // Stick a pin into the old location, adding an info window.
