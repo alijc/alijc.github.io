@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>1905 Lewis and Clark Exposition - Then and Now</title>
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+      .thennow {
+        position:absolute;
+        left: 160px;
+        top: 5px;
+        margin: auto;
+        width: 50%;
+        padding: 10px;
+        z-index:3;
+        border: 2px solid #73AD21;
+      }
+      img { 
+        width:100%; 
+      }
+    </style>
+  </head>
+  <body>
+
+<!-- Radio button array to set the transparency of the historical overlay.-->
+<div class="thennow">
+Then
+<input type="radio" name="trans"  onclick="setOpacity(1.0);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.9);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.8);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.7);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.6);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.5);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.4);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.3);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.2);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.1);"/>
+<input type="radio" name="trans"  onclick="setOpacity(0.0);"/>
+Now
+</div>
+
+    <div id="map"></div>
+    <script>
+
+var map;
+var historicalOverlay;
+
+
+function initMap() {
+
+  // A google map, centered on Nicholai.
+  map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 45.54, lng: -122.71},
+          zoom: 16
+  });
+
+  var imageBounds = {
+    north: 45.5446,
+    south: 45.53505,
+    east: -122.7013,
+    west: -122.718444
+  };
+
+  // The official map of the 1905 Lewis and Clark Exposition,
+  // overlaid on top of the google map.
+  historicalOverlay = new google.maps.GroundOverlay(
+    './official-map-trimmed.jpg',
+      imageBounds);
+  historicalOverlay.setMap(map);
+
+
+  createPointofInterest("ncrbuilding");
+
+  createPointofInterest("1874house");
+  createPointofInterest("forestrybuilding");
+  createPointofInterest("orientalpalace");
+  createPointofInterest("foreignpalace");
+  createPointofInterest("agriculturebuilding");
+  createPointofInterest("liberalartsbuilding");
+  createPointofInterest("mining");
+  createPointofInterest("auditorium");
+  createPointofInterest("coloradobuilding");
+  createPointofInterest("oregonbuilding");
+  createPointofInterest("californiabuilding");
+  createPointofInterest("washingtonbuilding");
+  createPointofInterest("missouribuilding");
+  createPointofInterest("adminbuilding");
+  createPointofInterest("colonnade");
+  createPointofInterest("entrance");
+  createPointofInterest("fairmounthotel");
+  createPointofInterest("massachusettsbuilding");
+  createPointofInterest("masonicbuilding");
+  createPointofInterest("coming-of-the-white-man");
+  createPointofInterest("sacajawea");
+
+}
+
+function Setopacity(opacityStr) {
+  var opacity = parseFloat(opacityStr);
+  historicalOverlay.setOpacity(opacity);
+}
+
+
+
+function createPointofInterest(name) {
+
+  // Read the file off the server.
+  var urlbase = "http://alijc.github.io/exposition/pointsofinterest/";
+//  var urlbase = "http://alijc.github.io/exposition/";
+  var url = urlbase + name + ".html";
+  jQuery.get(url, function( data ) {
+
+    var found;
+
+    // Find the title
+    found = data.match(/<h1>(.*)<\/h1>/);
+    var title = found[1];
+
+    // Find the old location
+    found = data.match(/Location in 1905: (.*), (.*)/);
+    var latlng = new google.maps.LatLng( found[1], found[2])
+
+    // Extract the inner div from the full web page.
+    var content = data.slice( 7+data.search("<body>"), data.search("</body>"));
+    var infowindow = new google.maps.InfoWindow({ 
+	  content: '<a href="'+url+'">full page</a>'+ content 
+	  });
+
+
+    // Stick a pin into the old location, adding an info window.
+    var marker = new google.maps.Marker({
+      position: latlng,
+      map: map,
+      title: title,
+//      icon: { 
+//	  path: google.maps.SymbolPath.CIRCLE,
+//	  scale: 5,
+//	  strokeColor:"#ff0000",
+//	  strokeWeight:1,
+//	  fillColor:"#ff0000",
+//	  fillOpacity:0.50
+//	  }
+    });
+    marker.addListener('click', function() { infowindow.open(map, marker); });
+
+    // If there's a current location listed...
+    found = data.match(/Current Location: (.*), (.*)/);
+    if (found) {
+	// Stick a pin there as well.
+        var newlatlng = new google.maps.LatLng( found[1], found[2])
+        var newmarker = new google.maps.Marker({
+          position: newlatlng,
+          map: map,
+          title: title + ", now"
+        });
+        newmarker.addListener('click', function() {
+                 infowindow.open(map, newmarker); });
+
+        // And draw a line to connect the two locations.
+        var lineCoords = [ latlng, newlatlng ];
+        var line = new google.maps.Polyline({
+          path: lineCoords,
+          strokeColor: '#FF0000',
+          strokeOpacity: 0.5,
+          strokeWeight: 1
+        });
+        line.setMap(map); 
+    }
+
+  });
+}
+
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDkY8VPHt72giraWfg4XgMaYY4P6W7I4Q8&callback=initMap&signed_in=true" async defer>
+    </script>
+  </body>
+</html>
