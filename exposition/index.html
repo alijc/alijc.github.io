@@ -53,6 +53,7 @@ Now
 
 var map;
 var historicalOverlay;
+var poibase = "http://alijc.github.io/exposition/pointsofinterest/";
 
 
 function initMap() {
@@ -77,34 +78,18 @@ function initMap() {
       imageBounds);
   historicalOverlay.setMap(map);
 
+  // Read the file off the server.
+  jQuery.get(poibase + "index.txt", function( data ) { 
+      var lines = data.split("\n");
+      for (var i = 0, len = lines.length; i < len; i++) {
+         createPointofInterest(lines[i]);
+      }
+  })
 
-  createPointofInterest("ncrbuilding");
-
-  createPointofInterest("1874house");
-  createPointofInterest("forestrybuilding");
-  createPointofInterest("orientalpalace");
-  createPointofInterest("foreignpalace");
-  createPointofInterest("agriculturebuilding");
-  createPointofInterest("liberalartsbuilding");
-  createPointofInterest("mining");
-  createPointofInterest("auditorium");
-  createPointofInterest("coloradobuilding");
-  createPointofInterest("oregonbuilding");
-  createPointofInterest("californiabuilding");
-  createPointofInterest("washingtonbuilding");
-  createPointofInterest("missouribuilding");
-  createPointofInterest("adminbuilding");
-  createPointofInterest("colonnade");
-  createPointofInterest("entrance");
-  createPointofInterest("fairmounthotel");
-  createPointofInterest("massachusettsbuilding");
-  createPointofInterest("masonicbuilding");
-  createPointofInterest("coming-of-the-white-man");
-  createPointofInterest("sacajawea");
 
 }
 
-function Setopacity(opacityStr) {
+function setOpacity(opacityStr) {
   var opacity = parseFloat(opacityStr);
   historicalOverlay.setOpacity(opacity);
 }
@@ -114,9 +99,7 @@ function Setopacity(opacityStr) {
 function createPointofInterest(name) {
 
   // Read the file off the server.
-  var urlbase = "http://alijc.github.io/exposition/pointsofinterest/";
-//  var urlbase = "http://alijc.github.io/exposition/";
-  var url = urlbase + name + ".html";
+  var url = poibase + name + ".html";
   jQuery.get(url, function( data ) {
 
     var found;
