@@ -31,6 +31,8 @@ sacajawea
 lakeviewterrace
 bandstand
 coming-of-the-white-man
+cowboy
+buffalodance
 parkstairs
 burnscottage
 americaninn
