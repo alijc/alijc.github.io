@@ -16,6 +16,7 @@ newyorkbuilding
 idahobuilding
 utahbuilding
 mainebuilding
+illinoisbuilding
 adminbuilding
 colonnade
 entrance
