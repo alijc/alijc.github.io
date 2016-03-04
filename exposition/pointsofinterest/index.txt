@@ -11,12 +11,13 @@ oregonbuilding
 californiabuilding
 washingtonbuilding
 missouribuilding
+massachusettsbuilding
+newyorkbuilding
 adminbuilding
 colonnade
 entrance
 postoffice
 fairmounthotel
-massachusettsbuilding
 masonicbuilding
 ncrbuilding
 comingthroughtherye
