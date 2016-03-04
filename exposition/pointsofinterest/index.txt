@@ -17,6 +17,7 @@ idahobuilding
 utahbuilding
 mainebuilding
 illinoisbuilding
+ywca
 adminbuilding
 colonnade
 entrance
