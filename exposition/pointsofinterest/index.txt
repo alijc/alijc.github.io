@@ -13,6 +13,7 @@ washingtonbuilding
 missouribuilding
 massachusettsbuilding
 newyorkbuilding
+idahobuilding
 adminbuilding
 colonnade
 entrance
