@@ -21,6 +21,7 @@ ywca
 adminbuilding
 colonnade
 entrance
+firedept
 postoffice
 fairmounthotel
 masonicbuilding
