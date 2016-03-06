@@ -5,6 +5,7 @@ foreignpalace
 agriculturebuilding
 liberalartsbuilding
 mining
+transportation
 auditorium
 coloradobuilding
 oregonbuilding
