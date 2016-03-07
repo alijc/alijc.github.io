@@ -51,5 +51,6 @@ cairo
 bridge
 lifesaving
 fisheriesbuilding
+alaskabuilding
 govtbuildings
 irrigation
