@@ -35,6 +35,7 @@ clark
 lakeviewterrace
 bandstand
 esplanade
+hungarian
 coming-of-the-white-man
 cowboy
 buffalodance
