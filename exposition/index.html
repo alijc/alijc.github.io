@@ -82,7 +82,9 @@ function initMap() {
   jQuery.get(poibase + "index.txt", function( data ) { 
       var lines = data.split("\n");
       for (var i = 0, len = lines.length; i < len; i++) {
-         createPointofInterest(lines[i]);
+         if ( lines[i].length > 0 ) {
+           createPointofInterest(lines[i]);
+         }
       }
   })
 
