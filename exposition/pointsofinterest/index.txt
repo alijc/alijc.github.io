@@ -26,6 +26,7 @@ firedept
 postoffice
 fairmounthotel
 masonicbuilding
+policestation
 ncrbuilding
 comingthroughtherye
 columbiacourt
