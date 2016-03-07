@@ -36,6 +36,7 @@ lakeviewterrace
 bandstand
 esplanade
 hungarian
+swiss
 coming-of-the-white-man
 cowboy
 buffalodance
