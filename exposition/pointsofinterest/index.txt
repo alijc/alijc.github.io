@@ -39,6 +39,7 @@ hungarian
 swiss
 coming-of-the-white-man
 cowboy
+pioneer
 buffalodance
 parkstairs
 burnscottage
