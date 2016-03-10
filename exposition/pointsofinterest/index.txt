@@ -19,6 +19,7 @@ utahbuilding
 mainebuilding
 illinoisbuilding
 ywca
+press
 adminbuilding
 colonnade
 entrance
