@@ -25,6 +25,7 @@ entrance
 firedept
 postoffice
 fairmounthotel
+meteorite
 masonicbuilding
 policestation
 ncrbuilding
