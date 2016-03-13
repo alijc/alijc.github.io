@@ -25,6 +25,7 @@ colonnade
 entrance
 firedept
 postoffice
+ride
 fairmounthotel
 meteorite
 masonicbuilding
