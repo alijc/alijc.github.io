@@ -1,0 +1,18 @@
+X:1
+T:White Coral Bells
+T:(Two-part Round)
+M:4/4
+L:1/8
+Q:1/4=70
+K:Gmaj
+%
+%%MIDI program 1       71 bassoon
+%%MIDI program 2       74 flute
+%%MIDI program 3       73 piccolo
+%%systemsep      45.0pt
+"^1"    G2     FE   D3   B,| CE      DC    B,4|
+w: 1.~White cor-al bells up-on a slen-der stalk
+w:  Oh, don't you wish that you could hear them ring?
+"^2"    G,B,    A,C    B,D      GB   |A2  F2 G4 :||
+w: 2.~Lil-ies of the val-ley deck my gar-den walk,
+w: That will hap-pen on-ly when the fair-ies sing.
