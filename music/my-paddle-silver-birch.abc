@@ -1,0 +1,19 @@
+X:1
+T:My Paddle's Keen and Bright
+M:4/4
+L:1/8
+Q:1/4=80
+K:Cmaj
+%
+%%MIDI program 1       74 flute
+%%MIDI program 2       73 piccolo
+%
+[V:1]
+"^1" A A2 G FD D2 |"^2" F F2 G A2 d2 |
+w: My pad-dle's keen and bright, flash-ing with sil-ver
+w: Dip, dip and swing her back, flash-ing with sil-ver
+"^3" A A2 G FD D2 |"^4" D D2 C D2 z2 :|]
+w: Fol-low the wild goose flight, dip, dip and swing.
+w: Swift as the wild goose flies, dip, dip and swing.
+[V:2] D D2 C D2 z2 | D D2 C D2 z2 | D D2 C D2 z2 | D D2 C D2 z2 :|]
+w: Dip, dip and swing. Dip, dip and swing. Dip, dip and swing. Dip, dip and swing.
