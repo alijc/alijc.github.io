@@ -10,10 +10,10 @@ K:Cmaj
 %%MIDI program 2       73 piccolo
 %
 [V:1]
-"^1" A A2 G FD D2 |"^2" F F2 G A2 d2 |
+"^X" A A2 G "^X" FD D2 |"^X" F F2 G "^X" A2 d2 |
 w: My pad-dle's keen and bright, flash-ing with sil-ver
 w: Dip, dip and swing her back, flash-ing with sil-ver
-"^3" A A2 G FD D2 |"^4" D D2 C D2 z2 :|]
+   A A2 G FD D2 | D D2 C D2 z2 :|]
 w: Fol-low the wild goose flight, dip, dip and swing.
 w: Swift as the wild goose flies, dip, dip and swing.
 [V:2] D D2 C D2 z2 | D D2 C D2 z2 | D D2 C D2 z2 | D D2 C D2 z2 :|]
@@ -27,17 +27,13 @@ L:1/8
 Q:1/4=80
 K:Cmaj
 %
-%%MIDI program 1       74 flute
-%%MIDI program 2       73 piccolo
+%%MIDI program 1       73 piccolo
 %
-[V:1]
-"^1" A A2 G FD D2 |"^2" F F2 G A2 d2 |
-w: My pad-dle's keen and bright, flash-ing with sil-ver
-w: Dip, dip and swing her back, flash-ing with sil-ver
-"^3" A A2 G FD D2 |"^4" D D2 C D2 z2 :|]
-w: Fol-low the wild goose flight, dip, dip and swing.
-w: Swift as the wild goose flies, dip, dip and swing.
-[V:2] D D2 C D2 z2 | D D2 C D2 z2 | D D2 C D2 z2 | D D2 C D2 z2 :|]
-w: Dip, dip and swing. Dip, dip and swing. Dip, dip and swing. Dip, dip and swing.
+D2 DD AA A2| D2 DD A2 A2 | d2 cd cA F2|
+w: Land of the sil-ver birch, home of the bea-ver, where still the migh-ty moose
+G F2 G A4| d2 cd cA F2 | G F2 G AF D2 |
+w: wan-ders at will; Blue lake and roc-ky shore, I will re-turn once more;
+DD/D/ DF DD/D/ DF|D D/D/ DF D2 z2|]
+w: bm-di-di ah-da, bm-di-di ah-da, bm-di-di ah-da bm.
 
 
