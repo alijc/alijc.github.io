@@ -1,0 +1,47 @@
+X:1
+T:Shalom chaverim
+C:anon.
+O:Israel
+M:C
+L:1/4
+K:Dm
+"^1" A,|DD/2E/2F "^2" D|FF/2G/2A "^3" A|d3c|A3 "^4" A|
+w:Sha-lom cha-ve-rim sha-lom cha-ve-rim sha-lom sha-lom l'-
+dA/2G/2FG|AF/2E/2DA,|D3E/2F/2|D3 z|]
+w:hit ra-*ot l'-hit ra-*ot sha-lom sha-*lom
+
+X:2
+T:Zum gali
+C:anon.
+O:Israel
+R:Work song
+M:4/4
+L:1/4
+K:Dm
+"^1" D D/2E/2 F/2E/2 F/2E/2|D D/2D/2 A, C:|
+w:Zum ga-li ga-li ga-li, zum ga-li ga-li.
+"^2" z F/2G/2 A A | G F/2G/2 A z | z F/2G/2 A A | G F/2E/2 D z |]
+w:He-cha-lutz le-ma'an a-vo-dah He-cha-lutz le-ma'an a-vo-dah
+
+X:3
+T:Shalom chaverim
+T:Zum gali
+M:C
+L:1/4
+K:Dm
+%
+%%MIDI program 1       74 flute
+%%MIDI program 2       73 piccolo
+%
+[V:1]
+z3 A,|DD/2E/2F D|FF/2G/2A A|d3c|A3 A|
+w:Sha-lom cha-ve-rim sha-lom cha-ve-rim sha-lom sha-lom l'-
+dA/2G/2FG|AF/2E/2DA,|D3E/2F/2|D3 z|]
+w:hit ra-*ot l'-hit ra-*ot sha-lom sha-lom
+[V:2]
+z4 |D D/2E/2 F/2E/2 F/2E/2|D D/2D/2 A, C|
+w:Zum ga-li ga-li ga-li, zum ga-li ga-li.
+D D/2E/2 F/2E/2 F/2E/2|D D/2D/2 A, C|
+w:Zum ga-li ga-li ga-li, zum ga-li ga-li.
+z F/2G/2 A A | G F/2G/2 A z | z F/2G/2 A A | G F/2E/2 D z |]
+w:He-cha-lutz le-ma'an a-vo-dah He-cha-lutz le-ma'an a-vo-dah
