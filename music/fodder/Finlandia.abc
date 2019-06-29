@@ -1,0 +1,36 @@
+X: 1
+T: Finlandia
+T: Song of Peace
+C: music: Jean Sibelius
+C: words: Lloyd Stone
+M: 4/4
+L: 1/4
+K: F
+%%sysstaffsep    20.0pt
+V: 1 clef=treble
+z [AF] [GE] [A^F] |[B3E3] [AF] | [GE] [AF] [FD]> [GE] | [GE] [A3F3] |
+w: 1.~This is my song, for peo-ple of all na-tions
+w: 2.~My coun-try's skies are blu-er than the o-cean,
+z [AF] [GE] [AF] | [B3E3] [AF] | [GE] [AF] [FD]>[GE] | [A4F4] |
+w: a song of peace for land both near and far.
+w: and sun-light beams on clo-ver-leaf and pine;
+z [cF] [cF] [cF] | [d3F3] [AF] |[AF] [cF] [cF]> [GE] | [GE] [B3G3] |
+w: This is my home, the coun-try where my heart is;
+w: What o-ther lands have sun-light too, and clo-ver,
+z [BG] [A^F] [GG] | [A3=F3] [FF] |[FF] [GF] [GE]> [AE] | [A4E4] |
+w: here are my hopes, for peace the world can share.
+w: It is one sun on all our land that shines.
+z [cA] [cF] [cF] | [d3F3] [AF] | [AF] [cF] [cF]> [GE] | [GE] [B3G3] |
+w: What o-ther hearts in o-ther lands are beat-ing
+w: O hear my song, all peo-ple of all na-tions,
+z [BG] [A^F] [GG] | [A3=F3] [FC] | [FF] [GF] [GE]> [FF] | [F4F4] |]
+w: with hopes like mine for peo-ple ev-ry-where.
+w: a song of peace for your land and for mine.
+%
+V: 2 clef=bass
+z [CF,] [CB,] [CA,] | [C3G,3] [CF,] | [CB,] [CA,] [B,B,]>[B,G,] | [CG,] [C3F,3]|
+z [CF,] [CB,] [CA,] | [C3G,3] [CF,] | [CB,] [CA,] [B,B,]>[B,G,] | [C4F,4] |
+z [A,F,][A,F,][A,E,]| [A,3D,3] [DD,]| [DD,] [CA,,] [CA,,]>[CC,] | [CC,][D3G,,3]|
+z [DG,,] [CA,,] [DB,,] | [C3C,3] [CA,] |[DB,] [DB,] [DB,]>[^CA,] | [^C4A,4] |
+z [=CF,][A,F,][A,E,] | [A,3D,3] [DD,] | [DD,] [CA,] [CA,]>[CC] |[CC] [D3G,3] |
+z [DG,,][CA,,][DB,,] | [C3C,3] [A,C,] |[A,C,] [B,C,] [B,C,]>[A,F,] | [A,4F,4] |]
