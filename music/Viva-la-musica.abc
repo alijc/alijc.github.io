@@ -1,0 +1,18 @@
+X:1
+T:Viva La Musica!
+C:Praetorius
+M:4/4
+L:1/4
+K:Dmix
+"^1" d3/2 c/2 B A/2 G/2| F G F2|"^2" B3/2 c/2 d c/2 B/2| A G A2|"^3" G G2 C| D E D2:|]
+w:Vi-va, vi-va la mu-si-ca! Vi-va, vi-va la mu-si-ca! Vi-va la mu-si-ca!
+
+X:2
+T:Viva La Musica!
+T:transposed down
+C:Praetorius
+M:4/4
+L:1/4
+K:Amix
+"^1" A3/2 G/2 F E/2 D/2| C D C2|"^2" F3/2 G/2 A G/2 F/2| E D E2|"^3" D D2 G,| A, B, A,2:|
+w:Vi-va, vi-va la mu-si-ca! Vi-va, vi-va la mu-si-ca! Vi-va la mu-si-ca!
