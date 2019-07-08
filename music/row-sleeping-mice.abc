@@ -1,3 +1,6 @@
+X:1
+T:These rounds will harmonize when sung together:
+
 X:75
 T:Row, Row, Row Your Boat
 %R: air, round, march
@@ -22,7 +25,7 @@ O:Old French
 B:"The Everyday Song Book", 1927
 F:http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
 Z:2017 John Chambers <jc:trillian.mit.edu>
-M:C
+M:4/4
 L:1/8
 K:Cmaj
 "^1"C2 D2 E2 C2| C2 D2 E2 C2|"^2"E2 F2 G4| E2 F2 G4|
