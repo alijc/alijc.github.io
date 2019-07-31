@@ -1,0 +1,37 @@
+X:0
+T:Rounds in 4/4 and minor keys that can be sung together
+
+X:1
+T:Hey Ho
+L:1/4
+M:4/4
+%%MIDI program 56
+K:Dm
+"^1" D2 C2 | D D/D/ A,2 |
+w:Hey, ho, no-bo-dy home.
+"^2" D D E E | F/F/F/F/ E2 |
+w:Meat nor drink nor mo-ney have I none.
+"^3" A>G A>G | A>G A/G/F/E/ ||
+w: Yet will I be mer-___ry._
+
+X:2
+T:Rose Rose
+M:4/4
+L:1/4
+%%MIDI program 56
+K:Dmin
+"^1" D2 C2| D2 A,2|"^2" DD EE| FG E2|
+w:Rose, Rose, Rose, Rose, Will I ev-er see thee wed?
+"^3" AA GA| FG/F/ EA,|"^4" D2 CE| D4 ||
+w:I will mar-ry at thy_ will, sir, At thy_ will.
+
+X:3
+T:Ah Poor Bird
+M:4/4
+L:1/4
+%%MIDI program 56
+K:Dmin
+"^1" D2 E2| F4 |"^2" F2 G2| A4| "^3" Ad dc| d2 AG | F2 E2| D4 ||
+w:Ah, poor bird, take your flight, Up a-bove the sor-row of this dark night.
+w:Ah, poor bird, As you fly, Can you see the dawn Of to-mor-row’s sky?
+
