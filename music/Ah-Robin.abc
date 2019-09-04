@@ -1,0 +1,40 @@
+X:0
+T:Ah Robin, gentle Robin
+T:Round
+C:William Cornysh
+M:4/2% meter
+L:1/4% length of shortest note
+%Q: % tempo
+K:Cmaj% key
+"^1" F2 D2 E2 z2 | F2 E D E2 z2 | E>E A A G>G F F | G G E E D2 z2 |
+w:Ah Ro-bin, gen-tle Ro-bin. Tell me how thy le-man doth and thou shalt know of mine.
+"^2" D2 _B,2 A,2 z2 | D2 C _B, A,2 z2 | A, A, A, A, C C D D | E E A, A, D2 z2 |
+w:Ah Ro-bin, gen-tle Ro-bin. Tell me how thy le-man doth and thou shalt know of mine.
+
+X:1
+T:Ah Robin, gentle Robin
+T:Descant
+C:William Cornysh
+M:4/2% meter
+L:1/4% length of shortest note
+%Q: % tempo
+K:Cmaj% key
+A2 d2 c2 z2 | A2 A d c2 z2 | C>C F F E E A A | c B A G ^F2 z D |
+w:Ah Ro-bin, gen-tle Ro-bin. Tell me how thy le-man doth and thou shalt know of mine. My
+%
+A>A G F c>B A G | _B A A G A2 z D | 
+w:La-dy is un-kind y-wis, A-lack why is she so? She
+C>C F F E E/2 E/2 A A | c B A G ^F2 z2 |
+w:lov'th a-no-ther bet-ter than me and yet she will say no.
+%
+A2 d2 c2 z2 |A2 A d c2 z2 | C>C F F E E A A | c B A G ^F2 z D |
+w:Ah, Ro-bin, gen-tle Ro-bin, tell me how thy le-man doth and thou shalt know of mine. I
+%
+A>A G F A>A D D | A>A A G A2 z D |
+w:can-not think such dou-ble-ness for I find wo-men true, in
+A>A F F E>E A A | c B A G ^F2 z2 |
+w:faith my la-dy lov'th me well; she will change for no new.
+A2 d2 c2 z2 | A2 A d c2 z2 | C>C F F E E A A | c B A G ^F4 |]
+%
+w:Ah, Ro-bin, gen-tle Ro-bin, Tell me how thy le-man doth and thou shalt know of mine.
+
