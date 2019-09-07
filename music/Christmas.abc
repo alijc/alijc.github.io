@@ -1,0 +1,68 @@
+%%%%continueall true
+%%titletrim true
+%%%%%titleformat A-1 T C1, Z-1, S-1
+X:0
+T:Joy to the World
+C:tune: Antioch, G. F. Handel
+C:adapt. and arr. by Lowell Mason
+C:words by Isaac Watts, alt.
+L:1/4
+M:2/4
+Q:1/4=95
+V:S
+%%MIDI program 1 19  %name="Church Organ"
+V:A
+%%MIDI program 2 60  %name="French Horn"
+V:T clef=treble-8 
+%%MIDI program 3 57  %name="Trombone"
+V:B
+%%MIDI program 4 58  %name="Tuba"
+%%%%score (S A) T
+K:Cmaj
+%
+[V:S] c B3/4 A/4 | G3/2 F/2 | E D | C3/2 G/2 | A3/2 A/2 |
+w:1~Joy to the world! The Lord is come. Let earth re-
+w:2~Joy to the earth! The Sa-viour reigns. Let men their
+w:3~He rules the world with truth and grace and makes the
+B3/2 B/2 | c3/2 c/2 | (c/2B/2) (A/2G/2) | (G3/4F/4E/2) c/2 |(c/2B/2) (A/2G/2) |
+w:ceive her King. Let ev_ry_ heart__ pre-pare_ Him_ 
+w:songs em-ploy while fields_ and_ floods,__ rocks hills_ and_ 
+w:na-tions prove the glo_ries_ of__ His right_eous_
+(G3/4F/4E/2) E/2 | E/2 E/2 E/2 (E/4F/4) |G3/2 (F/4E/4) |D/2 D/2 D/2 (D/4E/4) | 
+w:room__ and heav'n and na-ture_ sing, and_ heav'n and na-ture_ 
+w:plains__ re-peat the sound-ing_ joy, re_peat the sound-ing_ 
+w:ness__ and won-ders of his_ love, and_ won-ders of his_ 
+F3/2 (E/4D/4) |(C/2 c) A/2 | (G3/4F/4E/2) F/2 | E D | C2|]
+w:sing, and_ heav'n,_ and heav'n__ and na-ture sing.
+w:joy, re_peat,_ re-peat__ the sound-ing joy.
+w:love, and_ won_ders, won__ders of his love.
+%
+[V:A] E G3/4 F/4 | E3/2 D/2 | C B, | C3/2 G/2 | F3/2 F/2 |
+D3/2 D/2 | E3/2 E/2 | (E/2G/2) (F/2E/2) | (E3/4D/4C/2) E/2 |(E/2G/2) (F/2E/2) |
+(E3/4D/4C/2) z/2 | z3/2 C/2 | C/2 C/2 C/2 C/2 | C3/2 G/2 |
+w: *** and heav'n and na-ture sing and
+G/2 G/2 G/2 G/2 |C3/2 C/2 |  (E3/4D/4C/2) D/2 | C B, | C2|]
+w: heav'n and na-ture sing, and heav'n__ and na-ture sing
+%
+[V:T]
+G c3/4 c/4 | c3/2 A/2 | G3/2 F/2 | E3/2 c/2 | c3/2 c/2 |
+G3/2 G/2 | G3/2 G/2 | G c |(c G/2) G/2 |G c |
+ (c G/2) z/2 | z3/2 G/2 | G/2 G/2 G/2 G/2 |(G2 | 
+w: ** and heav'n and na-ture sing
+G2 | G3/2) c/2 | c3/2 A/2 | G (G/2F/2) | E2|]
+w:__ and heav'n and na-ture_ sing
+
+
+
+%w: Let ev_ry_ heart__ pre-
+%w:songs em-ploy while fields_ and_ floods,__ rocks
+%w:na-tions prove the glo_ries_ of__ His
+%(E/2G/2) (F/2E/2) | (E3/4D/4C/2) C/2 | C/2 C/2 C/2 (C/4D/4) |
+%w:pare_ Him_ room__ and heav'n and na-ture_
+%w:hills_ and_ plains__ re-peat the sound-ing_
+%w:right_eous_ness__ and won-ders of his_
+%E3/2 (D/4C/4) | B,/2 B,/2 B,/2 (B,/4C/4) | D3/2 (C/4B,/4) |(C/2 E) F/2 | (E3/4D%/4C/2) D/2 | C B, | C2|]
+%w:sing, and_ heav'n and na-ture_ sing, and_ heav'n,_ and heav'n__ and na-ture s%ing.
+%w:joy, re_peat the sound-ing_ joy, re_peat,_ re-peat__ the sound-ing joy.
+%w:love, and_ won-ders of his_ love, and_ won_ders, won__ders of his love.
+%%
