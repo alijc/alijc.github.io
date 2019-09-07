@@ -1,7 +1,7 @@
 %%%%continueall true
 %%titletrim true
 %%%%%titleformat A-1 T C1, Z-1, S-1
-X:0
+X:1
 T:Joy to the World
 C:tune: Antioch, G. F. Handel
 C:adapt. and arr. by Lowell Mason
@@ -53,16 +53,28 @@ G2 | G3/2) c/2 | c3/2 A/2 | G (G/2F/2) | E2|]
 w:__ and heav'n and na-ture_ sing
 
 
-
-%w: Let ev_ry_ heart__ pre-
-%w:songs em-ploy while fields_ and_ floods,__ rocks
-%w:na-tions prove the glo_ries_ of__ His
-%(E/2G/2) (F/2E/2) | (E3/4D/4C/2) C/2 | C/2 C/2 C/2 (C/4D/4) |
-%w:pare_ Him_ room__ and heav'n and na-ture_
-%w:hills_ and_ plains__ re-peat the sound-ing_
-%w:right_eous_ness__ and won-ders of his_
-%E3/2 (D/4C/4) | B,/2 B,/2 B,/2 (B,/4C/4) | D3/2 (C/4B,/4) |(C/2 E) F/2 | (E3/4D%/4C/2) D/2 | C B, | C2|]
-%w:sing, and_ heav'n and na-ture_ sing, and_ heav'n,_ and heav'n__ and na-ture s%ing.
-%w:joy, re_peat the sound-ing_ joy, re_peat,_ re-peat__ the sound-ing joy.
-%w:love, and_ won-ders of his_ love, and_ won_ders, won__ders of his love.
-%%
+%%continueall true
+%%%titletrim true
+%%%titleformat A-1 T C1, Z-1, S-1
+X:2
+T:O Little Town Of Bethlehem
+C:Brooks - Redner
+L:1/4
+M:4/4
+V:S
+%%MIDI program 1 19 #Church Organ
+V:A clef=treble
+%%MIDI program 2 60 #French Horn
+V:T clef=treble-8
+%%MIDI program 3 57 #Trombone
+%
+K:Dmaj
+[V:S]
+F | F F ^E F | A G B, E | D (C/2D/2) E A, | F3 F | F F B A | A G B, E | D (C/2D/2) F E | D3 F | F F E D | C2 C C | B, C D E | F3 F | F F ^E F | A G B, B | A D F3/2 E/2 | D3|]
+%
+w:O lit- tle town of Beth- le hem, how still we_ see thee lie! A- bove thy deep and dream- less sleep the si- lent_ stars go by. Yet in thy dark streets shin- eth the e- ver last ing Light; The hopes and fears of all the years are met in thee to- night.
+[V:A]
+A, | A, A, ^G, A, | =C B, G, B, | A, G, G, G, | A,3 A, | A, D ^D D | E B, G, B, | A, A, C C | D3 D | D D C B,| ^A,2 A, A, | B, C D B, | C3 D | A, A, ^G, A, | B, B, G, (B,/2C/2) | D ^G, A,3/2 =G,/2 | F,3|]
+%
+[V:T]
+D | D D D D | ^D E E G | F (E/2F/2) G G | F3 D | D F F B | B B B G | F (^E/2F/2) A G | F3 A | A F G ^G | ^A2 A F | B, C D B | ^A3 =A | A F D D | =D E E G | F (E/2D/2) D3/2 C/2 | D3|]
