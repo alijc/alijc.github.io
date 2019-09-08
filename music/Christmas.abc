@@ -4,7 +4,7 @@
 X:1
 T:Joy to the World
 C:tune: Antioch, G. F. Handel
-C:adapt. and arr. by Lowell Mason
+C:arr. after Lowell Mason
 C:words by Isaac Watts, alt.
 L:1/4
 M:2/4
@@ -13,10 +13,8 @@ V:S
 %%MIDI program 1 19  %name="Church Organ"
 V:A
 %%MIDI program 2 60  %name="French Horn"
-V:T clef=treble-8 
+V:T clef=treble_8 
 %%MIDI program 3 57  %name="Trombone"
-V:B
-%%MIDI program 4 58  %name="Tuba"
 %%%%score (S A) T
 K:Cmaj
 %
@@ -45,11 +43,11 @@ G/2 G/2 G/2 G/2 |C3/2 C/2 |  (E3/4D/4C/2) D/2 | C B, | C2|]
 w: heav'n and na-ture sing, and heav'n__ and na-ture sing
 %
 [V:T]
-G c3/4 c/4 | c3/2 A/2 | G3/2 F/2 | E3/2 c/2 | c3/2 c/2 |
-G3/2 G/2 | G3/2 G/2 | G c |(c G/2) G/2 |G c |
- (c G/2) z/2 | z3/2 G/2 | G/2 G/2 G/2 G/2 |(G2 | 
-w: ** and heav'n and na-ture sing
-G2 | G3/2) c/2 | c3/2 A/2 | G (G/2F/2) | E2|]
+G, C3/4 C/4 | C3/2 A,/2 | G,3/2 F,/2 | E,3/2 C/2 | C3/2 C/2 |
+G,3/2 G,/2 | G,3/2 G,/2 | G, C |(C G,/2) G,/2 |G, C |
+(C G,/2) z/2 | z3/2 G,/2 | G,/2 G,/2 G,/2 G,/2 |(G,2 | 
+w:** and heav'n and na-ture sing
+G,2 | G,3/2) C/2 | C3/2 A,/2 | G, (G,/2F,/2) | E,2|]
 w:__ and heav'n and na-ture_ sing
 
 
@@ -65,7 +63,7 @@ V:S
 %%MIDI program 1 19 #Church Organ
 V:A clef=treble
 %%MIDI program 2 60 #French Horn
-V:T clef=treble-8
+V:T clef=treble_8
 %%MIDI program 3 57 #Trombone
 %%score (S A) T
 %
@@ -85,5 +83,40 @@ w:3~How si-lent-ly, how si-lent-ly the won-drous gift is giv'n! So God im-parts 
 w:4~O ho-ly Child of Beth-le-hem De-scend to us, we pray Cast out our sin and en-ter in Be born to_ us to-day We hear the Chris-tmas an-gels The great glad ti-dings tell O come to us, a-bide with us Our Lord Em-man-u-el
 %
 [V:T]
-D | D D D D | ^D E E G | F (E/2F/2) G G | F3 D | D F F B | B B B G | F (^E/2F/2) A G | F3 A | A F G ^G | ^A2 A F | B, C D B | ^A3 =A | A F D D | =D E E G | F (E/2D/2) D3/2 C/2 | D3|]
+D, | D, D, D, D, | ^D, E, E, G, | F, (E,/2F,/2) G, G, | F,3 D, | D, F, F, B, | B, B, B, G, | F, (^E,/2F,/2) A, G, | F,3 A, | A, F, G, ^G, | ^A,2 A, F, | B,, C, D, B, | ^A,3 =A, | A, F, D, D, | =D, E, E, G, | F, (E,/2D,/2) D,3/2 C,/2 | D,3|]
 
+%%abc-version 2.0
+%%%%continueall true
+%%titletrim true
+X:3
+T:God Rest Ye Merry, Gentlemen
+C:English Traditional
+L:1/4
+M:4/4
+Q:1/4=120
+V:S
+%%MIDI program 1 19 #Church Organ
+V:A
+%%MIDI program 2 60 #French Horn
+V:T clef=treble_8
+%%MIDI program 3 57 #Trombone
+%%score (S A) T
+K:Cminor
+[V:S]
+C | C G G F | E D C B, | C D E F | G3 C |
+C G G F | E D C B, | C D E F | G2z G |
+A F G A | B c G F | E C D E | F2"^Chorus" (E F) |
+G2 A G | (G F) E D | C2 E/2 D/2 C | F2 (E F) | (G A) B c | (G F) E D | C3|]
+%
+[V:A] C | C E D ^B, | C =B, A, G, | C ^B, C C | ^B,3 C |C E D ^B, | C =B, A, G, | C ^B, C C | ^B,2z C | C B, B, E | =D C B, ^B, | C ^A, B, E | D2 (E B,) | B,2 C B, | (E D) C ^B, | C2 G,/2 G,/2 ^A, | B,2 (C D) | E2 E E | (E D) C ^B, | C3|]
+%
+w:1~God rest you mer- ry, gen- tle men, Let noth- ing you dis- may. For Je- sus Christ our Sa_viour, Was born on Christ- mas Day; To save us all from Sa- tan's power When we were gone a- stray, O_ tid- ings of com-_ fort and joy, com- fort and joy, O_ tid-ings of com-_ fort and joy.
+w:2~From God our Hea-venly Fa_ther A bles-sed An-gel came And un-to cer-tain Shep_herds Brought ti-dings of the same How that in Beth-le-hem was born The Son of God by Name ************************
+w:3~"Fear not then", said the An_gel "Let no-thing you af-fright This day is born a Sa_viour Of a pure Vir-gin bright To free all those who trust in Him From Sa-tan's power and might" ************************
+w:4~Now to the Lord sing prai_ses All you with-in this place And with true love and bro-ther-hood Each oth-er now em-brace This ho-ly tide of Christ_mas All oth-er doth de-face ************************
+%
+[V:T]
+C, | E, C, D, G, | G, G, E, E, | E, G, G, C, | D,3 C, |
+E, C, D, G, | G, G, E, E, | E, G, G, C, | D,2z ^E, |
+F, F, E, E, | E, E, E, D, | E, E, F, B, | (B, A,) (G, F,) |
+E,2 E, E, | (B, A,) G, G, | E,2 E,/2 E,/2 E, | (D, F,) (B, A,) | (G, E,) B, A, | (B, A,) G, G, | E,3 |]
