@@ -120,3 +120,36 @@ C, | E, C, D, G, | G, G, E, E, | E, G, G, C, | D,3 C, |
 E, C, D, G, | G, G, E, E, | E, G, G, C, | D,2z ^E, |
 F, F, E, E, | E, E, E, D, | E, E, F, B, | (B, A,) (G, F,) |
 E,2 E, E, | (B, A,) G, G, | E,2 E,/2 E,/2 E, | (D, F,) (B, A,) | (G, E,) B, A, | (B, A,) G, G, | E,3 |]
+
+%%abc-version 2.0
+%%%%continueall true
+%%titletrim true
+X:4
+T:Good Christian Men, Rejoice
+T:In Dulci Jubilo
+C:14th Century, Harm. by de Pearsall
+L:1/8
+M:6/8
+Q:1/8=200
+V:S
+%%MIDI program 1 19
+V:A
+%%MIDI program 2 60
+V:T clef=treble_8 
+%%MIDI program 3 57
+V:P4 name="Bass" " 
+%%MIDI program 4 58
+%%score (S A) T
+K:Dmaj
+[V:S] D | D2 D F2 G | (A2 B A2) A | D2 D F2 G |
+(A2 B A3) | A2 B A2 G | F3 D2 D | E2 E F2 E |
+D2 E F2 F | A2 B A2 G | F3 D2 D | E2 E F2 E |
+D2 E F3 | B,2 B, C2 C | (D3 A3) | F2 G E2 E | D3 z2|]
+%
+[V:A] A, | B,2 A, (D3/2 C/2) B, | (A,2 D C2) D | B,2 A, (D3/2 C/2) B, | (A,2 D C3) | D2 D C2 E | A,3 B,2 D | D2 D D2 C | D2 D D2 D | D2 D C2 E | A,3 D2 D | D2 D D2 C | D2 D D3 | B,2 B, B,2 ^A, | (B,3 C3) | D2 D D2 C | A,3 z2|]
+%
+w:1~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ give ye heed to what we say: Je-sus Christ was born to-day. Ox and ass be-fore him bow, and he is in the man-ger now. Christ is born to-day!_ Christ is born to-day!
+w:2~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye hear of end-less bliss: Je-sus Christ was born for this! He has o-pened hea-ven's door, and we are blest for-e-ver-more. Christ was born for this!_ Christ was born for this!
+w:3~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye need not fear the grave: Je-sus Christ was born to save! Calls you one and calls you all to gain his e-ver-last-ing hall. Christ was born to save!_ Christ was born to save!
+%
+[V:T] F, | G,2 F, A,2 B, | (F,2 G, E,2) F, | G,2 F, A,2 B, | (F,2 G, E,3) | A,2 G, F,2 C, | D,3 F,2 F, | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,2 B, | A,2 G, E,2 C, | D,3 F,2 F, | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,3 | F,2 F, E,2 E, | (F,2 G, E,3) | D,2 G, B,2 A, | F,3 z2|]
