@@ -213,3 +213,35 @@ w:2~Si_lent night, Ho_ly night! Shep-herds quake at the sight Glo-ries stream_ f
 w:3~Si_lent night, Ho_ly night! Son of God, love's pure light Ra-diant beams_ from Thy ho-ly face With the dawn of re-deem_ing grace Je-sus Lord, at Thy birth_ Je-sus Lord, at Thy birth
 [V:T]
 G, G,/2 D,3/2 | G, G,/2 D,3/2 | F, F,/2 D,3/2 | D, D,/2 G,3/2 | G, G,/2 E, G,/2 | G, G,/2 D,3/2 | G, G,/2 E,3/4 F,/4 G,/2 | G, G,/2 D,3/2 | F, F,/2 F,3/4 F,/4 D,/2 | (D,3/2 G,3/2) | G, D,/2 D,3/4 D,/4 C,/2 | (B,,3/2 B,,3/2)|]
+
+%%abc-version 2.0
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X:7
+T:The First Nowell
+C:Old English Carol
+L:1/4
+M:3/4
+Q:1/4=100
+V:S
+%%MIDI program 1 19 %Church Organ
+V:A
+%%MIDI program 2 60 %French Horn
+V:T clef=treble_8
+%%MIDI program 3 57 %Trombone
+%%score (S A) T
+K:Cmaj
+[V:S] (E/2D/2) | (C3/2 D/2) (E/2F/2) | G2 (A/2B/2) | c B A | G2 A/2 B/2 | c B A |
+G A B | c G F | E2 (E/2D/2) | (C3/2 D/2) (E/2F/2) | G2 (A/2B/2) | c B A |
+G2 A/2 B/2 | c B A | (G A) B |(c G) F | E2"^Chorus" (E/2D/2) | (C3/2 D/2) (E/2F/2) |
+G2 (c/2B/2) | A2 A | (G2 G) | c B A | (G A) B | (c G) F | E3|]
+%
+[V:A] C | G,2 C | D2 D | G G F | E2 C/2 D/2 | G E F | G C F | E E D | C2 B, | G,2 C | D2 D | G G F | E2 C/2 D/2 | G E F | (G F) F | E2 D | C2 B, | G,2 C | B,2 E | F2 F | (E2 G) | E E F | E2 F | E2 D | C3|]
+%
+w:1~The first Now-ell the an-gel did say Was to cer-tain poor shep-herds in fields as they lay. In fields where they lay kee-ping their sheep, In a cold win-ter’s night_ that was so deep. Now-ell, now-ell, now-ell, now-ell._ Born is the King of Is-ra-el.
+w:2~They look-ed up and saw_ a star Shin-ing in_ the east_ be-yond_ them far And to the earth it gave_ great light And_ so it con-tin-ued both day and night
+w:3~And by the light of that_ same star Three_ Wise_ men came from a coun-try a-far To seek for~a King was their_ in-tent And to fol-low the star_ where-ever it went
+w:4~Then en-tered in those Wise_ men three Full_ re_v'rent-ly_ u-pon_ their knee And of-fered there in His_ pre-sence Their_ gold_ and myrrh_ and frank-in-cense
+%
+[V:T] (G,/2F,/2) | E,2 C | B,2 A, | G, G, (A,/2B,/2) | C2 A,/2 G,/2 | G, G, B, | C A, F, | G, C G, | G,2 (G,/2F,/2) | E,2 C | (C B,) A, | G, G, (A,/2B,/2) | C2 A,/2 G,/2 | G, G, B, | C2 D | G, C G, | G,2 (G,/2F,/2) | E,2 A, | G,2 G, | (A,3/2 B,/2) (C/2D/2) | (E2 D) | C C C | C2 F, | G,2 G, | G,3|]
+
