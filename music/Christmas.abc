@@ -316,3 +316,36 @@ G,3/2 G,/2 G, F, | E, G, G, E, | G,/2 G,/2 G,/2 G,/2 G,3/2 F,/2 | E, D, E,2 |
 G,3/2 G,/2 G, G, | G,3/2 D,/2 E, G, | G, G, G, G, | G, ^F, G,2 |
 G,3/2 G,/2 G, F, | E, G, G, E, | F,/2 F,/2 F,/2 F,/2 E,3/2 D,/2 | C, D, E,2 |]
 
+
+X:10
+T:What Child is This?
+T:Greensleeves
+C:16th century English 
+M:6/8
+L:1/8
+Q:1/4=88
+V:S
+%%MIDI program 3 56 %Trumpet
+V:A
+%%MIDI program 4 60 %French Horn
+V:T clef=bass
+%%MIDI program 5 57 %Trombone
+%%score (S A) T
+K:Dmin
+[V:S]
+D | F2 G A>B A | G2 E C>D E |
+F2 E E>^C D | E3 A,2 D | F2 G A>B A |
+G2 E C>D E | F>E D ^C>=B, C | D3 D3 | c3 c>=B A |
+G2 E C>D E | F2 D D>^C D | E2 ^C A,3 |
+c3 c>=B A | G2 E C>D E | F>E D ^C>=B, C | D3 D2 |]
+[V:A]
+A, | D2 C C2 F | E2 C C2 C | A,2 A, G,2 D | ^C3 A,2 D | D2 C C2 F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,3 | E3 A>G F | E2 C C2 C | A,2 A, G,2 D | ^C2 A, A,3 | E3 A>G F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,2 |]
+w:1~What Child is this, who, laid to rest, On Ma-ry's lap is sleep-ing? Whom an-gels greet with an-thems sweet, While shep-herds watch are keep-ing?
+w:2~Why lies he in such mean es-tate Where ox and ass are feed-ing? Good Chris-tian, fear; for sin-ners here The si-lent Word is plead-ing. This, this* is Christ the King, Whom shep-herds guard and an-gels sing Haste, haste* to bring Him laud, The Babe, the Son of Ma-ry.
+w:3~So bring Him in-cense, gold and myrrh, Come, peas-ant king, to own Him; The King of kings sal-va-tion brings, Let lov-ing hearts en-throne Him.
+[V:T]
+F, | A,2 G, F,2 A, | C2 G, E,2 G, |
+F,2 F, D,2 D, | A,3 A,2 F, | A,2 G, F,2 A, |
+C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,3 | B,3 C2 C |
+C2 G, E,2 G, | F,2 F, D,2 D, | A,2 A, A,3 |
+C3 C2 C | C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,2 |]
