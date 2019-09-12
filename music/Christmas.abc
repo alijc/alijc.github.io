@@ -278,3 +278,41 @@ w:3~Be near me, Lord Je-sus; I ask Thee to stay close by me for-ev-er and love m
 [V: T]
 C| C3/2 C/2 C| C3/2 C/2 F,| F, F, F,| F,2 F,| G,3/2 G,/2 G,| G, G, G,| F, F, A,|\
 C2 A,| A,3/2 D/2 C| C2 F,| F, F, F,| F,2 F,| G,3/2 G,/2 G,| F, B, A,|G, G, G,| F,2||
+
+%%abc-version 2.0
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X:9
+T:Deck The Halls
+C:Old Welsh Air
+L:1/4
+M:4/4
+Q:1/4=160
+V:S
+%%MIDI program 3 56 %Trumpet
+V:A
+%%MIDI program 4 60 %French Horn
+V:T clef=treble_8
+%%MIDI program 5 57 %Trombone
+%%score (S A) T
+K:Cmaj
+[V:S]
+G3/2 F/2 E D | C D E C | D/2E/2 F/2D/2 E3/2 D/2 | C B, C2 |
+G3/2 F/2 E D | C D E C | D/2E/2 F/2D/2 E3/2 D/2 | C B, C2 |
+D3/2 E/2 F D | E3/2 F/2 G D | E/2^F/2 G A/2B/2 c | B A G2 |
+G3/2 F/2 E D | C D E C | A/2A/2 A/2A/2 G3/2 F/2 | E D C2 |]
+%
+[V:A] E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 | E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 | B,3/2 C/2 D B, | C3/2 C/2 C D | C D E E | D C B,2 | E3/2 D/2 C B, | A, B, C G, | C/2 C/2 C/2 C/2 C3/2 A,/2 | G, B, G,2 |]
+%
+w:1~Deck the halls with boughs of hol-ly Fa-la-la-la-la, la-la-la-la 'Tis the sea-son to be jol-ly Fa-la-la-la-la, la-la-la-la Don we now our gay ap-par-el Fa-la-la-la-la-la-la Troll the an-cient Yule-tide car-ol Fa-la-la-la-la, la-la-la-la
+%
+w:2~See the bla-zing Yule be-fore us Fa-la-la-la-la, la-la-la-la Strike the harp and join the chor-us Fa-la-la-la-la, la-la-la-la Fol-low me in mer-ry mea-sure Fa-la-la-la-la-la-la, While I tell of Yule-tide trea-sure Fa-la-la-la-la, la-la-la-la
+%
+w:3~Fast a-way the old year pas-ses Fa-la-la-la-la, la-la-la-la Hail the new year, lads and las-ses Fa-la-la-la-la, la-la-la-la Sing we joy-ous, all to-ge-ther Fa-la-la-la-la-la-la Heed-less of the wind and wea-ther Fa-la-la-la-la, la-la-la-la
+%
+[V:T]
+G,3/2 G,/2 G, F, | E, G, G, E, | G,/2 G,/2 G,/2 G,/2 G,3/2 F,/2 | E, D, E,2 |
+G,3/2 G,/2 G, F, | E, G, G, E, | G,/2 G,/2 G,/2 G,/2 G,3/2 F,/2 | E, D, E,2 |
+G,3/2 G,/2 G, G, | G,3/2 D,/2 E, G, | G, G, G, G, | G, ^F, G,2 |
+G,3/2 G,/2 G, F, | E, G, G, E, | F,/2 F,/2 F,/2 F,/2 E,3/2 D,/2 | C, D, E,2 |]
+
