@@ -349,3 +349,35 @@ F,2 F, D,2 D, | A,3 A,2 F, | A,2 G, F,2 A, |
 C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,3 | B,3 C2 C |
 C2 G, E,2 G, | F,2 F, D,2 D, | A,2 A, A,3 |
 C3 C2 C | C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,2 |]
+
+%%abc-version 2.0
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+X:11
+T:The Wassail Song
+C:English Traditional
+L:1/4
+M:6/8
+V:S
+%%MIDI program 1 68
+V:A
+%%MIDI program 2 60
+V:T
+%%MIDI program 3 57
+%%score (S A) T
+K:Cmaj
+[V:S] C/2| C C/2 E D/2 | C D/2 E D/2 | C G/2 G G/2 |
+(G3/2 G) G/2 | A A/2 G E/2 | G3/2 F E/2 | (D C/2) D E/2 | F3/2
+"^Chorus" [M:4/4] E F | G2 c A | G2 E F | G G c A |
+G2 E F | G2 A E | (F D) C B, | (C3/2 D/2) E C |
+F2 E F | G2 A E | F D (C B,) | C2|]
+%
+[V:A] C/2| C C/2 B, B,/2 | C C/2 B, B,/2 | C C/2 F E/2 | (D3/2 D) D/2 | F C/2 C C/2 | D3/2 D C/2 | A, C/2 B, C/2 | G,3/2 [M:4/4] C B, | C2 C D | E2 C B, | C B, E C | B,2 E D | D2 ^C C | (D A,) G, G, | (G,3/2 B,/2) C C | (A, B,) C C | D2 A, A, | A, A, G,2 | G,2|]
+%
+w:1 Here we come a-was sail-ing A-mong the leaves so green,_* Here we come a wan-d'ring So fair_ to be seen. Love and joy come to you, And to you your was-sail, too, And God bless you and send_ you a hap-_py New Year._ And God send you a hap-py New Year.
+%
+[V:T] E,/2 | E, F,/2 G, F,/2 | E, F,/2 G, F,/2 | E, G,/2 B, C/2 |
+(B,3/2 B,) B,/2 | C F,/2 G, G,/2 | A,3/2 G, G,/2 | A, G,/2 F, E,/2 | D,3/2
+[M:4/4] G, G, | G,2 A, B, | C2 G, G, | G, G, G, ^F, |
+G,2 G, A, | G,2 G, G, | F,2 E, D, | (E,3/2 F,/2) G, A, |
+F,2 G, A, |G,2 E, G, |F, F, (E, D,) | E,2|]
