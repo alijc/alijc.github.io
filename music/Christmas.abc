@@ -361,3 +361,39 @@ w:1 Here we come a-was sail-ing A-mong the leaves so green,_* Here we come a wan
 [M:4/4] G, G, | G,2 A, B, | C2 G, G, | G, G, G, ^F, |
 G,2 G, A, | G,2 G, G, | F,2 E, D, | (E,3/2 F,/2) G, A, |
 F,2 G, A, |G,2 E, G, |F, F, (E, D,) | E,2|]
+
+X:18
+T:Jingle Bells
+C:James Pierpont
+M:4/4
+L:1/8
+V:S
+%%MIDI program 3 56 %Trumpet
+V:A
+%%MIDI program 4 60 %French Horn
+V:T clef=treble_8
+%%MIDI program 5 57 %Trombone
+%%score (S A) T
+K:Fmaj
+[V:S]
+C |C A G F C3 C/2 C/2|C A G F D2 z D|
+D B A G E2 z E|c c B G A3 C|
+C A G F C2 z C|C A G F D2 z D|
+D B A G c c c c|d c B G F2 c2 |
+|:"^Chorus"A A A2 A A A2|A c F3/2 G/2 A4|B B B3/2 B/2 B A A
+ [1 A/2 A/2| A G G A G2 c2:| [2 A/2 A/2| c c B G F3 z|]
+[V:A]
+C |C C C C C3 C/2 C/2|C C C C B,2 z B,|B, D D D C2 z E|E E E E F3 C|C C C C C2 z C|C C C C B,2 z B,|B, D D D E E E E|E E E E F2 E2 |
+%
+w:1 Dash-ing through the snow. In a one-horse o-pen sleigh; * o'er the fields we go, * laugh-ing all the way. * Bells on bob-tail ring, * mak-ing spir-its bright; what fun it is to ride and sing a sleigh-ing song to night. Oh!
+%
+w:2~A day or two a-go I_ thought I'd take a ride; and soon Miss Fan-ny Bright, was seat-ed by my side. The horse was lean and lank, mis-for-tune seemed his lot; He ran in-to a drift-ed bank and there we got up-set. Oh!
+%
+w:3 Now the ground is white, ** go it while you're young, * take the girls to-night, and sing a sleigh-ing song. Just get a bob-tail nag, two for-ty for his speed then hitch him to an op-en sleigh and crack, you'll take the lead! Oh!
+%
+F F F2 F F F2|F F C3/2 C/2 F4|D D D3/2 D/2 D C C  [1 F/2 F/2| F F F F E2 E2:| [2 F/2 F/2| E E E E F3 z |]
+w:Jin-gle bells, jin-gle bells, jin-gle all the way; oh what fun it is to ride in a one-horse o-pen sleigh. Hey! in a one horse o-pen sleigh!
+%
+[V:T]
+A, |A, A, B, A, A,3 A,/2 A,/2|A, A, B, A, B,2 z F,|F, F, F, B, B,2 z B,|B, A, G, C C3 A,|A, A, B, A, A,2 z A,|A, A, B, A, B,2 z F,|F, F, F, B, B, B, G, G,|B, A, G, B, A,2 C2 |
+|:C C C2 C C C2|C A, A,3/2 B,/2 A,4|F, F, F,3/2 F,/2 F, F, F,  [1 C/2 C/2|=B, B, B, B, C2 _B,2:|  [2 C/2 C/2| C C G,B, A,3 z |]
