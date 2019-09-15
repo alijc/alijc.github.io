@@ -352,9 +352,18 @@ K:Cmaj
 G2 E F | G2 A E | (F D) C B, | (C3/2 D/2) E C |
 F2 E F | G2 A E | F D (C B,) | C2|]
 %
-[V:A] C/2| C C/2 B, B,/2 | C C/2 B, B,/2 | C C/2 F E/2 | (D3/2 D) D/2 | F C/2 C C/2 | D3/2 D C/2 | A, C/2 B, C/2 | G,3/2 [M:4/4] C B, | C2 C D | E2 C B, | C B, E C | B,2 E D | D2 ^C C | (D A,) G, G, | (G,3/2 B,/2) C C | (A, B,) C C | D2 A, A, | A, A, G,2 | G,2|]
+[V:A] C/2| C C/2 B, B,/2 | C C/2 B, B,/2 | C C/2 F E/2 | (D3/2 D) D/2 | F C/2 C C/2 | D3/2 D C/2 | A, C/2 B, C/2 | G,3/2
 %
-w:1 Here we come a-was sail-ing A-mong the leaves so green,_* Here we come a wan-d'ring So fair_ to be seen. Love and joy come to you, And to you your was-sail, too, And God bless you and send_ you a hap-_py New Year._ And God send you a hap-py New Year.
+w:1 Here we come a-was sail-ing A-mong the leaves so green,_* Here we come a wan-d'ring So fair_ to be seen.
+%
+w:2~We are not dai-ly beg_gars That beg from door to door;_ But we are neigh-bours' child-ren, Whom you have seen be-fore.
+%
+w:3~Good mas-ter and good mis_tress, As you sit by the fire,_ Pray think of us poor child-ren Who wan-der in the mire.
+%
+w:4~God bless the mas-ter of this house Like-wise the mis-tress too,_ And all the lit-tle child-ren That round the ta-ble go.
+%
+[M:4/4] C B, | C2 C D | E2 C B, | C B, E C | B,2 E D | D2 ^C C | (D A,) G, G, | (G,3/2 B,/2) C C | (A, B,) C C | D2 A, A, | A, A, G,2 | G,2|]
+w: Love and joy come to you, And to you your was-sail, too, And God bless you and send_ you a hap-_py New Year._ And God send you a hap-py New Year.
 %
 [V:T] E,/2 | E, F,/2 G, F,/2 | E, F,/2 G, F,/2 | E, G,/2 B, C/2 |
 (B,3/2 B,) B,/2 | C F,/2 G, G,/2 | A,3/2 G, G,/2 | A, G,/2 F, E,/2 | D,3/2
