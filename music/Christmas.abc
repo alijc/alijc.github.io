@@ -1,4 +1,3 @@
-%%%%continueall true
 %%titletrim true
 %%%%%titleformat A-1 T C1, Z-1, S-1
 X:1
@@ -51,7 +50,6 @@ G,2 | G,3/2) C/2 | C3/2 A,/2 | G, (G,/2F,/2) | E,2|]
 w:__ and heav'n and na-ture_ sing
 
 
-%%%continueall true
 %%%titletrim true
 %%%titleformat A-1 T C1, Z-1, S-1
 X:2
@@ -86,7 +84,6 @@ w:4~O ho-ly Child of Beth-le-hem De-scend to us, we pray Cast out our sin and en
 D, | D, D, D, D, | ^D, E, E, G, | F, (E,/2F,/2) G, G, | F,3 D, | D, F, F, B, | B, B, B, G, | F, (^E,/2F,/2) A, G, | F,3 A, | A, F, G, ^G, | ^A,2 A, F, | B,, C, D, B, | ^A,3 =A, | A, F, D, D, | =D, E, E, G, | F, (E,/2D,/2) D,3/2 C,/2 | D,3|]
 
 %%abc-version 2.0
-%%%%continueall true
 %%titletrim true
 X:3
 T:God Rest Ye Merry, Gentlemen
@@ -122,7 +119,6 @@ F, F, E, E, | E, E, E, D, | E, E, F, B, | (B, A,) (G, F,) |
 E,2 E, E, | (B, A,) G, G, | E,2 E,/2 E,/2 E, | (D, F,) (B, A,) | (G, E,) B, A, | (B, A,) G, G, | E,3 |]
 
 %%abc-version 2.0
-%%continueall true
 %%titletrim true
 %%titleformat A-1 T C1, Z-1, S-1
 X: 4
@@ -150,7 +146,6 @@ w:O come, Thou Key of Da-vid, come And o-pen wide our heaven__ly home Make_ safe
 [V: T]  G, | B, F, G, D | (E2 D) C | B,3 F, | G, G, G, B, | (A,2 G,) F, | G,3 A, | A, C B, A, | (G,2 A,) G, | F,3 G, | F, F, G, D | (E2 D) C | B,3 B, | A,3 E | D3 D | (E2 D) C | B,3 D | D G, G, B, | (A,2 G,) F, | G,3|]
 
 %%abc-version 2.0
-%%%%continueall true
 %%titletrim true
 X:5
 T:Good Christian Men, Rejoice
