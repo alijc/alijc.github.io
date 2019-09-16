@@ -406,3 +406,68 @@ w:Jin-gle bells, jin-gle bells, jin-gle all the way; oh what fun it is to ride i
 [V:T]
 A, |A, A, B, A, A,3 A,/2 A,/2|A, A, B, A, B,2 z F,|F, F, F, B, B,2 z B,|B, A, G, C C3 A,|A, A, B, A, A,2 z A,|A, A, B, A, B,2 z F,|F, F, F, B, B, B, G, G,|B, A, G, B, A,2 C2 |
 |:C C C2 C C C2|C A, A,3/2 B,/2 A,4|F, F, F,3/2 F,/2 F, F, F,  [1 C/2 C/2|=B, B, B, B, C2 _B,2:|  [2 C/2 C/2| C C G,B, A,3 z |]
+
+X:20
+T:It Came Upon the Midnight Clear
+C:Richard S. Willis
+A:Edmund Sears
+L:1/4
+M:6/8
+%%Q: 1/4=80
+V:S
+%%MIDI program 1 19 % Church Organ
+V:A
+%%MIDI program 2 60 %French Horn
+V:T clef=treble_8
+%%MIDI program 3 57 %Trombone
+%%score (S A) T
+K:Gmaj
+[V:S]
+D/2 | B A/2 (A/2G/2) E/2 | D E/2 D D/2 | (E/2F/2) G/2 (G/2A/2) B/2 | (A3/2 A) D/2 |
+B F/2 (A/2G/2) E/2 | D E/2 D D/2 | E E/2 (F/2E/2) D/2 | (G3/2 G) B/2 |
+B B,/2 (B,/2^C/2) ^D/2 | E F/2 G B/2 | (A/2G/2) F/2 (E/2F/2) E/2 | (D3/2 D) D/2 |
+B F/2 (A/2G/2) E/2 | D E/2 D D/2 | E E/2 (F/2E/2) D/2 | (G3/2 G)|]
+%
+[V:A]
+B,/2 | B, B,/2 C C/2 | B, C/2 B, B,/2 | C C/2 ^C C/2 | (D3/2 D) D/2 | B, B,/2 C C/2 | B, C/2 B, D/2 | C C/2 C C/2 | (B,3/2 B,) B,/2 | B, B,/2 (B,/2^C/2) B,/2 | B, B,/2 B, B,/2 | D D/2 ^C C/2 | (D3/2 D) C/2 | B, B,/2 C C/2 | B, C/2 B, D/2 | C C/2 C C/2 | (B,3/2 B,)|]
+%
+w:1~It came up-on the mid-night clear, That glor-ious song of old,_ From an-gels bend-ing near the earth, To touch their harps of gold:_ "Peace on the earth,_ good-will to men, From heaven's all-gra-cious King."_ The world in sol-emn still-ness lay, To hear the an-gels sing._
+%
+w:2~Still through the clo-ven skies they come, With peace-ful wings un-furled,_ And still their heaven-ly mu-sic floats O'er all the wear-y world;_ A-bove its sad_ and low-ly plains, They bend on ho-vering wing,_ And e-ver o'er its ba-bel sounds The bles-sed an-gels sing._
+%
+w:3~For lo!, the days are hast-ening on, By pro-phet bards fore-told,_ When with the e-ver-cir-cling years Comes round the age of gold_ When peace shall o_ver all the earth Its an-cient splen-dors fling,_ And the whole world give back the song Which now the an-gels sing._
+%
+[V:T] D,/2 | D, ^D,/2 E, F,/2 | G, D,/2 D, G,/2 | G, G,/2 G, G,/2 | (F,3/2 F,) D,/2 | D, ^D,/2 E, F,/2 | G, D,/2 D, G,/2 | G, A,/2 (A,/2G,/2) F,/2 | (G,3/2 G,) B,,/2 | B,, ^D,/2 (D,/2E,/2) F,/2 | E, ^D,/2 E, E,/2 | (F,/2B,/2) A,/2 (G,/2A,/2) G,/2 | (F,3/2 F,) F,/2 | G, ^D,/2 E, F,/2 | G, D,/2 D, G,/2 | G, A,/2 (A,/2G,/2) F,/2 | (G,3/2 G,)|]
+
+
+X:21
+T:Good King Wenceslas
+T:Tempus Adest Floridum
+C:From "Piae Cantiones," 1582
+L:1/4
+M:4/4
+V:S
+%%MIDI program 1 19 %Church Organ
+V:A
+%%MIDI program 2 60 %French Horn
+V:T clef=treble_8
+%%MIDI program 3 57 %Trombone
+%%score (S A) T
+K:Fmaj
+[V:S] F F F G | F F C2 | D C D E | F2 F2 |
+F F F G | F F C2 | D C D E | F2 F2 |
+c B A G | A G F2 | D C D E | F2 F2 |
+C C D E | F F G2 | c B A G | (F2 B2) | F4|]
+%
+[V:A] C C D C | C C (G, A,) | B, C B, B, | (C B,) A,2 | C C D C | C B, (G, A,) | B, C C B, | (A, B,) C2 | C D E E | E ^C A,2 | B, C B, B, | A,2 (B, A,) | G, C C B, | A, =B, C2 | C D C B, | (A,2 D2) | C4|]
+w:1~Good King Wen-ces-las looked out,_ On the feast of Ste_phen, When the snow lay round a- bout,_ Deep and crisp and e_ven: Bright-ly shone the moon that night, Though the frost was cru-el,_ When a poor man came in sight, Gath'- ring win-ter fu_el.
+%
+w:2~"Hi-ther, page, and stand by me,_ if thou know'st it, tel_ling, Yon-der pea-sant, who is he?_ Where and what his dwel_ling?" "Sire, he lives a good league hence, un-der-neath the moun-tain;_ Right a-gainst the for-est fence, by Saint Ag-nes' foun_tain."
+%
+w:3~"Bring me flesh, and bring me wine,_ bring me pine logs hi_ther: Thou and I shall see him dine,_ when we bear them thi_ther." Page and mo-narch, forth they went, forth they went to-ge-ther;_ Through the rude wind's wild la-ment and the bit-ter wea_ther.
+%
+w:4~"Sire, the night is dark-er now,_ and the wind blows strong_er; Fails my heart, I know not how;_ I can go no long_er." "Mark my foot-steps, good my page. Tread thou in them bold-ly_ Thou shalt find the win-ter's rage freeze thy blood less cold_ly."
+%
+w:5~In his mas-ter's steps he trod,_ where the snow lay dint_ed; Heat was in the ver-y sod_ which the saint had print_ed. There-fore, Chris-tian men, be sure, wealth or rank pos-ses-sing,_ Ye who now will bless the poor, shall your-selves find bles_sing.
+%
+[V:T] A, A, A, G, | A, F, E,2 | F, F, F, G, | (A, G,) F,2 | A, A, B, B, | A, D, E,2 | F, F, A, G, | (F, G,) A,2 | F, F, C B, | A, E, F,2 | F, F, F, G, | (F, E,) D,2 | E, F, A, G, | F, F, E,2 | F, F, E, E, | F,4 | [F,4A,4]|]
