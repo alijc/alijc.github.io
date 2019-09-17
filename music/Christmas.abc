@@ -539,3 +539,47 @@ z | z4 | z3 C | C C C C | C2 C F | E F C (C/2=B,/2) | C2 (C D) | (C2 C3/2) A,/2 
 [V:T]
 A, | A,2 A, A, | G,2 G,2 | F, G, F, F, | F,2 E, F, | F,2 G, G, | (G, F,) E, C, | (G,2 F,3/2) E,/2 | E,3z | A,2 B, C | B,2 C2 | C F, A, B, | G,2 E, A, | A, G, A, B, | A,3 F, | F, E, F, G, | F,2 E, C | C C G, G, | G,2 F,2 | (F,2 E,3/2) F,/2 | F,4|]
 
+
+X:24
+T:O Christmas Tree
+T:O Tannenbaum
+C:German Folk Song
+L:1/4
+M:3/4
+%Q: 1/4=100
+V:S
+%%MIDI program 2 84
+V:A
+%%MIDI program 3 71
+V:T clef=treble_8
+%%MIDI program 4 100
+%%score (S A) T
+K:Fmaj
+[V:S]
+z2 |: C | F3/4 F/4 F G | A3/4 A/4 A3/2 A/2 | G/2 A/2 B E | G F :|
+c | c/2 A/2 d3/2 c/2 | c/2 B/2 B3/2 B/2 | B/2 G/2 c3/2 B/2 | B/2 A/2 A
+C | F3/4F/4 F G | A3/4 A/4 A3/2 A/2 | G/2 A/2 B E | G F2|]
+%
+w:1~O Christ-mas tree, O Christ-mas tree!
++:Thou tree most fair and love-ly!
++:The sight of thee at Christ-mas-tide
++:Spreads hope and glad-ness far and wide
++:Oh Christ-mas tree, O Christ-mas tree
++:Thou tree most fair and love-ly!
+%
+w:O Christ-mas tree, O Christ-mas tree!
++:Thou hast a won-drous mes-sage:
++:Thou dost pro-claim the Sa-viour's birth
++:Good will to men and peace on earth
++:O Christ-mas tree, O Christ-mas tree!
++:Thou hast a won-drous message
+%
+[V:A]
+z2 |: C | C3/4 C/4 C E | F3/4 F/4 F3/2 F/2 | F/2 ^F/2 G C | C C :|
+F | F/2 F/2 F3/2 F/2 | F/2 E/2 E3/2 G/2 | G/2 E/2 F3/2 E/2 | F/2 F/2 F
+C | C3/4 D/4 C D/2E/2 | F3/4 G/4 F3/2 ^F/2 | G/2 ^F/2 G C | C C2 |]
+[V:T]
+z2 |: A,| A,3/4 A,/4 A, C | C3/4 C/4 C3/2 D/2 | D/2 D/2 D B, | B, A, :|
+A, | A,/2 C/2 B,3/2 A,/2 | A,/2 G,/2 G,3/2 C/2 | C/2 C/2 C3/2 C/2 | D/2 C/2 C
+B, | C3/4 D/4 C B, | C3/4 ^C/4 D3/2 D/2 | D/2 C/2 D C | B, A,2 |]
+
