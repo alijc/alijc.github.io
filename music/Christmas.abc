@@ -50,6 +50,7 @@ w:** and heav'n and na-ture sing
 G,2 | G,3/2) C/2 | C3/2 A,/2 | G, (G,/2F,/2) | E,2|]
 w:__ and heav'n and na-ture_ sing
 
+%%abc-version 2.1
 X:2
 T:O Little Town Of Bethlehem
 C:Brooks - Redner
@@ -499,4 +500,39 @@ w:3~The Vir-gin Mary and Christ were there, On Christ-mas Day, on Christ-mas Day
 w:4~Then let us all re-joice a-gain, On Christ-mas Day, on Christ-mas Day; Then let us all re-joice_ a-gain, On Christ-mas Day in the morn-ing.
 %
 [V: T]  D,/ | B, B,/ C B,/ | A, G,/ F, A,/ | G, B,/ B, G,/ | F, A,/ F, F,/ | G, B,/ A, D/ | (D/C/) D/ D | D/ D B,/ C/ C/ D/ | D3/ B,3/|]
+
+X:23
+T:O Come, All Ye Faithful
+T:Adeste Fideles
+C:J. F. Wade's Cantus Diversi 1751
+L:1/4
+M:4/4
+Q:1/4=105
+V:S lyrics=down 
+%%MIDI program 1 19
+V:A
+%%MIDI program 2 60
+V:T clef=treble_8
+%%MIDI program 3 57
+%%score (S A) T
+K:Fmaj
+[V:S]
+F | F2 C F | G2 C2 | A G A B | A2 G F |
+F2 E D | (E F) G A | (E2 D3/2) C/2 | C3z |
+c2 B A | B2 A2 | G A F G |E2 C
+w:1~O come, all ye faith-ful, Joy-ful and tri-um-phant, O come ye, O come_ ye, to Beth_le-hem. Come and be-hold Him, Born the King of an-gels;
+%
+w:2 Sing, choirs of an-gels, sing in ex-ul-ta-tion * Sing, all ye ci-ti-zens of hea-ven a-bove! Glo-ry to God All glo-ry in the high-est
+%
+w:3 Yea, Lord, we greet Thee, born this hap-py morn-ing * Je-sus, to Thee_ be_ glo_ry given Word of the Fa-ther Now in flesh ap-pear-ing
+%
+F | F E F G | F2 C A | A G A B | A2 G
+A | B A G F | E2 (F B) | (A2 G3/2) F/2 | F4|]
+w:O come, let us a- dore Him, O come, let us a- dore Him, O come, let us a- dore Him,_ Christ_ the Lord.
+%
+[V:A]
+C | C2 C C | C2 C2 | C C C D | C2 C A, | (A, =B,) C B, | C2 C C | (C2 =B,3/2) C/2 | C3z | C2 (D/2E/2) F | (F E) F2 | C C D D | C2 C
+z | z4 | z3 C | C C C C | C2 C F | E F C (C/2=B,/2) | C2 (C D) | (C2 C3/2) A,/2 | A,4|]
+[V:T]
+A, | A,2 A, A, | G,2 G,2 | F, G, F, F, | F,2 E, F, | F,2 G, G, | (G, F,) E, C, | (G,2 F,3/2) E,/2 | E,3z | A,2 B, C | B,2 C2 | C F, A, B, | G,2 E, A, | A, G, A, B, | A,3 F, | F, E, F, G, | F,2 E, C | C C G, G, | G,2 F,2 | (F,2 E,3/2) F,/2 | F,4|]
 
