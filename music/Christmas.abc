@@ -595,7 +595,7 @@ V:S
 %%MIDI program 2 84
 V:A
 %%MIDI program 3 71
-V:T clef=bass% clef=treble_8
+V:T clef=treble_8
 %%MIDI program 4 100
 %%score (S A) T
 K:Emaj
