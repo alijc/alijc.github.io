@@ -583,3 +583,56 @@ z2 |: A,| A,3/4 A,/4 A, C | C3/4 C/4 C3/2 D/2 | D/2 D/2 D B, | B, A, :|
 A, | A,/2 C/2 B,3/2 A,/2 | A,/2 G,/2 G,3/2 C/2 | C/2 C/2 C3/2 C/2 | D/2 C/2 C
 B, | C3/4 D/4 C B, | C3/4 ^C/4 D3/2 D/2 | D/2 C/2 D C | B, A,2 |]
 
+
+X:25
+T:Hark! The Herald Angels Sing
+C:Felix Mendelssohn, 1840
+A:Charles Wesley
+L:1/4
+M:4/4
+%Q: 1/4=100
+V:S
+%%MIDI program 2 84
+V:A
+%%MIDI program 3 71
+V:T clef=bass% clef=treble_8
+%%MIDI program 4 100
+%%score (S A) T
+K:Emaj
+[V:S]
+B, E E3/2 D/2 | E G (G F) | B B B3/2 A/2 | G F G2 |
+B, E E3/2 D/2 | E G (G F) | B F F3/2 D/2 | D C B,2 |
+B B B E | A G (G F) | B B B E | A G (G F) |
+c c c B | A G A2 | F (G/2A/2) B3/2 E/2 | E F G2 |
+%
+w:1~Hark! The her-ald an-gels sing,_ "Glo-ry to the new-born King;
++: Peace on earth, and mer-cy mild,_ God and sin-ners re-con-ciled!"
++: Joy-ful, all ye na- tions, rise._ Join the tri-umph of the skies._
++: With an-gel-ic hosts pro-claim, "Christ is_ born in Beth-le-hem!"
+%
+w:2~Christ, by high-est Heav’n a-dored;_ Christ the e-ver-last-ing Lord;
++:Late in time, be-hold Him come,_ Off-spring of a vir-gin’s womb.
++:Veiled in flesh the God-head see;_ Hail th’in-car-nate De-i-ty,_
++:Pleased with us in flesh to dwell, Je-sus_ our Em-ma-nu-el.
+%
+w:3~Hail the heav’n-ly Prince of Peace!_ Hail the Sun of Right-eous-ness!
++:Light and life to all He brings,_ Ris’n with heal-ing in His wings.
++:Mild He lays His glo-ry by,_ Born that man no more may die;_
++:Born to raise the sons of earth, Born to_ give them se-cond birth.
+%
+c3/2 c/2 c B | A G A2 | F (G/2A/2) B3/2 E/2 | E F E2|]
+w: Hark! the her-ald an-gels sing, "Glo-ry_ to the new-born King."
+%
+[V:A]
+B, B, B,3/2 B,/2 | B, E (E D) | E D C F | E D E2 |
+B, B, B,3/2 B,/2 | G, E E2 | D C D3/2 B,/2 | B, ^A, B,2 |
+B, B, B, E | F E (E D) | B, B, B, E | F E (E D) |
+A A A G | F ^E F2 | D D =E3/2 B,/2 | B, D E2 |
+A A A G | F ^E F2 | B, D E3/2 E/2 | B, B, B,2|]
+%
+[V:T]
+G, G, G,3/2 F,/2 | E, B, B,2 | B, B, C C | B, B, B,2 |
+G, G, G,3/2 F,/2 | E, B, C2 | B, C B,3/2 F,/2 | G, E, D,2 |
+B, B, B, B, | B, B, B,2 | B, B, B, B, | B, B, B,2 |
+C C C C | C B, A,2 | B, B, B,3/2 B,/2 | G, B, B,2 |
+C C C B, | A, G, A,2 | B, B, A,3/2 G,/2 | G, A, G,2|]
