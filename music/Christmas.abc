@@ -636,3 +636,57 @@ G, G, G,3/2 F,/2 | E, B, C2 | B, C B,3/2 F,/2 | G, E, D,2 |
 B, B, B, B, | B, B, B,2 | B, B, B, B, | B, B, B,2 |
 C C C C | C B, A,2 | B, B, B,3/2 B,/2 | G, B, B,2 |
 C C C B, | A, G, A,2 | B, B, A,3/2 G,/2 | G, A, G,2|]
+
+
+%%abc-version 2.1
+X: 0
+T: We Three Kings Of Orient Are
+C: John Henry Hopkins, 1857
+L: 1/4
+M: 3/8
+%Q: 1/4=37
+V:S
+%%MIDI program 2 84
+V:A
+%%MIDI program 3 71
+V:T clef=bass% clef=treble_8
+%%MIDI program 4 100
+%%score (S A) T
+K: G
+[V: S]
+B A/ | G E/ | F/ G/ F/ | E z/ | B A/ | G E/ | F/ G/ F/ | E z/ |
+G G/ | A A/ | B B/ | (d/c/) B/ | A/ B/ A/ | G F/ | E3/|
+%
+w:1~We three kings of O-ri-ent are Bear-ing gifts, we tra-verse a-far.
++:Field and foun-tain, moor and moun_tain, Fol-low-ing yon-der star.
+%
+w:2~Born a King on Beth-le-hem's plain Gold I bring to crown Him a-gain
++:King for e-ver, ceas-ing ne_ver O-ver us all to reign
+%
+w:3~Frank-in-cense to of-fer have I In-cense owns a De-i-ty nigh
++:Prayer and prais-ing, all men rais_ing Wor-ship Him, God most high
+%
+w:4~Myrrh is mine Its bit-ter per-fume breathes A life of ga-ther-ing gloom
++:Sorrow-ing, sigh-ing, bleed-ing, dy_ing Sealed in the stone cold tomb
+%
+w:5~Glor-ious now be-hold Him a-rise King and God and Sac_ri-fice!
++:Al-le-lu-ia, al-le-lu_ia Hea-ven to earth rep-lies
+%
+"^Chorus"
+(F A/) | G G/ | G D/ | G E/ | Gz/ | G G/ | G D/ | G E/ | Gz/ |
+G G/ | A B/ | c B/ | A B/ | G G/ | G D/ | G E/ | G3/|]
+w:Oh,_ star of won- der, star of night, Star with ro- yal beau- ty bright,
++:West- ward lead- ing, still pro- ceed ing, Guide us to thy per- fect Light.
+%
+[V: A]
+G F/|E E/ | ^D/ E/ D/|E z/ | G F/|E E/ | ^D/ E/ D/|E z/|
+E E/|F F/ | G G/|G/F/ G/  | E/ E/ E/|E ^D/ | E3/ |
+D3/ | D D/ | D B,/ | B, E/| D z/| D D/ | D B,/| B, E/ | D z/|
+E E/ | F F/| G G/ | G F/| G D/ |B, D/ | E C/ | D3/|]
+%
+[V: T]
+B, B,/ | B, G,/ | A,/ B,/ A,/ | G, z/ | B, B,/ | B, G,/ | A,/ B,/ A,/ | G, z/ |
+B, B,/ | D D/ | D D/ | B,/D/ D/ | C/ C/ C/ | B, A,/ | G,3/ |
+(A,C/)| B, B,/| B, G,/| C A,/ | B, z/ | B, B,/ | B, G,/ | G, C/ | B, z/|
+B, B,/ | D D/| E D/ | D C/| B, B,/ | G, G,/| G, C/ | B,3/ |]
+
