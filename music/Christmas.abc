@@ -248,21 +248,21 @@ V: T clef=treble_8
 %%score (S A) T
 K: F
 [V: S]
-c| c3/2 B/2 A| A3/2 G/2 F| F E D| C2 C|
+c| c3/2 B/2 A| A G F| F E D| C2 C|
 C3/2 D/2 C| C G E| D C F| A2 c|
-c3/2 B/2 A|(A3/2 G/2) F| F E D| C2 C|
+c3/2 B/2 A|(A G) F| F E D| C2 C|
 B3/2 A/2 G| A G F| G D E| F2||
 %
 [V: A]
-A| A3/2 G/2 F| F3/2 E/2 C| D C B,| C2 C| C3/2 B,/2 C| B, B, B,| B, A, C|\
-F2 F| F3/2 F/2 F|(F3/2 E/2) C| D C B,| C2 C| D3/2 D/2 E| C C C| E B, B,| A,2 ||
+A| A3/2 G/2 F| F E C| D C B,| C2 C| C3/2 B,/2 C| B, B, B,| B, A, C|\
+F2 F| F3/2 F/2 F|(F E) C| D C B,| C2 C| D3/2 D/2 E| C C C| E B, B,| A,2 ||
 %
 w: A-way in a man-ger, no crib for His bed, The lit-tle Lord Je-sus lay down His sweet head; The stars in the sky_ looked down where He lay, The lit-tle Lord Je-sus, a-sleep in the hay.
 w:2~The cat-tle are low-ing, the Ba-by a-wakes, But Lit-tle Lord Je-sus, no cry-ing He makes. I love Thee, Lord Je-sus; look down from the sky and stay by my cra-dle till morn-ing is nigh.
 w:3~Be near me, Lord Je-sus; I ask Thee to stay close by me for-ev-er and love me I pray. Bless all the dear chil-dren in Thy ten-der care, and take us to heav-en to live with Thee there.
 %
 [V: T]
-C| C3/2 C/2 C| C3/2 C/2 F,| F, F, F,| F,2 F,| G,3/2 G,/2 G,| G, G, G,| F, F, A,|\
+C| C3/2 C/2 C| C C F,| F, F, F,| F,2 F,| G,3/2 G,/2 G,| G, G, G,| F, F, A,|\
 C2 A,| A,3/2 D/2 C| C2 F,| F, F, F,| F,2 F,| G,3/2 G,/2 G,| F, B, A,|G, G, G,| F,2||
 
 X:9
