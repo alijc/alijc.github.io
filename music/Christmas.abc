@@ -77,10 +77,10 @@ F F ^E F | A G B, B | A D F3/2 E/2 | D3|]
 [V:A]
 A, | A, A, ^G, A, | =C B, G, B, | A, G, G, G, | A,3 A, | A, D ^D D | E B, G, B, | A, A, C C | D3 D | D D C B,| ^A,2 A, A, | B, C D B, | C3 D | A, A, ^G, A, | B, B, G, (B,/2C/2) | D ^G, A,3/2 =G,/2 | F,3|]
 %
-w:1~O lit- tle town of Beth- le hem, how still we see thee lie! A- bove thy deep and dream- less sleep the si- lent_ stars go by. Yet in thy dark streets shin- eth the e- ver last ing Light; The hopes and fears of all the years are met in thee to- night.
-w:2~For Christ is born of Ma_ry And ga-thered all a-bove While mor-tals sleep, the an-gels keep Their watch of_ won-dering love O morn-ing stars to-ge-ther Pro-claim the ho-ly birth And prai-ses sing to God the King And Peace to men on earth
-w:3~How si-lent-ly, how si-lent-ly the won-drous gift is giv'n! So God im-parts to hu-man hearts the bles-sings_ of His heav'n. No ear may hear His co-ming, but in this world of sin, where meek souls will re-ceive Him still the dear Christ en-ters in.
-w:4~O ho-ly Child of Beth-le-hem De-scend to us, we pray Cast out our sin and en-ter in Be born to_ us to-day We hear the Chris-tmas an-gels The great glad ti-dings tell O come to us, a-bide with us Our Lord Em-man-u-el
+w:1~O lit- tle town of Beth- le hem, how still we see thee lie! A- bove thy deep and dream- less sleep the si- lent stars go by. Yet in thy dark streets shin- eth the e- ver last ing Light; The hopes and fears of all the years are_ met in thee to- night.
+w:2~For Christ is born of Ma_ry And ga-thered all a-bove While mor-tals sleep, the an-gels keep Their watch of won-dering love O morn-ing stars to-ge-ther Pro-claim the ho-ly birth And prai-ses sing to God the King And_ Peace to men on earth
+w:3~How si-lent-ly, how si-lent-ly the won-drous gift is giv'n! So God im-parts to hu-man hearts the bles-sings of His heav'n. No ear may hear His co-ming, but in this world of sin, where meek souls will re-ceive Him still the_ dear Christ en-ters in.
+w:4~O ho-ly Child of Beth-le-hem De-scend to us, we pray Cast out our sin and en-ter in Be born to us to-day We hear the Chris-tmas an-gels The great glad ti-dings tell O come to us, a-bide with us Our_ Lord Em-man-u-el
 %
 [V:T]
 D, | D, D, D, D, | ^D, E, E, G, | F, (E,/2F,/2) G, G, | F,3 D, | D, F, F, B, | B, B, B, G, | F, (^E,/2F,/2) A, G, | F,3 A, | A, F, G, ^G, | ^A,2 A, F, | B,, C, D, B, | ^A,3 =A, | A, F, D, D, | =D, E, E, G, | F, (E,/2D,/2) D,3/2 C,/2 | D,3|]
@@ -167,17 +167,17 @@ V:P4 name="Bass" "
 %%score (S A) T
 K:Dmaj
 [V:S] D | D2 D F2 G | (A2 B A2) A | D2 D F2 G |
-(A2 B A3) | A2 B A2 G | F3 D2 D | E2 E F2 E |
-D2 E F2 F | A2 B A2 G | F3 D2 D | E2 E F2 E |
-D2 E F3 | B,2 B, C2 C | (D3 A3) | F2 G E2 E | D3 z2|]
+(A2 B A3) | A2 B A2 G | F2 E D3 | E2 E F2 E |
+D2 E F2 z | A2 B A2 G | F2 E D2 D | E2 E F2 E |
+D2 E F3 | B,2 B, C2 C | (D3 A3) | F2 F E2 E | D3 z2|]
 %
-[V:A] A, | B,2 A, (D3/2 C/2) B, | (A,2 D C2) D | B,2 A, (D3/2 C/2) B, | (A,2 D C3) | D2 D C2 E | A,3 B,2 D | D2 D D2 C | D2 D D2 D | D2 D C2 E | A,3 D2 D | D2 D D2 C | D2 D D3 | B,2 B, B,2 ^A, | (B,3 C3) | D2 D D2 C | A,3 z2|]
+[V:A] A, | B,2 A, (D3/2 C/2) B, | (A,2 D C2) D | B,2 A, (D3/2 C/2) B, | (A,2 D C3) | D2 D C2 E | D2 C D3 | D2 D D2 C | D2 D D2 z | D2 D C2 E | D2 C D2 D | D2 D D2 C | D2 D D3 | B,2 B, B,2 ^A, | (B,3 C3) | D2 D D2 C | A,3 z2|]
 %
 w:1~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ give ye heed to what we say: Je-sus Christ was born to-day. Ox and ass be-fore him bow, and he is in the man-ger now. Christ is born to-day!_ Christ is born to-day!
 w:2~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye hear of end-less bliss: Je-sus Christ was born for this! He has o-pened hea-ven's door, and we are blest for-e-ver-more. Christ was born for this!_ Christ was born for this!
 w:3~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye need not fear the grave: Je-sus Christ was born to save! Calls you one and calls you all to gain his e-ver-last-ing hall. Christ was born to save!_ Christ was born to save!
 %
-[V:T] F, | G,2 F, A,2 B, | (F,2 G, E,2) F, | G,2 F, A,2 B, | (F,2 G, E,3) | A,2 G, F,2 C, | D,3 F,2 F, | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,2 B, | A,2 G, E,2 C, | D,3 F,2 F, | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,3 | F,2 F, E,2 E, | (F,2 G, E,3) | D,2 G, B,2 A, | F,3 z2|]
+[V:T] F, | G,2 F, A,2 B, | (F,2 G, E,2) F, | G,2 F, A,2 B, | (F,2 G, E,3) | A,2 G, F,2 C, | D,2 E, F,3 | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,2 z | A,2 G, E,2 C, | D,2 E, F,2 A, | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,3 | F,2 F, E,2 E, | (F,2 G, E,3) | D,2 G, B,2 A, | F,3 z2|]
 
 X:6
 T:Silent Night, Holy Night
@@ -639,7 +639,7 @@ C C C B, | A, G, A,2 | B, B, A,3/2 G,/2 | G, A, G,2|]
 
 
 %%abc-version 2.1
-X: 0
+X: 26
 T: We Three Kings Of Orient Are
 C: John Henry Hopkins, 1857
 L: 1/4
