@@ -162,8 +162,6 @@ V:A
 %%MIDI program 2 60
 V:T clef=treble_8 
 %%MIDI program 3 57
-V:P4 name="Bass" " 
-%%MIDI program 4 58
 %%score (S A) T
 K:Dmaj
 [V:S] D | D2 D F2 G | (A2 B A2) A | D2 D F2 G |
@@ -184,13 +182,13 @@ T:Silent Night, Holy Night
 C:F. Gruber
 L:1/4
 M:6/8
-%%Q:1/4=55
-V:S %clef=treble
-%%MIDI program 1 40
-V:A clef=treble
-%%MIDI program 2 41
-V:T clef=treble_8
-%%MIDI program 3 43
+%Q:1/4=55
+V:S clef=treble
+%%MIDI program 1 19
+V:A
+%%MIDI program 2 60
+V:T clef=treble_8 
+%%MIDI program 3 57
 %%score (S A) T
 K:Gmaj
 [V:S]
@@ -199,7 +197,7 @@ E E/2 (G3/4F/4) E/2 | D3/4E/4 D/2 B,3/2 | E E/2 G3/4 F/4 E/2 | D3/4E/4 D/2 B,3/2
 A A/2 c3/4 A/4 F/2 | (G3/2 B3/2) | (G/2D/2) B,/2 D3/4 C/4 A,/2 | (G,3/2 G,3/2)|]
 %
 [V:A]
-(B,3/4C/4) B,/2 G,3/2 | (B,3/4C/4) B,/2 G,3/2 | C C/2 C3/2 | B, B,/2 B,3/2 | C C/2 (E3/4D/4) C/2 | B,3/4C/4 B,/2 G,3/2 | G, C/2 E3/4 D/4 C/2 | B,3/4C/4 B,/2 G,3/2 | C C/2 A,3/4 C/4 D/2 | (B,3/2 D3/2) | B, G,/2 F,3/4 A,/4 C/2 | (B,3/2 G,3/2)|]
+(B,3/4C/4) B,/2 G,3/2 | (B,3/4C/4) B,/2 G,3/2 | C C/2 C3/2 | B, B,/2 B,3/2 | C C/2 (E3/4D/4) C/2 | B,3/4C/4 B,/2 G,3/2 | G, C/2 E3/4 D/4 C/2 | B,3/4C/4 B,/2 G,3/2 | C C/2 A,3/4 C/4 D/2 | (B,3/2 D3/2) | B, G,/2 F,3/4 A,/4 C/2 | (B,3/2 B,3/2)|]
 w:1~Si_lent night! Ho_ly night! All is calm, all is bright. Round yon Vir_gin Mo-ther and Child. Ho-ly In-fant, so ten-der and mild. Sleep in heav-en-ly peace,_ Sleep in heav-en-ly peace._
 w:2~Si_lent night, Ho_ly night! Shep-herds quake at the sight Glo-ries stream_ from hea-ven a-far Heaven-ly hosts_ sing 'Al-le-lu-ia! Christ the Sa-vior is born_ Christ the Sa-vior is born_
 w:3~Si_lent night, Ho_ly night! Son of God, love's pure light Ra-diant beams_ from Thy ho-ly face With the dawn of re-deem_ing grace Je-sus Lord, at Thy birth_ Je-sus Lord, at Thy birth_
