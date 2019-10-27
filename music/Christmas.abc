@@ -322,7 +322,7 @@ G2 E C>D E | F>E D ^C>=B, C | D3 D3 | c3 c>=B A |
 G2 E C>D E | F2 D D>^C D | E2 ^C A,3 |
 c3 c>=B A | G2 E C>D E | F>E D ^C>=B, C | D3 D2 |]
 [V:A]
-A, | D2 C C2 F | E2 C C2 C | A,2 A, G,2 D | ^C3 A,2 D | D2 C C2 F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,3 |
+D | D2 C C2 F | E2 C C2 C | A,2 A, G,2 D | ^C3 A,2 D | D2 C C2 F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,3 |
 w:1~What Child is this, who, laid to rest, On Ma-ry's lap is sleep-ing? Whom an-gels greet with an-thems sweet, While shep-herds watch are keep-ing?
 w:2~Why lies he in such mean es-tate Where ox and ass are feed-ing? Good Chris-tian, fear; for sin-ners here The si-lent Word is plead-ing.
 w:3~So bring Him in-cense, gold and myrrh, Come, peas-ant king, to own Him; The King of kings sal-va-tion brings, Let lov-ing hearts en-throne Him.
@@ -348,7 +348,7 @@ V:T clef=treble_8
 %%MIDI program 3 57
 %%score (S A) T
 K:Cmaj
-[V:S] C/2| C C/2 E D/2 | C D/2 E D/2 | C G/2 G G/2 |
+[V:S] C/2| C D/2 E D/2 | C D/2 E D/2 | C G/2 G G/2 |
 (G3/2 G) G/2 | A A/2 G E/2 | G3/2 F E/2 | (D C/2) D E/2 | F3/2
 "^Chorus" [M:4/4] E F | G2 c A | G2 E F | G G c A |
 G2 E F | G2 A E | (F D) C B, | (C3/2 D/2) E C |
