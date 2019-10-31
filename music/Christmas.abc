@@ -272,11 +272,11 @@ L:1/4
 M:4/4
 %%Q:1/4=160
 V:S
-%%MIDI program 3 56 %Trumpet
+%%MIDI program 1 56 %Trumpet
 V:A
-%%MIDI program 4 60 %French Horn
+%%MIDI program 2 60 %French Horn
 V:T clef=treble_8
-%%MIDI program 5 57 %Trombone
+%%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Cmaj
 [V:S]
