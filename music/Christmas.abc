@@ -642,12 +642,13 @@ T: We Three Kings Of Orient Are
 C: John Henry Hopkins, 1857
 L: 1/4
 M: 3/8
+%%staffsep  20pt
 %Q: 1/4=37
 V:S
 %%MIDI program 2 84
 V:A
 %%MIDI program 3 71
-V:T clef=bass% clef=treble_8
+V:T clef=treble_8
 %%MIDI program 4 100
 %%score (S A) T
 K: G
