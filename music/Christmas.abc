@@ -374,6 +374,9 @@ G,2 G, A, | G,2 G, G, | F,2 E, D, | (E,3/2 F,/2) G, A, |
 F,2 G, A, |G,2 E, G, |F, F, (E, D,) | E,2|]
 
 X:18
+%%scale 0.67
+%%sysstaffsep  0pt
+%%maxsysstaffsep 80pt
 T:Jingle Bells
 C:James Pierpont
 M:4/4
