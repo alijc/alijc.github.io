@@ -648,11 +648,11 @@ M: 3/8
 %%staffsep  20pt
 %Q: 1/4=37
 V:S
-%%MIDI program 2 84
+%%MIDI program 1 69
 V:A
-%%MIDI program 3 71
+%%MIDI program 2 71
 V:T clef=treble_8
-%%MIDI program 4 100
+%%MIDI program 3 67
 %%score (S A) T
 K: G
 [V: S]
