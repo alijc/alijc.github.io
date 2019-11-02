@@ -61,7 +61,7 @@ T:O Little Town Of Bethlehem
 C:Brooks - Redner
 L:1/4
 M:4/4
-Q:1/4=59
+Q:1/4=85
 V:S
 %%MIDI program 1 19 #Church Organ
 V:A clef=treble
@@ -128,7 +128,7 @@ T: Veni, Veni, Emmanuel
 C: Plainsong, 13th century
 L: 1/4
 M: 4/4
-Q:1/4=59
+Q:1/4=80
 %%staffsep  20pt
 V: S
 %%MIDI program 1 19 %Church Organ
@@ -244,7 +244,7 @@ T: Away In A Manger
 C:James R Murray, 1887
 L: 1/4
 M: 3/4
-Q:1/4=59
+Q:1/4=90
 V: S
 %%MIDI program 1 19
 V: A
