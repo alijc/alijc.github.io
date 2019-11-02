@@ -1,6 +1,7 @@
 %%abc-version 2.1
 %%titletrim true
 %%titleformat A-1 T C1, Z-1, S-1
+%%writefields Q 0
 
 X:1
 T:Joy to the World
@@ -9,7 +10,7 @@ C:arr. after Lowell Mason
 A:Isaac Watts, alt.
 L:1/4
 M:2/4
-%%Q:1/4=95
+Q:1/4=95
 V:S lyrics=down
 %%MIDI program 1 19  %name="Church Organ"
 V:A
@@ -59,6 +60,7 @@ T:O Little Town Of Bethlehem
 C:Brooks - Redner
 L:1/4
 M:4/4
+Q:1/4=59
 V:S
 %%MIDI program 1 19 #Church Organ
 V:A clef=treble
@@ -90,7 +92,7 @@ T:God Rest Ye Merry, Gentlemen
 C:English Traditional
 L:1/4
 M:4/4
-%%Q:1/4=120
+Q:1/4=120
 V:S
 %%MIDI program 1 19 #Church Organ
 V:A
@@ -125,6 +127,7 @@ T: Veni, Veni, Emmanuel
 C: Plainsong, 13th century
 L: 1/4
 M: 4/4
+Q:1/4=59
 V: S
 %%MIDI program 1 19 %Church Organ
 V: A
@@ -155,7 +158,7 @@ T:In Dulci Jubilo
 C:14th Century, Harm. by de Pearsall
 L:1/8
 M:6/8
-%%Q:1/8=200
+Q:1/8=200
 V:S
 %%MIDI program 1 19
 V:A
@@ -182,7 +185,7 @@ T:Silent Night, Holy Night
 C:F. Gruber
 L:1/4
 M:6/8
-%Q:1/4=55
+Q:1/4=55
 V:S clef=treble
 %%MIDI program 1 19
 V:A
@@ -209,7 +212,7 @@ T:The First Nowell
 C:Old English Carol
 L:1/4
 M:3/4
-%%Q:1/4=100
+Q:1/4=100
 V:S
 %%MIDI program 1 19 %Church Organ
 V:A
@@ -239,6 +242,7 @@ T: Away In A Manger
 C:James R Murray, 1887
 L: 1/4
 M: 3/4
+Q:1/4=59
 V: S
 %%MIDI program 1 19
 V: A
@@ -270,7 +274,7 @@ T:Deck The Halls
 C:Old Welsh Air
 L:1/4
 M:4/4
-%%Q:1/4=160
+Q:1/4=160
 V:S
 %%MIDI program 1 56 %Trumpet
 V:A
@@ -306,7 +310,7 @@ T:Greensleeves
 C:16th century English 
 M:6/8
 L:1/8
-%%Q:1/4=88
+Q:1/4=88
 V:S
 %%MIDI program 1 56 %Trumpet
 V:A
@@ -340,6 +344,7 @@ T:The Wassail Song
 C:English Traditional
 L:1/4
 M:6/8
+Q:1/4=59
 V:S
 %%MIDI program 1 68
 V:A
@@ -381,6 +386,7 @@ T:Jingle Bells
 C:James Pierpont
 M:4/4
 L:1/8
+Q:1/4=59
 V:S
 %%MIDI program 1 56 %Trumpet
 V:A
@@ -418,7 +424,7 @@ C:Richard S. Willis
 A:Edmund Sears
 L:1/4
 M:6/8
-%%Q: 1/4=80
+Q: 1/4=80
 V:S
 %%MIDI program 1 19 % Church Organ
 V:A
@@ -451,6 +457,7 @@ T:Tempus Adest Floridum
 C:From "Piae Cantiones," 1582
 L:1/4
 M:4/4
+Q:1/4=59
 V:S
 %%MIDI program 1 19 %Church Organ
 V:A
@@ -482,6 +489,7 @@ T: I Saw Three Ships
 C: English Traditional
 L: 1/4
 M: 6/8
+Q:1/4=59
 V: S 
 %%MIDI program 1 19 %Church Organ
 V: A
@@ -547,7 +555,7 @@ T:O Tannenbaum
 C:German Folk Song
 L:1/4
 M:3/4
-%Q: 1/4=100
+Q: 1/4=100
 V:S
 %%MIDI program 1 69
 V:A
@@ -591,7 +599,7 @@ C:Felix Mendelssohn, 1840
 A:Charles Wesley
 L:1/4
 M:4/4
-%Q: 1/4=100
+Q: 1/4=100
 V:S
 %%MIDI program 1 69
 V:A
@@ -646,7 +654,7 @@ C: John Henry Hopkins, 1857
 L: 1/4
 M: 3/8
 %%staffsep  20pt
-%Q: 1/4=37
+Q: 1/4=37
 V:S
 %%MIDI program 1 69
 V:A
