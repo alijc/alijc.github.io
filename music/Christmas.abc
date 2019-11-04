@@ -524,11 +524,11 @@ L:1/4
 M:4/4
 Q:1/4=105
 V:S lyrics=down 
-%%MIDI program 1 19
+%%MIDI program 1 19	% Rock Organ
 V:A
-%%MIDI program 2 60
+%%MIDI program 2 60	% Muted Trumpet
 V:T clef=treble_8
-%%MIDI program 3 57
+%%MIDI program 3 57	% Trumpet
 %%score (S A) T
 K:Fmaj
 [V:S]
@@ -560,11 +560,11 @@ L:1/4
 M:3/4
 Q: 1/4=100
 V:S
-%%MIDI program 1 69
+%%MIDI program 1 69	% Oboe
 V:A
-%%MIDI program 2 71
+%%MIDI program 2 71	% Bassoon
 V:T clef=treble_8
-%%MIDI program 3 67
+%%MIDI program 3 68	% Baritone Sax
 %%score (S A) T
 K:Fmaj
 [V:S]
@@ -604,11 +604,11 @@ L:1/4
 M:4/4
 Q: 1/4=100
 V:S
-%%MIDI program 1 69
+%%MIDI program 1 69	% Oboe
 V:A
-%%MIDI program 2 71
+%%MIDI program 2 71	% Bassoon
 V:T clef=treble_8
-%%MIDI program 3 67
+%%MIDI program 3 68	% Baritone Sax
 %%score (S A) T
 K:Emaj
 [V:S]
@@ -659,11 +659,11 @@ M: 3/8
 %%staffsep  0pt
 Q: 1/4=60
 V:S
-%%MIDI program 1 69
+%%MIDI program 1 69	% Oboe
 V:A
-%%MIDI program 2 71
+%%MIDI program 2 71	% Bassoon
 V:T clef=treble_8
-%%MIDI program 3 67
+%%MIDI program 3 68	% Baritone Sax
 %%score (S A) T
 K: G
 [V: S]
