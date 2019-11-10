@@ -209,7 +209,8 @@ T:In Dulci Jubilo
 C:14th Century, Harm. by de Pearsall
 L:1/8
 M:6/8
-Q:1/8=200
+Q:1/8=220
+P:BABABAB
 V:S
 %%MIDI program 1 19
 V:A
@@ -218,18 +219,38 @@ V:T clef=treble_8
 %%MIDI program 3 57
 %%score (S A) T
 K:Dmaj
-[V:S] D | D2 D F2 G | (A2 B A2) A | D2 D F2 G |
+P:A
+[V:S]
+D | D2 D F2 G | (A2 B A2) A | D2 D F2 G |
 (A2 B A3) | A2 B A2 G | F2 E D3 | E2 E F2 E |
 D2 E F2 z | A2 B A2 G | F2 E D2 D | E2 E F2 E |
+%
+[V:A]
+A, | B,2 A, (D3/2 C/2) B, | (A,2 D C2) D | B,2 A, (D3/2 C/2) B, |
+(A,2 D C3) | D2 D C2 E | D2 C D3 | D2 D D2 C |
+D2 D D2 z | D2 D C2 E | D2 C D2 D | D2 D D2 C |
+%
+w:1~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ give ye heed to what we say: Je-sus Christ was born to-day. Ox and ass be-fore him bow, and he is in the 
+w:2~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye hear of end-less bliss: Je-sus Christ was born for this! He has o-pened hea-ven's door, and we are blest for-
+w:3~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye need not fear the grave: Je-sus Christ was born to save! Calls you one and calls you all to gain his e-ver-
+%
+[V:T]
+F, | G,2 F, A,2 B, | (F,2 G, E,2) F, | G,2 F, A,2 B, |
+(F,2 G, E,3) | A,2 G, F,2 C, | D,2 E, F,3 | B,2 B, (A,3/2 B,/2) G, |
+F,2 G, A,2 z | A,2 G, E,2 C, | D,2 E, F,2 A, | B,2 B, (A,3/2 B,/2) G, |
+P:B
+[V:S]
 D2 E F3 | B,2 B, C2 C | (D3 A3) | F2 F E2 E | D3 z2|]
 %
-[V:A] A, | B,2 A, (D3/2 C/2) B, | (A,2 D C2) D | B,2 A, (D3/2 C/2) B, | (A,2 D C3) | D2 D C2 E | D2 C D3 | D2 D D2 C | D2 D D2 z | D2 D C2 E | D2 C D2 D | D2 D D2 C | D2 D D3 | B,2 B, B,2 ^A, | (B,3 C3) | D2 D D2 C | A,3 z2|]
+[V:A]
+D2 D D3 | B,2 B, B,2 ^A, | (B,3 C3) | D2 D D2 C | A,3 z2|]
 %
-w:1~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ give ye heed to what we say: Je-sus Christ was born to-day. Ox and ass be-fore him bow, and he is in the man-ger now. Christ is born to-day!_ Christ is born to-day!
-w:2~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye hear of end-less bliss: Je-sus Christ was born for this! He has o-pened hea-ven's door, and we are blest for-e-ver-more. Christ was born for this!_ Christ was born for this!
-w:3~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye need not fear the grave: Je-sus Christ was born to save! Calls you one and calls you all to gain his e-ver-last-ing hall. Christ was born to save!_ Christ was born to save!
+w: man-ger now. Christ is born to-day!_ Christ is born to-day!
+w: e-ver-more. Christ was born for this!_ Christ was born for this!
+w: last-ing hall. Christ was born to save!_ Christ was born to save!
 %
-[V:T] F, | G,2 F, A,2 B, | (F,2 G, E,2) F, | G,2 F, A,2 B, | (F,2 G, E,3) | A,2 G, F,2 C, | D,2 E, F,3 | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,2 z | A,2 G, E,2 C, | D,2 E, F,2 A, | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,3 | F,2 F, E,2 E, | (F,2 G, E,3) | D,2 G, B,2 A, | F,3 z2|]
+[V:T]
+F,2 G, A,3 | F,2 F, E,2 E, | (F,2 G, E,3) | D,2 G, B,2 A, | F,3 z2|]
 
 X:6
 T:Silent Night, Holy Night
@@ -237,6 +258,7 @@ C:F. Gruber
 L:1/4
 M:6/8
 Q:1/4=55
+P:BABABAB
 V:S clef=treble
 %%MIDI program 1 19
 V:A
@@ -245,18 +267,31 @@ V:T clef=treble_8
 %%MIDI program 3 57
 %%score (S A) T
 K:Gmaj
+P:A
 [V:S]
 (D3/4E/4) D/2 B,3/2 | (D3/4E/4) D/2 B,3/2 | A (A3/8F/8) F3/2 | G (G3/8D/8) D3/2 |
 E E/2 (G3/4F/4) E/2 | D3/4E/4 D/2 B,3/2 | E E/2 G3/4 F/4 E/2 | D3/4E/4 D/2 B,3/2 |
+%
+[V:A]
+(B,3/4C/4) B,/2 G,3/2 | (B,3/4C/4) B,/2 G,3/2 | C C/2 C3/2 | B, B,/2 B,3/2 |
+C C/2 (E3/4D/4) C/2 | B,3/4C/4 B,/2 G,3/2 | G, C/2 E3/4 D/4 C/2 |B,3/4C/4 B,/2 G,3/2 |
+w:1~Si_lent night! Ho_ly night! All is calm, all is bright. Round yon Vir_gin Mo-ther and Child. Ho-ly In-fant, so ten-der and mild.
+w:2~Si_lent night, Ho_ly night! Shep-herds quake at the sight Glo-ries stream_ from hea-ven a-far Heaven-ly hosts_ sing 'Al-le-lu-ia! 
+w:3~Si_lent night, Ho_ly night! Son of God, love's pure light Ra-diant beams_ from Thy ho-ly face With the dawn of re-deem_ing grace 
+[V:T]
+G, G,/2 D,3/2 | G, G,/2 D,3/2 | F, F,/2 D,3/2 | D, D,/2 G,3/2 |
+G, G,/2 E, G,/2 | G, G,/2 D,3/2 | G, G,/2 E,3/4 F,/4 G,/2 |G, G,/2 D,3/2 |
+P:B
+[V:S]
 A A/2 c3/4 A/4 F/2 | (G3/2 B3/2) | (G/2D/2) B,/2 D3/4 C/4 A,/2 | G,3/2-G,3/2|]
 %
 [V:A]
-(B,3/4C/4) B,/2 G,3/2 | (B,3/4C/4) B,/2 G,3/2 | C C/2 C3/2 | B, B,/2 B,3/2 | C C/2 (E3/4D/4) C/2 | B,3/4C/4 B,/2 G,3/2 | G, C/2 E3/4 D/4 C/2 | B,3/4C/4 B,/2 G,3/2 | C C/2 A,3/4 C/4 D/2 | (B,3/2 D3/2) | B, G,/2 F,3/4 A,/4 C/2 | B,3/2-B,3/2|]
-w:1~Si_lent night! Ho_ly night! All is calm, all is bright. Round yon Vir_gin Mo-ther and Child. Ho-ly In-fant, so ten-der and mild. Sleep in heav-en-ly peace,_ Sleep in heav-en-ly peace._
-w:2~Si_lent night, Ho_ly night! Shep-herds quake at the sight Glo-ries stream_ from hea-ven a-far Heaven-ly hosts_ sing 'Al-le-lu-ia! Christ the Sa-vior is born_ Christ the Sa-vior is born_
-w:3~Si_lent night, Ho_ly night! Son of God, love's pure light Ra-diant beams_ from Thy ho-ly face With the dawn of re-deem_ing grace Je-sus Lord, at Thy birth_ Je-sus Lord, at Thy birth_
+C C/2 A,3/4 C/4 D/2 | (B,3/2 D3/2) | B, G,/2 F,3/4 A,/4 C/2 | B,3/2-B,3/2|]
+w: Sleep in heav-en-ly peace,_ Sleep in heav-en-ly peace._
+w: Christ the Sa-vior is born_ Christ the Sa-vior is born_
+w: Je-sus Lord, at Thy birth_ Je-sus Lord, at Thy birth_
 [V:T]
-G, G,/2 D,3/2 | G, G,/2 D,3/2 | F, F,/2 D,3/2 | D, D,/2 G,3/2 | G, G,/2 E, G,/2 | G, G,/2 D,3/2 | G, G,/2 E,3/4 F,/4 G,/2 | G, G,/2 D,3/2 | F, F,/2 F,3/4 F,/4 D,/2 | (D,3/2 G,3/2) | G, D,/2 D,3/4 D,/4 C,/2 | B,,3/2-B,,3/2|]
+F, F,/2 F,3/4 F,/4 D,/2 | (D,3/2 G,3/2) | G, D,/2 D,3/4 D,/4 C,/2 | B,,3/2-B,,3/2|]
 
 X:7
 T:The First Nowell
@@ -264,6 +299,7 @@ C:Old English Carol
 L:1/4
 M:3/4
 Q:1/4=100
+P:BABABABAB
 V:S
 %%MIDI program 1 19 %Church Organ
 V:A
@@ -272,28 +308,44 @@ V:T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Cmaj
-[V:S] (E/2D/2) | (C3/2 D/2) (E/2F/2) | G2 (A/2B/2) | c B A | G2 A/2 B/2 | c B A |
+P:A
+[V:S]
+(E/2D/2) | (C3/2 D/2) (E/2F/2) | G2 (A/2B/2) | c B A | G2 A/2 B/2 | c B A |
 G A B | c G F | E2 (E/2D/2) | (C3/2 D/2) (E/2F/2) | G2 (A/2B/2) | c B A |
 G2 A/2 B/2 | c B A | (G A) B |(c G) F | E2 "^Chorus" (E/2D/2) |
- (C3/2 D/2) (E/2F/2) |G2 (c/2B/2) | A2 A | (G2 G) | c B A | (G A) B | (c G) F | E3|]
 %
-[V:A] C | G,2 C | D2 D | G G F | E2 C/2 D/2 | G E F | G C F | E E D | C2 B, | G,2 C | D2 D | G G F | E2 C/2 D/2 | G E F | (G F) F | E2 D | C2 
+[V:A]
+C | G,2 C | D2 D | G G F | E2 C/2 D/2 | G E F |
+G C F | E E D | C2 B, | G,2 C | D2 D | G G F |
+E2 C/2 D/2 | G E F | (G F) F | E2 D | C2 B, |
 %
-w:1~The first Now-ell the an-gel did say Was to cer-tain poor shep-herds in fields as they lay. In fields where they lay kee-ping their sheep, In a cold win-ter’s night_ that was so deep.
+w:1~The first Now-ell the an-gel did say Was to cer-tain poor shep-herds in fields as they lay. In fields where they lay kee-ping their sheep, In a cold win-ter’s night_ that was so deep. Now-
 w:2~They look-ed up and saw_ a star Shin-ing in_ the east_ be-yond_ them far And to the earth it gave_ great light And_ so it con-tin-ued both day and night
 w:3~And by the light of that_ same star Three_ Wise_ men came from a coun-try a-far To seek for~a King was their_ in-tent And to fol-low the star_ where-ever it went
 w:4~Then en-tered in those Wise_ men three Full_ re_v'rent-ly_ u-pon_ their knee And of-fered there in His_ pre-sence Their_ gold_ and myrrh_ and frank-in-cense
-B, | G,2 C | B,2 E | F2 F | (E2 G) | E E F | E2 F | E2 D | C3|]
-w: Now-ell, now-ell, now-ell, now-ell._ Born is the King of Is-ra-el.
 %
-[V:T] (G,/2F,/2) | E,2 C | B,2 A, | G, G, (A,/2B,/2) | C2 A,/2 G,/2 | G, G, B, | C A, F, | G, C G, | G,2 (G,/2F,/2) | E,2 C | (C B,) A, | G, G, (A,/2B,/2) | C2 A,/2 G,/2 | G, G, B, | C2 D | G, C G, | G,2 (G,/2F,/2) | E,2 A, | G,2 G, | (A,3/2 B,/2) (C/2D/2) | (E2 D) | C C C | C2 F, | G,2 G, | G,3|]
+[V:T]
+(G,/2F,/2) | E,2 C | B,2 A, | G, G, (A,/2B,/2) | C2 A,/2 G,/2 | G, G, B, |
+C A, F, | G, C G, | G,2 (G,/2F,/2) | E,2 C | (C B,) A, | G, G, (A,/2B,/2) |
+C2 A,/2 G,/2 | G, G, B, | C2 D | G, C G, | G,2 (G,/2F,/2) |
+P:B
+[V:S]
+ (C3/2 D/2) (E/2F/2) |G2 (c/2B/2) | A2 A | (G2 G) | c B A | (G A) B | (c G) F | E3|]
+%
+[V:A]
+ G,2 C | B,2 E | F2 F | (E2 G) | E E F | E2 F | E2 D | C3|]
+w: ell, now-ell, now-ell, now-ell._ Born is the King of Is-ra-el.
+%
+[V:T]
+E,2 A, | G,2 G, | (A,3/2 B,/2) (C/2D/2) | (E2 D) | C C C | C2 F, | G,2 G, | G,3|]
 
 X: 8
 T: Away In A Manger
 C:James R Murray, 1887
 L: 1/4
 M: 3/4
-Q:1/4=90
+Q:1/4=95
+P:BABABAB
 V: S
 %%MIDI program 1 19
 V: A
@@ -302,23 +354,38 @@ V: T clef=treble_8
 %%MIDI program 3 57
 %%score (S A) T
 K: F
+P:A
 [V: S]
 c| c3/2 B/2 A| A G F| F E D| C2 C|
 C3/2 D/2 C| C G E| D C F| A2 c|
 c3/2 B/2 A|(A G) F| F E D| C2 C|
-B3/2 A/2 G| A G F| G D E| F2||
 %
 [V: A]
-A| A3/2 G/2 F| F E C| D C B,| C2 C| C3/2 B,/2 C| B, B, B,| B, A, C|\
-F2 F| F3/2 F/2 F|(F E) C| D C B,| C2 C| D3/2 D/2 E| C C C| E B, B,| A,2 ||
+A| A3/2 G/2 F| F E C| D C B,| C2 C|
+C3/2 B,/2 C| B, B, B,| B, A, C|
+F2 F| F3/2 F/2 F|(F E) C| D C B,| C2 C|
 %
-w: A-way in a man-ger, no crib for His bed, The lit-tle Lord Je-sus lay down His sweet head; The stars in the sky_ looked down where He lay, The lit-tle Lord Je-sus, a-sleep in the hay.
-w:2~The cat-tle are low-ing, the Ba-by a-wakes, But Lit-tle Lord Je-sus, no cry-ing He makes. I love Thee, Lord Je-sus; look down from the sky and stay by my cra-dle till morn-ing is nigh.
-w:3~Be near me, Lord Je-sus; I ask Thee to stay close by me for-ev-er and love me I pray. Bless all the dear chil-dren in Thy ten-der care, and take us to heav-en to live with Thee there.
+w:1~A-way in a man-ger, no crib for His bed, The lit-tle Lord Je-sus lay down His sweet head; The stars in the sky_ looked down where He lay, The 
+w:2~The cat-tle are low-ing, the Ba-by a-wakes, But Lit-tle Lord Je-sus, no cry-ing He makes. I love Thee, Lord Je-sus; look down from the sky and
+w:3~Be near me, Lord Je-sus; I ask Thee to stay close by me for-ev-er and love me I pray. Bless all the dear chil-dren in Thy ten-der care, and
 %
 [V: T]
-C| C3/2 C/2 C| C C F,| F, F, F,| F,2 F,| G,3/2 G,/2 G,| G, G, G,| F, F, A,|\
-C2 A,| A,3/2 D/2 C| C2 F,| F, F, F,| F,2 F,| G,3/2 G,/2 G,| F, B, A,|G, G, G,| F,2||
+C| C3/2 C/2 C| C C F,| F, F, F,| F,2 F,|
+G,3/2 G,/2 G,| G, G, G,| F, F, A,|
+C2 A,| A,3/2 D/2 C| C2 F,| F, F, F,| F,2 F,|
+P:B
+[V: S]
+B3/2 A/2 G| A G F| G D E| F2 x/||
+%
+[V: A]
+D3/2 D/2 E| C C C| E B, B,| A,2 x/||
+%
+w: lit-tle Lord Je-sus, a-sleep in the hay.
+w: stay by my cra-dle till morn-ing is nigh.
+w: take us to heav-en to live with Thee there.
+%
+[V: T]
+G,3/2 G,/2 G,| F, B, A,|G, G, G,| F,2 x/||
 
 X:9
 T:Deck The Halls
@@ -326,6 +393,7 @@ C:Old Welsh Air
 L:1/4
 M:4/4
 Q:1/4=160
+P:BABABAB
 V:S
 %%MIDI program 1 56 %Trumpet
 V:A
@@ -334,25 +402,43 @@ V:T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Cmaj
+P:A
 [V:S]
 G3/2 F/2 E D | C D E C | D/2E/2 F/2D/2 E3/2 D/2 | C B, C2 |
 G3/2 F/2 E D | C D E C | D/2E/2 F/2D/2 E3/2 D/2 | C B, C2 |
 D3/2 E/2 F D | E3/2 F/2 G D | E/2^F/2 G A/2B/2 c | B A G2 |
-G3/2 F/2 E D | C D E C | A/2A/2 A/2A/2 G3/2 F/2 | E D C2 |]
 %
-[V:A] E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 | E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 | B,3/2 C/2 D B, | C3/2 C/2 C D | C D E E | D C B,2 | E3/2 D/2 C B, | A, B, C G, | C/2 C/2 C/2 C/2 C3/2 A,/2 | G, B, G,2 |]
+[V:A]
+E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 |
+E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 |
+B,3/2 C/2 D B, | C3/2 C/2 C D | C D E E | D C B,2 |
 %
-w:1~Deck the halls with boughs of hol-ly Fa-la-la-la-la, la-la-la-la 'Tis the sea-son to be jol-ly Fa-la-la-la-la, la-la-la-la Don we now our gay ap-par-el Fa-la-la-la-la-la-la Troll the an-cient Yule-tide car-ol Fa-la-la-la-la, la-la-la-la
+w:1~Deck the halls with boughs of hol-ly ||| 'Tis the sea-son to be jol-ly ||| Don we now our gay ap-par-el |||
 %
-w:2~See the bla-zing Yule be-fore us Fa-la-la-la-la, la-la-la-la Strike the harp and join the chor-us Fa-la-la-la-la, la-la-la-la Fol-low me in mer-ry mea-sure Fa-la-la-la-la-la-la, While I tell of Yule-tide trea-sure Fa-la-la-la-la, la-la-la-la
+w:2~See the bla-zing Yule be-fore us Fa-la-la-la-la, la-la-la-la Strike the harp and join the chor-us Fa-la-la-la-la, la-la-la-la Fol-low me in mer-ry mea-sure Fa-la-la-la-la-la-la,
 %
-w:3~Fast a-way the old year pas-ses Fa-la-la-la-la, la-la-la-la Hail the new year, lads and las-ses Fa-la-la-la-la, la-la-la-la Sing we joy-ous, all to-ge-ther Fa-la-la-la-la-la-la Heed-less of the wind and wea-ther Fa-la-la-la-la, la-la-la-la
+w:3~Fast a-way the old year pas-ses ||| Hail the new year, lads and las-ses ||| Sing we joy-ous, all to-ge-ther |||
 %
 [V:T]
 G,3/2 G,/2 G, F, | E, G, G, E, | G,/2 G,/2 G,/2 G,/2 G,3/2 F,/2 | E, D, E,2 |
 G,3/2 G,/2 G, F, | E, G, G, E, | G,/2 G,/2 G,/2 G,/2 G,3/2 F,/2 | E, D, E,2 |
 G,3/2 G,/2 G, G, | G,3/2 D,/2 E, G, | G, G, G, G, | G, ^F, G,2 |
-G,3/2 G,/2 G, F, | E, G, G, E, | F,/2 F,/2 F,/2 F,/2 E,3/2 D,/2 | C, D, E,2 |]
+%
+P:B
+[V:S]
+G3/2 F/2 E D | C D E C | A/2A/2 A/2A/2 G3/2 F/2 | E D C2 x/|]
+%
+[V:A]
+E3/2 D/2 C B, | A, B, C G, | C/2 C/2 C/2 C/2 C3/2 A,/2 | G, B, G,2 x/|]
+%
+w: Troll the an-cient Yule-tide car-ol
+%
+w: While I tell of Yule-tide trea-sure Fa-la-la-la-la, la-la-la-la
+%
+w: Heed-less of the wind and wea-ther
+%
+[V:T]
+G,3/2 G,/2 G, F, | E, G, G, E, | F,/2 F,/2 F,/2 F,/2 E,3/2 D,/2 | C, D, E,2 x/|]
 
 
 X:10
@@ -362,6 +448,7 @@ C:16th century English
 M:6/8
 L:1/8
 Q:1/4=88
+P:BABABAB
 %%staffsep  20pt
 V:S
 %%MIDI program 1 56 %Trumpet
@@ -371,25 +458,32 @@ V:T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Dmin
+P:A
 [V:S]
 D | F2 G A>B A | G2 E C>D E |
 F2 D D>^C D | E3 A,2 D | F2 G A>B A |
 G2 E C>D E | F>E D ^C>=B, C | D3 D3 | c3 c>=B A |
 G2 E C>D E | F2 D D>^C D | E2 ^C A,3 |
-c3 c>=B A | G2 E C>D E | F>E D ^C>=B, C | D3 D2 |]
 [V:A]
 D | D2 C C2 F | E2 C C2 C | A,2 A, G,2 D | ^C3 A,2 D | D2 C C2 F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,3 |
 w:1~What Child is this, who, laid to rest, On Ma-ry's lap is sleep-ing? Whom an-gels greet with an-thems sweet, While shep-herds watch are keep-ing?
 w:2~Why lies he in such mean es-tate Where ox and ass are feed-ing? Good Chris-tian, fear; for sin-ners here The si-lent Word is plead-ing.
 w:3~So bring Him in-cense, gold and myrrh, Come, peas-ant king, to own Him; The King of kings sal-va-tion brings, Let lov-ing hearts en-throne Him.
- E3 A>G F | E2 C C2 C | A,2 A, G,2 D | ^C2 A, A,3 | E3 A>G F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,2 |]
-w: This, this* is Christ the King, Whom shep-herds guard and an-gels sing Haste, haste* to bring Him laud, The Babe, the Son of Ma-ry.
+ E3 A>G F | E2 C C2 C | A,2 A, G,2 D | ^C2 A, A,3 | 
+w: This, this* is Christ the King, Whom shep-herds guard and an-gels sing 
 [V:T]
 F, | A,2 G, F,2 A, | C2 G, E,2 G, |
 F,2 F, D,2 D, | A,3 A,2 F, | A,2 G, F,2 A, |
 C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,3 | C3 C2 C |
 C2 G, E,2 G, | F,2 F, D,2 D, | A,2 A, A,3 |
-C3 C2 C | C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,2 |]
+P:B
+[V:S]
+c3 c>=B A | G2 E C>D E | F>E D ^C>=B, C | D3 D2 x/|]
+[V:A]
+ E3 A>G F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,2 x/|]
+w: Haste, haste* to bring Him laud, The Babe, the Son of Ma-ry.
+[V:T]
+C3 C2 C | C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,2 x/|]
 
 X:11
 T:The Wassail Song
