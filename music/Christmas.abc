@@ -25,7 +25,7 @@ K:Cmaj
 P:A
 [V:S]
 c B3/4 A/4 | G3/2 F/2 | E D | C3/2 G/2 | A3/2 A/2 |
-B3/2 B/2 | c3/2 c/2 | (c/2B/2) (A/2G/2) | (G3/4F/4E/2) c/2 |(c/2B/2) (A/2G/2) |
+B3/2 B/2 | Hc3/2 c/2 | (c/2B/2) (A/2G/2) | (G3/4F/4E/2) c/2 |(c/2B/2) (A/2G/2) |
 (G3/4F/4E/2) E/2 | E/2 E/2 E/2 (E/4F/4) |G3/2 (F/4E/4) |D/2 D/2 D/2 (D/4E/4) | 
 %
 w:1~Joy to the world! The Lord is come. Let earth re-ceive her King.
@@ -40,13 +40,14 @@ w:3~He rules the world with truth and grace and makes the na-tions prove
 +:the glo_ries_ of__ His right_eous_ness__
 +:and won-ders of his_ love, and_ won-ders of his_ 
 %
-[V:A] E G3/4 F/4 | E3/2 D/2 | C B, | C3/2 G/2 | F3/2 F/2 |
-D3/2 D/2 | E3/2 E/2 | (E/2G/2) (F/2E/2) | (E3/4D/4C/2) E/2 |(E/2G/2) (F/2E/2) |
+[V:A]
+E G3/4 F/4 | E3/2 D/2 | C B, | C3/2 G/2 | F3/2 F/2 |
+D3/2 D/2 | HE3/2 E/2 | (E/2G/2) (F/2E/2) | (E3/4D/4C/2) E/2 |(E/2G/2) (F/2E/2) |
 (E3/4D/4C/2) z/2 | z3/2 C/2 | C/2 C/2 C/2 C/2 | C3/2 G/2 |
 %
 [V:T]
 G, C3/4 C/4 | C3/2 A,/2 | G,3/2 F,/2 | E,3/2 C/2 | C3/2 C/2 |
-G,3/2 G,/2 | G,3/2 G,/2 | G, C |(C G,/2) G,/2 |G, C |
+G,3/2 G,/2 | HG,3/2 G,/2 | G, C |(C G,/2) G,/2 |G, C |
 (C G,/2) z/2 | z3/2 G,/2 | G,/2 G,/2 G,/2 G,/2 |(G,2 | 
 P:B
 [V:S]
