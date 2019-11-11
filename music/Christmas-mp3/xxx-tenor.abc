@@ -1,7 +1,7 @@
 %%abc-version 2.1
 %%titletrim true
 %%titleformat A-1 T C1, Z-1, S-1
-%%writefields Q 0
+%%writefields QP 0
 %%header "$P0		$P1"
 
 X:1
@@ -9,6 +9,7 @@ T:Joy to the World
 C:tune: Antioch, G. F. Handel
 C:arr. after Lowell Mason
 A:Isaac Watts, alt.
+P:BABABAB
 L:1/4
 M:2/4
 Q:1/4=95
@@ -19,47 +20,54 @@ V:T clef=treble_8 lyrics=up
 %%score (S A) T
 K:Cmaj
 %
+P:A
 [V:S]
 c B3/4 A/4 | G3/2 F/2 | E D | C3/2 G/2 | A3/2 A/2 |
-B3/2 B/2 | c3/2 c/2 | (c/2B/2) (A/2G/2) | (G3/4F/4E/2) c/2 |(c/2B/2) (A/2G/2) |
+B3/2 B/2 | Hc3/2 c/2 | (c/2B/2) (A/2G/2) | (G3/4F/4E/2) c/2 |(c/2B/2) (A/2G/2) |
 (G3/4F/4E/2) E/2 | E/2 E/2 E/2 (E/4F/4) |G3/2 (F/4E/4) |D/2 D/2 D/2 (D/4E/4) | 
-F3/2 (E/4D/4) |(C/2 c) A/2 | (G3/4F/4E/2) F/2 | E D | C2|]
 %
 w:1~Joy to the world! The Lord is come. Let earth re-ceive her King.
 +:Let ev_ry_ heart__ pre-pare_ Him_ room__
-+:and heav'n and na-ture_ sing, and_ heav'n and na-ture_ sing,
-+:and_ heav'n,_ and heav'n__ and na-ture sing.
++:and heav'n and na-ture_ sing, and_ heav'n and na-ture_ 
 %
 w:2~Joy to the earth! The Sa-viour reigns. Let men their songs em-ploy
 +:while fields_ and_ floods,__ rocks hills_ and_ plains__
-+:re-peat the sound-ing_ joy, re_peat the sound-ing_ joy,
-+:re_peat,_ re-peat__ the sound-ing joy.
++:re-peat the sound-ing_ joy, re_peat the sound-ing_ 
 %
 w:3~He rules the world with truth and grace and makes the na-tions prove
 +:the glo_ries_ of__ His right_eous_ness__
-+:and won-ders of his_ love, and_ won-ders of his_ love,
-+:and_ won_ders, won__ders of his love.
++:and won-ders of his_ love, and_ won-ders of his_ 
 %
-[V:A] E G3/4 F/4 | E3/2 D/2 | C B, | C3/2 G/2 | F3/2 F/2 |
-D3/2 D/2 | E3/2 E/2 | (E/2G/2) (F/2E/2) | (E3/4D/4C/2) E/2 |(E/2G/2) (F/2E/2) |
+[V:A]
+E G3/4 F/4 | E3/2 D/2 | C B, | C3/2 G/2 | F3/2 F/2 |
+D3/2 D/2 | HE3/2 E/2 | (E/2G/2) (F/2E/2) | (E3/4D/4C/2) E/2 |(E/2G/2) (F/2E/2) |
 (E3/4D/4C/2) z/2 | z3/2 C/2 | C/2 C/2 C/2 C/2 | C3/2 G/2 |
-G/2 G/2 G/2 G/2 |C3/2 C/2 |  (E3/4D/4C/2) D/2 | C B, | C2|]
-w:|||||||||||and heav'n and na-ture sing and heav'n and na-ture sing
-w:|||||||||||re-peat the sound-ing joy, re-peat the sound-ing joy,
-w:|||||||||||and won-ders of his love, and won-ders of his love,
 %
 [V:T]
 G, C3/4 C/4 | C3/2 A,/2 | G,3/2 F,/2 | E,3/2 C/2 | C3/2 C/2 |
-G,3/2 G,/2 | G,3/2 G,/2 | G, C |(C G,/2) G,/2 |G, C |
+G,3/2 G,/2 | HG,3/2 G,/2 | G, C |(C G,/2) G,/2 |G, C |
 (C G,/2) z/2 | z3/2 G,/2 | G,/2 G,/2 G,/2 G,/2 |(G,2 | 
-G,2 | G,3/2) C/2 | C3/2 A,/2 | G, (G,/2F,/2) | E,2|]
+P:B
+[V:S]
+F3/2 (E/4D/4) |(C/2 c) A/2 | (G3/4F/4E/2) F/2 | E D | C2 x/|]
+w:sing, and_ heav'n,_ and heav'n__ and na-ture sing.
+w:joy, re_peat,_ re-peat__ the sound-ing joy.
+w:love, and_ won_ders, won__ders of his love.
+[V:A]
+G/2 G/2 G/2 G/2 |C3/2 C/2 |  (E3/4D/4C/2) D/2 | C B, | C2 x/|]
+w:|||||||||||and heav'n and na-ture sing and heav'n and na-ture sing
+w:|||||||||||re-peat the sound-ing joy, re-peat the sound-ing joy,
+w:|||||||||||and won-ders of his love, and won-ders of his love,
+[V:T]
+G,2 | G,3/2) C/2 | C3/2 A,/2 | G, (G,/2F,/2) | E,2 x/|]
 
 X:2
 T:O Little Town Of Bethlehem
 C:Brooks - Redner
 L:1/4
 M:4/4
-Q:1/4=85
+Q:1/4=95
+P:BABABABAB
 V:S
 V:A clef=treble
 V:T clef=treble_8
@@ -67,54 +75,79 @@ V:T clef=treble_8
 %%score (S A) T
 %
 K:Dmaj
+P:A
 [V:S]
 F | F F ^E F | A G B, E | D (C/2D/2) E A, | F3 F |
 F F B A | A G B, E | D (C/2D/2) F E | D3 F |
 F F E D | C2 C C | B, C D E | F3 F |
-F F ^E F | A G B, B | A D F3/2 E/2 | D3|]
 %
 [V:A]
-A, | A, A, ^G, A, | =C B, G, B, | A, G, G, G, | A,3 A, | A, D ^D D | E B, G, B, | A, A, C C | D3 D | D D C B,| ^A,2 A, A, | B, C D B, | C3 D | A, A, ^G, A, | B, B, G, (B,/2C/2) | D ^G, A,3/2 =G,/2 | F,3|]
+A, | A, A, ^G, A, | =C B, G, B, | A, G, G, G, | A,3 A, |
+A, D ^D D | E B, G, B, | A, A, C C | D3 D |
+D D C B,| ^A,2 A, A, | B, C D B, | C3 D |
 %
-w:1~O lit- tle town of Beth- le hem, how still we see thee lie! A- bove thy deep and dream- less sleep the si- lent stars go by. Yet in thy dark streets shin- eth the e- ver last ing Light; The hopes and fears of all the years are_ met in thee to- night.
-w:2~For Christ is born of Ma_ry And ga-thered all a-bove While mor-tals sleep, the an-gels keep Their watch of won-dering love O morn-ing stars to-ge-ther Pro-claim the ho-ly birth And prai-ses sing to God the King And_ Peace to men on earth
-w:3~How si-lent-ly, how si-lent-ly the won-drous gift is giv'n! So God im-parts to hu-man hearts the bles-sings of His heav'n. No ear may hear His co-ming, but in this world of sin, where meek souls will re-ceive Him still the_ dear Christ en-ters in.
-w:4~O ho-ly Child of Beth-le-hem De-scend to us, we pray Cast out our sin and en-ter in Be born to us to-day We hear the Chris-tmas an-gels The great glad ti-dings tell O come to us, a-bide with us Our_ Lord Em-man-u-el
+w:1~O lit- tle town of Beth- le hem, how still we see thee lie! A- bove thy deep and dream- less sleep the si- lent stars go by. Yet in thy dark streets shin- eth the e- ver last ing Light; The 
+w:2~For Christ is born of Ma_ry And ga-thered all a-bove While mor-tals sleep, the an-gels keep Their watch of won-dering love O morn-ing stars to-ge-ther Pro-claim the ho-ly birth And 
+w:3~How si-lent-ly, how si-lent-ly the won-drous gift is giv'n! So God im-parts to hu-man hearts the bles-sings of His heav'n. No ear may hear His co-ming, but in this world of sin, where
+w:4~O ho-ly Child of Beth-le-hem De-scend to us, we pray Cast out our sin and en-ter in Be born to us to-day We hear the Chris-tmas an-gels The great glad ti-dings tell O 
 %
 [V:T]
-D, | D, D, D, D, | ^D, E, E, G, | F, (E,/2F,/2) G, G, | F,3 D, | D, F, F, B, | B, B, B, G, | F, (^E,/2F,/2) A, G, | F,3 A, | A, F, G, ^G, | ^A,2 A, F, | B,, C, D, B, | ^A,3 =A, | A, F, D, D, | ^D, E, E, G, | F, (E,/2D,/2) D,3/2 C,/2 | D,3|]
+D, | D, D, D, D, | ^D, E, E, G, | F, (E,/2F,/2) G, G, | F,3 D, |
+D, F, F, B, | B, B, B, G, | F, (^E,/2F,/2) A, G, | F,3 A, |
+A, F, G, ^G, | ^A,2 A, F, | B,, C, D, B, | ^A,3 =A, |
+P:B
+[V:S]
+F F ^E F | A G B, B | A D F3/2 E/2 | D3 x/|]
+[V:A]
+A, A, ^G, A, | B, B, G, (B,/2C/2) | D ^G, A,3/2 =G,/2 | F,3 x/|]
+w: hopes and fears of all the years are_ met in thee to- night.
+w: prai-ses sing to God the King And_ Peace to men on earth
+w: meek souls will re-ceive Him still the_ dear Christ en-ters in.
+w: come to us, a-bide with us Our_ Lord Em-man-u-el
+[V:T]
+A, F, D, D, | ^D, E, E, G, | F, (E,/2D,/2) D,3/2 C,/2 | D,3 x/|]
 
 X:3
 T:God Rest Ye Merry, Gentlemen
 C:English Traditional
 L:1/4
 M:4/4
-Q:1/4=120
+Q:1/4=130
+P:BABABABAB
 V:S
 V:A
 V:T clef=treble_8
 %%MIDI program 3 57 #Trombone
 %%score (S A) T
 K:Cminor
+P:A
 [V:S]
 C | C G G F | E D C B, | C D E F | G3 C |
 C G G F | E D C B, | C D E F | G2z G |
 A F G A | B c G F | E C D E | F2 "^Chorus" (E F) |
-G2 A G | (G F) E D | C2 E/2 D/2 C | F2 (E F) | (G A) B c | (G F) E D | C3|]
 %
-[V:A] C | C E D =B, | C _B, A, G, | C =B, C C | =B,3 C |C E D =B, | C =B, A, G, | C =B, C C | =B,2z C | C B, B, E | _D C B, =B, | C =A, B, E | D2 (E B,) | B,2 C B, | (E D) C =B, | C2 G,/2 G,/2 =A, | B,2 (C D) | E2 E E | (E D) C =B, | C3|]
+[V:A] C | C E D =B, | C _B, A, G, | C =B, C C | =B,3 C |
+C E D =B, | C =B, A, G, | C =B, C C | =B,2z C |
+C B, B, E | _D C B, =B, | C =A, B, E | D2 (E B,) |
 %
-w:1~God rest you mer- ry, gen- tle men, Let noth- ing you dis- may. For Je- sus Christ our Sa_viour, Was born on Christ- mas Day; To save us all from Sa- tan's power When we were gone a- stray, O_ tid- ings of com-_ fort and joy, com- fort and joy, O_ tid-ings of com-_ fort and joy.
-w:2~From God our Hea-venly Fa_ther A bles-sed An-gel came And un-to cer-tain Shep_herds Brought ti-dings of the same How that in Beth-le-hem was born The Son of God by Name ************************
-w:3~"Fear not then", said the An_gel "Let no-thing you af-fright This day is born a Sa_viour Of a pure Vir-gin bright To free all those who trust in Him From Sa-tan's power and might" ************************
-w:4~Now to the Lord sing prai_ses All you with-in this place And with true love and bro-ther-hood Each oth-er now em-brace This ho-ly tide of Christ_mas All oth-er doth de-face ************************
+w:1~God rest you mer- ry, gen- tle men, Let noth- ing you dis- may. For Je- sus Christ our Sa_viour, Was born on Christ- mas Day; To save us all from Sa- tan's power When we were gone a- stray, O_
+w:2~From God our Hea-venly Fa_ther A bles-sed An-gel came And un-to cer-tain Shep_herds Brought ti-dings of the same How that in Beth-le-hem was born The Son of God by Name
+w:3~"Fear not then", said the An_gel "Let no-thing you af-fright This day is born a Sa_viour Of a pure Vir-gin bright To free all those who trust in Him From Sa-tan's power and might"
+w:4~Now to the Lord sing prai_ses All you with-in this place And with true love and bro-ther-hood Each oth-er now em-brace This ho-ly tide of Christ_mas All oth-er doth de-face
 %
 [V:T]
 C, | E, C, D, G, | G, G, E, E, | E, G, G, C, | D,3 C, |
 E, C, D, G, | G, G, E, E, | E, G, G, C, | D,2z =E, |
 F, F, E, E, | E, E, E, D, | E, E, F, B, | (B, A,) (G, F,) |
+P:B
+[V:S]
+G2 A G | (G F) E D | C2 E/2 D/2 C | F2 (E F) | (G A) B c | (G F) E D | C3 x/|]
+[V:A]
+B,2 C B, | (E D) C =B, | C2 G,/2 G,/2 =A, | B,2 (C D) | E2 E E | (E D) C =B, | C3 x/|]
+w:tid- ings of com-_ fort and joy, com- fort and joy, O_ tid-ings of com-_ fort and joy.
+[V:T]
 E,2 E, E, | (B, A,) G, G, | E,2 E,/2 E,/2 E, | (D, F,) (B, A,) |
-(G, E,) B, A, | (B, A,) G, G, | E,3 |]
+(G, E,) B, A, | (B, A,) G, G, | E,3 x/ |]
 
 X: 4
 T: O Come, O Come, Emmanuel
@@ -122,7 +155,8 @@ T: Veni, Veni, Emmanuel
 C: Plainsong, 13th century
 L: 1/4
 M: 4/4
-Q:1/4=80
+Q:1/4=112
+P:BABABAB
 %%staffsep  20pt
 V: S
 V: A
@@ -130,21 +164,36 @@ V: T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K: G
+P:A
 [V: S] E | G B B B | (A c B) A | G3
 A | B G E G | (A F E) D | E3
 A |A E E F | (G2 F) E | D3
 G | A B B B | (A c B) A | G3
-d | d3 B | B3 B | (A c B) A | G3 A | B G E G | (A F E) D | E3|]
 %
-[V: A]  E | E B, D G | G3 F | D3 D | D D C D | (E C B,) B, | B,3 (E/D/) | C A, E ^D | (E =D D) ^C | D3 B, | D D D G | G3 F | G3
+[V: A]  E | E B, D G | G3 F | D3
+D | D D C D | (E C B,) B, | B,3
+(E/D/) | C A, E ^D | (E =D D) ^C | D3
+B, | D D D G | G3 F | G3
 %
 w: O come, O come, Em-man-u-el, And ran-som cap-tive Is__ ra-el, That_ mourns in lone-ly e__xile here Un-til the Son of God ap-pear.
 w:O come, Thou Day-Spring, come and cheer Our spi-rits by Thine ad__vent here Dis_perse the gloom-y clouds__ of night And death's dark sha-dows put to flight.
 w:O come, Thou Key of Da-vid, come And o-pen wide our heaven__ly home Make_ safe the way that leads__ on high And close the path to mi-se-ry
- G | F3 G | F3 G | G3 F | G3 F | G D C D | (E C B,) B, | B,3|]
+%
+[V: T]
+G, | B, F, G, D | (E2 D) C | B,3
+F, | G, G, G, B, | (A,2 G,) F, | G,3
+A, | A, C B, A, | (G,2 A,) G, | F,3
+G, | F, F, G, D | (E2 D) C | B,3
+P:B
+[V: S]
+d | d3 B | B3 B | (A c B) A | G3 A | B G E G | (A F E) D | E3 x/|]
+%
+[V: A]
+G | F3 G | F3 G | G3 F | G3 F | G D C D | (E C B,) B, | B,3 x/|]
 w:Re-joice! Re-joice! Em-man-u el Shall come to thee, O Is-__ ra el.
 %
-[V: T]  G, | B, F, G, D | (E2 D) C | B,3 F, | G, G, G, B, | (A,2 G,) F, | G,3 A, | A, C B, A, | (G,2 A,) G, | F,3 G, | F, F, G, D | (E2 D) C | B,3 B, | A,3 E | D3 D | (E2 D) C | B,3 D | D G, G, B, | (A,2 G,) F, | G,3|]
+[V: T]
+B, | A,3 E | D3 D | (E2 D) C | B,3 D | D G, G, B, | (A,2 G,) F, | G,3 x/|]
 
 X:5
 T:Good Christian Men, Rejoice
@@ -152,25 +201,46 @@ T:In Dulci Jubilo
 C:14th Century, Harm. by de Pearsall
 L:1/8
 M:6/8
-Q:1/8=200
+Q:1/8=220
+P:BABABAB
 V:S
 V:A
 V:T clef=treble_8 
 %%MIDI program 3 57
 %%score (S A) T
 K:Dmaj
-[V:S] D | D2 D F2 G | (A2 B A2) A | D2 D F2 G |
+P:A
+[V:S]
+D | D2 D F2 G | (A2 B A2) A | D2 D F2 G |
 (A2 B A3) | A2 B A2 G | F2 E D3 | E2 E F2 E |
 D2 E F2 z | A2 B A2 G | F2 E D2 D | E2 E F2 E |
+%
+[V:A]
+A, | B,2 A, (D3/2 C/2) B, | (A,2 D C2) D | B,2 A, (D3/2 C/2) B, |
+(A,2 D C3) | D2 D C2 E | D2 C D3 | D2 D D2 C |
+D2 D D2 z | D2 D C2 E | D2 C D2 D | D2 D D2 C |
+%
+w:1~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ give ye heed to what we say: Je-sus Christ was born to-day. Ox and ass be-fore him bow, and he is in the 
+w:2~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye hear of end-less bliss: Je-sus Christ was born for this! He has o-pened hea-ven's door, and we are blest for-
+w:3~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye need not fear the grave: Je-sus Christ was born to save! Calls you one and calls you all to gain his e-ver-
+%
+[V:T]
+F, | G,2 F, A,2 B, | (F,2 G, E,2) F, | G,2 F, A,2 B, |
+(F,2 G, E,3) | A,2 G, F,2 C, | D,2 E, F,3 | B,2 B, (A,3/2 B,/2) G, |
+F,2 G, A,2 z | A,2 G, E,2 C, | D,2 E, F,2 A, | B,2 B, (A,3/2 B,/2) G, |
+P:B
+[V:S]
 D2 E F3 | B,2 B, C2 C | (D3 A3) | F2 F E2 E | D3 z2|]
 %
-[V:A] A, | B,2 A, (D3/2 C/2) B, | (A,2 D C2) D | B,2 A, (D3/2 C/2) B, | (A,2 D C3) | D2 D C2 E | D2 C D3 | D2 D D2 C | D2 D D2 z | D2 D C2 E | D2 C D2 D | D2 D D2 C | D2 D D3 | B,2 B, B,2 ^A, | (B,3 C3) | D2 D D2 C | A,3 z2|]
+[V:A]
+D2 D D3 | B,2 B, B,2 ^A, | (B,3 C3) | D2 D D2 C | A,3 z2|]
 %
-w:1~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ give ye heed to what we say: Je-sus Christ was born to-day. Ox and ass be-fore him bow, and he is in the man-ger now. Christ is born to-day!_ Christ is born to-day!
-w:2~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye hear of end-less bliss: Je-sus Christ was born for this! He has o-pened hea-ven's door, and we are blest for-e-ver-more. Christ was born for this!_ Christ was born for this!
-w:3~Good Chris-tian friends,_ re-joice__ with heart and soul_ and voice;__ now ye need not fear the grave: Je-sus Christ was born to save! Calls you one and calls you all to gain his e-ver-last-ing hall. Christ was born to save!_ Christ was born to save!
+w: man-ger now. Christ is born to-day!_ Christ is born to-day!
+w: e-ver-more. Christ was born for this!_ Christ was born for this!
+w: last-ing hall. Christ was born to save!_ Christ was born to save!
 %
-[V:T] F, | G,2 F, A,2 B, | (F,2 G, E,2) F, | G,2 F, A,2 B, | (F,2 G, E,3) | A,2 G, F,2 C, | D,2 E, F,3 | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,2 z | A,2 G, E,2 C, | D,2 E, F,2 A, | B,2 B, (A,3/2 B,/2) G, | F,2 G, A,3 | F,2 F, E,2 E, | (F,2 G, E,3) | D,2 G, B,2 A, | F,3 z2|]
+[V:T]
+F,2 G, A,3 | F,2 F, E,2 E, | (F,2 G, E,3) | D,2 G, B,2 A, | F,3 z2|]
 
 X:6
 T:Silent Night, Holy Night
@@ -178,24 +248,38 @@ C:F. Gruber
 L:1/4
 M:6/8
 Q:1/4=55
+P:BABABAB
 V:S clef=treble
 V:A
 V:T clef=treble_8 
 %%MIDI program 3 57
 %%score (S A) T
 K:Gmaj
+P:A
 [V:S]
 (D3/4E/4) D/2 B,3/2 | (D3/4E/4) D/2 B,3/2 | A (A3/8F/8) F3/2 | G (G3/8D/8) D3/2 |
 E E/2 (G3/4F/4) E/2 | D3/4E/4 D/2 B,3/2 | E E/2 G3/4 F/4 E/2 | D3/4E/4 D/2 B,3/2 |
+%
+[V:A]
+(B,3/4C/4) B,/2 G,3/2 | (B,3/4C/4) B,/2 G,3/2 | C C/2 C3/2 | B, B,/2 B,3/2 |
+C C/2 (E3/4D/4) C/2 | B,3/4C/4 B,/2 G,3/2 | G, C/2 E3/4 D/4 C/2 |B,3/4C/4 B,/2 G,3/2 |
+w:1~Si_lent night! Ho_ly night! All is calm, all is bright. Round yon Vir_gin Mo-ther and Child. Ho-ly In-fant, so ten-der and mild.
+w:2~Si_lent night, Ho_ly night! Shep-herds quake at the sight Glo-ries stream_ from hea-ven a-far Heaven-ly hosts_ sing 'Al-le-lu-ia! 
+w:3~Si_lent night, Ho_ly night! Son of God, love's pure light Ra-diant beams_ from Thy ho-ly face With the dawn of re-deem_ing grace 
+[V:T]
+G, G,/2 D,3/2 | G, G,/2 D,3/2 | F, F,/2 D,3/2 | D, D,/2 G,3/2 |
+G, G,/2 E, G,/2 | G, G,/2 D,3/2 | G, G,/2 E,3/4 F,/4 G,/2 |G, G,/2 D,3/2 |
+P:B
+[V:S]
 A A/2 c3/4 A/4 F/2 | (G3/2 B3/2) | (G/2D/2) B,/2 D3/4 C/4 A,/2 | G,3/2-G,3/2|]
 %
 [V:A]
-(B,3/4C/4) B,/2 G,3/2 | (B,3/4C/4) B,/2 G,3/2 | C C/2 C3/2 | B, B,/2 B,3/2 | C C/2 (E3/4D/4) C/2 | B,3/4C/4 B,/2 G,3/2 | G, C/2 E3/4 D/4 C/2 | B,3/4C/4 B,/2 G,3/2 | C C/2 A,3/4 C/4 D/2 | (B,3/2 D3/2) | B, G,/2 F,3/4 A,/4 C/2 | B,3/2-B,3/2|]
-w:1~Si_lent night! Ho_ly night! All is calm, all is bright. Round yon Vir_gin Mo-ther and Child. Ho-ly In-fant, so ten-der and mild. Sleep in heav-en-ly peace,_ Sleep in heav-en-ly peace._
-w:2~Si_lent night, Ho_ly night! Shep-herds quake at the sight Glo-ries stream_ from hea-ven a-far Heaven-ly hosts_ sing 'Al-le-lu-ia! Christ the Sa-vior is born_ Christ the Sa-vior is born_
-w:3~Si_lent night, Ho_ly night! Son of God, love's pure light Ra-diant beams_ from Thy ho-ly face With the dawn of re-deem_ing grace Je-sus Lord, at Thy birth_ Je-sus Lord, at Thy birth_
+C C/2 A,3/4 C/4 D/2 | (B,3/2 D3/2) | B, G,/2 F,3/4 A,/4 C/2 | B,3/2-B,3/2|]
+w: Sleep in heav-en-ly peace,_ Sleep in heav-en-ly peace._
+w: Christ the Sa-vior is born_ Christ the Sa-vior is born_
+w: Je-sus Lord, at Thy birth_ Je-sus Lord, at Thy birth_
 [V:T]
-G, G,/2 D,3/2 | G, G,/2 D,3/2 | F, F,/2 D,3/2 | D, D,/2 G,3/2 | G, G,/2 E, G,/2 | G, G,/2 D,3/2 | G, G,/2 E,3/4 F,/4 G,/2 | G, G,/2 D,3/2 | F, F,/2 F,3/4 F,/4 D,/2 | (D,3/2 G,3/2) | G, D,/2 D,3/4 D,/4 C,/2 | B,,3/2-B,,3/2|]
+F, F,/2 F,3/4 F,/4 D,/2 | (D,3/2 G,3/2) | G, D,/2 D,3/4 D,/4 C,/2 | B,,3/2-B,,3/2|]
 
 X:7
 T:The First Nowell
@@ -203,57 +287,89 @@ C:Old English Carol
 L:1/4
 M:3/4
 Q:1/4=100
+P:BABABABAB
 V:S
 V:A
 V:T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Cmaj
-[V:S] (E/2D/2) | (C3/2 D/2) (E/2F/2) | G2 (A/2B/2) | c B A | G2 A/2 B/2 | c B A |
+P:A
+[V:S]
+(E/2D/2) | (C3/2 D/2) (E/2F/2) | G2 (A/2B/2) | c B A | G2 A/2 B/2 | c B A |
 G A B | c G F | E2 (E/2D/2) | (C3/2 D/2) (E/2F/2) | G2 (A/2B/2) | c B A |
 G2 A/2 B/2 | c B A | (G A) B |(c G) F | E2 "^Chorus" (E/2D/2) |
- (C3/2 D/2) (E/2F/2) |G2 (c/2B/2) | A2 A | (G2 G) | c B A | (G A) B | (c G) F | E3|]
 %
-[V:A] C | G,2 C | D2 D | G G F | E2 C/2 D/2 | G E F | G C F | E E D | C2 B, | G,2 C | D2 D | G G F | E2 C/2 D/2 | G E F | (G F) F | E2 D | C2 
+[V:A]
+C | G,2 C | D2 D | G G F | E2 C/2 D/2 | G E F |
+G C F | E E D | C2 B, | G,2 C | D2 D | G G F |
+E2 C/2 D/2 | G E F | (G F) F | E2 D | C2 B, |
 %
-w:1~The first Now-ell the an-gel did say Was to cer-tain poor shep-herds in fields as they lay. In fields where they lay kee-ping their sheep, In a cold win-ter’s night_ that was so deep.
+w:1~The first Now-ell the an-gel did say Was to cer-tain poor shep-herds in fields as they lay. In fields where they lay kee-ping their sheep, In a cold win-ter’s night_ that was so deep. Now-
 w:2~They look-ed up and saw_ a star Shin-ing in_ the east_ be-yond_ them far And to the earth it gave_ great light And_ so it con-tin-ued both day and night
 w:3~And by the light of that_ same star Three_ Wise_ men came from a coun-try a-far To seek for~a King was their_ in-tent And to fol-low the star_ where-ever it went
 w:4~Then en-tered in those Wise_ men three Full_ re_v'rent-ly_ u-pon_ their knee And of-fered there in His_ pre-sence Their_ gold_ and myrrh_ and frank-in-cense
-B, | G,2 C | B,2 E | F2 F | (E2 G) | E E F | E2 F | E2 D | C3|]
-w: Now-ell, now-ell, now-ell, now-ell._ Born is the King of Is-ra-el.
 %
-[V:T] (G,/2F,/2) | E,2 C | B,2 A, | G, G, (A,/2B,/2) | C2 A,/2 G,/2 | G, G, B, | C A, F, | G, C G, | G,2 (G,/2F,/2) | E,2 C | (C B,) A, | G, G, (A,/2B,/2) | C2 A,/2 G,/2 | G, G, B, | C2 D | G, C G, | G,2 (G,/2F,/2) | E,2 A, | G,2 G, | (A,3/2 B,/2) (C/2D/2) | (E2 D) | C C C | C2 F, | G,2 G, | G,3|]
+[V:T]
+(G,/2F,/2) | E,2 C | B,2 A, | G, G, (A,/2B,/2) | C2 A,/2 G,/2 | G, G, B, |
+C A, F, | G, C G, | G,2 (G,/2F,/2) | E,2 C | (C B,) A, | G, G, (A,/2B,/2) |
+C2 A,/2 G,/2 | G, G, B, | C2 D | G, C G, | G,2 (G,/2F,/2) |
+P:B
+[V:S]
+ (C3/2 D/2) (E/2F/2) |G2 (c/2B/2) | A2 A | (G2 G) | c B A | (G A) B | (c G) F | E3|]
+%
+[V:A]
+ G,2 C | B,2 E | F2 F | (E2 G) | E E F | E2 F | E2 D | C3|]
+w: ell, now-ell, now-ell, now-ell._ Born is the King of Is-ra-el.
+%
+[V:T]
+E,2 A, | G,2 G, | (A,3/2 B,/2) (C/2D/2) | (E2 D) | C C C | C2 F, | G,2 G, | G,3|]
 
 X: 8
 T: Away In A Manger
 C:James R Murray, 1887
 L: 1/4
 M: 3/4
-Q:1/4=90
+Q:1/4=95
+P:BABABAB
 V: S
 V: A
 V: T clef=treble_8
 %%MIDI program 3 57
 %%score (S A) T
 K: F
+P:A
 [V: S]
 c| c3/2 B/2 A| A G F| F E D| C2 C|
 C3/2 D/2 C| C G E| D C F| A2 c|
 c3/2 B/2 A|(A G) F| F E D| C2 C|
-B3/2 A/2 G| A G F| G D E| F2||
 %
 [V: A]
-A| A3/2 G/2 F| F E C| D C B,| C2 C| C3/2 B,/2 C| B, B, B,| B, A, C|\
-F2 F| F3/2 F/2 F|(F E) C| D C B,| C2 C| D3/2 D/2 E| C C C| E B, B,| A,2 ||
+A| A3/2 G/2 F| F E C| D C B,| C2 C|
+C3/2 B,/2 C| B, B, B,| B, A, C|
+F2 F| F3/2 F/2 F|(F E) C| D C B,| C2 C|
 %
-w: A-way in a man-ger, no crib for His bed, The lit-tle Lord Je-sus lay down His sweet head; The stars in the sky_ looked down where He lay, The lit-tle Lord Je-sus, a-sleep in the hay.
-w:2~The cat-tle are low-ing, the Ba-by a-wakes, But Lit-tle Lord Je-sus, no cry-ing He makes. I love Thee, Lord Je-sus; look down from the sky and stay by my cra-dle till morn-ing is nigh.
-w:3~Be near me, Lord Je-sus; I ask Thee to stay close by me for-ev-er and love me I pray. Bless all the dear chil-dren in Thy ten-der care, and take us to heav-en to live with Thee there.
+w:1~A-way in a man-ger, no crib for His bed, The lit-tle Lord Je-sus lay down His sweet head; The stars in the sky_ looked down where He lay, The 
+w:2~The cat-tle are low-ing, the Ba-by a-wakes, But Lit-tle Lord Je-sus, no cry-ing He makes. I love Thee, Lord Je-sus; look down from the sky and
+w:3~Be near me, Lord Je-sus; I ask Thee to stay close by me for-ev-er and love me I pray. Bless all the dear chil-dren in Thy ten-der care, and
 %
 [V: T]
-C| C3/2 C/2 C| C C F,| F, F, F,| F,2 F,| G,3/2 G,/2 G,| G, G, G,| F, F, A,|\
-C2 A,| A,3/2 D/2 C| C2 F,| F, F, F,| F,2 F,| G,3/2 G,/2 G,| F, B, A,|G, G, G,| F,2||
+C| C3/2 C/2 C| C C F,| F, F, F,| F,2 F,|
+G,3/2 G,/2 G,| G, G, G,| F, F, A,|
+C2 A,| A,3/2 D/2 C| C2 F,| F, F, F,| F,2 F,|
+P:B
+[V: S]
+B3/2 A/2 G| A G F| G D E| F2 x/||
+%
+[V: A]
+D3/2 D/2 E| C C C| E B, B,| A,2 x/||
+%
+w: lit-tle Lord Je-sus, a-sleep in the hay.
+w: stay by my cra-dle till morn-ing is nigh.
+w: take us to heav-en to live with Thee there.
+%
+[V: T]
+G,3/2 G,/2 G,| F, B, A,|G, G, G,| F,2 x/||
 
 X:9
 T:Deck The Halls
@@ -261,31 +377,50 @@ C:Old Welsh Air
 L:1/4
 M:4/4
 Q:1/4=160
+P:BABABAB
 V:S
 V:A
 V:T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Cmaj
+P:A
 [V:S]
 G3/2 F/2 E D | C D E C | D/2E/2 F/2D/2 E3/2 D/2 | C B, C2 |
 G3/2 F/2 E D | C D E C | D/2E/2 F/2D/2 E3/2 D/2 | C B, C2 |
 D3/2 E/2 F D | E3/2 F/2 G D | E/2^F/2 G A/2B/2 c | B A G2 |
-G3/2 F/2 E D | C D E C | A/2A/2 A/2A/2 G3/2 F/2 | E D C2 |]
 %
-[V:A] E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 | E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 | B,3/2 C/2 D B, | C3/2 C/2 C D | C D E E | D C B,2 | E3/2 D/2 C B, | A, B, C G, | C/2 C/2 C/2 C/2 C3/2 A,/2 | G, B, G,2 |]
+[V:A]
+E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 |
+E3/2 D/2 C B, | A, B, C G, | B,/2C/2 D/2B,/2 C3/2 B,/2 | G, G, G,2 |
+B,3/2 C/2 D B, | C3/2 C/2 C D | C D E E | D C B,2 |
 %
-w:1~Deck the halls with boughs of hol-ly Fa-la-la-la-la, la-la-la-la 'Tis the sea-son to be jol-ly Fa-la-la-la-la, la-la-la-la Don we now our gay ap-par-el Fa-la-la-la-la-la-la Troll the an-cient Yule-tide car-ol Fa-la-la-la-la, la-la-la-la
+w:1~Deck the halls with boughs of hol-ly ||| 'Tis the sea-son to be jol-ly ||| Don we now our gay ap-par-el |||
 %
-w:2~See the bla-zing Yule be-fore us Fa-la-la-la-la, la-la-la-la Strike the harp and join the chor-us Fa-la-la-la-la, la-la-la-la Fol-low me in mer-ry mea-sure Fa-la-la-la-la-la-la, While I tell of Yule-tide trea-sure Fa-la-la-la-la, la-la-la-la
+w:2~See the bla-zing Yule be-fore us Fa-la-la-la-la, la-la-la-la Strike the harp and join the chor-us Fa-la-la-la-la, la-la-la-la Fol-low me in mer-ry mea-sure Fa-la-la-la-la-la-la,
 %
-w:3~Fast a-way the old year pas-ses Fa-la-la-la-la, la-la-la-la Hail the new year, lads and las-ses Fa-la-la-la-la, la-la-la-la Sing we joy-ous, all to-ge-ther Fa-la-la-la-la-la-la Heed-less of the wind and wea-ther Fa-la-la-la-la, la-la-la-la
+w:3~Fast a-way the old year pas-ses ||| Hail the new year, lads and las-ses ||| Sing we joy-ous, all to-ge-ther |||
 %
 [V:T]
 G,3/2 G,/2 G, F, | E, G, G, E, | G,/2 G,/2 G,/2 G,/2 G,3/2 F,/2 | E, D, E,2 |
 G,3/2 G,/2 G, F, | E, G, G, E, | G,/2 G,/2 G,/2 G,/2 G,3/2 F,/2 | E, D, E,2 |
 G,3/2 G,/2 G, G, | G,3/2 D,/2 E, G, | G, G, G, G, | G, ^F, G,2 |
-G,3/2 G,/2 G, F, | E, G, G, E, | F,/2 F,/2 F,/2 F,/2 E,3/2 D,/2 | C, D, E,2 |]
+%
+P:B
+[V:S]
+G3/2 F/2 E D | C D E C | A/2A/2 A/2A/2 G3/2 F/2 | E D C2 x/|]
+%
+[V:A]
+E3/2 D/2 C B, | A, B, C G, | C/2 C/2 C/2 C/2 C3/2 A,/2 | G, B, G,2 x/|]
+%
+w: Troll the an-cient Yule-tide car-ol
+%
+w: While I tell of Yule-tide trea-sure Fa-la-la-la-la, la-la-la-la
+%
+w: Heed-less of the wind and wea-ther
+%
+[V:T]
+G,3/2 G,/2 G, F, | E, G, G, E, | F,/2 F,/2 F,/2 F,/2 E,3/2 D,/2 | C, D, E,2 x/|]
 
 
 X:10
@@ -295,6 +430,7 @@ C:16th century English
 M:6/8
 L:1/8
 Q:1/4=88
+P:BABABAB
 %%staffsep  20pt
 V:S
 V:A
@@ -302,25 +438,32 @@ V:T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Dmin
+P:A
 [V:S]
 D | F2 G A>B A | G2 E C>D E |
 F2 D D>^C D | E3 A,2 D | F2 G A>B A |
 G2 E C>D E | F>E D ^C>=B, C | D3 D3 | c3 c>=B A |
 G2 E C>D E | F2 D D>^C D | E2 ^C A,3 |
-c3 c>=B A | G2 E C>D E | F>E D ^C>=B, C | D3 D2 |]
 [V:A]
 D | D2 C C2 F | E2 C C2 C | A,2 A, G,2 D | ^C3 A,2 D | D2 C C2 F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,3 |
 w:1~What Child is this, who, laid to rest, On Ma-ry's lap is sleep-ing? Whom an-gels greet with an-thems sweet, While shep-herds watch are keep-ing?
 w:2~Why lies he in such mean es-tate Where ox and ass are feed-ing? Good Chris-tian, fear; for sin-ners here The si-lent Word is plead-ing.
 w:3~So bring Him in-cense, gold and myrrh, Come, peas-ant king, to own Him; The King of kings sal-va-tion brings, Let lov-ing hearts en-throne Him.
- E3 A>G F | E2 C C2 C | A,2 A, G,2 D | ^C2 A, A,3 | E3 A>G F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,2 |]
-w: This, this* is Christ the King, Whom shep-herds guard and an-gels sing Haste, haste* to bring Him laud, The Babe, the Son of Ma-ry.
+ E3 A>G F | E2 C C2 C | A,2 A, G,2 D | ^C2 A, A,3 | 
+w: This, this* is Christ the King, Whom shep-herds guard and an-gels sing 
 [V:T]
 F, | A,2 G, F,2 A, | C2 G, E,2 G, |
 F,2 F, D,2 D, | A,3 A,2 F, | A,2 G, F,2 A, |
 C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,3 | C3 C2 C |
 C2 G, E,2 G, | F,2 F, D,2 D, | A,2 A, A,3 |
-C3 C2 C | C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,2 |]
+P:B
+[V:S]
+c3 c>=B A | G2 E C>D E | F>E D ^C>=B, C | D3 D2 x/|]
+[V:A]
+ E3 A>G F | E2 C C2 C | A,2 B, A,2 A, | A,3 A,2 x/|]
+w: Haste, haste* to bring Him laud, The Babe, the Son of Ma-ry.
+[V:T]
+C3 C2 C | C2 G, E,2 G, | F,2 G, E,2 A, | G,3 F,2 x/|]
 
 X:11
 T:The Wassail Song
@@ -328,17 +471,19 @@ C:English Traditional
 L:1/4
 M:6/8
 Q:1/4=120
+P:BABABABAB
 V:S
 V:A
 V:T clef=treble_8 
 %%MIDI program 3 57
 %%score (S A) T
 K:Cmaj
+P:A
+[M:6/8][Q:1/8=240]
 [V:S] C/2| C D/2 E D/2 | C D/2 E D/2 | C G/2 G G/2 |
 G3/2-G G/2 | A A/2 G E/2 | G3/2 F E/2 | (D C/2) D E/2 | F3/2 ||
-"^Chorus" [M:4/4] E F | G2 c A | G2 E F | G G c A |
+"^Chorus" [M:4/4][Q:1/4=160] E F | G2 c A | G2 E F | G G c A |
 G2 E F | G2 A E | (F D) C B, | (C3/2 D/2) E C |
-F2 E F | G2 A E | F D (C B,) | C2|]
 %
 [V:A] C/2| C C/2 B, B,/2 | C C/2 B, B,/2 | C C/2 F E/2 | D3/2-D D/2 | F C/2 C C/2 | D3/2 D C/2 | A, C/2 B, C/2 | G,3/2 ||
 %
@@ -350,14 +495,19 @@ w:3~Good mas-ter and good mis_tress, As you sit by the fire,_ Pray think of us p
 %
 w:4~God bless the mas-ter of this house Like-wise the mis-tress too,_ And all the lit-tle child-ren That round the ta-ble go.
 %
-[M:4/4] C B, | C2 C D | E2 C B, | C B, E C | B,2 E D | D2 ^C C | (D A,) G, G, | (G,3/2 B,/2) C C | (A, B,) C C | D2 A, A, | A, A, G,2 | G,2|]
-w: Love and joy come to you, And to you your was-sail, too, And God bless you and send_ you a hap-_py New Year._ And God send you a hap-py New Year.
+[M:4/4][Q:1/4=160] C B, | C2 C D | E2 C B, | C B, E C | B,2 E D | D2 ^C C | (D A,) G, G, | (G,3/2 B,/2) C C |
+w: Love and joy come to you, And to you your was-sail, too, And God bless you and send_ you a hap-_py New
 %
 [V:T] E,/2 | E, F,/2 G, F,/2 | E, F,/2 G, F,/2 | E, G,/2 B, C/2 |
 B,3/2-B, B,/2 | C F,/2 G, G,/2 | A,3/2 G, G,/2 | A, G,/2 F, E,/2 | D,3/2 ||
-[M:4/4] G, G, | G,2 A, B, | C2 G, G, | G, G, G, ^F, |
+[M:4/4][Q:1/4=160] G, G, | G,2 A, B, | C2 G, G, | G, G, G, ^F, |
 G,2 G, A, | G,2 G, G, | F,2 E, D, | (E,3/2 F,/2) G, A, |
-F,2 G, A, |G,2 E, G, |F, F, (E, D,) | E,2|]
+P:B
+[M:4/4][Q:1/4=160]
+[V:S] F2 E F | G2 A E | F D (C B,) | C2 x/|]
+[V:A] (A, B,) C C | D2 A, A, | A, A, G,2 | G,2 x/|]
+w: Year._ And God send you a hap-py New Year.
+[V:T] F,2 G, A, |G,2 E, G, |F, F, (E, D,) | E,2 x/|]
 
 X:18
 %%scale 0.67
@@ -368,19 +518,19 @@ C:James Pierpont
 M:4/4
 L:1/8
 Q:1/4=100
+P:BABABAB
 V:S
 V:A
 V:T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Fmaj
+[P:A]
 [V:S]
 C |C A G F C3 C/2 C/2|C A G F D2 z D|
 D B A G E2 z E|c c B G A3 C|
 C A G F C2 z C|C A G F D2 z D|
 D B A G c c c c|d c B G F2 c2 |
-|:"^Chorus"A A A2 A A A2|A c F3/2 G/2 A4|B B B3/2 B/2 B A A
- [1 A/2 A/2| A G G A G2 c2:| [2 A/2 A/2| c c B G F3 z|]
 [V:A]
 C |C C C C C3 C/2 C/2|C C C C B,2 z B,|B, D D D C2 z E|E E E E F3 C|C C C C C2 z C|C C C C B,2 z B,|B, D D D E E E E|E E E E F2 E2 |
 %
@@ -390,11 +540,17 @@ w:2~A day or two a-go I_ thought I'd take a ride; and soon Miss Fan-ny Bright, w
 %
 w:3 Now the ground is white, ** go it while you're young, * take the girls to-night, and sing a sleigh-ing song. Just get a bob-tail nag, two for-ty for his speed then hitch him to an op-en sleigh and crack, you'll take the lead! Oh!
 %
+[V:T]
+A, |A, A, B, A, A,3 A,/2 A,/2|A, A, B, A, B,2 z F,|F, F, F, B, B,2 z B,|B, A, G, C C3 A,|A, A, B, A, A,2 z A,|A, A, B, A, B,2 z F,|F, F, F, B, B, B, G, G,|B, A, G, B, A,2 C2 |
+[P:B]
+[V:S]
+|:"^Chorus"A A A2 A A A2|A c F3/2 G/2 A4|B B B3/2 B/2 B A A
+ [1 A/2 A/2| A G G A G2 c2:| [2 A/2 A/2| c c B G F3 z|]
+[V:A]
 |:F F F2 F F F2|F F C3/2 C/2 F4|D D D3/2 D/2 D C C [1 F/2 F/2| F F F F E2 E2:| [2 F/2 F/2| E E E E F3 z |]
 w:Jin-gle bells, jin-gle bells, jin-gle all the way; oh what fun it is to ride in a one-horse o-pen sleigh. Hey, in a one horse o-pen sleigh!
 %
 [V:T]
-A, |A, A, B, A, A,3 A,/2 A,/2|A, A, B, A, B,2 z F,|F, F, F, B, B,2 z B,|B, A, G, C C3 A,|A, A, B, A, A,2 z A,|A, A, B, A, B,2 z F,|F, F, F, B, B, B, G, G,|B, A, G, B, A,2 C2 |
 |:C C C2 C C C2|C A, A,3/2 B,/2 A,4|F, F, F,3/2 F,/2 F, F, F,  [1 C/2 C/2|=B, B, B, B, C2 _B,2:|  [2 C/2 C/2| C C G,B, A,3 z |]
 
 X:20
@@ -404,28 +560,41 @@ A:Edmund Sears
 L:1/4
 M:6/8
 Q: 1/4=80
+P:BABABAB
 V:S
 V:A
 V:T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Gmaj
+P:A
 [V:S]
 D/2 | B A/2 (A/2G/2) E/2 | D E/2 D D/2 | (E/2F/2) G/2 (G/2A/2) B/2 | A3/2-A D/2 |
 B F/2 (A/2G/2) E/2 | D E/2 D D/2 | E E/2 (F/2E/2) D/2 | G3/2-G B/2 |
 B B,/2 (B,/2^C/2) ^D/2 | E F/2 G B/2 | (A/2G/2) F/2 (E/2F/2) E/2 | D3/2-D D/2 |
+%
+[V:A]
+B,/2 | B, B,/2 C C/2 | B, C/2 B, B,/2 | C C/2 ^C C/2 | D3/2-D D/2 | B, B,/2 C C/2 | B, C/2 B, D/2 | C C/2 C C/2 | B,3/2-B, B,/2 | B, B,/2 (B,/2^C/2) B,/2 | B, B,/2 B, B,/2 | D D/2 ^C C/2 | D3/2-D C/2 |
+%
+w:1~It came up-on the mid-night clear, That glor-ious song of old,_ From an-gels bend-ing near the earth, To touch their harps of gold:_ "Peace on the earth,_ good-will to men, From heaven's all-gra-cious King."_ The
+%
+w:2~Still through the clo-ven skies they come, With peace-ful wings un-furled,_ And still their heaven-ly mu-sic floats O'er all the wear-y world;_ A-bove its sad_ and low-ly plains, They bend on ho-vering wing,_ And
+%
+w:3~For lo!, the days are hast-ening on, By pro-phet bards fore-told,_ When with the e-ver-cir-cling years Comes round the age of gold_ When peace shall o_ver all the earth Its an-cient splen-dors fling,_ And 
+%
+[V:T] D,/2 | D, ^D,/2 E, F,/2 | G, D,/2 D, G,/2 | G, G,/2 G, G,/2 | F,3/2-F, D,/2 | D, ^D,/2 E, F,/2 | G, D,/2 D, G,/2 | G, A,/2 (A,/2G,/2) F,/2 | G,3/2-G, B,,/2 | B,, ^D,/2 (D,/2E,/2) F,/2 | E, ^D,/2 E, E,/2 | (F,/2B,/2) A,/2 (G,/2A,/2) G,/2 | F,3/2-F, F,/2 |
+P:B
+[V:S]
 B F/2 (A/2G/2) E/2 | D E/2 D D/2 | E E/2 (F/2E/2) D/2 | G3/2-G|]
 %
 [V:A]
-B,/2 | B, B,/2 C C/2 | B, C/2 B, B,/2 | C C/2 ^C C/2 | D3/2-D D/2 | B, B,/2 C C/2 | B, C/2 B, D/2 | C C/2 C C/2 | B,3/2-B, B,/2 | B, B,/2 (B,/2^C/2) B,/2 | B, B,/2 B, B,/2 | D D/2 ^C C/2 | D3/2-D C/2 | B, B,/2 C C/2 | B, C/2 B, D/2 | C C/2 C C/2 | B,3/2-B,|]
+B, B,/2 C C/2 | B, C/2 B, D/2 | C C/2 C C/2 | B,3/2-B,|]
+w: world in sol-emn still-ness lay, To hear the an-gels sing._
+w: e-ver o'er its ba-bel sounds The bles-sed an-gels sing._
+w: the whole world give back the song Which now the an-gels sing._
 %
-w:1~It came up-on the mid-night clear, That glor-ious song of old,_ From an-gels bend-ing near the earth, To touch their harps of gold:_ "Peace on the earth,_ good-will to men, From heaven's all-gra-cious King."_ The world in sol-emn still-ness lay, To hear the an-gels sing._
-%
-w:2~Still through the clo-ven skies they come, With peace-ful wings un-furled,_ And still their heaven-ly mu-sic floats O'er all the wear-y world;_ A-bove its sad_ and low-ly plains, They bend on ho-vering wing,_ And e-ver o'er its ba-bel sounds The bles-sed an-gels sing._
-%
-w:3~For lo!, the days are hast-ening on, By pro-phet bards fore-told,_ When with the e-ver-cir-cling years Comes round the age of gold_ When peace shall o_ver all the earth Its an-cient splen-dors fling,_ And the whole world give back the song Which now the an-gels sing._
-%
-[V:T] D,/2 | D, ^D,/2 E, F,/2 | G, D,/2 D, G,/2 | G, G,/2 G, G,/2 | F,3/2-F, D,/2 | D, ^D,/2 E, F,/2 | G, D,/2 D, G,/2 | G, A,/2 (A,/2G,/2) F,/2 | G,3/2-G, B,,/2 | B,, ^D,/2 (D,/2E,/2) F,/2 | E, ^D,/2 E, E,/2 | (F,/2B,/2) A,/2 (G,/2A,/2) G,/2 | F,3/2-F, F,/2 | G, ^D,/2 E, F,/2 | G, D,/2 D, G,/2 | G, A,/2 (A,/2G,/2) F,/2 | G,3/2-G,|]
+[V:T]
+G, ^D,/2 E, F,/2 | G, D,/2 D, G,/2 | G, A,/2 (A,/2G,/2) F,/2 | G,3/2-G,|]
 
 
 X:21
@@ -434,57 +603,86 @@ T:Tempus Adest Floridum
 C:From "Piae Cantiones," 1582
 L:1/4
 M:4/4
-Q:1/4=80
+Q:1/4=110
+P:BABABABABAB
 V:S
 V:A
 V:T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K:Fmaj
-[V:S] F F F G | F F C2 | D C D E | F2 F2 |
+P:A
+[V:S]
+F F F G | F F C2 | D C D E | F2 F2 |
 F F F G | F F C2 | D C D E | F2 F2 |
 c B A G | A G F2 | D C D E | F2 F2 |
-C C D E | F F G2 | c B A G | (F2 B2) | F4|]
 %
-[V:A] C C D C | C C (G, A,) | B, C B, B, | (C B,) A,2 | C C D C | C B, (G, A,) | B, C C B, | (A, B,) C2 | C D E E | E ^C A,2 | B, C B, B, | A,2 (B, A,) | G, C C B, | A, =B, C2 | C D C B, | (A,2 D2) | C4|]
-w:1~Good King Wen-ces-las looked out,_ On the feast of Ste_phen, When the snow lay round a- bout,_ Deep and crisp and e_ven: Bright-ly shone the moon that night, Though the frost was cru-el,_ When a poor man came in sight, Gath'- ring win-ter fu_el.
+[V:A]
+C C D C | C C (G, A,) | B, C B, B, | (C B,) A,2 |
+C C D C | C B, (G, A,) | B, C C B, | (A, B,) C2 |
+C D E E | E ^C A,2 | B, C B, B, | A,2 (B, A,) |
+w:1~Good King Wen-ces-las looked out,_ On the feast of Ste_phen, When the snow lay round a- bout,_ Deep and crisp and e_ven: Bright-ly shone the moon that night, Though the frost was cru-el,_ 
 %
-w:2~"Hi-ther, page, and stand by me,_ if thou know'st it, tel_ling, Yon-der pea-sant, who is he?_ Where and what his dwel_ling?" "Sire, he lives a good league hence, un-der-neath the moun-tain;_ Right a-gainst the for-est fence, by Saint Ag-nes' foun_tain."
+w:2~"Hi-ther, page, and stand by me,_ if thou know'st it, tel_ling, Yon-der pea-sant, who is he?_ Where and what his dwel_ling?" "Sire, he lives a good league hence, un-der-neath the moun-tain;_
 %
-w:3~"Bring me flesh, and bring me wine,_ bring me pine logs hi_ther: Thou and I shall see him dine,_ when we bear them thi_ther." Page and mo-narch, forth they went, forth they went to-ge-ther;_ Through the rude wind's wild la-ment and the bit-ter wea_ther.
+w:3~"Bring me flesh, and bring me wine,_ bring me pine logs hi_ther: Thou and I shall see him dine,_ when we bear them thi_ther." Page and mo-narch, forth they went, forth they went to-ge-ther;_
 %
-w:4~"Sire, the night is dark-er now,_ and the wind blows strong_er; Fails my heart, I know not how;_ I can go no long_er." "Mark my foot-steps, good my page. Tread thou in them bold-ly_ Thou shalt find the win-ter's rage freeze thy blood less cold_ly."
+w:4~"Sire, the night is dark-er now,_ and the wind blows strong_er; Fails my heart, I know not how;_ I can go no long_er." "Mark my foot-steps, good my page. Tread thou in them bold-ly_ 
 %
-w:5~In his mas-ter's steps he trod,_ where the snow lay dint_ed; Heat was in the ver-y sod_ which the saint had print_ed. There-fore, Chris-tian men, be sure, wealth or rank pos-ses-sing,_ Ye who now will bless the poor, shall your-selves find bles_sing.
+w:5~In his mas-ter's steps he trod,_ where the snow lay dint_ed; Heat was in the ver-y sod_ which the saint had print_ed. There-fore, Chris-tian men, be sure, wealth or rank pos-ses-sing,_ 
 %
-[V:T] A, A, A, G, | A, F, E,2 | F, F, F, G, | (A, G,) F,2 | A, A, B, B, | A, D, E,2 | F, F, A, G, | (F, G,) A,2 | F, F, C B, | A, E, F,2 | F, F, F, G, | (F, E,) D,2 | E, F, A, G, | F, F, E,2 | F, F, E, E, | F,4 | [F,4A,4]|]
+[V:T]
+A, A, A, G, | A, F, E,2 | F, F, F, G, | (A, G,) F,2 |
+A, A, B, B, | A, D, E,2 | F, F, A, G, | (F, G,) A,2 |
+F, F, C B, | A, E, F,2 | F, F, F, G, | (F, E,) D,2 |
+P:B
+[V:S] C C D E | F F G2 | c B A G | (F2 B2) | F4|]
+[V:A] G, C C B, | A, =B, C2 | C D C B, | (A,2 D2) | C4|]
+w: When a poor man came in sight, Gath'- ring win-ter fu_el.
+w: Right a-gainst the for-est fence, by Saint Ag-nes' foun_tain."
+w: Through the rude wind's wild la-ment and the bit-ter wea_ther.
+w: Thou shalt find the win-ter's rage freeze thy blood less cold_ly."
+w: Ye who now will bless the poor, shall your-selves find bles_sing.
+[V:T] E, F, A, G, | F, F, E,2 | F, F, E, E, | F,4 | [F,4A,4]|]
 
 X: 22
 T: I Saw Three Ships
 C: English Traditional
 L: 1/4
 M: 6/8
-Q:1/4=80
+Q:1/4=100
+P:BABABABAB
 V: S 
 V: A
 V: T clef=treble_8
 %%MIDI program 3 57 %Trombone
 %%score (S A) T
 K: G
+P:A
 [V: S]  D/ | G G/ A B/ | d B/ A c/ |
 B G/ G B/ |A F/ D D/ | G G/ A B/ |
-d B/ A |c/ B G/ G/ A/ B/ | A3/ G3/|]
-[V: A]  D/ | D D/ D D/ | D D/ D D/ | D D/ D D/ | D D/ D C/ | B, E/ D G/ | (G/F/) G/ F | A/ G D/ E/ F/ G/ | F3/ G3/|]
+[V: A]  D/ | D D/ D D/ | D D/ D D/ |
+D D/ D D/ | D D/ D C/ | B, E/ D G/ |
 %
-w:1~I saw three ships come sail-ing in, On Christ-mas day, on Christ-mas day, I saw three ships come sail_ing in, On Christ-mas day in the morn-ing.
+w:1~I saw three ships come sail-ing in, On Christ-mas day, on Christ-mas day, I saw three ships come 
 %
-w:2~And what was in those ships all three, On Christ-mas Day, on Christ-mas Day? And what was in those ships_ all three, On Christ-mas Day in the morn-ing?
+w:2~And what was in those ships all three, On Christ-mas Day, on Christ-mas Day? And what was in those
 %
-w:3~The Vir-gin Mary and Christ were there, On Christ-mas Day, on Christ-mas Day; The Vir-gin Mary and Christ_ were there, On Christ-mas Day in the morn-ing.
+w:3~The Vir-gin Mary and Christ were there, On Christ-mas Day, on Christ-mas Day; The Vir-gin Mary and
 %
-w:4~Then let us all re-joice a-gain, On Christ-mas Day, on Christ-mas Day; Then let us all re-joice_ a-gain, On Christ-mas Day in the morn-ing.
+w:4~Then let us all re-joice a-gain, On Christ-mas Day, on Christ-mas Day; Then let us all re-
 %
-[V: T]  D,/ | B, B,/ C B,/ | A, G,/ F, A,/ | G, B,/ B, G,/ | F, A,/ F, F,/ | G, B,/ A, D/ | (D/C/) D/ D | D/ D B,/ C/ C/ D/ | D3/ B,3/|]
+[V: T]  D,/ | B, B,/ C B,/ | A, G,/ F, A,/ |
+G, B,/ B, G,/ | F, A,/ F, F,/ | G, B,/ A, D/ |
+P:B
+[V: S]d B/ A |c/ B G/ G/ A/ B/ | A3/ G2/ |]
+[V: A] (G/F/) G/ F | A/ G D/ E/ F/ G/ | F3/ G2/ |]
+w: sail_ing in, On Christ-mas day in the morn-ing.
+w: ships_ all three, On Christ-mas Day in the morn-ing?
+w: Christ_ were there, On Christ-mas Day in the morn-ing.
+w: joice_ a-gain, On Christ-mas Day in the morn-ing.
+%
+[V: T] (D/C/) D/ D | D/ D B,/ C/ C/ D/ | D3/ B,2/ |]
 
 X:23
 T:O Come, All Ye Faithful
@@ -493,12 +691,14 @@ C:J. F. Wade's Cantus Diversi 1751
 L:1/4
 M:4/4
 Q:1/4=105
+P:BABABAB
 V:S lyrics=down 
 V:A
 V:T clef=treble_8
 %%MIDI program 3 57	% Trumpet
 %%score (S A) T
 K:Fmaj
+P:A
 [V:S]
 F | F2 C F | G2 C2 | A G A B | A2 G F |
 F2 E D | (E F) G A | (E2 D3/2) C/2 | C3z |
@@ -510,14 +710,19 @@ w:2 Sing, choirs of an-gels, sing in ex-ul-ta-tion * Sing, all ye ci-ti-zens of 
 w:3 Yea, Lord, we greet Thee, born this hap-py morn-ing * Je-sus, to Thee_ be_ glo_ry given Word of the Fa-ther Now in flesh ap-pear-ing
 %
 F | F E F G | F2 C A | A G A B | A2 G
-A | B A G F | E2 (F B) | (A2 G3/2) F/2 | F4|]
-w:O come, let us a- dore Him, O come, let us a- dore Him, O come, let us a- dore Him,_ Christ_ the Lord.
+w:O come, let us a- dore Him, O come, let us a- dore Him,
 %
 [V:A]
 C | C2 C C | C2 C2 | C C C D | C2 C A, | (A, =B,) C B, | C2 C C | (C2 =B,3/2) C/2 | C3z | C2 (D/2E/2) F | (F E) F2 | C C D D | C2 C
-z | z4 | z3 C | C C C C | C2 C F | E F C (C/2=B,/2) | C2 (C D) | (C2 C3/2) A,/2 | A,4|]
+z | z4 | z3 C | C C C C | C2 C
 [V:T]
-A, | A,2 A, A, | G,2 G,2 | F, G, F, F, | F,2 E, F, | F,2 G, G, | (G, F,) E, C, | (G,2 F,3/2) E,/2 | E,3z | A,2 B, C | B,2 C2 | C F, A, B, | G,2 E, A, | A, G, A, B, | A,3 F, | F, E, F, G, | F,2 E, C | C C G, G, | G,2 F,2 | (F,2 E,3/2) F,/2 | F,4|]
+A, | A,2 A, A, | G,2 G,2 | F, G, F, F, | F,2 E, F, | F,2 G, G, | (G, F,) E, C, | (G,2 F,3/2) E,/2 | E,3z | A,2 B, C | B,2 C2 | C F, A, B, | G,2 E,
+A, | A, G, A, B, | A,3 F, | F, E, F, G, | F,2 E,
+P:B
+[V:S] A | B A G F | E2 (F B) | (A2 G3/2) F/2 | F3 |]
+w: O come, let us a- dore Him,_ Christ_ the Lord.
+[V:A] F | E F C (C/2=B,/2) | C2 (C D) | (C2 C3/2) A,/2 | A,3 |]
+[V:T] C |C C G, G, | G,2 F,2 | (F,2 E,3/2) F,/2 | F,3 |]
 
 
 X:24
@@ -527,39 +732,40 @@ C:German Folk Song
 L:1/4
 M:3/4
 Q: 1/4=100
+P:BABAB
 V:S
 V:A
 V:T clef=treble_8
 %%MIDI program 3 68	% Baritone Sax
 %%score (S A) T
 K:Fmaj
+P:A
 [V:S]
-z2 |: C | F3/4 F/4 F G | A3/4 A/4 A3/2 A/2 | G/2 A/2 B E | G F :|
+ |: C | F3/4 F/4 F G | A3/4 A/4 A3/2 A/2 | G/2 A/2 B E | G F :|
 c | c/2 A/2 d3/2 c/2 | c/2 B/2 B3/2 B/2 | B/2 G/2 c3/2 B/2 | B/2 A/2 A
-C | F3/4F/4 F G | A3/4 A/4 A3/2 A/2 | G/2 A/2 B E | G F2|]
 %
 w:1~O Christ-mas tree, O Christ-mas tree!
 +:Thou tree most fair and love-ly!
 +:The sight of thee at Christ-mas-tide
 +:Spreads hope and glad-ness far and wide
-+:Oh Christ-mas tree, O Christ-mas tree
-+:Thou tree most fair and love-ly!
 %
-w:O Christ-mas tree, O Christ-mas tree!
+w:2~O Christ-mas tree, O Christ-mas tree!
 +:Thou hast a won-drous mes-sage:
 +:Thou dost pro-claim the Sa-viour's birth
 +:Good will to men and peace on earth
-+:O Christ-mas tree, O Christ-mas tree!
-+:Thou hast a won-drous mes-sage
 %
 [V:A]
-z2 |: C | C3/4 C/4 C E | F3/4 F/4 F3/2 F/2 | F/2 ^F/2 G C | C C :|
+ |: C | C3/4 C/4 C E | F3/4 F/4 F3/2 F/2 | F/2 ^F/2 G C | C C :|
 F | F/2 F/2 F3/2 F/2 | F/2 E/2 E3/2 G/2 | G/2 E/2 F3/2 E/2 | F/2 F/2 F
-C | C3/4 D/4 C D/2E/2 | F3/4 G/4 F3/2 ^F/2 | G/2 ^F/2 G C | C C2 |]
 [V:T]
-z2 |: A,| A,3/4 A,/4 A, C | C3/4 C/4 C3/2 D/2 | D/2 D/2 D B, | B, A, :|
+ |: A,| A,3/4 A,/4 A, C | C3/4 C/4 C3/2 D/2 | D/2 D/2 D B, | B, A, :|
 A, | A,/2 C/2 B,3/2 A,/2 | A,/2 G,/2 G,3/2 C/2 | C/2 C/2 C3/2 C/2 | D/2 C/2 C
-B, | C3/4 D/4 C B, | C3/4 ^C/4 D3/2 D/2 | D/2 C/2 D C | B, A,2 |]
+P:B
+[V:S] C | F3/4F/4 F G | A3/4 A/4 A3/2 A/2 | G/2 A/2 B E | G F2|]
+w:Oh Christ-mas tree, O Christ-mas tree Thou tree most fair and love-ly!
+w:O Christ-mas tree, O Christ-mas tree! Thou hast a won-drous mes-sage
+[V:A] C | C3/4 D/4 C D/2E/2 | F3/4 G/4 F3/2 ^F/2 | G/2 ^F/2 G C | C C2 |]
+[V:T] B, | C3/4 D/4 C B, | C3/4 ^C/4 D3/2 D/2 | D/2 C/2 D C | B, A,2 |]
 
 
 X:25
@@ -569,12 +775,14 @@ A:Charles Wesley
 L:1/4
 M:4/4
 Q: 1/4=100
+P:BABABAB
 V:S
 V:A
 V:T clef=treble_8
 %%MIDI program 3 68	% Baritone Sax
 %%score (S A) T
 K:Emaj
+P:A
 [V:S]
 B, E E3/2 D/2 | E G (G F) | B B B3/2 A/2 | G F G2 |
 B, E E3/2 D/2 | E G (G F) | B F F3/2 D/2 | D C B,2 |
@@ -596,22 +804,22 @@ w:3~Hail the heav’n-ly Prince of Peace!_ Hail the Sun of Right-eous-ness!
 +:Mild He lays His glo-ry by,_ Born that man no more may die;_
 +:Born to raise the sons of earth, Born to_ give them se-cond birth.
 %
-c3/2 c/2 c B | A G A2 | F (G/2A/2) B3/2 E/2 | E F E2|]
-w: Hark! the her-ald an-gels sing, "Glo-ry_ to the new-born King."
-%
 [V:A]
 B, B, B,3/2 B,/2 | B, E (E D) | E D C F | E D E2 |
 B, B, B,3/2 B,/2 | G, E E2 | D C D3/2 B,/2 | B, ^A, B,2 |
 B, B, B, E | F E (E D) | B, B, B, E | F E (E D) |
 A A A G | F ^E F2 | D D =E3/2 B,/2 | B, D E2 |
-A A A G | F ^E F2 | B, D E3/2 E/2 | B, B, B,2|]
 %
 [V:T]
 G, G, G,3/2 F,/2 | E, B, B,2 | B, B, C C | B, B, B,2 |
 G, G, G,3/2 F,/2 | E, B, C2 | B, C B,3/2 F,/2 | G, E, D,2 |
 B, B, B, B, | B, B, B,2 | B, B, B, B, | B, B, B,2 |
 C C C C | C B, A,2 | B, B, B,3/2 B,/2 | G, B, B,2 |
-C C C B, | A, G, A,2 | B, B, A,3/2 G,/2 | G, A, G,2|]
+P:B
+[V:S] c3/2 c/2 c B | A G A2 | F (G/2A/2) B3/2 E/2 | E F E2|]
+w: Hark! the her-ald an-gels sing, "Glo-ry_ to the new-born King."
+[V:A] A A A G | F ^E F2 | B, D E3/2 E/2 | B, B, B,2|]
+[V:T] C C C B, | A, G, A,2 | B, B, A,3/2 G,/2 | G, A, G,2|]
 
 
 X: 26
@@ -621,13 +829,15 @@ L: 1/4
 M: 3/8
 %%maxsysstaffsep 110pt
 %%staffsep  0pt
-Q: 1/4=60
+Q: 1/4=75
+P:BABABABABAB
 V:S
 V:A
 V:T clef=treble_8
 %%MIDI program 3 68	% Baritone Sax
 %%score (S A) T
 K: G
+P:A
 [V: S]
 B A/ | G E/ | F/ G/ F/ | E z/ | B A/ | G E/ | F/ G/ F/ | E z/ |
 G G/ | A A/ | B B/ | (d/c/) B/ | A/ B/ A/ | G F/ | E3/|
@@ -649,19 +859,20 @@ w:5~Glor-ious now be-hold Him a-rise King and God and Sac_ri-fice!
 %
 "^Chorus"
 (F3/2|A3/2) | G G/ | G D/ | G E/ | Gz/ | G G/ | G D/ | G E/ | Gz/ |
-G G/ | A B/ | c B/ | A B/ | G G/ | G D/ | G E/ | G3/|]
 w:Oh,_ star of won- der, star of night, Star with ro- yal beau- ty bright,
-+:West- ward lead- ing, still pro- ceed ing, Guide us to thy per- fect Light.
 %
 [V: A]
 G F/|E E/ | ^D/ E/ D/|E z/ | G F/|E E/ | ^D/ E/ D/|E z/|
 E E/|F F/ | G G/|G/F/ G/  | E/ E/ E/|E ^D/ | E3/ |
 D3/2-|D3/2 | D D/ | D B,/ | B, E/| D z/| D D/ | D B,/| B, E/ | D z/|
-E E/ | F F/| G G/ | G F/| G D/ |B, D/ | E C/ | D3/|]
 %
 [V: T]
 B, B,/ | B, G,/ | A,/ B,/ A,/ | G, z/ | B, B,/ | B, G,/ | A,/ B,/ A,/ | G, z/ |
 B, B,/ | D D/ | D D/ | B,/D/ D/ | C/ C/ C/ | B, A,/ | G,3/ |
 (A,3/2|C3/2)| B, B,/| B, G,/| G, C/ | B, z/ | B, B,/ | B, G,/ | G, C/ | B, z/|
-B, B,/ | D D/| E D/ | D C/| B, B,/ | G, G,/| G, C/ | B,3/ |]
+P:B
+[V: S] G G/ | A B/ | c B/ | A B/ | G G/ | G D/ | G E/ | G3/ x/|]
+w:West- ward lead- ing, still pro- ceed ing, Guide us to thy per- fect Light.
+[V: A] E E/ | F F/| G G/ | G F/| G D/ |B, D/ | E C/ | D3/ x/|]
+[V: T] B, B,/ | D D/| E D/ | D C/| B, B,/ | G, G,/| G, C/ | B,3/ x/|]
 
