@@ -1,0 +1,107 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+%%header "$P0		$P1"
+
+
+X:1
+T:Oh Hanukkah
+M:4/4
+L:1/4
+Q:1/4=200
+K:Bm
+%%MIDI program 1 71 % Clarinet
+B, || F F F F | B F F F | F2 E D | E2 D2 |
+w:Oh Ha-nuk-kah, oh Ha-nuk-kah! Come light the me-no-rah.
+F2 F F | B2 F F | F2 E D | E2 D2 ||
+w:Let's have a par-ty, We'll all dance the Ho-rah.
+D E F E | D2 D D | E2 D C | D4 |
+w:Ga-ther round the ta-ble, We'll give you a treat.
+(DE) F E | D2 D D | E2 D C | B,3 B, ||
+w:Drei_dels to play with, and lat-kes to eat. And
+F2 F2-|F2 B,2 | F2 F2-|F2 B,2 | F2 F F| E2 G2 | F4-|F4 |
+w:while we_ are play-ing,_ The can-dles are bur-ning low._
+F2 F F | G2 F E | F2 F F | G2 F E | D2 D D|E2 D E |F4-|F4 |
+w:One for each night, They will shed a sweet light, To re-mind us of days long a-go...
+F2 F F | G2 F E | F2 F F | G2 F E | D2 D D|E2 D C |B,4||
+w:One for each night, They will shed a sweet light, To re-mind us of days long a-go.
+
+X:2
+T:Dreidel Song
+M:4/4
+L:1/8
+Q:1/8=200
+K:C
+%%MIDI program 1 71 % Clarinet
+G|:CCDD E C2 E | GGFE D2 z D|
+w:I have a lit-tle drei-del, I made it out of clay. And
+w:It has a love-ly bo-dy, With leg so short and thin. And
+w:My drei-del's al-ways play-ful, It loves to dance and spin. A
+DDDE F D2 D|GFED C2 E2 |
+w:when it's dry and read-y, Then drei-del I shall play. Oh
+w:when it is all ti-red, It drops and then I win. Oh
+w:hap-py game of drei-del, Come play now let's be-gin. Oh
+GEGE G E2 E | GGFE D2 z D |
+w:drei-del, drei-del, drei-del! I made it out of clay. Oh
+w:drei-del, drei-del, drei-del! With leg so short and thin. Oh
+w:drei-del, drei-del, drei-del! It loves to dance and spin. Oh
+FDFD F D2 D |1,2 GFED C2 z G :||3 GGA[BG] [c4G4] ||
+w:drei-del, drei-del, drei-del! Now drei-del I will play. It
+w:drei-del, drei-del, drei-del! It drops and then I win. My
+w:drei-del, drei-del, drei-del! Come ~ ~ ~ ~ ~ ~ play now let's be-gin.
+
+X:3
+T:Matathias Bold
+M:4/4
+L:1/4
+Q:1/4=160
+K:Amaj
+%%MIDI program 1 71 % Clarinet
+"^1"A, B, C D | E4 |A, B, C D | E4 |
+w:Ma-ta-thi-as  bold, Five brave sons had he.
+"^2"E A E E | E D C2|E A E E | E D C D|
+w:E-le-a-zer eld-est son, Si-mon, John and Jo-na-than, And
+"^3"E E E E | A,4 |E E E E | A,4 |
+w:Ju-dah Ma-ca-bee, Ju-dah Ma-ca-bee.
+
+
+X:4
+T:This Little Light of Mine
+M:4/4
+L:1/4
+Q:1/4=160
+K:Fmaj
+%%score (S A) T
+V:S 
+%%MIDI program 1 40 % Violin
+V:A
+%%MIDI program 2 41 % Viola
+V:T clef=treble_8 
+%%MIDI program 3 42 % Cello
+[V:S]
+C D/C/ F/ G F/-|F4| A A/A/ A/ G F/-|F3 z |
+D F/D/ F/GF/-|F4| F F/F/ F/DC/-|C3 z|
+C D/C/ F/GF/-|F4| A A/A/ A/GF/-|F z
+ F/F A/-|A z A/AG/-|G z A/GF/-|F4||
+[V:A]
+A, B,/A,/ C/DC/-|C4|F F/F/ F/DC/-|C3 z|
+w:This lit-tle light of mine,_ I'm gon-na let it shine_
+B, D/B,/ D/_ED/-|D4|D D/D/ D/B,A,/-|A,3 z |
+w:This lit-tle light of mine,_ I'm gon-na let it shine_
+A, B,/A,/ C/DC/-|C4|F F/F/ F/ED/-|D z
+w:This lit-tle light of mine,_ I'm gon-na let it shine._ 
+ C/ CF/-|F z F/FD/-|D z E/DC/-|C4||
+w:Let it shine,_ let it shine,_ let it shine._
+[V:T]
+F, G,/F,/ A,/B,A,/-|A,4| C C/C/ C/B,A,/-|A,3 z |
+F, B,/F,/ B,/CB,/-|B,4|B, B,/B,/ B,/G,F,/-|F,3z|
+F, G,/F,/ A,/B,A,/-|A,4| C C/C/ C/B,A,/-|A, z
+A,/A,C/-|C z C/CB,/-|B, z C/B,A,/-|A,4||
+%
+W:Everywhere I go, I'm gonna let it shine (3x)
+W:(Chorus)
+W:Free of hate and fear, I'm gonna let it shine (3x)
+W:(Chorus)
+W:Building a new world, I'm gonna let it shine (3x)
+W:(Chorus)
