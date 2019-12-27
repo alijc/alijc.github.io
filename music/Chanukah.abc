@@ -120,63 +120,31 @@ M:4/4
 K:Dmaj
 V:S clef=treble
 %%MIDI program 1 19  %name="Church Organ"
-V:A clef=treble
-%%MIDI program 2 60  %name="French Horn"
-V:T clef=treble_8 
-%%MIDI program 3 57  %name="Trombone"
-%%score (S A) T
 V:S
 D A, D G | F E D2 | A B E (F/G/) | (F E) D2 |
-V:A
-A, A, D D | D C D2 | D D B, E | (D C) B,2 |
-w:1.~Rock of Ag- es,|let our song| Praise Thy sav-ing |pow_er;
-w:2.~Kind- ling new the|ho-ly lamps,| Priests, ap-proved in |suf_fering,
-w:3.~Child- ren of the|mar-tyr race, |Whe-ther free or| fet_tered,
-V:T
-F, E, F, G, | A, A, (A,/2 B,/2 A,/2 G,/2) | F, F, G, B, | A,3/2 G,/2 F, G, |
+w:1.~Rock of Ag- es,|let our song| Praise Thy sav-ing_ |pow_er;
+w:2.~Kind- ling new the|ho-ly lamps,| Priests, ap-proved in_ |suf_fering,
+w:3.~Child- ren of the|mar-tyr race, |Whe-ther free or_| fet_tered,
 %
 V:S
 D A, D G | F E D2 | A B E (F/G/) | (F E) D2 |
-V:A
-| A, A, D D | D C D2 | D ^D E E | (D C) D2 |
-w:Thou, a-midst the| rag-ing foes,| Wast our shel-tering| tow_er|
+w:Thou, a-midst the| rag-ing foes,| Wast our shel-ter-ing| tow_er|
 w:Pu-ri-fied the| na-tion’s shrine,| Brought to God their| of_fering|
 w:Wake the e-choes| of the songs|Where ye may be| scat_tered|
-V:T
-F, E, F, G, | A, A, (A,/2 B,/2 A,/2 G,/2) | F, F, B, B, | A,3/2 G,/2 (F,/2 G,/2 A,/2 B,/2) |
 %
 V:S
-A A B c | d2 A2 | d c B A | (A/2 G/2 F/2 G/2) E2 |
-V:A
-D F D G | (F G) F2 | D D D D | ^D B, B, C |
-w:Fur- ious they as-|sailed us, |But Thine arm a-|vailed us,|
-w:And His courts sur-|round-ing |Hear, in joy a-|bound- ing,|
-w:Yours the mes- sage|cheer-ing |That the time is| near- ing|
-V:T
-A, A, G, A, | (A, B,) D2 | F, F, G, A,| F, B, G, A, |
+A A [GB] [Gc] | [F2d2] [F2A2] | [Fd] [Fc] [GB] A | (A/2 G/2 F/2 G/2) E2 |
+w:Fur- ious they as-|sailed us, |But Thine arm a-|vailed___ us,|
+w:And His courts sur-|round-ing |Hear, in joy a-|bound___ ing,|
+w:Yours the mes- sage|cheer-ing |That the time is| near___ ing|
 %
 V:S
-F3/2 G/2 A2 | E3/2 F/2 G2 | F E D G | (F E) D2 |] 
-V:A
-D3/2 E/2 (F D) | C3/2 C/2 (D A,) | A, C D E | (D C) D2 |] 
-w:And Thy Word| Broke their sword| When our own strength|failed_ us|
-w:Hap-py throngs| Sing- ing songs| With a might-y| sound_ing|
-w:Which will see| All men free,| Ty-rants dis-ap|pear_ing|
-V:T
-A,3/2 A,/2 (A, F,) | A,3/2 A,/2 (G, E,) | F, G, F, B, | (A, G,) F,2 |]
-
-X:2
-T:Ma'oz Tzur
-C:trad., arr. T. Traub 12-21-2003
-M:4/4
-K:Dmaj
-L:1/4
-%%MIDI program 1 57  %name="Trombone"
-|:"D"D A, D "G"G|"D"F "A"E "D"D > A|"D"A "G"B "Em"E FG
-|1 "A"F E "D"D2 :|2"A"F E "D"D>A||
-w:Ma-oz tzur y'-shu-a-ti l'-cha na-e l'-sha-be -ach
-w:ti-kon bet t'-fi-la-ti v'-sham to-da n'-za-*** be - ach l'-
-"D"A>A "G"B "A"c |"D"d2 A2|"D"d "A"c "G"B "D"A |"Em"A/2G/2F/2G/2 "A"E2|
-w:et ta-chin mat-be-ach mi-tzar ham'-na-be-*** ach
-|: "D"F>G A>B|"Em"E>F "A"G2|"D"F "F#"E "Bm"D "G"G/2G/2|1 "D"F G A2:|2 "D"F "A"E "D"D2|]
-w:az eg-more b'-shir miz-mor cha-nu-kat ha-miz-be -ach be -ach.
+|:F3/2 G/2 A2 | E3/2 F/2 G2 | F E D G |1 (FG) A2 :|2 (F E) D2 |] 
+w:And Thy Word| Broke their sword| When our own strength|failed_ us|failed_ us|
+w:Hap-py throngs| Sing- ing songs| With a might-y| sound_ing| sound_ing|
+w:Which will see| All men free,| Ty-rants dis-ap-|pear_ing|pear_ing|
+%
+W:Ma'oz tzur y'shuati l'cha nae l'shabeach
+W:tikon bet t'filati v'sham toda n'za beach l'
+W:et tachin matbeach mitzar ham'nabeach
+W:az egmore b'shir mizmor chanukat hamizbeach.
