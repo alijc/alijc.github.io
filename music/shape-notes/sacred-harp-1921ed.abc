@@ -1,0 +1,47 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+%%%%landscape
+%%scale .40
+
+X:31
+T:Ninety-Third Psalm S.M.
+C:Jerimiah Ingalls, 1805
+A:Philip Doddridge
+L:1/2
+M:3/2
+Q:1/2=80
+K:CMAJ
+V:S clef=treble
+%%MIDI program 1 40 % Violin
+V:A clef=treble 
+%%MIDI program 2 41 % Viola
+V:T clef=treble-8
+%%MIDI program 3 42 % Cello
+V:B clef=bass
+%%MIDI program 4 43 % Bass
+[V:S]
+z2 c|c2 d|G2 (G/A/)|c2 e|f2 e|d2 (e/f/)|g2 e|c2 A|f2 g|d2 ((3e/d/e/)|d2 e/d/|c2 d|G2 A/B/|c3|]
+%
+w: 1.~Grace 'tis a char-ming_ sound, Har-mo-nious to the_ ear;
++: Heav'n with the e-cho shall re__sound, And_ all the earth shall_ hear.
+%
+[V:A]
+z2 G|G2 A|G2 (G/F/)|G2 c|c2 c|B2 (c/G/)|G2 c|c2 G|A2 (c/A/)|G2 ((3A/G/F/)|G2 (c/A/)|G2 F|G2 (A/G/)|G3|]
+w: 2.~Grace first con-trived the_ way To save re-bel-lious_ man;
++: And all the steps that_ grace dis__play, Which_ drew the won-drous_ plan.
+%
+[V:T]
+z2 (G/>A/)|c2 A|d2 (c/A/)|G2 (G/>A/)|c2 ((3A/B/c/)|d2 (e/d/)|c2 g|e2 (d/c/)|A2 (c/e/)|d2 (c/A/)|G2 (G/>A/)|c2 A|d2 (e/d/)|c3|]
+w: 3.~Grace_ taught me wan-d'ring_ feet To_ tread the__ heav'n-ly_ road;
++: And new sup_plies each_ hour I_ meet, While_ press-ing on to_ God.
+%
+[V:B]
+z2 C,|F,2 A,|G,2 (E,/D,/)|C,2 C,|F,2 A,|G,2 (C/G,/)|C,2 C|C2 A,|F,2 E,|D,2 C,|G,2 G,|F,2 A,|G,2 (A,/G,/)|C,3|]
+w: 4.~Grace all the work shall_ crown Through ev-er-last_ing days;
++: It lays in heav'n the top-most stone, And well de-serves our_ praise.
+
+
+%%staffsep .8
+
