@@ -44,6 +44,43 @@ z2 C,|F,2 A,|G,2 (E,/D,/)|C,2 C,|F,2 A,|G,2 (C/G,/)|C,2 C|C2 A,|F,2 E,|D,2 C,|G,
 w: 4.~Grace all the work shall_ crown Through ev-er-last_ing days; 
 +: It lays in heav'n the top-most stone, And well de-serves our_ praise.
 
+%%scale .30
+
+X:36
+T:Ninety-Fifth
+C:Colton
+A:Isaac Watts
+L:1/4
+M:4/4
+Q:1/4=150
+P:A3
+K:AMaj
+V:1 clef=treble
+%%MIDI program 1 40 % Violin
+V:2 clef=treble 
+%%MIDI program 2 41 % Viola
+V:3 clef=treble-8
+%%MIDI program 3 42 % Cello
+V:4 clef=bass
+%%MIDI program 4 43 % Bass
+[P:A]
+[V:1]
+c2|cBAB|A2B2|c4|e2cB|A2B2|B3|:z|z4|z2z c|eeed|c2B2|B3 B|(e>dc)B|A2B2|[1c3:|[2c4|]
+w: 1.~When I can read my ti-tle clear, To man-sions in the skies
++: I'll bid fare-well to ev'-ry fear, And wipe__ my weep-ing eyes. eyes.
+%
+[V:2]
+E2|EEAG|F2E2|E4|E2FG|A2F2|G3|:z|z4|z4|z2zE|AAB(G/F/)|EEEE|(A>BA)G|F2E2|[1E3:|[2E4||]
+w: 2.~Should earth a-gainst my soul en-gage, And fier-y darts be hurled,
++: Then I can smile at_ Sa-tan's rage, And face__ a frown-ing world. world.
+%
+[V:3]
+A2|ABcd|c2B2|A4|B2cd|e2d2|e3|:z|z2zA|cccc|BB(B/c/)d|e2d2|e3e|(A>Bc)d|c2B2|[1A3:|[2A4|]
+w: 3.~There I shall bathe my wear-y soul In seas of heav'n-ly rest,
++: And not a wave of trou-ble roll_ of trou-ble roll A-cross__ my peace-ful breast. breast.
+%
+[V:4]
+A,2|A,G,A,F,|C,2E,2|A,,4|E,2A,G,|A,2B,2|E,3|:E,|A,A,A,E,|F,F,F,A,|E,E,E,G,|A,2B,2|E,3E,|(A,>G,F,)E,|A,2E,2|[1A,,3:|[2A,,4|]
 
 
 %%staffsep .8
@@ -69,8 +106,8 @@ V:4 clef=bass
 %%MIDI program 4 43 % Bass
 [P:A]
 [V:1]
-% 1.~
-w:
+%
+w: 1.~
 +:
 %
 [V:2]
