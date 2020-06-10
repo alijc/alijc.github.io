@@ -82,7 +82,48 @@ w: 3.~There I shall bathe my wear-y soul In seas of heav'n-ly rest,
 [V:4]
 A,2|A,G,A,F,|C,2E,2|A,,4|E,2A,G,|A,2B,2|E,3|:E,|A,A,A,E,|F,F,F,A,|E,E,E,G,|A,2B,2|E,3E,|(A,>G,F,)E,|A,2E,2|[1A,,3:|[2A,,4|]
 
+%%newpage
 
+%%scale .39
+X:163
+T:China
+C:Timothy Swan, about 1790
+A:Isaac Watts, 1707
+L:1/2
+M:3/2
+Q:1/2=80
+P:A3
+K:DMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+A|A2 A|F2 d|(AB)e|A2 d|(c/>d/e)(d/c/)|B2 A|A2 A|(A/>B/c)d|B2 d|d2 (e/f/)|A2 (e/f/)|A2 (F/A/)|d2 c|d3|]
+w: 1.~Why do we mourn de-part_ing friends, Or shake__ at_ death's a-larms? 
++: 'Tis but__ the voice that Je-sus_ sends, To_ call them_ to his arms.
+%
+[V:2]
+F|A2 E|F2 D|(FG) E|F2 F|E2 A|G2 E|F2 A|A2 F|F2 F|A2 (E/2F/2)|E2 A|A2 (A/2F/2)|G2 E|F3|]
+w: 2.~Why should we trem-ble to_ con-vey Their bo-dies to the tomb?
++: There the dear flesh of Je-sus_ lay, And scat-tered_ all the gloom.
+%
+[V:3]
+f|e2 e|d2 d|(fB)B|F2 A|A2 (A/B/)|B2 c|d2 e|(e>f)(d/B/)|d2 (3(f/e/d/)|f2 (e/d/)|e2 (F/A/)|d2 (f/d/)|B2 (3(A/B/c/)|d3|]
+w: 3.~Thence he a-rose, as-cend_ing high, And showed our_ feet the way;
++: Up to_ the_ Lord we__ too shall_ fly At_ the great_ ris-ing__ day.
+%
+[V:4]
+D,|A,2 [A,,E,]|D,2 G,|(F,E,) E,|D,2 D,|[A,,2E,2] (F,/E,/)|E,2 (A,/F,/)|D,2 A,|A,2 B,|B,2 D|D2 (C/B,/)|A,2 (A,/F,/)|D,2 D,|G,2 A,|D,3|]
+
+
+%%newpage
 %%staffsep .8
 
 
@@ -105,8 +146,8 @@ V:3 clef=treble-8
 V:4 clef=bass
 %%MIDI program 4 71 % Bassoon
 [P:A]
-[V:1]
 %
+[V:1]
 w: 1.~
 +:
 %
