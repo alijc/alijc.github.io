@@ -15,13 +15,13 @@ Q:1/2=80
 P:A4
 K:CMaj
 V:1 clef=treble
-%%MIDI program 1 40 % Violin
+%%MIDI program 1 73 % Piccolo
 V:2 clef=treble 
-%%MIDI program 2 41 % Viola
+%%MIDI program 2 69 % Oboe
 V:3 clef=treble-8
-%%MIDI program 3 42 % Cello
+%%MIDI program 3 67 % Tenor Sax
 V:4 clef=bass
-%%MIDI program 4 43 % Bass
+%%MIDI program 4 71 % Bassoon
 [P:A]
 [V:1]
 z2 c|c2 d|G2 (G/A/)|c2 e|f2 e|d2 (e/f/)|g2 e|c2 A|f2 g|d2 ((3e/d/e/)|d2 e/d/|c2 d|G2 A/B/|c3|]
@@ -56,13 +56,13 @@ Q:1/4=150
 P:A3
 K:AMaj
 V:1 clef=treble
-%%MIDI program 1 40 % Violin
+%%MIDI program 1 73 % Piccolo
 V:2 clef=treble 
-%%MIDI program 2 41 % Viola
+%%MIDI program 2 69 % Oboe
 V:3 clef=treble-8
-%%MIDI program 3 42 % Cello
+%%MIDI program 3 67 % Tenor Sax
 V:4 clef=bass
-%%MIDI program 4 43 % Bass
+%%MIDI program 4 71 % Bassoon
 [P:A]
 [V:1]
 c2|cBAB|A2B2|c4|e2cB|A2B2|B3|:z|z4|z2z c|eeed|c2B2|B3 B|(e>dc)B|A2B2|[1c3:|[2c4|]
@@ -97,13 +97,13 @@ Q:1/2=80
 P:A4
 K:CMaj
 V:1 clef=treble
-%%MIDI program 1 40 % Violin
+%%MIDI program 1 73 % Piccolo
 V:2 clef=treble 
-%%MIDI program 2 41 % Viola
+%%MIDI program 2 69 % Oboe
 V:3 clef=treble-8
-%%MIDI program 3 42 % Cello
+%%MIDI program 3 67 % Tenor Sax
 V:4 clef=bass
-%%MIDI program 4 43 % Bass
+%%MIDI program 4 71 % Bassoon
 [P:A]
 [V:1]
 %
