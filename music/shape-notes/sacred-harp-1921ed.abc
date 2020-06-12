@@ -82,6 +82,53 @@ w: 3.~There I shall bathe my wear-y soul In seas of heav'n-ly rest,
 [V:4]
 A,2|A,G,A,F,|C,2E,2|A,,4|E,2A,G,|A,2B,2|E,3|:E,|A,A,A,E,|F,F,F,A,|E,E,E,G,|A,2B,2|E,3E,|(A,>G,F,)E,|A,2E,2|[1A,,3:|[2A,,4|]
 
+
+%%newpage
+
+X:122
+T:All is Well
+C:White/Denson
+L:1/4
+M:4/4
+Q:1/4=100
+P:A2
+K:AMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+A2ee|e2d2|cefe|(f<e) cA|([Be]>[cf])ee|[c4e4]:|(A>B)cc|e2e2|
+ffe2|e2cc|A2A2|eee2|c2AB|cBAA|e2ce|(f>e)ce|e4|]
+w: 1.~What's this that steals, that steal up-on my frame?_
++: Is it death,_ is it death?  If_ this be death, I
++: soon shall be From ev'-ry pain and sor-row free.
++: I shall the King of glo-ry see, All is well,_ all is well!
+w: That soon will quench, will quench this mor-tal flame,_ 
++: Is it death,_ is it death?
+%
+[V:2]
+E2EE|E2F2|EEDE|(A<G)AE|(E>F)EE|E4:|(A>G)EE|E2E2|
+FFE2|E2AA|E2E2|EAE2|F2EE|FEFF|E2AA|(F>E)EE|[E4A4]|]
+%
+[V:3]
+A2GA|B2A2|GABc|(d>B)cA|(B>c)AG|A4:|(c>d)ee|(e<c)(cA)|
+dd(d<c)|B2cc|e2e2|Bc(B>A)|(G<E)AG|ABcd|e2cA|(B>c)AG|A4|]
+w: 3.~Weep not my friends, my friends weep not for me,_
++: All is well,_ all is well! There's_ not a cloud_ that_
++: doth a-rise,_ To hide my Je-sus from my eyes._
++: I_ soon shall mount the up-per skies, All is well,_ all is well!
+w: My sins for-giv'n, for-giv'n, and I am free,_ All is well,_ all is well!
+%
+[V:4]
+A,2E,E,|E,2D,2|C,E,D,E,|(D,<E,)F,A,|(E,>D,)C,E,|A,,4:|(A,>[G,B,])E,E,|(A,<G,)(F,C,)|
+A,A,E,2|E,2D,D,|A,2A,2|E,E,E,2|C,2A,F,|E,D,E,E,|A,2E,E,|(D,>E,)A,E,|[A,,A,]4|]
 %%newpage
 
 %%scale .39
