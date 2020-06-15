@@ -83,6 +83,43 @@ w: 3.~There I shall bathe my wear-y soul In seas of heav'n-ly rest,
 A,2|A,G,A,F,|C,2E,2|A,,4|E,2A,G,|A,2B,2|E,3|:E,|A,A,A,E,|F,F,F,A,|E,E,E,G,|A,2B,2|E,3E,|(A,>G,F,)E,|A,2E,2|[1A,,3:|[2A,,4|]
 
 
+
+X:37
+T:37b Liverpool
+C:M.C.H. Davis
+L:1/4
+M:4/4
+Q:1/2=70
+P:A2
+K:FMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+c2dd|c2A2|G(A/B/)c2 |(c>B)AB|c(f/e/)d2-|d2 |:d2|fdc2|A2cA|G2 (Ac)|d>fdc|[1c2:|[2c4|]
+w: 1.~Young peo-ple all, at-ten-tion_ give, And_ hear what I shall_ say_
++: I wish your souls with Christ to live In_ ev-er-last-ing day. day.
+%
+[V:2]
+A2(A/G/)F|A2F2|G(F/G/)A2 |(A>G)FF|GB(B2|[G2B2])|:[G2B2]|AGA2|F2FF|E2(FG)|F>AGG|[1A2:|[2A4|]
+%
+[V:3]
+F2(F/G/)A|c2d2|c(A/G/)F2|(c>d)ff|(e/d/)cd2-|d2|:d2|cdf2|c2Ad|c2(dc)|A>FGG|[1F2:|[2F4|]
+w: 3.~Re-mem_ber you are hast-'ning_ on To_ death's dark gloom_y shade_
++: Your joys on earth will soon be gone, Your_ flesh in dust be laid. laid.
+%
+[V:4]
+F,2D,D,|C,2D,2|C,(D,/E,/)F,2|F,2F,F,|[F,A,]F,G,2-|G,2|:G,>A,|CB,C2|F,2(F,/G,/)A,|G,2(F,G,)|A,>F,D,C,|[1F,2:|[2F,4|]
+
+%%%%scale 40
+
 %%newpage
 
 X:122
