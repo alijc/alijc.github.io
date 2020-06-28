@@ -191,6 +191,55 @@ w: 4.~Lord, let not all my hopes be vain,_ Cre-ate my heart en-tire-ly new_
 +: Which hy-po-crites could ne'er at-tain,_ Which false a-pos-tates ne-ver knew._
 
 
+X:40
+T:40 Lennox
+C:Lewis Edson, 1785
+A:Charles Wesley, 1750
+L:1/4
+M:4/4
+Q:1/4=120
+P:A3
+K:BbMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+B4|ddBB|A3 c|BAGA|B4|z2 F2|BABd|c3 c|BBec|d3|
+|:z|z4|z2z B|dddB|AccB|d3d|B3B|A3 A|[1B3:|[2B4|]
+w: 1.~Blow ye the trum-pet blow, The glad-ly so-lemn sound;
++: Let all the na-tions know, To earth's re-mo-test bound,
++: The year of ju-bi-lee is come; Re-turn ye ran-somed sin-ner home. home.
+%
+[V:2]
+D4|FFFE|F3 F|DFGF|F4|z2 D2|FFFG|F3 F|DFGF|F3 |
+|:z|z4|z4|z2z D|FFFG|FFFD|GGGG|F3F|[1D3:|[2D4|]
+w: 2.~Ex-tol the Lamb of God, The all a-ton-ing Lamb;
++: Re-demp-tion through His blood Through-out the world pro-claim
++: The year of ju-bi-lee is come; Re-turn ye ran-somed sin-ner home. home.
+%
+[V:3]
+B4|BBFG|F3 F|Bcdc|B4|z2 B2|dfdB|c3 c|dBcA|B3|
+|:z|z2z F|BBBF|GGGB|cccd|BBBF|GGGB|c3A|[1B3:|[2B4|]
+w: 3.~The Gos-pel trum-pet hear, The news of hea-venly grace
++: And saved from earth, ap-pear be-fore your Sa-vior's face;
++: The year of ju-bi-lee is come; 
++: The year of ju-bi-lee is come; Re-turn ye ran-somed sin-ner home. home.
+%
+[V:4]
+B,,4|B,,B,,D,E,|F,3 F,|G,F,B,F,|B,,4|z2 B,,2|D,C,D,E,|F,3 F,|B,G,E,F,|B,,3|
+|:B,,|F,F,F,B,|G,G,G,F,|B,B,B,G,|F,F,F,B,,|B,,2B,,2|E,3E,|F,3F,|[1B,,3:|[2B,,4|]
+w: ||||||||||
++: The year of ju-bi-lee is come; 
++: The year of ju-bi-lee is come; Re-turn ye ran-somed sin-ner home. home.
+
+
 %%newpage
 
 X:122
