@@ -6,7 +6,7 @@
 %%scale .40
 
 X:31
-T:Ninety-Third Psalm S.M.
+T:31t Ninety-Third Psalm S.M.
 C:Jerimiah Ingalls, 1805
 A:Philip Doddridge
 L:1/2
@@ -47,7 +47,7 @@ w: 4.~Grace all the work shall_ crown Through ev-er-last_ing days;
 %%scale .30
 
 X:36
-T:Ninety-Fifth
+T:36b Ninety-Fifth
 C:Colton
 A:Isaac Watts
 L:1/4
@@ -119,6 +119,77 @@ w: 3.~Re-mem_ber you are hast-'ning_ on To_ death's dark gloom_y shade_
 F,2D,D,|C,2D,2|C,(D,/E,/)F,2|F,2F,F,|[F,A,]F,G,2-|G,2|:G,>A,|CB,C2|F,2(F,/G,/)A,|G,2(F,G,)|A,>F,D,C,|[1F,2:|[2F,4|]
 
 %%%%scale 40
+
+X:38
+T:38t Winter
+C:Daniel Reed, 1785
+L:1/2
+M:4/4
+Q:1/2=80
+K:FMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+%
+[V:1]
+z F|Ac|fc|(A/d/)c|c B|Ad|c(c/f/)|e f|dd|c(c/B/)|(A/c/)=B|c>c|f(e/d/)|cc|c2||
+%
+[V:2]
+z F|FF|F(F/G/)|AA|A G|FF|E(E/F/)|G A|FG|F(F/G/)|AG|A>A|A>G|FG|A2||
+w: His hoar-y frost his_ flee-cy snow, De-scend and clothe the_ ground
++: The li-quid streams for_bear to flow, In i-cy fet-ters bound.
+%
+[V:3]
+z F|cc|dc|f(c/A/)|F d|cB|A(G/F/)|c c|(B/d/)(G/B/)|(A/c/)(F/E/)|(F/f/)(e/d/4e/4)|f>c|(d/B/G/4A/4)B/|AG|F2||
+%
+[V:4]
+z F,|F,A,|B,(A,/G,/)|F,F,|F,G,|A,B,|(C/F,/)(E,/D,/)|C,F,|B,G,|A,(A,/G,/)|F,G,|F,>F,|D,E,|F,C,|[F,,2F,2]||
+
+
+X:39
+T:38b Windham
+C:Daniel Read, 1785
+A:Isaac Watts, 1709
+L:1/4
+M:4/4
+Q:1/4=100
+P:A4
+K:Emin
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+B4|BAG2|G2BB|B4-|B2 B2|Bde2|d2dc|B4-|B2 B2|BBB2|B2cB|B4-|B2 e2|BA(B/c/) (d/c/)|B2B2|B4|]
+w: 1.~Broad is the road that leads to death_  And thou-sands walk to-ge-ther there;_
++: But wis-dom shows a nar-row path,_ With here and there_ a_ tra-vel-ler.
+%
+[V:2]
+E4|EDD2|E2^DD|E4|z2 E2|EDG2|G2DE|F4|z2 D2|B,DD2|E2EF|G4|z2 E2|GFEF|E2^D2|E4|]
+w: 2.~"De-ny thy-self and take thy cross," Is the Re-deem-er's great com-mand
++: Na-ture must count her gold but dross, If she would gain this heav'n-ly land.
+%
+[V:3]
+E4|GAB2|B2GF|E4|z2 E2|GFG2|B2AG|F4|z2 F2|GAB2|e2 e^d|e4|z2 B2|BcBA|G2F2|E4|]
+w: 3.~The fear-ful soul that tires and faints, And walks the ways of God no more,
++: Is but es-teemed al-most a saint, And makes his own des-truc-tion sure.
+%
+[V:4]
+E,4|E,F,G,2|E,2B,,B,,|E,4-|E,2 E,2|E,B,,E,2|G,2F,E,|B,,4-|B,,2 B,,2|E,D,G,2|E,2A,B,|E,4-|E,2 E,2|E,F,G,D,|E,2B,,2|E,4|]
+w: 4.~Lord, let not all my hopes be vain,_ Cre-ate my heart en-tire-ly new_
++: Which hy-po-crites could ne'er at-tain,_ Which false a-pos-tates ne-ver knew._
+
 
 %%newpage
 
