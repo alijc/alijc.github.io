@@ -239,6 +239,45 @@ w: ||||||||||
 +: The year of ju-bi-lee is come; 
 +: The year of ju-bi-lee is come; Re-turn ye ran-somed sin-ner home. home.
 
+X:45
+T:45 New Britain
+A:John Newton, 1789
+L:1/4
+M:3/4
+Q:1/4=80
+P:A5
+K:CMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+z2 c|e2e|g2g|e2e|d2d|e2(c/e/)|g2(f/e/)|d2|:d|c2c|e2g|e2(e/d/)|c2c|G2c|e2d|[1e2:|[2e3|]
+w: 1.~A-maz-ing grace! how sweet the sound, That saved a_ wretch like_ me!
++: I was once lost but now am_ found, Was blind but now I see. see.
+w: 2.~'Twas grace that taught my heart to fear, And grace my_ fears re_lieved
++: How pre-cious did that grace ap_pear the hour I first be-lieved. lieved.
+%
+[V:2]
+z2 E|A2c|c2B|A2A|B2B|G2c|c2(B/A/)|G2|:B|c2c|c2c|A2(c/A/)|G2G|E2A|c2B|[1G2:|[2G3|]
+w: 3.~Thro' ma-ny dan-gers, toils and snares, I have al-read-y_ come;
++: 'Tis grace has brought me safe thus_ far; and grace will lead me home. home.
+w: 4.~The Lord has prom-ised good to me, His word my hope se_cures;
++: He will my shield and por-tion_ be As long as life en-dures. dures.
+%
+[V:3]
+z2 G|c2(e/c/)|e2d|c2A|G2G|c2(e/c/)|e2(d/e/)|g2|:(d/e/)|g2(e/d/)|c2(A/G/)|c2(A/G/)|G2G|c2(e/c/)|e2d|[1c2:|[2c3|]
+w: 5.~The earth shall_ soon dis-solve like snow, The sun for_bear to_ shine
++: But_ God, who_ called me_ here be_low, Will be for_ev-er mine. mine.
+%
+[V:4]
+z2 C,|C,2G,|E,2G,|C,2E,|G,2G,|C,2(G,/A,/)|C2A,|G,2|:G,|C2A,|G,2E,|G,2(E,/D,/)|C,2C,|C,2(E,/G,/)|A,2G,|[1C,2:|[2C,3|]
 
 %%newpage
 
