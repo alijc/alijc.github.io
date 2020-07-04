@@ -279,6 +279,43 @@ w: 5.~The earth shall_ soon dis-solve like snow, The sun for_bear to_ shine
 [V:4]
 z2 C,|C,2G,|E,2G,|C,2E,|G,2G,|C,2(G,/A,/)|C2A,|G,2|:G,|C2A,|G,2E,|G,2(E,/D,/)|C,2C,|C,2(E,/G,/)|A,2G,|[1C,2:|[2C,3|]
 
+X:46
+T:47t Primrose
+C:Amzi Chopin, 1805
+A:Isaac Watts, 1709
+L:1/4
+M:4/4
+Q:1/4=100
+P:A3
+K:AMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+z2 A2|cee2|e2dB|B4 |A2ce|cBA2-|A2 c2|(d/e/)fe2|e2cB|B4 |B2ce|A2e2|c4|]
+w: 1.~Sal-va-tion, O the joy-ful sound, 'Tis plea-sure to our ears;_
++: A sov_'reign balm for ev-'ry wound, a cor-dial for our fears.
+%
+[V:2]
+z2 E2|EEE2|E2FD|E4 |E2AE|F(C/D/)E2-|E2 G2|(A/G/) (F/G/)A2|B2EF|E4 |E2AE|F2E2|E4|]
+w: 2.~Bu-ried in sor-row and in sin, At hell's dark door we_ lay;_
++: But we_ a_rise by grace di-vine, To see a heav'n-ly day.
+%
+[V:3]
+z2 E2|ABc2|B2AF|E4 |E2AB|cde2-|e2 e2|d(c/B/)c2|(B>c)AF|E4 |E2AB|c2B2|A4|]
+w: 3.~Sal-va-tion! let the e-cho fly The spa-cious earth a-round;_
++: While all the_ ar-mies_ of the sky Con-spire to raise the sound.
+%
+[V:4]
+z2 [A,,E,]2|A,,E,C,2|E,2A,,B,,|E,4|E,2A,,E,|A,(G,/F,/)E,2-|E,2E,2|F,(F,/G,/)A,2|E,2A,,B,,|E,4|E,2A,,E,|[C,A,]2E,2|A,,4|]
+
 %%newpage
 
 X:122
