@@ -316,6 +316,45 @@ w: 3.~Sal-va-tion! let the e-cho fly The spa-cious earth a-round;_
 [V:4]
 z2 [A,,E,]2|A,,E,C,2|E,2A,,B,,|E,4|E,2A,,E,|A,(G,/F,/)E,2-|E,2E,2|F,(F,/G,/)A,2|E,2A,,B,,|E,4|E,2A,,E,|[C,A,]2E,2|A,,4|]
 
+X:47
+T:47b Idumea
+C:A. Davidson, 1817
+A:Charles Wesley, 1753
+L:1/2
+M:3/2
+Q:1/2=80
+P:A4
+K:Amin
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+z2 c|e2d|c2d|e2 e|d2(e/d/)|e2(d/c/)|A2|:A|c2(c/B/)|A2(c/d/)|e2(B/A/)|G2 g|e2(e/d/)|c2[Gd]|[1[Ae]2:|[2[Ae]3|]
+w: 1.~And am I born to die? To lay this_ bo-dy_ down?
++: And must my_ trem-bling_ spi-rit_ fly in-to a_ world un-known? known?
+%
+[V:2]
+z2 A|c2(B/A/)|G2G|A2 c|B2(A/G/)|c2(B/G/)|c2|:c|G2(A/B/)|c2G|[E2c2] ([E/B/][E/c/])|[G2d2]c|c2(G/F/)|E2G|[1E2:|[2E3|]
+w: 2.~A land of_ dee-pest shade, Un-pierced by_ hu-man_ thought;
++: The drea-ry_ re-gion of the_ dead, Where all things_ are for-got. got.
+%
+[V:3]
+z2 A|A2(G/A/)|c2(d/c/)|A2 e|g2(e/d/)|c2d|e2|:e|g2(e/d/)|e2(d/c/)|A2(G/E/)|G2 G|A2(G/A/)|c2(d/c/)|[1A2:|[2A3|]
+w: 3.~Soon as from_ earth I_ go, What will be_come of me?
++: E-ter-nal_ hap-pi_ness or_ woe Must then my_ por-tion_ be. be.
+%
+[V:4]
+z2 A,|A,2D,|E,2E,|A,,2A,|G,2(C/B,/)|A,2G,|C,2|:A,|G,2(A,/B,/)|A,2E,|A,,2C,|G,2C,|A,,2(C,/D,/)|E,2E,|[1A,,2:|[2A,,3|]
+w: 4.~Waked by the trum-pet sound, I from my_ grave shall rise
++: And see the_ Judge in glo-ry crowned, And see the_ flam-ing skies. skies.
+
 %%newpage
 
 X:122
