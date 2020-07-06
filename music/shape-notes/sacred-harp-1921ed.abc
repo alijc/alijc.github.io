@@ -355,6 +355,38 @@ z2 A,|A,2D,|E,2E,|A,,2A,|G,2(C/B,/)|A,2G,|C,2|:A,|G,2(A,/B,/)|A,2E,|A,,2C,|G,2C,
 w: 4.~Waked by the trum-pet sound, I from my_ grave shall rise
 +: And see the_ Judge in glo-ry crowned, And see the_ flam-ing skies. skies.
 
+X:48
+T:48 Kedron
+C:Amos Pilsbury, 1799
+L:1/4
+M:4/4
+Q:1/4=100
+P:A1
+K:Emin
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+B2BB|G2G2|AcB2|B2BB|B2A2|GEHB2|:B2Be|d2e2|BBd2|d2dc|B2(G>A)|BBB2:|]
+%
+[V:2]
+E2EE|E2G2|FEF2|D2EE|E2D2|B,CHD2|:G2FG|D2E2|DDD2|F2GF|E2E2|DDE2:|]
+w: Thou Man of grief, re-mem-ber me, Thou ne-ver canst thy-self for-get
++: Thy last ex-pir-ing a-go-ny, Thy faint-ing pangs and blood-y sweat.
+%
+[V:3]
+(G>F)EE|B2B2|AGF2|(G>F)EE|e2(f<e)|dcHB2|:e2de|B2G2|dBA2|A2BE|(G>A) (B>A)|GFE2:|]
+%
+[V:4]
+E,2E,B,,|E,2E,2|D,E,B,,2|B,,2E,E,|G,2D,2|(G,/F,/)E,HB,,2|:E,2B,B,|G,2B,2|A,G,D,2|D,2G,(G,/F,/)|E,2E,2|B,,B,,E,2:|]
+
 %%newpage
 
 X:122
