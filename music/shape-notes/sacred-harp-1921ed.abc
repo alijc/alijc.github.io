@@ -387,6 +387,41 @@ w: Thou Man of grief, re-mem-ber me, Thou ne-ver canst thy-self for-get
 [V:4]
 E,2E,B,,|E,2E,2|D,E,B,,2|B,,2E,E,|G,2D,2|(G,/F,/)E,HB,,2|:E,2B,B,|G,2B,2|A,G,D,2|D,2G,(G,/F,/)|E,2E,2|B,,B,,E,2:|]
 
+X:49
+T:49t Old Hundred
+C:Louis Bourgeois
+A:Bishop Ken, 1661
+L:1/2
+M:2/2
+Q:1/2=80
+P:A1
+K:AMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+zA|cB|AG|FG|A2|z e|e(c/4B/4A/)|GA|FA|B2|z c|BA|Ge|d(c/B/)|c2|z c|eA|GF|AG|A2|]
+%
+[V:2]
+zE|AB|AE|FE|E2|z E|A(A/E/)|G(F/E/)|FE|E2|z F|GE|BA|FE|E2|z A|E(F/4G/4A/)|EF|EE|C2|]
+w: O come, loud an-thems let us sing, Loud thanks to_ out Al_might-y King.
++: For we our voi-ces high should raise, When our sal__va-tion's Rock we praise.
+%
+[V:3]
+zA|AG|FE|AB|c2|z c|cc|BA|dc|B2|z A|Bc|BA|FG|A2|z e|cA|Bd|cB|A2|]
+%
+[V:4]
+z A,|A,E,|F,E,|F,E,|A,,2|z A,|A,A,|E,F,|D,A,,|E,2|
+z F,|E,A,|E,C,|D,E,|A,,2|z A,|A,F,|E,D,|A,E,|A,,2|]
+
+
 %%newpage
 
 X:122
