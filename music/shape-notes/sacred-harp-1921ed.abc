@@ -422,6 +422,47 @@ z A,|A,E,|F,E,|F,E,|A,,2|z A,|A,A,|E,F,|D,A,,|E,2|
 z F,|E,A,|E,C,|D,E,|A,,2|z A,|A,F,|E,D,|A,E,|A,,2|]
 
 
+X:50
+T:49b Mear
+C:Aaron Williams, 1760
+A:Jesse Mercer
+L:1/2
+M:3/2
+Q:1/2=80
+P:A5
+K:GMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+z2 G|B2B|d2G|B2G|F2 d|d2B|g2e|d2 B|c2A|B2B|A2G|F2 B|A2d|e2d|B3|]
+w: 1.~Will God for-ev-er cast me off? His wrath for-ev-er smoke
++: A-gainst the peo-ple of His love, His lit-tle cho-sen flock.
+w: 2.~Think of the tribes so dear-ly bought With the Re-deem-er's blood
++: Nor let Thy Zi-on be for-got Where once Thy glo-ry stood.
+%
+[V:2]
+z2 G|G2F|G2E|E2D|D2 D|G2D|G2E|F2 G|G2F|G2E|E2G|D2 E|F2G|G2F|D3|]
+w: 3.~Where once Thy church-es prayed and sang They foes pro-fane-ly rage;
++: A-mid Thy gates their en-signs hang, And there their host en-gage.
+w: 4.~And still to height-en our dis-tress, Thy pre-sence is with-drawn
++: Thy wont-ed signs of power and grace Thy power and grace are gone.
+%
+[V:3]
+z2 G|d2d|B2B|(GA)B|A2 A|B2G|d2c|d2 d|e2d|d2G|c2B|A2 G|d2B|(cB)A|G3|]
+w: 5.~No pro-phet speaks to calm_ our grief, But all in si-lence mourn
++: Nor know the hour of our re-lief, The hour of Thy_ re-turn.
+%
+[V:4]
+z2 G,|G,2D,|G,2E,|E,2B,,|D,2 D,|G,2B,|G,2A,|D,2 G,|C,2D,|G,2E,|C,2G,,|D,2 E,|D,2G,|C,2D,|G,,3|]
+
 %%newpage
 
 X:122
