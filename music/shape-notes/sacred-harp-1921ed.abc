@@ -45,6 +45,46 @@ w: 4.~Grace all the work shall_ crown Through ev-er-last_ing days;
 +: It lays in heav'n the top-most stone, And well de-serves our_ praise.
 
 %%scale .30
+X:32
+T:32b Distress
+C:Southern Harmony, 1835
+A:Anne Steele, 1760
+L:1/4
+M:4/4
+Q:1/4=100
+P:A3
+K:Edor
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+z2 B2|BcB2|e2BB|B4 |e2dB|B2e2|ged2-|d2|:d2|BBB2|G2BB|A2 B2|BcB2|e2d(B/A/)|[1B2:|[2B4|]
+w: 1.~So fades the love-ly bloom-ing flow'r, Frail, smil-ing so-lace of an hour;_
++: So soon our tran-sient com-forts fly, And plea-sure on-ly blooms to_ die. die.
+%
+[V:2]
+z2 G2|EFG2|A2GB|G4 |E2FF|G2A2|BGF2-|F2|:D2|GFG2|B2GG|F2 G2|BAG2|A2G(E/D/)|[1E2:|[2E4|]
+w: 2.~Is there no kind, no  heal-ing art To soothe the an-quish of the heart_
++: Spir-it of grace, be ev-er nigh, Thy com-forts are not made to_ die. die.
+%
+[V:3]
+z2 B2|GAB2|A2G(E/D/)|E4 |A2Bd|e2e2|dBA2-|A2|:G2|Bde2|d2BG|d2 E2|GAB2|A2G(E/D/)|[1E2:|[2E4|]
+w: 3.~Let gen-tle pa-tience smile on_ pain, Till dy-ing hope re-vives a-gain,_
++: Hope wipes the tear from sor-row's eye, And faith points up-ward to the_ sky. sky.
+%
+[V:4]
+z2 E,2|G,F,E,2|E,2B,,B,,|E,4 |E,2D,D,|E,2A,2|G,E,D,2-|D,2|:D,2|G,F,E,2|D,2E,E,|D,2 E,2|G,F,E,2|E,2B,,B,,|[1E,2:|[2E,4|]
+w: 4.~
++: 
+
+%%scale .30
 
 X:36
 T:36b Ninety-Fifth
