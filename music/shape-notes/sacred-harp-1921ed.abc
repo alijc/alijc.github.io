@@ -505,6 +505,42 @@ z2 G,|G,2D,|G,2E,|E,2B,,|D,2 D,|G,2B,|G,2A,|D,2 G,|C,2D,|G,2E,|C,2G,,|D,2 E,|D,2
 
 %%newpage
 
+X:95
+T:95b Vernon
+C:F.F.Chopin
+L:1/4
+M:2/4
+Q:1/4=80
+P:A2
+K:Emin
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+z B|ee|d(A/B/)|(d/B/) (A/G/)|B> B|d>d|dB|E(G/>A/)|B2:|z|:G|d>d|eB|(A/G/) (B/c/)|d> f|gd|e(d/c/)|BB|[1B:|[2B2|]
+w: 1.~Come, O Thou tra-ve_ler_ un_known, Whom still I hold, but can-not_ see
++: With Thee all night I mean_ to_ stay, And wres-tle till the_ break of day. day.
+w: My com-pa-ny be_fore_ is_ gone, And I am left a-lone with_ Thee
+%
+[V:2]
+z E|GG|G(A/G/)|FD|E> B|A>G|DE|ED|E2:|z |:B|B>B|A(E/F/4G/4)|(A/B/) (B/A/)|G>c|BG|ED|B,E|[1E:|[2E2|]
+%
+[V:3]
+z G|BB|B(A/G/)|B(A/G/)|E3/2 (F/4G/4)|A>B|AE|G(G/>A/)|G2:|z|:d|g>f|e>d|(e/d/) (B/A/)|G>A|Bd|e(B/A/)|GE|[1E:|[2E2|]
+w: 2.~In vain Thou strug-glest_ to get_ free, I_ ne-ver will un-loose my_ hold;
++: Wres-tling, I will not let_ Thee_ go, Till I Thy name, Thy_ na-ture know. know.
+w: Art Thou the Man that_ died for_ me? The_ se-cret of Thy love un_fold
+%
+[V:4]
+z E,|E,B,,|G,E,|B,,D,|E,>G,|D>B,,|D,E,|G,B,|E,2:|z|:G,|G,>B,|(B,/E,/)D,|(A,/G,/)F,|G,>F,|E,G,|A,D,|B,,B,,|[1E,:|[2E,2|]
+
 X:122
 T:All is Well
 C:White/Denson
