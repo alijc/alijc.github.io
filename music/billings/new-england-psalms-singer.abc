@@ -1,0 +1,103 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+
+X:0
+T:Wake Ev'ry Breath
+C:W. Billings
+L:1/2
+M:3/2
+Q:1/2=80
+K:CMaj
+V:1 clef=treble-8
+%%MIDI program 1 68 % Oboe
+[V:1]
+ c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||
+w:Wake ev'__ry Breath__ & ev'__ry String
+c|c2G|(A/>B/c)A|(Gc)G|c2||
+w:To bless the great__ Re-deem_er King
+g|g2g|(e/>d/c)c|(e/>f/g)g|g2||
+w:His Name thro ev'__ry Clime__ a-dor'd
+ c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||
+w:Let Joy__ & Gra_ti__tude_ and__ Love__
+ e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||
+w:Thro' all_ the Notes__ of Mu_sic__ rove:__
+ e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+w:And Je____sus found____ on ev___ry__ Chord
+%
+[K:bass]
+[C,C]|[C,C]2[G,,G,]|([A,,A,]/>[B,,B,]/[C,C])[A,,A,]|([G,,G,][C,C])[G,,G,]|[C,C]2||
+w:To bless the great__ Re-deem_er King
+
+
+X:999
+T:Wake Ev'ry Breath
+C:W. Billings
+L:1/2
+M:3/2
+Q:1/2=80
+K:CMaj clef=treble-8
+%%MIDI program 1 68 % Oboe
+%%MIDI program 2 68 % Oboe
+%%MIDI program 3 68 % Oboe
+%%MIDI program 4 68 % Oboe
+%%MIDI program 5 68 % Oboe
+%%MIDI program 6 68 % Oboe
+[V:1]
+c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
+c|c2G|(A/>B/c)A|(Gc)G|c2||\
+g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
+c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
+e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
+e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+[V:2]
+z|z3|z3|z3|z2|
+c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
+c|c2G|(A/>B/c)A|(Gc)G|c2||\
+g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
+c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
+e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
+e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+[V:3]
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
+c|c2G|(A/>B/c)A|(Gc)G|c2||\
+g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
+c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
+e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
+e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+[V:4]
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
+c|c2G|(A/>B/c)A|(Gc)G|c2||\
+g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
+c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
+e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
+e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+[V:5]
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
+c|c2G|(A/>B/c)A|(Gc)G|c2||\
+g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
+c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
+e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
+e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+[V:6]
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+z|z3|z3|z3|z2|
+c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
+c|c2G|(A/>B/c)A|(Gc)G|c2||\
+g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
+c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
+e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
+e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
