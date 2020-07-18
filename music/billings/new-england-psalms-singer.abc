@@ -1,16 +1,19 @@
 %%abc-version 2.1
 %%titletrim true
-%%titleformat A-1 T C1, Z-1, S-1
+%%titleformat A-1 T C1, Z-1
 %%writefields QP 0
 
 X:0
 T:Wake Ev'ry Breath
+T:A Canon of 6 in One with a Ground
 C:W. Billings
+A:Rev. Dr. Byles
+S:https://www.loc.gov/resource/ihas.200154806.0/?sp=8
 L:1/2
 M:3/2
 Q:1/2=80
-K:CMaj
-V:1 clef=treble-8
+K:CMaj clef=treble-8
+V:1
 %%MIDI program 1 68 % Oboe
 [V:1]
  c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||
@@ -27,77 +30,104 @@ w:Thro' all_ the Notes__ of Mu_sic__ rove:__
 w:And Je____sus found____ on ev___ry__ Chord
 %
 [K:bass]
-[C,C]|[C,C]2[G,,G,]|([A,,A,]/>[B,,B,]/[C,C])[A,,A,]|([G,,G,][C,C])[G,,G,]|[C,C]2||
+"^The Ground Bass to be continually sung by 3 or 4 deep Voices with the 6 other parts
+[C,C]|[C,C]2[G,,G,]|([A,,A,]/>[B,,B,]/[C,C])[A,,A,]|([G,,G,][C,C])[G,,G,]|[C,C]2|]
 w:To bless the great__ Re-deem_er King
 
 
-X:999
-T:Wake Ev'ry Breath
+X:1
+T:America PM
 C:W. Billings
+A:Rev. Dr. Byles
+S:https://www.loc.gov/resource/ihas.200154806.0/?sp=42
 L:1/2
 M:3/2
 Q:1/2=80
-K:CMaj clef=treble-8
-%%MIDI program 1 68 % Oboe
-%%MIDI program 2 68 % Oboe
-%%MIDI program 3 68 % Oboe
-%%MIDI program 4 68 % Oboe
-%%MIDI program 5 68 % Oboe
-%%MIDI program 6 68 % Oboe
+P:A4
+K:DMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
 [V:1]
-c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
-c|c2G|(A/>B/c)A|(Gc)G|c2||\
-g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
-c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
-e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
-e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+A|(dc)B|(cB)A|A2G|A2
+c|d2B|(f/>e/)dd|(AB)A|A2
+A|(dc/B/)A|(B/>c/d)A|(de)e|d2
+d|(AB)A|(dc)A|d2e|c2
+A|(AB)d|(ed)f|(dA)G|A2
+A|d2f|(Be)d|(c/B/A)A|A2|]
+w: 1.~To Thee_ the tune_ful An-them soars,
++: To Thee, our Fa__ther's God,_ and ours;
++: This Wil__der-ness__ we chose_ our Seat:
++: To Rights_ se-cur'd_ by E-qual Laws,
++: From Per_se-cu_tion's I_ron Claws,
++: We here have fought_ our calm__ Re-treat.
+%
 [V:2]
-z|z3|z3|z3|z2|
-c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
-c|c2G|(A/>B/c)A|(Gc)G|c2||\
-g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
-c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
-e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
-e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+D|F2D|(D/>E/F)E|F2E|E2
+E|F2G|(AG)F|(FG)E|F2
+F|(DE)F|(EA)G|(FG)E|F2
+F|(AG)E|(F/>G/A)F|(FE/D/)E|E2
+F|(FG)A|(E/>F/G)A|(D/>E/F)G|F2
+F|(F/>E/D)A|(DE)F|(FG/F/)E|F2|]
+w: 2.~See! how the Flocks__ of JE-SUS rise!
++: See! how the Face_ of Par_a-dise
++: Blooms thro'_ the Thick_ets of_ the Wild!
++: Here Li_ber-ty__ e-rects__ her Throne;
++: Here Plen_ty pours__ her Trea__sures down;
++: Peace smiles,__ as Heav'n_ly Cher__ubs mild.
+%
 [V:3]
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
-c|c2G|(A/>B/c)A|(Gc)G|c2||\
-g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
-c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
-e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
-e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+w: 3.~
++: 
++: 
++: 
++: 
++: 
++: 
+%
 [V:4]
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
-c|c2G|(A/>B/c)A|(Gc)G|c2||\
-g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
-c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
-e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
-e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
-[V:5]
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
-c|c2G|(A/>B/c)A|(Gc)G|c2||\
-g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
-c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
-e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
-e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
-[V:6]
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-z|z3|z3|z3|z2|
-c|(e/>f/e)d|(c/>d/e)f|(g/>f/e)d|c2||\
-c|c2G|(A/>B/c)A|(Gc)G|c2||\
-g|g2g|(e/>d/c)c|(e/>f/g)g|g2||\
-c|(e/>f/g)g|(ag)(3(B/c/d/)|(dc)(3(B/c/d/)|(e/>d/c)||\
-e|(cG)G|(c/>d/e)c|(Bc)(3(d/c/B/)|(c/>d/e)||\
-e|(g/f/e/d/c/)B/|(c/d/e/f/g/)f/|(e/g/c/e/)(3(d/c/B/)|c2|]
+
+
+
+X:999
+T:
+C:W. Billings
+A:Rev. Dr. Byles
+S:https://www.loc.gov/resource/ihas.200154806.0/?sp=999
+L:1/2
+M:3/2
+Q:1/2=80
+P:A4
+K:CMaj
+V:1 clef=treble
+%%MIDI program 1 73 % Piccolo
+V:2 clef=treble 
+%%MIDI program 2 69 % Oboe
+V:3 clef=treble-8
+%%MIDI program 3 67 % Tenor Sax
+V:4 clef=bass
+%%MIDI program 4 71 % Bassoon
+[P:A]
+%
+[V:1]
+w: 1.~
++:
+%
+[V:2]
+w: 2.~
++: 
+%
+[V:3]
+w: 3.~
++: 
+%
+[V:4]
+w: 4.~
++: 
