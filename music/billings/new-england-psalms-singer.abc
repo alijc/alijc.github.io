@@ -84,16 +84,26 @@ w: 2.~See! how the Flocks__ of JE-SUS rise!
 +: Peace smiles,__ as Heav'n_ly Cher__ubs mild.
 %
 [V:3]
-w: 3.~
-+: 
-+: 
-+: 
-+: 
-+: 
-+: 
+D|(DA)G|(Fd)c|(dc)B|A2
+A|A2G|(FB)A|(d/>c/B)c|d2
+d|(fe)d|(gf)e|(de/d/)(c/B/)|A2
+d|d2(c/B/)|A2D|(FG/F/)(E/D/)|A2
+d|(Ae)d|(cB)A|(GA)(B/c/)|d2
+d|(AB)A|(dg)(f/e/)|(de/d/)c|d2|]
+w: 3.~Lord, guard_ thy Fa_vours; Lord,_ ex-tend
++: Where far-ther Wes_tern Suns__ de-fend;
++: Nor South_ern Seas_ the Bless__ings_ bound;
++: 'Till Free-dom_ lift her chear__ful_ Head,
++: 'Till pure_ Re-li_gion on_ward_ spread,
++: And beam_ing, wrap_ the_ Globe__ a-round.
 %
 [V:4]
-
+D,|(D,/>E,/F,)G,|(A,B,)A,|D,2E,|A,,2
+A,,|D,2E,|(D,G,)F,|(D,[G,,G,])[A,,A,]|D,2
+D,|(D,A,/G,/)F,|(E,D,)C,|(D,E,)A,,|D,2
+D,|(D,G,)A,|(D,/>E,/F,)F,|(D,E,/D,/)(C,/B,,/)|A,,2
+D,|(F,E,)D,|(A,G,)F,|(G,F,)E,|D,2
+D,|(F,G,)F,|(G,/>F,/E,)D,|(F,/G,/A,)A,,|[D,,D,]2|]
 
 
 X:999
