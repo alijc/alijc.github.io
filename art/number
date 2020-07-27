@@ -1,0 +1,74 @@
+#!/bin/bash
+declare -a ones=("" One Two Three Four Five Six Seven Eight Nine)
+declare -a tens=("" Teen Twenty Thirty Forty Fifty Sixty Seventy Eighty Ninety)
+declare text
+
+###set -x
+
+function doOnes {
+    text=${ones[$1]}
+}
+
+function doTens {
+    case $1 in
+	1)
+	    case $text in
+		"")      text=Ten ;;
+		"One")   text=Eleven ;;
+		"Two")   text=Twelve ;;
+		"Three") text=Thirteen ;;
+		"Five")  text=Fifteen ;;
+		*)       text=$text"teen" ;;
+	    esac
+	    ;;
+
+	*)
+	    text=${tens[$1]}" "$text
+	    ;;
+    esac
+    
+}
+
+function doHundreds {
+    text=${ones[$1]}" Hundred "$text
+}
+
+function makeText {
+    reversed=$( printf $1 | rev )
+    for x in $( seq 0 $((${#reversed} - 1)) ); do
+    	digit=$(( ${reversed:${x}:1} ));
+	case $x in
+	    0) doOnes $digit ;;
+	    1) doTens $digit $text ;;
+	    2) doHundreds $digit $text ;;
+	esac
+    done
+}
+        
+cmd="convert -size 1500x1020 xc:ivory"
+
+for i in $( seq 1 124 ); do
+    makeText $i
+    pointsize=" -pointsize "$((200-$i))
+    color=" -fill rgb\("$((2*$i))",25,"$((255-$(($i*2)) ))",0.001\)"
+    stroke=" -stroke black"
+    x=$(( 10 + $(($i*3)) ))
+    y=$(( 140 + $(($i*7)) ))
+    draw=" -draw \"text "$x","$y" '"$text"'\""
+    cmd=$cmd$pointsize$color$stroke$draw
+done
+cmd=$cmd" xxx.gif"
+
+#echo $cmd
+eval $cmd
+display xxx.gif&
+
+
+#cmd=
+#"convert -size 320x100 xc:gray
+# -font Loma -pointsize 124 -fill blue  -draw \"text 25,65 'Anthony'\"
+# -font Loma -pointsize 72 -fill yellow  -draw \"text 30,75 'XxX'\"
+# text_draw.gif"
+
+
+        
