@@ -54,21 +54,14 @@ for i in $( seq 1 124 ); do
     stroke=" -stroke black"
     x=$(( 10 + $(($i*3)) ))
     y=$(( 140 + $(($i*7)) ))
-    draw=" -draw \"text "$x","$y" '"$text"'\""
-    cmd=$cmd$pointsize$color$stroke$draw
+    annotate=" -annotate +"$x"+"$y" '"$text"'"
+    cmd=$cmd$pointsize$color$stroke$annotate
 done
 cmd=$cmd" xxx.gif"
 
 #echo $cmd
 eval $cmd
 display xxx.gif&
-
-
-#cmd=
-#"convert -size 320x100 xc:gray
-# -font Loma -pointsize 124 -fill blue  -draw \"text 25,65 'Anthony'\"
-# -font Loma -pointsize 72 -fill yellow  -draw \"text 30,75 'XxX'\"
-# text_draw.gif"
 
 
         
