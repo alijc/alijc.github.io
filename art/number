@@ -52,9 +52,9 @@ for i in $( seq 1 124 ); do
     pointsize=" -pointsize "$((200-$i))
     color=" -fill rgb\("$((2*$i))",25,"$((255-$(($i*2)) ))",0.001\)"
     stroke=" -stroke black"
-    x=$(( 10 + $(($i*3)) ))
-    y=$(( 140 + $(($i*7)) ))
-    annotate=" -annotate +"$x"+"$y" '"$text"'"
+    x=0
+    y=$(( -400 + $(($i*7)) ))
+    annotate=" -gravity center -annotate +"$x"+"$y" '"$text"'"
     cmd=$cmd$pointsize$color$stroke$annotate
 done
 cmd=$cmd" xxx.gif"
