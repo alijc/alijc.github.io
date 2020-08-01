@@ -47,19 +47,20 @@ function makeText {
         
 cmd="convert -size 1500x1020 xc:ivory"
 
-inc=0.10   # in radians
-radius=200
+#inc=0.10   # in radians
+#radius=200
 
-for i in $( seq 1 140 ); do
+for i in $( seq 1 141 ); do
     makeText $i
-    pointsize=" -pointsize "$((200-$i))
+    ps=$(echo "90 - ($i / 4.0)" | bc -l )
+    pointsize=" -pointsize "$ps
     color=" -fill rgb\("$((2*$i))",25,"$((255-$(($i*2)) ))",0.001\)"
     stroke=" -stroke black"
     slewx=$(($i*3))
     slewy=$slewx
-    x=$(echo "c($i*$inc)*$radius-100" | bc -l)
-    y=$(echo "s($i*$inc)*$radius" | bc -l)
-    annotate=" -gravity center -annotate "$slewx"x"$slewy"+"$x"+"$y" '"$text"'"
+    x=600 ##$(echo "c($i*$inc)*$radius-100" | bc -l)
+    y=500 ##$(echo "s($i*$inc)*$radius" | bc -l)
+    annotate=" -annotate "$slewx"x"$slewy"+"$x"+"$y" '"$text"'"
     cmd=$cmd$pointsize$color$stroke$annotate
 done
 cmd=$cmd" xxx.gif"
