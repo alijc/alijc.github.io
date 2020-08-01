@@ -47,15 +47,18 @@ function makeText {
         
 cmd="convert -size 1500x1020 xc:ivory"
 
-for i in $( seq 1 139 ); do
+inc=0.10   # in radians
+radius=200
+
+for i in $( seq 1 140 ); do
     makeText $i
     pointsize=" -pointsize "$((200-$i))
     color=" -fill rgb\("$((2*$i))",25,"$((255-$(($i*2)) ))",0.001\)"
     stroke=" -stroke black"
     slewx=$(($i*3))
     slewy=$slewx
-    x=0
-    y=0
+    x=$(echo "c($i*$inc)*$radius-100" | bc -l)
+    y=$(echo "s($i*$inc)*$radius" | bc -l)
     annotate=" -gravity center -annotate "$slewx"x"$slewy"+"$x"+"$y" '"$text"'"
     cmd=$cmd$pointsize$color$stroke$annotate
 done
