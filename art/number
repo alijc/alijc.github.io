@@ -4,6 +4,15 @@ use warnings;
 use Time::Local;
 use Image::Magick;
 
+my @ones = ( "", "One", "Two", "Three", "Four", 
+	     "Five", "Six", "Seven", "Eight", "Nine" );
+my @tens = ( "", "Teen", "Twenty", "Thirty", "Forty", 
+	     "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" );
+
+my @gravities = ( "NorthWest", "North", "NorthEast",
+		  "West", "Center", "East",
+		  "SouthWest", "South", "SouthEast" );
+
 my $size      = "1500x1020";
 my $bg        = "ivory";
 my $red_init  =  0;
@@ -12,20 +21,15 @@ my $green_init=  25;
 my $green_inc =  0;
 my $blue_init =  255;
 my $blue_inc  = -1;
-my $gravity   = "SouthEast";
+my $gravity   =  $gravities[int(rand(@gravities))];
 my $ps_init   =  130;
 my $ps_inc    =  2.0;
-my $slew_inc  =  2 + int(rand(5.0));
+my $slew_inc  =  4 + int(rand(5.0));
 my $x_origin  =  500;
 my $y_origin  =  400;
 my $origin_inc=  rand(0.20);   # in radians
 my $radius    =  int(rand(200));
 
-
-my @ones = ( "", "One", "Two", "Three", "Four", 
-	     "Five", "Six", "Seven", "Eight", "Nine" );
-my @tens = ( "", "Teen", "Twenty", "Thirty", "Forty", 
-	     "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" );
 my $text = "";
 
 # calculate the number of days we've been living through this
@@ -34,7 +38,8 @@ my $now = time();
 my $days = int( ($now - $then) / (24 * 60 * 60) );
 ##printf "then:%d now:%d days since:%d\n", $then, $now, $days;
 
-my $filename = $days ."-". $radius ."-". $origin_inc ."-". $slew_inc .".gif";
+my $filename = $days ."-". $gravity ."-". $radius ."-.". 
+    int(100 * $origin_inc) ."-". $slew_inc .".gif";
 
 my $image = Image::Magick->new(size=>$size);
 $image->ReadImage("canvas:".$bg);
