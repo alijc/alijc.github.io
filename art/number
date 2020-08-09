@@ -15,15 +15,13 @@ my @gravities = ( "NorthWest", "NorthEast",
 
 my $size      = "1500x1020";
 my $bg        = "ivory";
-my $red_init  =  0;
-my $red_inc   =  2;
-my $green_init=  25;
-my $green_inc =  0;
-my $blue_init =  255;
-my $blue_inc  = -1;
+my $red_init  =  0;   my $red_inc   =  2;
+my $green_init=  25;  my $green_inc =  0;
+my $blue_init =  255; my $blue_inc  = -1;
+
 my $gravity   =  $gravities[int(rand(@gravities))];
-my $ps_init   =  130;
-my $ps_inc    =  2.0;
+my $ps_init   =  200;
+my $ps_inc    =  1.0;
 my $slew_inc  =  4 + int(rand(5.0));
 my $x_origin  =  500;
 my $y_origin  =  400;
