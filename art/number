@@ -14,7 +14,7 @@ my $blue_init =  255;
 my $blue_inc  = -1;
 my $gravity   = "SouthEast";
 my $ps_init   =  130;
-my $ps_inc    = -2.0;
+my $ps_inc    =  2.0;
 my $slew_inc  =  3.0;
 my $x_origin  =  500;
 my $y_origin  =  400;
@@ -31,7 +31,7 @@ my $text = "";
 # calculate the number of days we've been living through this
 my $then = timelocal(0,0,0,13,2,2020);   # March 13, 2020 --- lockdown
 my $now = time();
-my $days = ($now - $then) / (24 * 60 * 60);
+my $days = int( ($now - $then) / (24 * 60 * 60) );
 ##printf "then:%d now:%d days since:%d\n", $then, $now, $days;
 
 my $image = Image::Magick->new(size=>$size);
@@ -41,7 +41,7 @@ for (my $i=1; $i<=$days; $i++) {
 
     makeText( $i );  ## Turn the integer into its English name, in global $text
 
-    my $pointsize = $ps_init + ($i/$ps_inc);
+    my $pointsize = $ps_init - ($i / $ps_inc);
     my $red       = $red_init + ($i * $red_inc);
     my $green     = $green_init + ($i * $green_inc);
     my $blue      = $blue_init + ($i * $blue_inc);
