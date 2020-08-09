@@ -9,9 +9,9 @@ my @ones = ( "", "One", "Two", "Three", "Four",
 my @tens = ( "", "Teen", "Twenty", "Thirty", "Forty", 
 	     "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" );
 
-my @gravities = ( "NorthWest", "North", "NorthEast",
-		  "West", "Center", "East",
-		  "SouthWest", "South", "SouthEast" );
+my @gravities = ( "NorthWest", "NorthEast",
+		  "West",      "East",
+		  "SouthWest", "SouthEast" );
 
 my $size      = "1500x1020";
 my $bg        = "ivory";
