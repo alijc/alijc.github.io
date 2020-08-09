@@ -1,73 +1,96 @@
-#!/bin/bash
-declare -a ones=("" One Two Three Four Five Six Seven Eight Nine)
-declare -a tens=("" Teen Twenty Thirty Forty Fifty Sixty Seventy Eighty Ninety)
-declare text
+#!/usr/bin/perl
+use strict;
+use warnings;
+use Time::Local;
+use Image::Magick;
 
-###set -x
+my $size      = "1500x1020";
+my $bg        = "ivory";
+my $red_init  =  0;
+my $red_inc   =  2;
+my $green_init=  25;
+my $green_inc =  0;
+my $blue_init =  255;
+my $blue_inc  = -1;
+my $gravity   = "SouthEast";
+my $ps_init   =  130;
+my $ps_inc    = -2.0;
+my $slew_inc  =  3.0;
+my $x_origin  =  500;
+my $y_origin  =  400;
+my $origin_inc=  0.10;   # in radians
+my $radius    =  160;
 
-function doOnes {
-    text=${ones[$1]}
+
+my @ones = ( "", "One", "Two", "Three", "Four", 
+	     "Five", "Six", "Seven", "Eight", "Nine" );
+my @tens = ( "", "Teen", "Twenty", "Thirty", "Forty", 
+	     "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" );
+my $text = "";
+
+# calculate the number of days we've been living through this
+my $then = timelocal(0,0,0,13,2,2020);   # March 13, 2020 --- lockdown
+my $now = time();
+my $days = ($now - $then) / (24 * 60 * 60);
+##printf "then:%d now:%d days since:%d\n", $then, $now, $days;
+
+my $image = Image::Magick->new(size=>$size);
+$image->ReadImage("canvas:".$bg);
+
+for (my $i=1; $i<=$days; $i++) {
+
+    makeText( $i );  ## Turn the integer into its English name, in global $text
+
+    my $pointsize = $ps_init + ($i/$ps_inc);
+    my $red       = $red_init + ($i * $red_inc);
+    my $green     = $green_init + ($i * $green_inc);
+    my $blue      = $blue_init + ($i * $blue_inc);
+    my $fillcolor = "rgb(". $red .",". $green. ",". $blue .")";
+    my $slew      = ($i * $slew_inc);
+    my $x         = $x_origin + ( cos($i*$origin_inc) * $radius);
+    my $y         = $y_origin + ( sin($i*$origin_inc) * $radius);
+    my $geometry  = "+".$x."+".$y;
+
+    $image->Annotate(
+	text=>$text,
+	pointsize=>$pointsize,
+	fill=>$fillcolor, stroke=>"black",
+	geometry=>$geometry,
+	rotate=>$slew,
+	gravity=>$gravity,
+	);
+
 }
 
-function doTens {
-    case $1 in
-	1)
-	    case $text in
-		"")      text=Ten ;;
-		"One")   text=Eleven ;;
-		"Two")   text=Twelve ;;
-		"Three") text=Thirteen ;;
-		"Five")  text=Fifteen ;;
-		*)       text=$text"teen" ;;
-	    esac
-	    ;;
+$image->Write( $days . ".gif" );
+$image->Display;
+        
+sub makeText {
 
-	*)
-	    text=${tens[$1]}" "$text
-	    ;;
-    esac
-    
-}
-
-function doHundreds {
-    text=${ones[$1]}" Hundred "$text
-}
-
-function makeText {
-    reversed=$( printf $1 | rev )
-    for x in $( seq 0 $((${#reversed} - 1)) ); do
-    	digit=$(( ${reversed:${x}:1} ));
-	case $x in
-	    0) doOnes $digit ;;
-	    1) doTens $digit $text ;;
-	    2) doHundreds $digit $text ;;
-	esac
-    done
+    my $num = $_[0];
+    doOnes( $num % 10 );
+    doTens( ($num / 10 ) % 10 );
+    doHundreds( ($num / 100 ) % 10 );
 }
         
-cmd="convert -size 1500x1020 xc:ivory"
+sub doOnes {
+    $text = $ones[$_[0]];
+}
 
-inc=0.10   # in radians
-radius=160
-
-for i in $( seq 1 143 ); do
-    makeText $i
-    ps=$(echo "130 - ($i/2.0)" | bc -l )
-    pointsize=" -pointsize "$ps
-    color=" -fill rgb\("$((2*$i))",25,"$((255-$(($i*2)) ))",0.001\)"
-    stroke=" -stroke black"
-    slewx=$(($i*3))
-    slewy=$slewx
-    x=$(echo "c($i*$inc)*$radius+500" | bc -l)
-    y=$(echo "s($i*$inc)*$radius+400" | bc -l)
-    annotate=" -gravity southeast -annotate "$slewx"x"$slewy"+"$x"+"$y" '"$text"'"
-    cmd=$cmd$pointsize$color$stroke$annotate
-done
-cmd=$cmd" xxx.gif"
-
-#echo $cmd
-eval $cmd
-display xxx.gif&
+sub doTens {
+    my $num = $_[0];
+    if ( $num == 0 )          { ;; }
+    elsif ( $num > 1 )        { $text = $tens[$num] . " " . $text;  }
+    elsif ( $text eq "" )     { $text = "Ten"; }
+    elsif ( $text eq "One")   { $text = "Eleven"; }
+    elsif ( $text eq "Two")   { $text = "Twelve"; }
+    elsif ( $text eq "Three") { $text = "Thirteen"; }
+    elsif ( $text eq "Five")  { $text = "Fifteen"; }
+    else                      { $text = $text . "teen"; }
+}
 
 
-        
+sub doHundreds {
+    my $num =$_[0];
+    if ($num > 0) { $text = $ones[$_[0]] . " Hundred " . $text; }
+}
