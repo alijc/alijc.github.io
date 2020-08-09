@@ -67,8 +67,11 @@ for (my $i=1; $i<=$days; $i++) {
 
 }
 
-$image->Write( $filename );
-$image->Display;
+$image->Display;  ###(loop=>1,delay=>1000);
+print "Save this one? (y/N)";
+my $resp = lc substr <STDIN>, 0, 1;
+if ($resp eq 'y') { $image->Write( $filename ); exit; }
+undef $image;
         
 sub makeText {
 
