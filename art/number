@@ -71,6 +71,9 @@ while (1)
 
     }
 
+    printf "\n#days:%d \ngravity:%s \nradius:%d \nradians inc:%.3f \nrotation inc:%d\n",
+    $days, $gravity, $radius, $origin_inc,  $slew_inc;
+
     $image->Display;   ###(loop=>1,delay=>1000); #to close after 10 secs??
 
     print "Save this one? (y/N)";
