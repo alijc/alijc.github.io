@@ -12,23 +12,7 @@ my @tens = ( "", "Teen", "Twenty", "Thirty", "Forty",
 my @gravities = ( "NorthWest", "NorthEast",
 		  "West",      "East",
 		  "SouthWest", "SouthEast" );
-
-my $size      = "1500x1020";
-my $bg        = "ivory";
-my $red_init  =  0;   my $red_inc   =  2;
-my $green_init=  25;  my $green_inc =  0;
-my $blue_init =  255; my $blue_inc  = -1;
-
-my $gravity   =  $gravities[int(rand(@gravities))];
-my $ps_init   =  200;
-my $ps_inc    =  1.0;
-my $slew_inc  =  4 + int(rand(5.0));
-my $x_origin  =  500;
-my $y_origin  =  400;
-my $origin_inc=  rand(0.20);   # in radians
-my $radius    =  int(rand(200));
-
-my $text = "";
+my $text;
 
 # calculate the number of days we've been living through this
 my $then = timelocal(0,0,0,13,2,2020);   # March 13, 2020 --- lockdown
@@ -36,42 +20,68 @@ my $now = time();
 my $days = int( ($now - $then) / (24 * 60 * 60) );
 ##printf "then:%d now:%d days since:%d\n", $then, $now, $days;
 
-my $filename = $days ."-". $gravity ."-". $radius ."-.". 
-    int(100 * $origin_inc) ."-". $slew_inc .".gif";
+while (1) 
+{
+    my $size      = "1500x1020";
+    my $bg        = "ivory";
+    my $red_init  =  0;   my $red_inc   =  2;
+    my $green_init=  25;  my $green_inc =  0;
+    my $blue_init =  255; my $blue_inc  = -1;
 
-my $image = Image::Magick->new(size=>$size);
-$image->ReadImage("canvas:".$bg);
+    my $gravity   =  $gravities[int(rand(@gravities))];
+    my $ps_init   =  200;
+    my $ps_inc    =  1.0;
+    my $slew_inc  =  4 + int(rand(5.0));
+    my $x_origin  =  500;
+    my $y_origin  =  400;
+    my $origin_inc=  rand(0.20); # in radians
+    my $radius    =  int(rand(200));
 
-for (my $i=1; $i<=$days; $i++) {
+    $text = "";
 
-    makeText( $i );  ## Turn the integer into its English name, in global $text
+    my $filename = $days ."-". $gravity ."-". $radius ."-.". 
+	int(100 * $origin_inc) ."-". $slew_inc .".gif";
 
-    my $pointsize = $ps_init - ($i / $ps_inc);
-    my $red       = $red_init + ($i * $red_inc);
-    my $green     = $green_init + ($i * $green_inc);
-    my $blue      = $blue_init + ($i * $blue_inc);
-    my $fillcolor = "rgb(". $red .",". $green. ",". $blue .")";
-    my $slew      = ($i * $slew_inc);
-    my $x         = $x_origin + ( cos($i*$origin_inc) * $radius);
-    my $y         = $y_origin + ( sin($i*$origin_inc) * $radius);
-    my $geometry  = "+".$x."+".$y;
+    my $image = Image::Magick->new(size=>$size);
+    $image->ReadImage("canvas:".$bg);
 
-    $image->Annotate(
-	text=>$text,
-	pointsize=>$pointsize,
-	fill=>$fillcolor, stroke=>"black",
-	geometry=>$geometry,
-	rotate=>$slew,
-	gravity=>$gravity,
-	);
+    for (my $i=1; $i<=$days; $i++) {
+
+	## Turn the integer into its English name, in global $text
+	makeText( $i );
+
+	my $pointsize = $ps_init - ($i / $ps_inc);
+	my $red       = $red_init + ($i * $red_inc);
+	my $green     = $green_init + ($i * $green_inc);
+	my $blue      = $blue_init + ($i * $blue_inc);
+	my $fillcolor = "rgb(". $red .",". $green. ",". $blue .")";
+	my $slew      = ($i * $slew_inc);
+	my $x         = $x_origin + ( cos($i*$origin_inc) * $radius);
+	my $y         = $y_origin + ( sin($i*$origin_inc) * $radius);
+	my $geometry  = "+".$x."+".$y;
+
+	$image->Annotate(
+	    text=>$text,
+	    pointsize=>$pointsize,
+	    fill=>$fillcolor, stroke=>"black",
+	    geometry=>$geometry,
+	    rotate=>$slew,
+	    gravity=>$gravity,
+	    );
+
+    }
+
+    $image->Display;   ###(loop=>1,delay=>1000); #to close after 10 secs??
+
+    print "Save this one? (y/N)";
+    if ( 'y' eq lc substr <STDIN>, 0, 1 ) {
+	$image->Write( $filename ); # save
+	exit;			    # and exit
+    }
+
+    undef $image;
 
 }
-
-$image->Display;  ###(loop=>1,delay=>1000);
-print "Save this one? (y/N)";
-my $resp = lc substr <STDIN>, 0, 1;
-if ($resp eq 'y') { $image->Write( $filename ); exit; }
-undef $image;
         
 sub makeText {
 
