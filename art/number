@@ -27,6 +27,7 @@ while (1)
     my $red_init  =  0;   my $red_inc   =  2;
     my $green_init=  25;  my $green_inc =  0;
     my $blue_init =  255; my $blue_inc  = -1;
+    my $alpha_init=  1.0; my $alpha_inc = -0.005;
 
     my $gravity   =  $gravities[int(rand(@gravities))];
     my $ps_init   =  200;
@@ -54,7 +55,8 @@ while (1)
 	my $red       = $red_init + ($i * $red_inc);
 	my $green     = $green_init + ($i * $green_inc);
 	my $blue      = $blue_init + ($i * $blue_inc);
-	my $fillcolor = "rgb(". $red .",". $green. ",". $blue .")";
+	my $alpha     = $alpha_init + ($i * $alpha_inc);
+	my $fillcolor = "rgba(". $red .",". $green. ",". $blue .",". $alpha .")";
 	my $slew      = ($i * $slew_inc);
 	my $x         = $x_origin + ( cos($i*$origin_inc) * $radius);
 	my $y         = $y_origin + ( sin($i*$origin_inc) * $radius);
