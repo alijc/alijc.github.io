@@ -24,10 +24,12 @@ while (1)
 {
     my $size      = "1500x1020";
     my $bg        = "ivory";
-    my $red_init  =  0;   my $red_inc   =  2;
-    my $green_init=  25;  my $green_inc =  0;
-    my $blue_init =  255; my $blue_inc  = -1;
-    my $alpha_init=  1.0; my $alpha_inc = -0.005;
+    my $hue_init  =  rand(350); 
+    my $hue_inc   =  0.5;
+    my $saturation = 255;
+    my $bright_init= (255 - $days) / 2;
+    my $bright_inc = 1;
+    #my $alpha_init= 1.0; my $alpha_inc = -0.005;
 
     my $gravity   =  $gravities[int(rand(@gravities))];
     my $ps_init   =  200;
@@ -52,11 +54,11 @@ while (1)
 	makeText( $i );
 
 	my $pointsize = $ps_init - ($i / $ps_inc);
-	my $red       = $red_init + ($i * $red_inc);
-	my $green     = $green_init + ($i * $green_inc);
-	my $blue      = $blue_init + ($i * $blue_inc);
-	my $alpha     = $alpha_init + ($i * $alpha_inc);
-	my $fillcolor = "rgba(". $red .",". $green. ",". $blue .",". $alpha .")";
+	my $hue       = $hue_init + ($i * $hue_inc);
+	my $bright    = $bright_init + ($i * $bright_inc);
+	#my $alpha    = $alpha_init + ($i * $alpha_inc);
+	my $fillcolor = "hsl(". $hue .",". $saturation .",". $bright .")";
+
 	my $slew      = ($i * $slew_inc);
 	my $x         = $x_origin + ( cos($i*$origin_inc) * $radius);
 	my $y         = $y_origin + ( sin($i*$origin_inc) * $radius);
