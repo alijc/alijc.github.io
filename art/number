@@ -24,8 +24,8 @@ while (1)
 {
     my $size      = "1500x1020";
     my $bg        = "ivory";
-    my $hue_init  =  rand(350); 
-    my $hue_inc   =  0.5;
+    my $hue_init  =  rand(360); 
+    my $hue_inc   =  rand(1.0) - 1.0;
     my $saturation = 255;
     my $bright_init= (255 - $days) / 2;
     my $bright_inc = 1;
@@ -42,8 +42,8 @@ while (1)
 
     $text = "";
 
-    my $filename = $days ."-". $gravity ."-". $radius ."-.". 
-	int(100 * $origin_inc) ."-". $slew_inc .".gif";
+    my $filename = $days ."-". $hue_init ."-". $hue_inc ."-". $gravity
+	."-". $radius ."-.". int(100 * $origin_inc) ."-". $slew_inc .".gif";
 
     my $image = Image::Magick->new(size=>$size);
     $image->ReadImage("canvas:".$bg);
@@ -75,8 +75,8 @@ while (1)
 
     }
 
-    printf "\n#days:%d \nhue:%d \ngravity:%s \nradius:%d \nradians inc:%.3f \nrotation inc:%d\n",
-    $days, $hue_init, $gravity, $radius, $origin_inc,  $slew_inc;
+    printf "\n#days:%d \nhue:%d %.3f \ngravity:%s \nradius:%d \nradians inc:%.3f \nrotation inc:%d\n",
+    $days, $hue_init, $hue_inc, $gravity, $radius, $origin_inc,  $slew_inc;
 
     $image->Display;   ###(loop=>1,delay=>1000); #to close after 10 secs??
 
