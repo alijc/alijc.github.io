@@ -47,17 +47,18 @@ while (1)
     #my $alpha_init= 1.0; my $alpha_inc = -0.005;
 
     my $font = $fonts[rand(scalar @fonts)];
-
+    
     my $gravity   =  $gravities[int(rand(@gravities))];
     my $slew_inc  =  $slew_lower_limit + int(rand($slew_upper_limit - $slew_lower_limit));
     my $origin_inc=  rand($origin_drift_limit); # in radians
-    my $radius    =  int(rand($radius_limit));
+    my $xradius    =  int(rand($radius_limit));
+    my $yradius    =  int(rand($radius_limit)); # = xradius for cicle
 
     $text = "";
 
     my $filename = $days ."-". $hue_init ."-". $hue_inc ."-". $gravity
-	."-". $font
-	."-". $radius ."-.". int(100 * $origin_inc) ."-". $slew_inc .".gif";
+	."-". $font ."-". $xradius ."-". $yradius ."-.". int(100 * $origin_inc)
+	."-". $slew_inc .".gif";
 
     my $image = Image::Magick->new(size=>$size);
     $image->ReadImage("canvas:".$bg);
@@ -74,8 +75,8 @@ while (1)
 	my $fillcolor = "hsl(". $hue .",". $saturation .",". $bright .")";
 
 	my $slew      = ($i * $slew_inc);
-	my $x         = $x_origin + ( cos($i*$origin_inc) * $radius);
-	my $y         = $y_origin + ( sin($i*$origin_inc) * $radius);
+	my $x         = $x_origin + ( cos($i*$origin_inc) * $xradius);
+	my $y         = $y_origin + ( sin($i*$origin_inc) * $yradius);
 	my $geometry  = "+".$x."+".$y;
 
 	$image->Annotate(
@@ -90,8 +91,8 @@ while (1)
 
     }
 
-    printf "\n#days:%d \nhue:%d %.3f \ngravity:%s \nfont:%s \nradius:%d \nradians inc:%.3f \nrotation inc:%d\n",
-    $days, $hue_init, $hue_inc, $gravity, $font, $radius, $origin_inc,  $slew_inc;
+    printf "\n#days:%d \nhue:%d %.3f \ngravity:%s \nfont:%s \nxradius:%d \nyradius:%d \nradians inc:%.3f \nrotation inc:%d\n",
+    $days, $hue_init, $hue_inc, $gravity, $font, $xradius, $yradius, $origin_inc,  $slew_inc;
 
     $image->Display;   ###(loop=>1,delay=>1000); #to close after 10 secs??
 
