@@ -74,10 +74,12 @@ while (1)
 	#my $alpha    = $alpha_init + ($i * $alpha_inc);
 	my $fillcolor = "hsl(". $hue .",". $saturation .",". $bright .")";
 
-	my $slew      = ($i * $slew_inc);
-	my $x         = $x_origin + ( cos($i*$origin_inc) * $xradius);
-	my $y         = $y_origin + ( sin($i*$origin_inc) * $yradius);
-	my $geometry  = "+".$x."+".$y;
+	my $slew      = ($i * $slew_inc);  ###$slew=90;
+	#my $x         = $x_origin + ( cos($i*$origin_inc) * $xradius);
+	#my $y         = $y_origin + ( sin($i*$origin_inc) * $yradius);
+	my $x = ($i * 7) - 500;
+	my $y = ($x * $x) / ( 4 * $yradius );
+	my $geometry  = "+".($x+500)."+".$y;
 
 	$image->Annotate(
 	    font=>$font,
