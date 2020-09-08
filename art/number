@@ -46,7 +46,7 @@ while (1)
     my $bright_inc = 1;
     #my $alpha_init= 1.0; my $alpha_inc = -0.005;
 
-    my $bg = "rgb(". rand(255) .",". rand(255) .",".  rand(255) .")";
+    my $bg = "rgb(". rand(125) .",". rand(125) .",".  rand(125) .")";
     my $font = $fonts[rand(scalar @fonts)];
     
     my $gravity   =  $gravities[int(rand(@gravities))];
