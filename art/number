@@ -19,7 +19,7 @@ my @fonts = Image::Magick->QueryFont();
 my $xsize     = 1500;
 my $ysize     = 1020;
 my $size      = $xsize."x".$ysize;
-my $bg        = "ivory";
+#my $bg        = "ivory";
 my $ps_init   =  200;
 my $ps_inc    =  1.0;
 
@@ -46,6 +46,7 @@ while (1)
     my $bright_inc = 1;
     #my $alpha_init= 1.0; my $alpha_inc = -0.005;
 
+    my $bg = "rgb(". rand(255) .",". rand(255) .",".  rand(255) .")";
     my $font = $fonts[rand(scalar @fonts)];
     
     my $gravity   =  $gravities[int(rand(@gravities))];
