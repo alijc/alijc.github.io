@@ -16,12 +16,12 @@ my @gravities = ( "NorthWest", "NorthEast",
 
 my @fonts = Image::Magick->QueryFont();
 
-my $size      = "1500x1020";
+my $xsize     = 1500;
+my $ysize     = 1020;
+my $size      = $xsize."x".$ysize;
 my $bg        = "ivory";
 my $ps_init   =  200;
 my $ps_inc    =  1.0;
-my $x_origin  =  500;
-my $y_origin  =  400;
 
 my $hue_drift_limit = 1.0;
 my $slew_lower_limit = 4.0;
@@ -50,9 +50,11 @@ while (1)
     
     my $gravity   =  $gravities[int(rand(@gravities))];
     my $slew_inc  =  $slew_lower_limit + int(rand($slew_upper_limit - $slew_lower_limit));
-    my $origin_inc=  rand($origin_drift_limit); # in radians
-    my $xradius    =  int(rand($radius_limit));
-    my $yradius    =  int(rand($radius_limit)); # = xradius for cicle
+    my $x_origin  =  $xsize/4 + rand($xsize/2);
+    my $y_origin  =  rand($ysize/8); ###400;
+    my $origin_inc=  rand($origin_drift_limit); # in radians (circle/ellipse)
+    my $xradius   =  int(rand($radius_limit));
+    my $yradius   =  int(rand($radius_limit)); # = xradius for cicle
 
     $text = "";
 
@@ -73,19 +75,17 @@ while (1)
 	my $bright    = $bright_init + ($i * $bright_inc);
 	#my $alpha    = $alpha_init + ($i * $alpha_inc);
 	my $fillcolor = "hsl(". $hue .",". $saturation .",". $bright .")";
+	my $strokecolor="rgb(". (255-$i) .",". (255-$i) .",". (255-$i) .")";
 
-	my $slew      = ($i * $slew_inc);  ###$slew=90;
-	#my $x         = $x_origin + ( cos($i*$origin_inc) * $xradius);
-	#my $y         = $y_origin + ( sin($i*$origin_inc) * $yradius);
-	my $x = ($i * 7) - 500;
-	my $y = ($x * $x) / ( 4 * $yradius );
-	my $geometry  = "+".($x+500)."+".$y;
+	my $slew      = ($i * $slew_inc);  ####$slew=90;
+	my $geometry = makeGeometry( $i,  $x_origin, $y_origin, $origin_inc,
+				     $xradius, $yradius );
 
 	$image->Annotate(
 	    font=>$font,
 	    text=>$text,
 	    pointsize=>$pointsize,
-	    fill=>$fillcolor, stroke=>"black",
+	    fill=>$fillcolor, stroke=>$strokecolor,
 	    geometry=>$geometry,
 	    rotate=>$slew,
 	    gravity=>$gravity,
@@ -136,4 +136,19 @@ sub doTens {
 sub doHundreds {
     my $num =$_[0];
     if ($num > 0) { $text = $ones[$_[0]] . " Hundred " . $text; }
+}
+
+sub makeGeometry {
+    my ($num, $x_origin, $y_origin, $origin_inc, $xradius, $yradius ) =@_;
+
+    # ellipse
+    #my $x = $x_origin + ( cos($num*$origin_inc) * $xradius);
+    #my $y = $y_origin + ( sin($num*$origin_inc) * $yradius);
+
+    # parabola
+    my $x = ((0.25*$x_origin) + ($num/2 * ($xsize/$days))) - $x_origin;
+    my $y = ($x * $x) / ( 4 * $y_origin );
+    my $geometry  = "+".($x+$x_origin)."+".$y;
+
+    return $geometry;
 }
