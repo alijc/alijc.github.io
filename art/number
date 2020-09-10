@@ -13,8 +13,13 @@ my @gravities = ( "NorthWest", "North",  "NorthEast",
 		  "West",      "Center", "East",
 		  "SouthWest", "South",  "SouthEast" );
 
-
+# All fonts on my computer
 my @fonts = Image::Magick->QueryFont();
+
+if (open my $fh, '<', "fonts") {
+    chomp( @fonts = <$fh> );
+    close $fh;
+}
 
 my $xsize     = 1500;
 my $ysize     = 1020;
@@ -48,7 +53,9 @@ while (1)
     my $bright_inc = 1;
     #my $alpha_init= 1.0; my $alpha_inc = -0.005;
 
+    # random background color
     my $bg = "rgb(". rand(255) .",". rand(255) .",".  rand(255) .")";
+
     my $font = $fonts[rand(scalar @fonts)];
     ###$font = $fonts[($f++)];  #### for font filtering
     
