@@ -25,7 +25,7 @@ my $xsize     = 1500;
 my $ysize     = 1020;
 my $size      = $xsize."x".$ysize;
 #my $bg        = "ivory";
-my $ps_init   =  200;
+my $ps_init   =  220;
 my $ps_inc    =  1.0;
 
 my $hue_drift_limit = 1.0;
@@ -60,6 +60,7 @@ while (1)
     ###$font = $fonts[($f++)];  #### for font filtering
     
     my $gravity   =  $gravities[int(rand(@gravities))];
+    my $slew_init =  rand(360);
     my $slew_inc  =  $slew_lower_limit + int(rand($slew_upper_limit - $slew_lower_limit));
     my $x_origin  =  $xsize/4 + rand($xsize/2);
     my $y_origin  =  rand($ysize/8); ###400;
@@ -86,7 +87,7 @@ while (1)
 	my $fillcolor = "hsl(". $hue .",". $saturation .",". $bright .")";
 	my $strokecolor="rgb(". (255-$i) .",". (255-$i) .",". (255-$i) .")";
 
-	my $slew      = ($i * $slew_inc);  ####$slew=90;
+	my $slew      = $slew_init + ($i * $slew_inc);  ####$slew=90;
 	my $geometry = makeGeometry( $i,  $x_origin, $y_origin, $origin_inc,
 				     $xradius, $yradius );
 
