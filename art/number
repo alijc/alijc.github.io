@@ -37,6 +37,8 @@ my $now = time();
 my $days = int( ($now - $then) / (24 * 60 * 60) );
 ##printf "then:%d now:%d days since:%d\n", $then, $now, $days;
 
+####my $f = 400;    #### for font filtering
+
 while (1) 
 {
     my $hue_init  =  rand(360); 
@@ -48,6 +50,7 @@ while (1)
 
     my $bg = "rgb(". rand(255) .",". rand(255) .",".  rand(255) .")";
     my $font = $fonts[rand(scalar @fonts)];
+    ###$font = $fonts[($f++)];  #### for font filtering
     
     my $gravity   =  $gravities[int(rand(@gravities))];
     my $slew_inc  =  $slew_lower_limit + int(rand($slew_upper_limit - $slew_lower_limit));
@@ -98,6 +101,14 @@ while (1)
     $days, $hue_init, $hue_inc, $gravity, $font, $xradius, $yradius, $origin_inc,  $slew_inc;
 
     $image->Display;   ###(loop=>1,delay=>1000); #to close after 10 secs??
+
+    #### for font filtering
+#    print "Save this font? (Y/n)";
+#    if ( 'n' ne lc substr <STDIN>, 0, 1 ) {
+#	open(FH, '>>', "fonts") or die;
+#	print FH $font; print FH "\n";
+#	close FH;
+#    }
 
     print "Save this one? (y/N)";
     if ( 'y' eq lc substr <STDIN>, 0, 1 ) {
