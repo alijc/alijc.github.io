@@ -69,9 +69,7 @@ while (1)
 
     $text = "";
 
-    my $filename = $days ."-". $hue_init ."-". $hue_inc ."-". $gravity
-	."-". $font ."-". $xradius ."-". $yradius ."-.". int(100 * $origin_inc)
-	."-". $slew_inc .".gif";
+    my $filename = $days .".gif";
 
     my $image = Image::Magick->new(size=>$size);
     $image->ReadImage("canvas:".$bg);
