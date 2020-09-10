@@ -9,9 +9,9 @@ my @ones = ( "", "One", "Two", "Three", "Four",
 my @tens = ( "", "Teen", "Twenty", "Thirty", "Forty", 
 	     "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" );
 
-my @gravities = ( "NorthWest", "NorthEast",
-		  "West",      "East",
-		  "SouthWest", "SouthEast" );
+my @gravities = ( "NorthWest", "North",  "NorthEast",
+		  "West",      "Center", "East",
+		  "SouthWest", "South",  "SouthEast" );
 
 
 my @fonts = Image::Magick->QueryFont();
