@@ -24,7 +24,6 @@ if (open my $fh, '<', "fonts") {
 my $xsize     = 1500;
 my $ysize     = 1020;
 my $size      = $xsize."x".$ysize;
-#my $bg        = "ivory";
 my $ps_init   =  220;
 my $ps_inc    =  1.0;
 
@@ -41,6 +40,9 @@ my $then = timelocal(0,0,0,13,2,2020);   # March 13, 2020 --- lockdown
 my $now = time();
 my $days = int( ($now - $then) / (24 * 60 * 60) );
 ##printf "then:%d now:%d days since:%d\n", $then, $now, $days;
+
+# override the current date from the command line
+if ( 0 == $#ARGV ) { $days = $ARGV[0]; }
 
 ####my $f = 400;    #### for font filtering
 
