@@ -30,7 +30,7 @@ my $ps_inc    =  1.0;
 my $hue_drift_limit = 1.0;
 my $slew_lower_limit = 4.0;
 my $slew_upper_limit = 9.0;
-my $radius_limit = 200;
+my $radius_limit = 10;
 my $origin_drift_limit = 0.20; #in radians
 
 my $text;
@@ -44,7 +44,7 @@ my $days = int( ($now - $then) / (24 * 60 * 60) );
 # override the current date from the command line
 if ( 0 == $#ARGV ) { $days = $ARGV[0]; }
 
-####my $f = 400;    #### for font filtering
+####my $f = 0;    #### for font filtering
 
 while (1) 
 {
@@ -62,13 +62,13 @@ while (1)
     ###$font = $fonts[($f++)];  #### for font filtering
     
     my $gravity   =  $gravities[int(rand(@gravities))];
-    my $slew_init =  rand(360);
+    my $slew_init =  rand(360);  $slew_init = 270;
     my $slew_inc  =  $slew_lower_limit + int(rand($slew_upper_limit - $slew_lower_limit));
-    my $x_origin  =  $xsize/4 + rand($xsize/2);
+    my $x_origin  =  $xsize/4 + rand($xsize/2); $x_origin = $xsize/2;
     my $y_origin  =  rand($ysize/8); ###400;
     my $origin_inc=  rand($origin_drift_limit); # in radians (circle/ellipse)
     my $xradius   =  int(rand($radius_limit));
-    my $yradius   =  int(rand($radius_limit)); # = xradius for cicle
+    my $yradius   =  int(rand($radius_limit/2)); # = xradius for cicle
 
     $text = "";
 
@@ -105,8 +105,12 @@ while (1)
 
     }
 
-    printf "\n#days:%d \nhue:%d %.3f \ngravity:%s \nfont:%s \nxradius:%d \nyradius:%d \nradians inc:%.3f \nrotation inc:%d\n",
-    $days, $hue_init, $hue_inc, $gravity, $font, $xradius, $yradius, $origin_inc,  $slew_inc;
+    print "\n";
+    #printf "#days:%d\n", $days;
+    #printf "hue:%d %.3f \n", $hue_init, $hue_inc;
+    printf "gravity:%s font:%s\n", $gravity, $font;
+    printf "xradius:%d yradius:%d radians inc:%.3f rotation inc:%d\n",
+    $xradius, $yradius, $origin_inc,  $slew_inc;
 
     $image->Display;   ###(loop=>1,delay=>1000); #to close after 10 secs??
 
@@ -170,5 +174,8 @@ sub makeGeometry {
     my $y = ($x * $x) / ( 4 * $y_origin );
     my $geometry  = "+".($x+$x_origin)."+".$y;
 
+    #print $x_origin ." ";
+    #print $geometry ."\n";
+    
     return $geometry;
 }
