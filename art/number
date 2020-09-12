@@ -9,9 +9,7 @@ my @ones = ( "", "One", "Two", "Three", "Four",
 my @tens = ( "", "Teen", "Twenty", "Thirty", "Forty", 
 	     "Fifty", "Sixty", "Seventy", "Eighty", "Ninety" );
 
-my @gravities = ( "NorthWest", "North",  "NorthEast",
-		  "West",      "Center", "East",
-		  "SouthWest", "South",  "SouthEast" );
+my @aligns = ( "Left", "Center", "Right" );
 
 # All fonts on my computer
 my @fonts = Image::Magick->QueryFont();
@@ -61,10 +59,10 @@ while (1)
     my $font = $fonts[rand(scalar @fonts)];
     ###$font = $fonts[($f++)];  #### for font filtering
     
-    my $gravity   =  $gravities[int(rand(@gravities))];
-    my $slew_init =  rand(360);  $slew_init = 270;
+    my $align     =  $aligns[int(rand(@aligns))];
+    my $slew_init =  rand(360);
     my $slew_inc  =  $slew_lower_limit + int(rand($slew_upper_limit - $slew_lower_limit));
-    my $x_origin  =  $xsize/4 + rand($xsize/2); $x_origin = $xsize/2;
+    my $x_origin  =  $xsize/4 + rand($xsize/2); $x_origin = $xsize/2; #<<<
     my $y_origin  =  rand($ysize/8); ###400;
     my $origin_inc=  rand($origin_drift_limit); # in radians (circle/ellipse)
     my $xradius   =  int(rand($radius_limit));
@@ -100,7 +98,7 @@ while (1)
 	    fill=>$fillcolor, stroke=>$strokecolor,
 	    geometry=>$geometry,
 	    rotate=>$slew,
-	    gravity=>$gravity,
+	    align=>$align,
 	    );
 
     }
@@ -108,7 +106,7 @@ while (1)
     print "\n";
     #printf "#days:%d\n", $days;
     #printf "hue:%d %.3f \n", $hue_init, $hue_inc;
-    printf "gravity:%s font:%s\n", $gravity, $font;
+    printf "align:%s font:%s\n", $align, $font;
     printf "xradius:%d yradius:%d radians inc:%.3f rotation inc:%d\n",
     $xradius, $yradius, $origin_inc,  $slew_inc;
 
