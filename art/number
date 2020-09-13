@@ -22,8 +22,8 @@ if (open my $fh, '<', "fonts") {
 my $xsize     = 1500;
 my $ysize     = 1020;
 my $size      = $xsize."x".$ysize;
-my $ps_init   =  220;
-my $ps_inc    =  1.0;
+my $ps_init   =  400;
+my $ps_end    =   50;
 
 my $hue_drift_limit = 1.0;
 my $slew_lower_limit = 4.0;
@@ -41,6 +41,9 @@ my $days = int( ($now - $then) / (24 * 60 * 60) );
 
 # override the current date from the command line
 if ( 0 == $#ARGV ) { $days = $ARGV[0]; }
+
+my $ps_inc    =  ($ps_init - $ps_end)/$days;
+
 
 ####my $f = 0;    #### for font filtering
 
@@ -80,7 +83,7 @@ while (1)
 	## Turn the integer into its English name, in global $text
 	makeText( $i );
 
-	my $pointsize = $ps_init - ($i / $ps_inc); ###$pointsize = 10;
+	my $pointsize = $ps_init - ($i * $ps_inc);
 	my $hue       = $hue_init + ($i * $hue_inc);
 	my $bright    = $bright_init + ($i * $bright_inc);
 	#my $alpha    = $alpha_init + ($i * $alpha_inc);
