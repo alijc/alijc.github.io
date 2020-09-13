@@ -62,7 +62,7 @@ while (1)
     my $align     =  $aligns[int(rand(@aligns))];
     my $slew_init =  rand(360);
     my $slew_inc  =  $slew_lower_limit + int(rand($slew_upper_limit - $slew_lower_limit));
-    my $x_origin  =  $xsize/4 + rand($xsize/2); $x_origin = $xsize/2; #<<<
+    my $x_origin  =  $xsize/4 + rand($xsize/2);
     my $y_origin  =  rand($ysize/8); ###400;
     my $origin_inc=  rand($origin_drift_limit); # in radians (circle/ellipse)
     my $xradius   =  int(rand($radius_limit));
@@ -80,7 +80,7 @@ while (1)
 	## Turn the integer into its English name, in global $text
 	makeText( $i );
 
-	my $pointsize = $ps_init - ($i / $ps_inc);
+	my $pointsize = $ps_init - ($i / $ps_inc); ###$pointsize = 10;
 	my $hue       = $hue_init + ($i * $hue_inc);
 	my $bright    = $bright_init + ($i * $bright_inc);
 	#my $alpha    = $alpha_init + ($i * $alpha_inc);
@@ -168,9 +168,9 @@ sub makeGeometry {
     #my $y = $y_origin + ( sin($num*$origin_inc) * $yradius);
 
     # parabola
-    my $x = ((0.25*$x_origin) + ($num/2 * ($xsize/$days))) - $x_origin;
+    my $x = ($num/2 * ($xsize/$days)) - ($x_origin/2);
     my $y = ($x * $x) / ( 4 * $y_origin );
-    my $geometry  = "+".($x+$x_origin)."+".$y;
+    my $geometry  = "+".($x+$x_origin)."+".($y+$y_origin);
 
     #print $x_origin ." ";
     #print $geometry ."\n";
