@@ -3,8 +3,8 @@
 for infile in "$@"; do
 
     # find the overall brightness of the image (as an integer).
-    bright=$( printf "%.0f" $( convert $infile -colorspace Gray -format "%[fx:quantumrange*image.mean]" info: ) );
-
+    bright=$( printf "%.0f" $( identify -format "%[mean]" $infile ) );
+    
     # Fill a sparse array, sorted on brightness
     inbright[$bright]=$infile;
     
@@ -18,6 +18,6 @@ do
 done
 
 #echo $filelist
-cmd="montage $filelist -tile 5x -geometry 150x102 -mode Concatenate out.gif"
+cmd="montage $filelist -tile 6x -geometry 150x102 -mode Concatenate out.gif"
 #echo $cmd
 $( $cmd );
