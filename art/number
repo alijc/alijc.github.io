@@ -42,6 +42,11 @@ my $days = int( ($now - $then) / (24 * 60 * 60) );
 # override the current date from the command line
 if ( 0 == $#ARGV ) { $days = $ARGV[0]; }
 
+if ( $days >= 100 ) {
+    $ps_init = 200;
+    $ps_end  =  20;
+}
+     
 my $ps_inc    =  ($ps_init - $ps_end)/$days;
 
 
