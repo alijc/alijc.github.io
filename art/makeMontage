@@ -4,11 +4,18 @@ use strict;
 use warnings;
 #use Image::Magick;   # Can't get the mean through perlmagick
 
+if ( 3 != $#ARGV ) {
+    print "makeMontage <num tiles across> <tile width> <tile height> <pattern mean file>\n";
+    exit;
+}
+
+my ( $num_tiles, $tw, $th, $patternfile ) = @ARGV;
+
 my $meansfile = "means";
-my $patternfile = "face.means";
+#my $patternfile = "face.means";
 my $filelist;
-my $tile = "-tile 8x";
-my $geom = "-geometry 75x51";
+my $tile = "-tile ".$num_tiles."x";
+my $geom = "-geometry ".$tw."x".$th;
 my $outfile = "out.gif";
 
 # Read the means file, and sort it.
@@ -45,7 +52,7 @@ while ( @slines ) {
 #print $filelist;
 
 my $cmd = "montage $filelist $tile $geom -mode Concatenate $outfile";
-#print $cmd;
+print "calling ".$cmd."...\n";
 system $cmd;
 
 # a numeric comparison on the first word in the line
