@@ -51,7 +51,7 @@ while ( @slines ) {
 }
 #print $filelist;
 
-my $cmd = "montage $filelist $tile $geom -mode Concatenate $outfile";
+my $cmd = "nice montage $filelist $tile $geom -mode Concatenate $outfile";
 print "calling ".$cmd."...\n";
 system $cmd;
 
