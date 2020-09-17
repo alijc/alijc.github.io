@@ -1,23 +1,56 @@
-#!/bin/bash
+#!/usr/bin/perl
+# makeMontage - create a montage from the requested images
+use strict;
+use warnings;
+#use Image::Magick;   # Can't get the mean through perlmagick
 
-for infile in "$@"; do
+my $meansfile = "means";
+my $patternfile = "face.means";
+my $filelist;
+my $tile = "-tile 8x";
+my $geom = "-geometry 75x51";
+my $outfile = "out.gif";
 
-    # find the overall brightness of the image (as an integer).
-    bright=$( printf "%.0f" $( identify -format "%[mean]" $infile ) );
-    
-    # Fill a sparse array, sorted on brightness
-    inbright[$bright]=$infile;
-    
-done
+# Read the means file, and sort it.
+my @lines;
+open my $fh, '<', $meansfile || die;
+chomp(@lines = sort byFirst <$fh> );
+close $fh;
 
-filelist=
-for brightness in "${!inbright[@]}" 
-do
-    #echo "$brightness ${inbright[$brightness]}"
-    filelist="$filelist ${inbright[$brightness]}"
-done
+# Read the pattern means file, and sort it.
+my @plines;
+open my $ph, '<', $patternfile || die;
+chomp(@plines = sort byFirst <$ph> );
+close $ph;
 
-#echo $filelist
-cmd="montage $filelist -tile 6x -geometry 150x102 -mode Concatenate out.gif"
-#echo $cmd
-$( $cmd );
+# Combine the two arrays, creating a new one with the location
+# from the pattern and the name of the file that should go there.
+my @olines;
+while ( @lines && @plines ) {
+    my ( $mean, $file ) =  split / /, shift @lines;
+    #print "$mean - $file\n";
+    my ( $pmean, $location ) = split / /, shift @plines;
+    #print "$pmean - $location\n";
+    push @olines, "$location $file";
+}
+
+# Sort the new array on location
+my @slines = sort byFirst @olines;
+
+# Assemble the list of files in the proper order.
+while ( @slines ) {
+    my ( $location, $file ) = split / /, shift @slines;
+    $filelist.= "$file ";
+}
+#print $filelist;
+
+my $cmd = "montage $filelist $tile $geom -mode Concatenate $outfile";
+#print $cmd;
+system $cmd;
+
+# a numeric comparison on the first word in the line
+sub byFirst {
+    my ( $a1 ) = split / /, $a;
+    my ( $b1 ) = split / /, $b;
+    $a1 <=> $b1;
+}
