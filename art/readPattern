@@ -1,0 +1,33 @@
+#!/bin/bash
+# readPattern
+# Divide the pattern into rectangles and read the mean color of each,
+# storing the results in a file.
+# This file is meant to be used to find images with the
+# correct color values for assembling a montage.
+
+infile="face.jpg"
+outfile="face.means"
+num_col=8;
+num_row=14;
+
+w=$( identify -format "%w" $infile );
+h=$( identify -format "%h" $infile );
+
+xsize=$(( w / num_col ));
+ysize=$(( h / num_row ));
+
+#echo $w $h, $num_col $num_row, $xsize $ysize;
+rm $outfile
+
+i=1;
+for (( r=0; r<$num_row; r++ )); do
+    for (( c=0; c<$num_col; c++, i++ )); do
+	xoff=$(( c * xsize ));
+	yoff=$(( r * ysize ));
+	geom=${xsize}x$ysize+$xoff+$yoff
+	mean=$( printf "%.0f" $( identify -crop $geom -format "%[mean]" $infile ) );
+	#echo $i $c $r $geom $mean;
+	echo $mean $i >> $outfile;
+    done
+done
+
