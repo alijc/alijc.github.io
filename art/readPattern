@@ -5,10 +5,16 @@
 # This file is meant to be used to find images with the
 # correct color values for assembling a montage.
 
-infile="face.jpg"
-outfile="face.means"
-num_col=8;
-num_row=14;
+
+if [ $# -ne 3 ]; then
+    echo "readPattern <num cols> <num rows> <pattern image>"
+    exit;
+fi
+
+num_col=$1;
+num_row=$2;
+infile=$3;
+outfile=${infile%.*}.means
 
 w=$( identify -format "%w" $infile );
 h=$( identify -format "%h" $infile );
