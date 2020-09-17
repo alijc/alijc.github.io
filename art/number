@@ -43,7 +43,7 @@ my $days = int( ($now - $then) / (24 * 60 * 60) );
 if ( 0 == $#ARGV ) { $days = $ARGV[0]; }
 
 if ( $days >= 100 ) {
-    $ps_init = 200;
+#    $ps_init = 200;
     $ps_end  =  20;
 }
      
