@@ -5,18 +5,16 @@ use warnings;
 #use Image::Magick;   # Can't get the mean through perlmagick
 
 if ( 3 != $#ARGV ) {
-    print "makeMontage <num tiles across> <tile width> <tile height> <pattern mean file>\n";
+    print "makeMontage <means-file> <cols> <rows> <pattern mean file>\n";
     exit;
 }
 
-my ( $num_tiles, $tw, $th, $patternfile ) = @ARGV;
+my ( $meansfile, $cols, $rows, $patternfile ) = @ARGV;
 
-my $meansfile = "means";
-#my $patternfile = "face.means";
 my $filelist;
-my $tile = "-tile ".$num_tiles."x";
-my $geom = "-geometry ".$tw."x".$th;
-my $outfile = "out.gif";
+my $tilegeom = $cols."x".$rows;
+my $tile = "-tile ".$tilegeom;
+my $outfile = substr( $patternfile, 0, -6 ).".gif";
 
 # Read the means file, and sort it.
 my @lines;
@@ -51,8 +49,8 @@ while ( @slines ) {
 }
 #print $filelist;
 
-my $cmd = "nice montage $filelist $tile $geom -mode Concatenate $outfile";
-print "calling ".$cmd."...\n";
+my $cmd = "montage $filelist $tile -mode Concatenate $outfile";
+#print "calling ".$cmd."...\n";
 system $cmd;
 
 # a numeric comparison on the first word in the line
