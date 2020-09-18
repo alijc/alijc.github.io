@@ -14,7 +14,7 @@ fi
 num_col=$1;
 num_row=$2;
 infile=$3;
-outfile=${infile%.*}.means
+outfile=${infile%.*}"-"$num_col"x"$num_row".means"
 
 w=$( identify -format "%w" $infile );
 h=$( identify -format "%h" $infile );
