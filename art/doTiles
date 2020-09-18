@@ -1,0 +1,30 @@
+#!/bin/bash
+# doTiles <geometry> <image file>...
+# For each requested image:
+#  If a thumbnail of the requested size doesn't exist in the tiles directory,
+#    create it.
+#  If an entry for the mean color of the tile doesn't exist in the means, file,
+#    add it.
+# The means file is meant to be sorted and then used to find tiles with the
+# correct color values for assembling a montage.
+
+geom=$1;  shift 1;
+
+meansfile=${geom}"-means";
+
+for infile in "$@"; do
+
+    # if the tile file does not exist then create it
+    tilefile="./tiles/"${geom}"-"${infile};
+    if [ ! -f $tilefile ]; then
+	convert $infile -resize $geom $tilefile;
+    fi
+
+    # if an entry for the mean isn't in the means file, then add it
+    if ! grep -q $tilefile $meansfile ; then
+	mean=$( printf "%.0f" $( identify -format "%[mean]" $tilefile ) );
+	echo $mean $tilefile >> $meansfile;
+    fi
+    
+done
+
