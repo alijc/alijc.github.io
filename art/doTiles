@@ -8,6 +8,11 @@
 # The means file is meant to be sorted and then used to find tiles with the
 # correct color values for assembling a montage.
 
+if [[ $# -lt 2 ]] || [[ ! "$1" =~ [0-9]+x[0-9]+ ]]; then
+    echo "doTiles  <geometry> <image file>..."
+    exit;
+fi
+
 geom=$1;  shift 1;
 
 meansfile=${geom}"-means";
