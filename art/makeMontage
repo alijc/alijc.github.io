@@ -49,7 +49,7 @@ while ( @slines ) {
 }
 #print $filelist;
 
-my $cmd = "montage $filelist $tile -mode Concatenate $outfile";
+my $cmd = "montage +dither $filelist $tile -mode Concatenate $outfile";
 #print "calling ".$cmd."...\n";
 system $cmd;
 
