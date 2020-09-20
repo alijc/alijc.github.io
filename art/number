@@ -22,8 +22,6 @@ if (open my $fh, '<', "fonts") {
 my $xsize     = 1500;
 my $ysize     = 1020;
 my $size      = $xsize."x".$ysize;
-my $ps_init   =  400;
-my $ps_end    =   50;
 
 my $hue_drift_limit = 1.0;
 my $slew_lower_limit = 4.0;
@@ -42,9 +40,12 @@ my $days = int( ($now - $then) / (24 * 60 * 60) );
 # override the current date from the command line
 if ( 0 == $#ARGV ) { $days = $ARGV[0]; }
 
+my $ps_init   =  400;
+my $ps_end    =   50;
+
 if ( $days >= 100 ) {
-#    $ps_init = 200;
-    $ps_end  =  20;
+    $ps_init = 200 + rand(200);
+    $ps_end  =  20 + rand 30;
 }
      
 my $ps_inc    =  ($ps_init - $ps_end)/$days;
