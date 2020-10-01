@@ -19,7 +19,7 @@ meansfile=${geom}"-means";
 
 for infile in "$@"; do
 
-    for adfix in "" "-negate"; do
+    for adfix in "" "-negate" "-normalize"; do
 
 	# if the tile file does not exist then create it
 	tilefile="./tiles/"${geom}${adfix}"-"${infile};
