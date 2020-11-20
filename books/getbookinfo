@@ -29,10 +29,24 @@ while (<$if>) {
     print "\n";
     print $_;
 
+    tbabs( $_ );
+
+    multcolib( $_ );
+}
+close($if);
+
+
+# getting the info from tbabs (Talking Books and Braille Service)
+sub tbabs {
+    my ( $bookinfo ) = @_;
+    
+    my $tbabsurl = "https://talkingbooks.osl.state.or.us/";
+
+    print "/nTBABS:/n";
     $mech->get( $tbabsurl );
     $mech->form_number(1);
     $mech->field( "f", "Digital Book" );  # Exclude braille format
-    $mech->field( "q", $_ );              # Search on title and author
+    $mech->field( "q", $bookinfo );       # Search on title and author
     $mech->click();
     #print $mech->content;
 
@@ -42,18 +56,50 @@ while (<$if>) {
     # Extract title
     $mech->content =~ /<td class="Value Field-Title">(.*)</; 
     print "$1\n";
-    
+
     # author
     $mech->content =~ /<td class="Value Field-Names"><a.*>(.*)</; 
     print "$1\n";
-    
+
     # description (AKA Annotation)
     $mech->content =~ /<td class="Value Field-Annotation">(.*)</; 
     print "$1\n";
-    
+
     # length
     $mech->content =~ /<td class="Value Field-Length">(.*)</;
     print "$1\n";
+}
+
+# getting info from Multnomah County Library
+#https://multcolib.bibliocommons.com/v2/search?query=my%20family%20and%20other%20animals%20by%20gerald%20durrell&searchType=keyword&f_STATUS=DGT
+sub multcolib {
+    my ( $bookinfo ) = @_;
+    my $multcoliburl = "https://multcolib.bibliocommons.com/v2/search?query=";
+
+    
+    my $url = $multcoliburl . $bookinfo;
+    
+    $mech->get( $url );
+    if ( $mech->content =~ /Click here to access title/ ) {
+	print "available at proquest\n";
+    }
 
 }
-close($if);
+
+# anywhere:(Born a Crime by Trevor Noah)  formatcode:(BK OR AB OR EBOOK )
+sub multcolibsearch {
+    my ( $bookinfo, $format ) = @_;
+
+    my $multcoliburl = "https://multcolib.bibliocommons.com/search";
+
+    $mech->get( $multcoliburl );
+    $mech->form_number(1);
+#    $mech->field( "custom_edit", 'true' );
+    $mech->field( "q=", "Born a Crime" ); 
+#    $mech->field( "q", $bookinfo ); 
+#    $mech->field( $format, 'ON' );
+    $mech->click();
+    print $mech->content;
+    
+
+}
