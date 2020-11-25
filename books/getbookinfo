@@ -8,8 +8,6 @@
 use strict;
 #use LWP::Debug qw(+);
 use WWW::Mechanize;
-#use HTML::TokeParser;
-#use HTML::Parser;
 
 
 my $infile = "./fodder";
@@ -26,7 +24,7 @@ $mech->ssl_opts(  # Don't know why I need this, but I can't connect otherwise
 
 open($if, $infile) or die "Couldn't open $infile\n";
 while (<$if>) {
-    print "\n";
+    print "\n\n";
     print $_;
 
     tbabs( $_ );
@@ -42,7 +40,7 @@ sub tbabs {
     
     my $tbabsurl = "https://talkingbooks.osl.state.or.us/";
 
-    print "/nTBABS:/n";
+    print "\nTBABS:\n";
     $mech->get( $tbabsurl );
     $mech->form_number(1);
     $mech->field( "f", "Digital Book" );  # Exclude braille format
@@ -75,31 +73,24 @@ sub tbabs {
 sub multcolib {
     my ( $bookinfo ) = @_;
     my $multcoliburl = "https://multcolib.bibliocommons.com/v2/search?query=";
-
+    my $overdriveurl = "https://multcolib.overdrive.com/search?query=";
     
     my $url = $multcoliburl . $bookinfo;
     
+    print "\nMultcolib:\n";
     $mech->get( $url );
     if ( $mech->content =~ /Click here to access title/ ) {
 	print "available at proquest\n";
     }
-
-}
-
-# anywhere:(Born a Crime by Trevor Noah)  formatcode:(BK OR AB OR EBOOK )
-sub multcolibsearch {
-    my ( $bookinfo, $format ) = @_;
-
-    my $multcoliburl = "https://multcolib.bibliocommons.com/search";
-
-    $mech->get( $multcoliburl );
-    $mech->form_number(1);
-#    $mech->field( "custom_edit", 'true' );
-    $mech->field( "q=", "Born a Crime" ); 
-#    $mech->field( "q", $bookinfo ); 
-#    $mech->field( $format, 'ON' );
-    $mech->click();
-    print $mech->content;
     
+    #https://multcolib.overdrive.com/search?query=...&sortBy=relevance
+    $mech->get( $overdriveurl . $bookinfo . "&sortBy=relevance" );
+    if ( $mech->content =~ /window.OverDrive.mediaItems = \{(.*)\};/ ) { 
+	my $items = $1;
+	#print $items;
+	while ( $items =~ /"type":\{"name":"(.*?)".*?availableCopies":(.*?),"ownedCopies":(.*?),.*?"firstCreatorName":"(.*?)","title":"(.*?)"/g ) {
+	    print "$5 by $4, $1: $2 out of $3 available\n";
+	}
+    }
 
 }
