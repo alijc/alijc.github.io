@@ -9,11 +9,12 @@ if ( 3 != $#ARGV ) {
     exit;
 }
 
-my ( $meansfile, $cols, $rows, $patternfile ) = @ARGV;
+my ( $meansfile, $cols, $rows, $patternname ) = @ARGV;
 
 my $filelist;
 my $tilegeom = $cols."x".$rows;
 my $tile = "-tile ".$tilegeom;
+my $patternfile = $patternname."-".$cols."x".$rows.".means";
 my $outfile = substr( $patternfile, 0, -6 ).".gif";
 
 # Read the means file, and sort it.
