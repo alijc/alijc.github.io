@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 #use Image::Magick;   # Can't get the mean through perlmagick
+use List::Util qw( first );
 
 if ( 3 != $#ARGV ) {
     print "makeMontage <means-file> <cols> <rows> <pattern mean file>\n";
@@ -23,29 +24,20 @@ open my $fh, '<', $meansfile || die;
 chomp(@lines = sort byFirst <$fh> );
 close $fh;
 
-# Read the pattern means file, and sort it.
+# Read the pattern means file.
 my @plines;
 open my $ph, '<', $patternfile || die;
-chomp(@plines = sort byFirst <$ph> );
+chomp(@plines = <$ph> );
 close $ph;
 
-# Combine the two arrays, creating a new one with the location
-# from the pattern and the name of the file that should go there.
-my @olines;
-while ( @lines && @plines ) {
-    my ( $mean, $file ) =  split / /, shift @lines;
-    #print "$mean - $file\n";
-    my ( $pmean, $location ) = split / /, shift @plines;
-    #print "$pmean - $location\n";
-    push @olines, "$location $file";
-}
-
-# Sort the new array on location
-my @slines = sort byFirst @olines;
-
-# Assemble the list of files in the proper order.
-while ( @slines ) {
-    my ( $location, $file ) = split / /, shift @slines;
+# For each location in the pattern, find the tile that's closest.
+foreach ( @plines ) {
+    my ( $p ) = split / /, $_;   # first element is the mean tone
+    my $match = first { isLighter( $p, $_ ) } @lines;  # first lighter tile
+    if ( !$match ) { # if none use the lightest, ie, the last sorted one
+	$match = $lines[-1];
+    }
+    my ( $tone, $file ) = split / /, $match; 
     $filelist.= "$file ";
 }
 #print $filelist;
@@ -54,9 +46,17 @@ my $cmd = "montage +dither $filelist $tile -mode Concatenate $outfile";
 #print "calling ".$cmd."...\n";
 system $cmd;
 
+
 # a numeric comparison on the first word in the line
 sub byFirst {
     my ( $a1 ) = split / /, $a;
     my ( $b1 ) = split / /, $b;
     $a1 <=> $b1;
 }
+
+sub isLighter {
+    my ( $pat_mean, $tile_line ) = @_;
+    my ( $tile_mean ) = split / /, $tile_line;
+    #print "is ".$tile_mean." >= ".$pat_mean."?\n";
+    $pat_mean < $tile_mean;
+}    
