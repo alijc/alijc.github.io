@@ -8,31 +8,58 @@
 # The means file is meant to be sorted and then used to find tiles with the
 # correct color values for assembling a montage.
 
+processFile() {
+    geom=$1;
+    num_div=$2;
+    infile=$3;
+
+    basename="./tiles/"${geom}"-"$num_div"-"${infile};
+    meansfile=${geom}"-means";
+
+    w=$( identify -format "%w" $infile );
+    h=$( identify -format "%h" $infile );
+
+    xsize=$(( w / num_div ));
+    ysize=$(( h / num_div ));
+
+    
+    for (( c=0; c<$num_div; c++ )); do
+	for (( r=0; r<$num_div; r++ )); do
+	    xoff=$(( c * xsize ));
+	    yoff=$(( r * ysize ));
+	    crop=${xsize}x$ysize+$xoff+$yoff;
+    
+	    for adfix in "" "-negate" "-normalize"; do
+
+		# if the tile file does not exist then create it
+		tilefile=$basename"-"$c"."$r${adfix}"-"$infile;
+		if [ ! -f "$tilefile" ]; then
+		    convert $infile -crop $crop -resize $geom $adfix $tilefile;
+		fi
+
+		# if an entry for the mean isn't in the means file, then add it
+		if ! grep -qs $tilefile $meansfile ; then
+		    mean=$( printf "%.0f" $( identify -format "%[mean]" $tilefile ) );
+		    echo $mean $tilefile >> $meansfile;
+		fi
+	    done
+	done
+    done
+}
+
+
+#################### Start of execution #######################
 if [[ $# -lt 2 ]] || [[ ! "$1" =~ [0-9]+x[0-9]+ ]]; then
     echo "doTiles  <geometry> <image file>..."
     exit;
 fi
 
 geom=$1;  shift 1;
-
-meansfile=${geom}"-means";
+divs=$1;  shift 1;
 
 for infile in "$@"; do
-
-    for adfix in "" "-negate" "-normalize"; do
-
-	# if the tile file does not exist then create it
-	tilefile="./tiles/"${geom}${adfix}"-"${infile};
-	if [ ! -f "$tilefile" ]; then
-	    convert $infile -resize $geom $adfix $tilefile;
-	fi
-
-	# if an entry for the mean isn't in the means file, then add it
-	if ! grep -q $tilefile $meansfile ; then
-	    mean=$( printf "%.0f" $( identify -format "%[mean]" $tilefile ) );
-	    echo $mean $tilefile >> $meansfile;
-	fi
+    for (( i=1; i<=$divs; i++ )); do
+	processFile $geom $i $infile;
     done
-    
 done
 
