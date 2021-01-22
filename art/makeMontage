@@ -32,8 +32,8 @@ close $ph;
 
 # For each location in the pattern, find the tile that's closest.
 foreach ( @plines ) {
-    my ( $p ) = split / /, $_;   # first element is the mean tone
-    my $match = first { isLighter( $p, $_ ) } @lines;  # first lighter tile
+    my ( $m, $r, $g, $b ) = split / /, $_;   # first element is the mean tone
+    my $match = first { isLighter( $m, $_ ) } @lines;  # first lighter tile
     if ( !$match ) { # if none use the lightest, ie, the last sorted one
 	$match = $lines[-1];
     }
