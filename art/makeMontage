@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 #use Image::Magick;   # Can't get the mean through perlmagick
+use Time::Local;
 use List::Util qw( first );
 
 if ( 3 != $#ARGV ) {
@@ -10,13 +11,21 @@ if ( 3 != $#ARGV ) {
     exit;
 }
 
+# calculate the number of days we've been living through this
+my $then = timelocal(0,0,0,13,2,2020);   # March 13, 2020 --- lockdown
+my $now = time();
+my $days = int( ($now - $then) / (24 * 60 * 60) );
+#printf "then:%d now:%d days since:%d\n", $then, $now, $days;
+
+my $method = "tone";
+
 my ( $meansfile, $cols, $rows, $patternname ) = @ARGV;
 
 my $filelist;
 my $tilegeom = $cols."x".$rows;
 my $tile = "-tile ".$tilegeom;
 my $patternfile = $patternname."-".$cols."x".$rows.".means";
-my $outfile = substr( $patternfile, 0, -6 )."-tone.gif";
+my $outfile = substr( $patternfile, 0, -6 )."-".$days."-".$method.".gif";
 
 # Read the means file, and sort it.
 my @lines;
@@ -46,6 +55,15 @@ my $cmd = "montage +dither $filelist $tile -mode Concatenate $outfile";
 #print "calling ".$cmd."...\n";
 system $cmd;
 
+sub findMatch {
+    my ( $m, $r, $g, $b ) = @_;
+    my $match = first { isLighter( $m, $_ ) } @lines;  # first lighter tile
+    if ( !$match ) { # if none use the lightest, ie, the last sorted one
+	$match = $lines[-1];
+    }
+    my ( $tone, $red, $green, $blue, $file ) = split / /, $match; 
+    $file;
+}
 
 # a numeric comparison on the first word in the line
 sub byFirst {
