@@ -4,10 +4,10 @@ use strict;
 use warnings;
 #use Image::Magick;   # Can't get the mean through perlmagick
 use Time::Local;
-use List::Util qw( first );
+use List::Util qw( first min reduce );
 
-if ( 3 != $#ARGV ) {
-    print "makeMontage <means-file> <cols> <rows> <pattern mean file>\n";
+if ( 4 != $#ARGV ) {
+    print "makeMontage <means-file> <cols> <rows> <pattern mean file> <tone|hue>\n";
     exit;
 }
 
@@ -17,9 +17,7 @@ my $now = time();
 my $days = int( ($now - $then) / (24 * 60 * 60) );
 #printf "then:%d now:%d days since:%d\n", $then, $now, $days;
 
-my $method = "tone";
-
-my ( $meansfile, $cols, $rows, $patternname ) = @ARGV;
+my ( $meansfile, $cols, $rows, $patternname, $method ) = @ARGV;
 
 my $filelist;
 my $tilegeom = $cols."x".$rows;
@@ -41,23 +39,24 @@ close $ph;
 
 # For each location in the pattern, find the tile that's closest.
 foreach ( @plines ) {
-    my ( $m, $r, $g, $b ) = split / /, $_;   # first element is the mean tone
-    my $match = first { isLighter( $m, $_ ) } @lines;  # first lighter tile
-    if ( !$match ) { # if none use the lightest, ie, the last sorted one
-	$match = $lines[-1];
-    }
-    my ( $tone, $red, $green, $blue, $file ) = split / /, $match; 
-    $filelist.= "$file ";
+    $filelist.= findMatch( split / /, $_ ) ." ";
 }
 #print $filelist;
 
 my $cmd = "montage +dither $filelist $tile -mode Concatenate $outfile";
 #print "calling ".$cmd."...\n";
+#exit;
 system $cmd;
 
 sub findMatch {
     my ( $m, $r, $g, $b ) = @_;
-    my $match = first { isLighter( $m, $_ ) } @lines;  # first lighter tile
+    my $match;
+    
+    if ( $method eq "tone" ) {
+	$match = first { isLighter( $m, $_ ) } @lines;  # first lighter tile
+    } else {
+	$match = reduce { closestHue( $r, $g, $b, $_ ) } @lines;
+    }
     if ( !$match ) { # if none use the lightest, ie, the last sorted one
 	$match = $lines[-1];
     }
@@ -77,4 +76,13 @@ sub isLighter {
     my ( $tile_mean ) = split / /, $tile_line;
     #print "is ".$tile_mean." >= ".$pat_mean."?\n";
     $pat_mean < $tile_mean;
+}    
+
+sub closestHue {
+    my ( $pr, $pg, $pb, $tile_line ) = @_;
+    my ( $am, $ar, $ag, $ab ) = split / /, $a;
+    my ( $bm, $br, $bg, $bb ) = split / /, $b;
+    my $adiff = abs($pr-$ar) + abs($pg-$ag) + abs($pb-$ab);
+    my $bdiff = abs($pr-$br) + abs($pg-$bg) + abs($pb-$bb);
+    $adiff < $bdiff ? $a : $b
 }    
