@@ -42,7 +42,7 @@ processFile() {
 		    mean=$( printf "%.0f" $( identify -format "%[mean]" $tilefile ) );
 		    # delete the first line of the output
 		    # extract the rgb values out of the second line
-		    rgb=$( convert $tilefile -resize 1x1 txt:- | sed -e '1 d' -e "s/.*srgb(\(.*\),\(.*\),\(.*\))/\1 \2 \3/" );
+		    rgb=$( convert $tilefile -resize 1x1\! -format "%[fx:int(255*r)] %[fx:int(255*g)] %[fx:int(255*b)]" info:- )
 		    echo $mean $rgb $tilefile >> $meansfile;
 		fi
 	    done
