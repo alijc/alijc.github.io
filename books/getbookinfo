@@ -38,12 +38,13 @@ close($if);
 sub tbabs {
     my ( $bookinfo ) = @_;
     
-    my $tbabsurl = "https://talkingbooks.osl.state.or.us/";
-
+    my $tbabsurl = "https://talkingbooks.osl.state.or.us/index.jsf";
+#https://talkingbooks.osl.state.or.us/search/search.jsf?f=-Braille*medium_ss%3ABraille&p=0&q=The+Orphan+Master%E2%80%99s+Son+by+Adam+Johnson&i=_text_&s=score&l=false&mc=0
     print "\nTBABS:\n";
     $mech->get( $tbabsurl );
     $mech->form_number(1);
     $mech->field( "f", "Digital Book" );  # Exclude braille format
+#    $mech->field( "f", "-Braille" );  # Exclude braille format
     $mech->field( "q", $bookinfo );       # Search on title and author
     $mech->click();
     #print $mech->content;
