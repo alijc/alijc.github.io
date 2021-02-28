@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Covid Art Project</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <h1>My Covid Art Project</h1>
+    <h2>Daily Images</h2>
+    <h3>July 2020 - bash</h3>
+    <p>
+      I was given a challenge, of documenting the number of days that we've been
+      in lockdown in a piece of art.  I decided to count them.  And, being too
+      lazy to write all the numbers down by hand, I wrote a bash script to draw
+      them on a canvas, using imagemagick.
+    </p>
+
+      <a href="https://1.bp.blogspot.com/-g7EGUww8d5g/XxvJRSyOgEI/AAAAAAAAgE0/sevjv6STtE0lhSw4AE5hcZw2A_uRBOt1wCPcBGAsYHg/s1500/124.gif">
+      <img src="https://1.bp.blogspot.com/-g7EGUww8d5g/XxvJRSyOgEI/AAAAAAAAgE0/sevjv6STtE0lhSw4AE5hcZw2A_uRBOt1wCPcBGAsYHg/s1500/124.gif"
+      alt="Day 124" width="500" height="350"></a>
+    <p>
+      I kept working on the script over the next days, trying moving the numbers
+      around in various ways, until I had them twirling around a small circle.
+      Which takes trig functions, which are difficult to do in bash.
+    </p>
+      
+      <a href="https://1.bp.blogspot.com/-VsBWEtwNT54/Xzx-4jHsnWI/AAAAAAAAgXs/tXbqWgQAvJIPmiBGeAVFVpRMQ7vpPZ7vgCPcBGAsYHg/s1500/140.gif">
+      <img src="https://1.bp.blogspot.com/-VsBWEtwNT54/Xzx-4jHsnWI/AAAAAAAAgXs/tXbqWgQAvJIPmiBGeAVFVpRMQ7vpPZ7vgCPcBGAsYHg/s1500/140.gif"
+      alt="Day 140" width="500" height="350"></a>
+
+    <h3>August 2020 - perl</h3>
+    <p>
+      I started creating a new image every day, tweaking the positioning, until
+      I finally took the plunge and ported the script to perl.  Using
+      Time::Local to automagicly compute the number of days since March 13, and
+      Image::Magick to create the image.  And then added randomization for
+      positioning and rotation.  
+    </p>
+      
+      <a href=https://1.bp.blogspot.com/-qdKmMRbztqQ/XzyNRBYhb2I/AAAAAAAAgZA/ukqcRtMqo8MB1M7mg3n15qGatu1s5KE4wCPcBGAsYHg/s1500/150-SouthWest-179-.18-4.gif"">
+      <img src="https://1.bp.blogspot.com/-qdKmMRbztqQ/XzyNRBYhb2I/AAAAAAAAgZA/ukqcRtMqo8MB1M7mg3n15qGatu1s5KE4wCPcBGAsYHg/s1500/150-SouthWest-179-.18-4.gif"
+      alt="Day 179" width="500" height="350"></a>
+    <p>
+      And for the color.  Using hsl (hue, saturation, lightness). I started out
+      with a random hue, with full saturation, starting out dark and lightening
+      a bit for each day.  And shifting the hue a bit each day as well.
+    </p>
+      
+      <a href="https://1.bp.blogspot.com/-zyfliE9wlwU/XzyPmRGhC3I/AAAAAAAAgZc/YLZ9gqGGFS89ac_UK_ImDdPz2p8UqTfvwCPcBGAsYHg/s1500/153-SouthWest-189-.18-8.gif">
+      <img src="https://1.bp.blogspot.com/-zyfliE9wlwU/XzyPmRGhC3I/AAAAAAAAgZc/YLZ9gqGGFS89ac_UK_ImDdPz2p8UqTfvwCPcBGAsYHg/s1500/153-SouthWest-189-.18-8.gif"
+      alt="Day 189" width="500" height="350"></a>
+    <p>
+      And then I randomized the font.
+    </p>
+      
+      <a href="https://1.bp.blogspot.com/-7Z9ZYU199cc/XzyQaRKCZuI/AAAAAAAAgZs/xHTIEj4AI107HlNVK12x4OAFqE9G8lGlwCPcBGAsYHg/s1500/155-160.088746096217--0.0857668830198222-East-Nimbus-Roman-No9-L-Medium-Italic-67-.1-8.gif">
+	<img src="https://1.bp.blogspot.com/-7Z9ZYU199cc/XzyQaRKCZuI/AAAAAAAAgZs/xHTIEj4AI107HlNVK12x4OAFqE9G8lGlwCPcBGAsYHg/s1500/155-160.088746096217--0.0857668830198222-East-Nimbus-Roman-No9-L-Medium-Italic-67-.1-8.gif"
+	     alt="Day 155" width="500" height="350"></a>
+
+
+    <h3>September 2020</h3>
+    <p>
+      Changed the code to plot a parabola instead of an elipse.  And then
+      started randomizing the background color.
+    </p>
+      
+      <a href="https://1.bp.blogspot.com/-1js-GUTY4Hc/X24t6RRCG1I/AAAAAAAAhBo/_p-EFVQPT84Bk6TLUd6_MqwTJiDtTmANACPcBGAsYHg/s1500/176-272.488524915607--0.799748984108817-SouthEast-URW-Gothic-L-Demi-147-120-.6-5.gif">
+      <img src="https://1.bp.blogspot.com/-1js-GUTY4Hc/X24t6RRCG1I/AAAAAAAAhBo/_p-EFVQPT84Bk6TLUd6_MqwTJiDtTmANACPcBGAsYHg/s1500/176-272.488524915607--0.799748984108817-SouthEast-URW-Gothic-L-Demi-147-120-.6-5.gif" 
+	   alt="Day 176" width="500" height="350"></a>
+
+      <a href="https://1.bp.blogspot.com/-cUXg6DV8II8/X24u87Se8YI/AAAAAAAAhB8/6enkp2xi0Uc2PfTYKUyIpvdO96-5SOs_QCPcBGAsYHg/s1500/179-240.46523699754--0.801084969067531-NorthWest-Noto-Sans-Mono-CJK-TC-Regular-160-145-.6-7.gif">
+      <img src="https://1.bp.blogspot.com/-cUXg6DV8II8/X24u87Se8YI/AAAAAAAAhB8/6enkp2xi0Uc2PfTYKUyIpvdO96-5SOs_QCPcBGAsYHg/s1500/179-240.46523699754--0.801084969067531-NorthWest-Noto-Sans-Mono-CJK-TC-Regular-160-145-.6-7.gif" 
+	   alt="Day 179" width="500" height="350"></a>
+
+      <h3>October 2020 - February 2021</h3>
+    <p>
+      The only change I've made to the script since was to give it an override
+      argument, so that I could backfill the images from the start of lockdown
+      until I got my image-making the way I wanted it.  I've been creating
+      images on a daily basis through the winter.  And as we're coming up on a
+      full year, they're getting pretty dense with writing.
+    </p>
+      
+      <a href="https://1.bp.blogspot.com/-D4bcFUSIw9I/YDnsnZgBobI/AAAAAAAAkXw/OEzzXwvKYk0b-ULOzFGkeIX0iXiK_i3aQCPcBGAsYHg/s1500/350.gif">
+      <img src="https://1.bp.blogspot.com/-D4bcFUSIw9I/YDnsnZgBobI/AAAAAAAAkXw/OEzzXwvKYk0b-ULOzFGkeIX0iXiK_i3aQCPcBGAsYHg/s1500/350.gif" 
+	   alt="Day 350" width="500" height="350"></a>
+
+      <h2>Montages</h2>
+
+  </body>
+</html>
+
+<!--
+
+    <h3> 2020 -</h3>
+    <p>
+    </p>
+      
+      <a href="">
+      <img src="" 
+	   alt="Day ???" width="500" height="350"></a>
+
+-->
