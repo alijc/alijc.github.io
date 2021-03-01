@@ -94,7 +94,7 @@ while (1)
 	my $bright    = $bright_init + ($i * $bright_inc);
 	#my $alpha    = $alpha_init + ($i * $alpha_inc);
 	my $fillcolor = "hsl(". $hue .",". $saturation .",". $bright .")";
-	my $strokecolor="rgb(". (255-$i) .",". (255-$i) .",". (255-$i) .")";
+	my $strokecolor=$fillcolor;
 
 	my $slew      = $slew_init + ($i * $slew_inc);  ####$slew=90;
 	my $geometry = makeGeometry( $i,  $x_origin, $y_origin, $origin_inc,
