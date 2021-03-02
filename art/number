@@ -58,7 +58,7 @@ while (1)
     my $hue_init  =  rand(360); 
     my $hue_inc   =  rand($hue_drift_limit) - $hue_drift_limit;
     my $saturation = 255;
-    my $bright_init= (255 - $days) / 2;
+    my $bright_init= 0;
     my $bright_inc = 1;
     #my $alpha_init= 1.0; my $alpha_inc = -0.005;
 
@@ -91,10 +91,10 @@ while (1)
 
 	my $pointsize = $ps_init - ($i * $ps_inc);
 	my $hue       = $hue_init + ($i * $hue_inc);
-	my $bright    = $bright_init + ($i * $bright_inc);
+	my $bright    = $bright_init + ($i * $bright_inc) % 255;
 	#my $alpha    = $alpha_init + ($i * $alpha_inc);
 	my $fillcolor = "hsl(". $hue .",". $saturation .",". $bright .")";
-	my $strokecolor=$fillcolor;
+	my $strokecolor="hsl(". $hue .",". 0 .",". $bright .")";
 
 	my $slew      = $slew_init + ($i * $slew_inc);  ####$slew=90;
 	my $geometry = makeGeometry( $i,  $x_origin, $y_origin, $origin_inc,
