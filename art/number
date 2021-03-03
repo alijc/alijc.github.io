@@ -91,7 +91,9 @@ while (1)
 
 	my $pointsize = $ps_init - ($i * $ps_inc);
 	my $hue       = $hue_init + ($i * $hue_inc);
-	my $bright    = $bright_init + ($i * $bright_inc) % 255;
+	my $bright    = $bright_init + ($i * $bright_inc);
+	if    ( $bright > 510 ) { $bright = $bright % 255; }
+	elsif ( $bright > 255 ) { $bright = 255 - (($i * $bright_inc) % 255); }
 	#my $alpha    = $alpha_init + ($i * $alpha_inc);
 	my $fillcolor = "hsl(". $hue .",". $saturation .",". $bright .")";
 	my $strokecolor="hsl(". $hue .",". 0 .",". $bright .")";
