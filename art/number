@@ -58,7 +58,7 @@ while (1)
     my $hue_init  =  rand(360); 
     my $hue_inc   =  rand($hue_drift_limit) - $hue_drift_limit;
     my $saturation = 255;
-    my $bright_init= 0;
+    my $bright_init= rand(255);
     my $bright_inc = 1;
     #my $alpha_init= 1.0; my $alpha_inc = -0.005;
 
