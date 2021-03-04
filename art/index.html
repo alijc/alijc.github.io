@@ -82,11 +82,11 @@
 
       <h3>October 2020 - February 2021</h3>
     <p>
-      The only change I've made to the script since was to give it an override
-      argument, so that I could backfill the images from the start of lockdown
-      until I got my image-making the way I wanted it.  I've been creating
-      images on a daily basis through the winter.  And as we're coming up on a
-      full year, they're getting pretty dense with writing.
+      The only change I've made to the script in this time was to give it an
+      override argument, so that I could backfill the images from the start of
+      lockdown until I got my image-making the way I wanted it.  I've been
+      creating images on a daily basis through the winter.  And as we're coming
+      up on a full year, they're getting pretty dense with writing.
     </p>
       
       <a href="https://1.bp.blogspot.com/-D4bcFUSIw9I/YDnsnZgBobI/AAAAAAAAkXw/OEzzXwvKYk0b-ULOzFGkeIX0iXiK_i3aQCPcBGAsYHg/s1500/350.gif">
@@ -94,6 +94,20 @@
 	   alt="Day 350" width="500" height="350"></a>
 
       <h2>Montages</h2>
+    <p>
+      The next step was to take the images that I'd created and assemble them
+      into other images, in grids that imagemagick calls montages.  This evolved
+      into three separate scripts, in perl and bash.  One takes each of the
+      daily number images and slices and dices it into a plethora of small
+      tiles.  And also calculates each tile's mean (its lightness or darkness)
+      and stores that away in a file.  The second courses over a reference
+      photo in a grid, calculating the mean of each rectangle and storing that
+      away in another file.  And the third reads both of those files, picks out
+      the tile that best matches each rectangle of the reference photo, and
+      calls imagemagick to assemble those tiles into a new image.
+    </p>
+      
+    
 
   </body>
 </html>
