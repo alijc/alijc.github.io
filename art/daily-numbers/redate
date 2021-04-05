@@ -1,0 +1,16 @@
+#!/bin/bash
+
+if [[ $# -lt 2 ]]; then
+    echo "redate  <first number> <number of files>"
+    exit;
+fi
+
+
+first=$1; shift 1;
+last=$1;  shift 1;
+
+for (( i=$first; i<=$last; i++ ))
+do
+    touch -r 0.gif -d "$i days" $i.gif
+done
+    
