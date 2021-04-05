@@ -1,0 +1,5 @@
+#!/bin/bash
+list=$( ls -1 45x30/orig/*gif | sort -V )
+#montage $list -mode Concatenate -tile 16 16wide.png
+montage $list -mode Concatenate -tile 24 24wide.png
+#montage $list -rotate 90 -mode Concatenate -tile 32 32wide.png
