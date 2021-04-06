@@ -1,0 +1,24 @@
+#!/bin/bash
+
+if [[ $# -ne 1 ]] || [[ ! "$1" =~ [0-9]+x[0-9]+ ]]; then
+    echo "populateTiles <geometry>"
+    exit;
+fi
+geom=$1
+
+for infile in daily-numbers/*gif
+do
+    number=$( basename -s .gif $infile )
+    outfileorig=./$geom/orig/$number.png
+    outfileneg=./$geom/negate/$number.png
+    if [ ! -f "$outfileorig" ]; then
+	convert $infile -resize $geom $outfileorig
+    fi
+    if [ ! -f "$outfileneg" ]; then
+        convert $infile -resize $geom -negate $outfileneg
+    fi
+
+    mean=$( printf "%.0f" $( identify -format "%[mean]" $outfileorig ) );
+    echo $mean $outfileorig >> ./means
+
+done
