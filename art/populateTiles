@@ -18,7 +18,9 @@ do
         convert $infile -resize $geom -negate $outfileneg
     fi
 
-    mean=$( printf "%.0f" $( identify -format "%[mean]" $outfileorig ) );
-    echo $mean $outfileorig >> ./means
+    #mean=$( printf "%.0f" $( identify -format "%[mean]" $outfileorig ) );
+    #rgb=$( convert $outfileorig -format '#%[hex:u]' info:- )
+    hsl=$( convert $outfileorig -scale 1x1 -colorspace HSL -depth 16 txt:- | grep -o "hsl(.*" )
+    echo $hsl $outfileorig >> ./means
 
 done
