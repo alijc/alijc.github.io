@@ -1,8 +1,21 @@
 #!/bin/bash
+geom=45x30
+rotate="-rotate 90"
+width=24
+squeezed="-mode Concatenate"
+
 #list=$( ls -1 45x30/orig/*gif | sort -V )
 #list=$( sort -n means | sed 's/.* //' )  # sorted by brightness
-list=$( sort -V means | sed 's/.* //' )  # sorted by hue
+#list=$( sort -V means | sed -e "s/GEOM/$geom/" -e 's/.* //' )  # sorted by hue
 
+list=
+# sort -nk2 means > means-sorted-by-hue
+# split -l 24 means-sorted-by-hue means-sorted-by-hue-
+for file in means-sorted-by-hue-*;
+do
+    # sorted by lightness
+    list=${list}" "$( sort -nk4 $file | sed -e "s/GEOM/$geom/" -e 's/.* //' )
+done
 #montage $list -mode Concatenate -tile 16 16wide.png
-montage $list -rotate 90 -mode Concatenate -tile 24 24wide.png
+montage $list $rotate $squeezed -tile $width 24wide.png
 #montage $list -rotate 90 -mode Concatenate -tile 32 32wide.png
