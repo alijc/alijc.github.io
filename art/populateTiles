@@ -4,7 +4,7 @@ if [[ $# -ne 1 ]] || [[ ! "$1" =~ [0-9]+x[0-9]+ ]]; then
     echo "populateTiles <geometry>"
     exit;
 fi
-geom=$1
+geom=${1%/}
 
 for infile in daily-numbers/*gif
 do
@@ -20,7 +20,7 @@ do
 
     #mean=$( printf "%.0f" $( identify -format "%[mean]" $outfileorig ) );
     #rgb=$( convert $outfileorig -format '#%[hex:u]' info:- )
-    hsl=$( convert $outfileorig -scale 1x1 -colorspace HSL -depth 16 txt:- | grep -o "hsl(.*" | tr [:punct:] ' ' )
-    echo $hsl ./GEOM/orig/$number.png >> ./means
+    #hsl=$( convert $outfileorig -scale 1x1 -colorspace HSL -depth 16 txt:- | grep -o "hsl(.*" | tr [:punct:] ' ' )
+    #echo $hsl ./GEOM/orig/$number.png >> ./means
 
 done
