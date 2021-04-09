@@ -1,0 +1,16 @@
+#!/bin/bash
+
+testgeom=45x30    # small size for trial (and to be nice to my computer)
+rotate="-rotate 90"
+width=24
+squeezed="-mode Concatenate"
+
+if [[ $# -ne 1 ]] || [[ ! "$1" =~ [0-9]+x[0-9]+ ]]; then
+    echo "./assembleAllBigger <new geometry>"
+    exit;
+fi
+newgeom=${1%/}
+
+list=$( sed -e s/$testgeom/$newgeom/g 24wide-45x30.txt )
+
+montage $list $rotate $squeezed -tile $width ${width}wide-$newgeom.png
