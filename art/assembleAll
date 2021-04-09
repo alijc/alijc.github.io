@@ -1,5 +1,5 @@
-#!/bin/bash
-geom=45x30
+#!/bin/bash 
+geom=45x30    # small size for trial (and to be nice to my computer)
 rotate="-rotate 90"
 width=24
 squeezed="-mode Concatenate"
@@ -16,6 +16,6 @@ do
     # sorted by lightness
     list=${list}" "$( sort -nk4 $file | sed -e "s/GEOM/$geom/" -e 's/.* //' )
 done
-#montage $list -mode Concatenate -tile 16 16wide.png
-montage $list $rotate $squeezed -tile $width 24wide.png
-#montage $list -rotate 90 -mode Concatenate -tile 32 32wide.png
+
+montage $list $rotate $squeezed -tile $width ${width}wide-$geom.png
+echo $list > ${width}wide-$geom.txt
