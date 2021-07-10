@@ -1,0 +1,190 @@
+X:1
+T:Sumer is icumen in (Ground)
+C:anon.
+O:England
+R:Round
+M:6/8
+L:1/8
+K:Cmaj
+%%MIDI program 65
+"1"C3D3|C3D2E|"2"G3F3|G3 z2 z ||
+w:Sing, cuc-koo, now,_ Sing cuc-koo!
+w:Sing Cuc-cu, nu_ sing Cuc-cu.
+
+X:2
+T:Sumer is icumen in
+C:anon.
+O:England
+R:Round
+M:6/8
+L:1/8
+K:Cmaj
+%%MIDI program 65
+"1"c2 B A2 B|c2 c BAG|"2"E2 E F2 D|E3 z2 z|
+w:Sum-mer is a-com-ing in__ Loud-ly sing cuc-koo
+w:Su-mer is i-cu-men in,__ Lhu-de sing Cuc-cu!
+"3"C2 E D2 F|E2 E D2 C|"4"E2 G A2 A|G3 z2 z|
+w:Seed now grows & mead now blows & springs the woods a-new
+w:Grow-eth sed, and blow-eth med, and spring-eth w-de nu.
+c3 A3|c3 z2 z|G2 E F2 D|E2 G F2 E|
+w:Sing cuc-koo! Ewe is bleat-ing af-ter lamb, cow
+w:Sing Cuc-cu! Aw-e blet-eth aft-er lombe, Lhouth
+C2 E D2 B,|C3 z2 z|E2 E D2 F|G2 G A2 B|
+w:Af-ter calf lows too Bul-lock start-ing, buck now fart-ing
+w:af-ter cal-ve cu; Bul-luc stert-eth, buck-e vert-eth
+c2 B A2 B|c3 z2 z|G3 A3|G3 F2E|
+w:Mer-ry sing cuc-koo! Cuc-koo, cuc-koo_
+w:Mur-ie sing Cuc-cu, Cuc-cu, Cuc-cu!_
+C2 E F2 D|E3 F2 G|E2 G D2 B,|C3 z2 z ||
+w:Well sing thou cuc-koo.  O_ sing thou e-ver new!
+w:Wel sing-es thu Cuc-cu, Ne swik thu nev-er nu.
+%
+W:
+W:Sumer is icumen in, Lhude sing Cuccu!
+W:Groweth sed, and bloweth med, and springeth wde nu.
+W:Sing Cuccu!
+W:Awe bleteth after lombe,
+W:Lhouth after calve cu;
+W:Bulluc sterteth, bucke verteth
+W:Murie sing Cuccu, Cuccu, Cuccu!
+W:Wel singes thu Cuccu,
+W:Ne swik thu never nu.
+W:
+W:From Musica Viva - http://www.musicaviva.com
+
+
+X:3
+T:Summer is icumen in (Round)
+C:anon.
+O:England
+R:Round
+M:6/8
+L:1/8
+K:Cmaj
+V:5
+%%MIDI program 65
+C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||
+C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||
+C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||
+C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||
+%
+V:6
+%%MIDI program 69
+z6| z6 |C3D3|C3D2E|G3F3|G3 z2 z ||C3D3|C3D2E|G3F3|G3 z2 z ||
+C3D3|C3D2E|G3F3|G3 z2 z ||C3D3|C3D2E|G3F3|G3 z2 z ||
+C3D3|C3D2E|G3F3|G3 z2 z ||C3D3|C3D2E|G3F3|G3 z2 z ||
+C3D3|C3D2E|G3F3|G3 z2 z ||C3D3|C3D2E|G3F3|G3 z2 z ||
+%
+V:1
+%%MIDI program 65
+z6|z6|z6|z6 |c2 B A2 B|c2 c BAG|E2 E F2 D|E3 z2 z|
+C2 E D2 F|E2 E D2 C|E2 G A2 A|G3 z2 z|
+c3 A3|c3 z2 z|G2 E F2 D|E2 G F2 E|
+C2 E D2 B,|C3 z2 z|E2 E D2 F|G2 G A2 B|
+c2 B A2 B|c3 z2 z|G3 A3|G3 F2E|
+C2 E F2 D|E3 F2 G|E2 G D2 B,|C3 z2 z ||
+%
+V:2
+%%MIDI program 41
+z6|z6|z6| z6 |z6| z6 |c2 B A2 B|c2 c BAG|E2 E F2 D|E3 z2 z|
+C2 E D2 F|E2 E D2 C|E2 G A2 A|G3 z2 z|
+c3 A3|c3 z2 z|G2 E F2 D|E2 G F2 E|
+C2 E D2 B,|C3 z2 z|E2 E D2 F|G2 G A2 B|
+c2 B A2 B|c3 z2 z|G3 A3|G3 F2E|
+C2 E F2 D|E3 F2 G|E2 G D2 B,|C3 z2 z ||
+%
+V:3
+%%MIDI program 68
+z6|z6|z6| z6 |z6| z6 |z6| z6 |c2 B A2 B|c2 c BAG|E2 E F2 D|E3 z2 z|
+C2 E D2 F|E2 E D2 C|E2 G A2 A|G3 z2 z|
+c3 A3|c3 z2 z|G2 E F2 D|E2 G F2 E|
+C2 E D2 B,|C3 z2 z|E2 E D2 F|G2 G A2 B|
+c2 B A2 B|c3 z2 z|G3 A3|G3 F2E|
+C2 E F2 D|E3 F2 G|E2 G D2 B,|C3 z2 z ||
+%
+V:4
+%%MIDI program 70
+z6|z6|z6| z6 |z6| z6 |z6| z6 |z6| z6 |c2 B A2 B|c2 c BAG|E2 E F2 D|E3 z2 z|
+C2 E D2 F|E2 E D2 C|E2 G A2 A|G3 z2 z|
+c3 A3|c3 z2 z|G2 E F2 D|E2 G F2 E|
+C2 E D2 B,|C3 z2 z|E2 E D2 F|G2 G A2 B|
+c2 B A2 B|c3 z2 z|G3 A3|G3 F2E|
+C2 E F2 D|E3 F2 G|E2 G D2 B,|C3 z2 z ||
+
+
+X:4
+T:Mary Had a Little Lamb
+M:4/4
+L:1/8
+K:C
+%%MIDI program 10
+e3/2 d/2 cd ee e2| dd d2 eg g2| e3/2 d/2 cd ee ee| dd ed c4| 
+e3/2 d/2 cd ee e2| dd d2 eg g2| e3/2 d/2 cd ee ee| dd ed c4|
+g2 e3/2 f/2 g a2 g| g2 e3/2 f/2 g3 g|g2 e3/2 f/2 gg ag| gg fe d2cd|
+ee ed c2 A3/2 B/2| cc ca g4| c2 c3/2 d/2 eg ec| d4 c2 z2|
+
+
+X:5
+T:Summer is icumen in / Mary Had a Little Lamb
+C:anon.
+O:England
+R:Round
+M:6/8
+L:1/8
+K:Cmaj
+V:5
+%%MIDI program 65
+C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||
+C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||
+C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||
+C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||C,3D,3|C,3D,2E,|G,3F,3|G,3 z2 z ||
+%
+V:6
+%%MIDI program 69
+z6| z6 |C3D3|C3D2E|G3F3|G3 z2 z ||C3D3|C3D2E|G3F3|G3 z2 z ||
+C3D3|C3D2E|G3F3|G3 z2 z ||C3D3|C3D2E|G3F3|G3 z2 z ||
+C3D3|C3D2E|G3F3|G3 z2 z ||C3D3|C3D2E|G3F3|G3 z2 z ||
+C3D3|C3D2E|G3F3|G3 z2 z ||C3D3|C3D2E|G3F3|G3 z2 z ||
+%
+V:1
+%%MIDI program 65
+z6|z6|z6|z6 |c2 B A2 B|c2 c BAG|E2 E F2 D|E3 z2 z|
+C2 E D2 F|E2 E D2 C|E2 G A2 A|G3 z2 z|
+c3 A3|c3 z2 z|G2 E F2 D|E2 G F2 E|
+C2 E D2 B,|C3 z2 z|E2 E D2 F|G2 G A2 B|
+c2 B A2 B|c3 z2 z|G3 A3|G3 F2E|
+C2 E F2 D|E3 F2 G|E2 G D2 B,|C3 z2 z ||
+%
+V:2
+%%MIDI program 41
+z6|z6|z6| z6 |z6| z6 |c2 B A2 B|c2 c BAG|E2 E F2 D|E3 z2 z|
+C2 E D2 F|E2 E D2 C|E2 G A2 A|G3 z2 z|
+c3 A3|c3 z2 z|G2 E F2 D|E2 G F2 E|
+C2 E D2 B,|C3 z2 z|E2 E D2 F|G2 G A2 B|
+c2 B A2 B|c3 z2 z|G3 A3|G3 F2E|
+C2 E F2 D|E3 F2 G|E2 G D2 B,|C3 z2 z ||
+%
+V:3
+%%MIDI program 68
+z6|z6|z6| z6 |z6| z6 |z6| z6 |c2 B A2 B|c2 c BAG|E2 E F2 D|E3 z2 z|
+C2 E D2 F|E2 E D2 C|E2 G A2 A|G3 z2 z|
+c3 A3|c3 z2 z|G2 E F2 D|E2 G F2 E|
+C2 E D2 B,|C3 z2 z|E2 E D2 F|G2 G A2 B|
+c2 B A2 B|c3 z2 z|G3 A3|G3 F2E|
+C2 E F2 D|E3 F2 G|E2 G D2 B,|C3 z2 z ||
+%
+V:4
+%%MIDI program 70
+z6|z6|z6|z6|z6|z6|z6|z6|z6|z6 |c2 B A2 B|c2 c BAG|E2 E F2 D|E3 z2 z|
+C2 E D2 F|E2 E D2 C|E2 G A2 A|G3 z2 z|
+c3 A3|c3 z2 z|G2 E F2 D|E2 G F2 E|
+C2 E D2 B,|C3 z2 z|E2 E D2 F|G2 G A2 B|
+c2 B A2 B|c3 z2 z|G3 A3|G3 F2E|
+C2 E F2 D|E3 F2 G|E2 G D2 B,|C3 z2 z ||
+V:7
+%%MIDI program 10
+z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|z6|
+e3/2 d/2 cd ee e2| dd d2 eg g2| e3/2 d/2 cd ee ee| dd ed c4| 
+e3/2 d/2 cd ee e2| dd d2 eg g2| e3/2 d/2 cd ee ee| dd ed c4|
+g2 e3/2 f/2 g a2 g| g2 e3/2 f/2 g3 g|g2 e3/2 f/2 gg ag| gg fe d2cd|
+ee ed c2 A3/2 B/2| cc ca g4| c2 c3/2 d/2 eg ec| d4 c2 z2|

@@ -1,0 +1,35 @@
+X:1
+T:When Jesus Wept
+C:William Billings
+M:3/2
+L:1/4
+Q:1/4=200
+K:Em
+V:1
+%%MIDI program 65
+%%gchordfont Times-Roman 32
+E2|B4 A2|B>cd2 G2|B>A G2 F2|E4 "*" 
+w:When Je-sus wept__ the fall-** ing tear
+E2|E4 D2|G2 F2 E2|E4 B,2|E4
+w:In mer-cy flowed_ be-yond all bound
+B2|e2 B2 d2| G2 A2 B2|B4 B2|B4 
+w:When Je-*sus groaned_ a trem-bling fear
+G2|B>A G2 F2|G2 c2 B2|G>F E2 D2|E4||
+w:Seized all__ the guil-*ty world__ a-round.
+
+X: 2
+T: By the Waters of Babylon
+M: 4/4
+L: 1/8
+Q:1/4=100
+K:C
+V:1
+%%gchordfont Times-Roman 32
+%%MIDI program 65
+A2GF E2 F2| G2FE D2 E2| F2ED C2 D2| E2 E2 A,4|
+w:By___ the wa-**ters, the wa-**ters of Ba-by-lon
+"*" c2 c2 c2 c2| c2 B4 B2| B2 A4 A2| A2 ^G2 A4|
+w:We sat down and wept,_ and wept,_ for thee Zi-on
+E3F =G2 A2| D3E F2 G2| C3D E2 F2| E2 E2 A,4|
+w:We re-mem-ber, we re-mem-ber, we re-mem-ber thee Zi-on
+

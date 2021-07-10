@@ -1,0 +1,76 @@
+X:1
+T:If Ye Love Me 
+C:Thomas Tallis
+M:4/4
+L:1/4
+K:F
+%
+%%MIDI program 1 41
+%%MIDI program 2 42 
+%%MIDI program 3 43 
+%%MIDI program 4 44
+%
+V:1
+F3 F|G2 A2-|A A G F|B2 A2|z A A A |c2 B (A|
+w:If ye love me,_ keep my com-mand-ments, and I will pray the Fa_
+V:2
+C3 D|E2 F2-|F F E D|F2 F2-|F2 z2 | z4|
+w:If ye love me,_ keep my com-mand-ments,_
+V:3 clef=tenor 
+A,3 F, |C2 C2-|C C C A,|D2 C2-|C2 z A,|A, A, D3/2 C/2|
+w:If ye love me,_ keep my com-mand-ments,_ and I will pray the
+V:4 clef=bass
+F,3 E,|D,2 F,2-|F, F, C, D, |B,,2 F,2-|F,4|z4|
+w:If ye love me,_ keep my com-mand-ments,_
+%
+V:1
+AGA2)|z4|z G F F |B3 A-|A F A G-|G F2 E|F2 z2||
+w:__ther, and he shall give you_ a-no-ther_ Com-fort-er
+V:2
+z D D D|F2 E (D|DC) D D |B, B, F2|F C F (E|DB,) C3/2 C/2|C2 z2||
+w:and I will pray the Fa-**ther, and he shall give you a-no-ther__ Com-fort-er
+V:3
+B,2 A,2-|A,2 z2 | z2 z B,|G, G, D2|C A, (C2|B,/A,/) F, G, G,|F,2 C2||
+w:Fa-ther,_ and he shall give you a-no-**ther Com-fort-er, that
+V:4
+z2 D,2|D, D, G,3/2 F,/|E,2 D, z |z G, D, D, |F,2 F, C,|B,, B,, C, C, |F,2 z2||
+w:and I will pray the Fa-ther and he shall give you a-no-ther Com-fort-er
+%
+V:1
+ z4|z4|z F c2-|c B A G |
+w:that he_ may bide with 
+V:2
+z2 F2|B3 A |G F F E|F2 F C|
+w:that he may bide with you for-ev-er, with
+V:3
+F3 E|D C B, C|(CA,)G, G, |A, D C G,|
+w:he may bide with you for-ev-*er, that he may bide with
+V:4
+F,2 B,2-|B, A, G, F,| E, F, C,2|F, F, F, E,|
+w:that he_ may bide with you for-ev-er, may bide with
+%
+V:1
+F A G2|G2 z2|z4 |z c2 F|c B A2|
+w:you for-ev-er, e'en the sp'rit of truth,
+V:2
+D D D2|E2 E2|E A2 (G|G/F/) F z F-|F B, F F|
+w:you for-ev-er, e'en the sp'rit of__ truth, e'en_ the sp'rit of 
+V:3
+A, A, =B,2 | C G2 C|G F E D|C4|A, D2 C-|
+w:you for-ev-er, e'en the sp'rit of truth, e'en the sp'rit of truth, e'en
+V:4
+D, D, G,2|C,2 z C-|C F, C B,|A,2 F, A,-|A,/ (F,/G,) F,2|
+w:you for-ev-er, e'en_ the sp'rit of truth, the sp'rit_ of_ truth,
+%
+V:1
+G F E D |C F2 C|D (B,C2)|C4||
+w:e'en the sp'rit of truth, e'en the sp'rit of_ truth. 
+V:2
+E c2 F|c B A G-|G/ F/ F2 E|F4||
+w:truth, e'en the sp'rit of truth, ev'n_ the sp'rit of truth. 
+V:3
+C F, C B,|A, D C G,|A, F, G, G,| C4||
+w: _ the sp'rit of truth, the sp'rit of truth, the sp'rit of truth.
+V:4
+z2 z F,-|F, B,, F, E,|D, D, C, C, | F,4||
+w:e'en_ the sp'rit of truth, the sp'rit of truth. 
