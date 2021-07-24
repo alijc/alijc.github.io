@@ -1,0 +1,92 @@
+X:1
+T:Above the Plain
+C:Czech Folk Tune
+L:1/8
+M:2/4
+%%MIDI program 56
+K:Cmaj
+"^I" G, | C2 D2 | E3 "^II" C | E2 F2 | G3 "^III" c | G2 F2 |
+w:A-bove the plain of gold and green, A young boy's
+E3 G | E2 D2 | C3 G, | CC DD | EG G2 | EE DD |
+w:head is plain-ly seen. A hu-ya, hu-ya, hu-ya-ya, Swift-ly flow-ing
+C2 CG, | CC DD | EG G2 | EEDD | C2 C2 |]
+w:riv-er, A hu-ya, hu-ya, hu-ya-ya, swift-ly flow-ing riv-er.
+%
+|:"^Ostinado 1" C2 G,2 | C4 :||:"^Ostinado 2" CC DD | EG G2 :||
+w:Gold and green      	  Hu-ya, hu-ya, hu-ya-ya
+
+X:2
+T:Belle Mama
+M:4/4
+L:1/8
+K:D
+"^(1)"D>D DD E>E DC|"^(2)"D8 |"^(3)"D>D DD E>E EA|"^(4)"A8 |
+w:Bel-le Ma-ma bel-le Ma-ma ay Bel-le Ma-ma bel-le Ma-ma ay 
+A>A AA G>G GG|F>F FF E>E EE|
+w:Bel-le Ma-ma bel-le Ma-ma bel-le Ma-ma bel-le Ma-ma
+D>D DD E>E DC|D8|]
+w: bel-le Ma-ma bel-le Ma-ma ay 
+
+X: 3
+T:Jubilate Deo (round)
+C:Michael Praetorius
+% Nottingham Music Database
+M:4/4
+L:1/4
+K:C
+"^1"c2 d2|"^2"ec cB|"^3"cA G>F|"^4"EF D2|"^5"C2 GG|"^6"C2 z2||
+w: Ju-bi-la-te De-o.  Ju-bi-la-te De-*o. Al-le-lu-ia!
+%
+W:Caffeinated words:
+W:You be latte, Deo
+W:I'll be cappuccino
+W:We'll be mocha
+
+X:4
+T:Round: Merrily, Merrily
+%R: air, jig
+B:"The Everyday Song Book", 1927
+F:http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z:2017 John Chambers <jc:trillian.mit.edu>
+M:6/8
+L:1/8
+K:Cmaj
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[| "^1" C C C C C C | E2 D C2 z | "^2"E E E E E E | G2 F E2 z |
+w:Mer-ri-ly, mer-ri-ly greet the morn, Cheer-i-ly, cheer-i-ly sound the horn;
+%
+"^3"c2 c/2 c/2 c G2 | c2 B c2 A | "^4"G2 AG2 c | E2 G G2 z |]
+w:Hark to the ech-oes, hear them play  O'er hill and dale, and far a-way.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+X: 5
+T: Come, Follow
+L: 1/4
+M: 4/4
+%%MIDI program 73
+K:Gmaj
+"^1"G2 F F | E E D D | C C B, G, | C D G,2 |
+w:Come fol-low, fol-low, fol-low, fol-low, fol-low, fol-low me;
+"^2"G,/2A,/2 B,/2C/2 D B, | C A, D B, | E/2F/2 G/2A/2 F G | G > F G2 |
+w:Whi-ther shall I fol-low, fol-low, fol-low, Whi-ther shall I fol-low, fol-low thee?
+"^3"B > B A B | G> A F G | E/2F/2 G/2A/2 B c | A > A B2 ||
+w:To the green-wood, To the green-wood, To*  the* green-wood, green-wood tree.
+
+X:6
+T:White Coral Bells
+T:(Two-part Round)
+M:4/4
+L:1/8
+Q:1/4=70
+K:Gmaj
+%
+%%MIDI program 1       71 bassoon
+%%MIDI program 2       74 flute
+%%MIDI program 3       73 piccolo
+%%systemsep      45.0pt
+"^1"    G2     FE   D3   B,| CE      DC    B,4|
+w: 1.~White cor-al bells up-on a slen-der stalk
+w:  Oh, don't you wish that you could hear them ring?
+"^2"    G,B,    A,C    B,D      GB   |A2  F2 G4 :||
+w: 2.~Lil-ies of the val-ley deck my gar-den walk,
+w: That will hap-pen on-ly when the fair-ies sing.
