@@ -1,13 +1,24 @@
 %%abc-version 2.1
 %%titletrim true
-%%titleformat A-1 T C1, Z-1, S-1
+%%titleformat A-1 T C1, S-1
 %%writefields QP 0
 %%header "$P0           $P1"
+%%textfont Helvetica 26
 
 %%center  Music for the senior choir at Friendly House
+%%vskip
+%%begintext
+
+
+TABLE OF CONTENTS
+
+2     Rounds
+?     More Rounds
+?     Mash-ups	
+?     Part Songs
+%%endtext
 
 %%newpage
-
 %%center  Rounds
 
 X:1
@@ -126,7 +137,7 @@ w:  Oh, don't you wish that you could hear them ring?
 w: 2.~Lil-ies of the val-ley deck my gar-den walk,
 w: That will hap-pen on-ly when the fair-ies sing.
 
-X:1
+X:8
 T:Dona Nobis Pacem
 M:3/4
 L:1/4
@@ -141,3 +152,23 @@ w:Do-na no-*bis pa-cem, do-na no-bis pa-***cem.
 P:C
 D3|C3|(D3/2 E/2) (F/2G/2)|A A,2|G G2|F F2|(C/2E/2) (A A,)|D3|
 w:Do-na no-*bis* pa-cem, do-na no-bis pa-***cem.
+
+X:9
+T:Lovely Evening
+%R: air, waltz
+B:"The Everyday Song Book", 1927
+F:http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z:2017 John Chambers <jc:trillian.mit.edu>
+M:3/4
+L:1/4
+K:Dmaj
+% - - - - - - - - - - - - - - -
+[|"^1."D2 E | F2 D | G2 F | (F E) D | G2 F | (F E) D | "^2."F2 G | A2 F |
+w:Oh, how love-ly is the eve-*ning, is the eve-*ning, When the bells are
+%
+B2 A | (A G) F | B2 A | (A G) F | "^3."D3 | D3 | D3 | D3 | D3 | D3 |]
+w:sweet-ly ring-*ing, sweet-ly ring-* ing! Ding, dong, ding, dong, ding, dong.
+% - - - - - - - - - - - - - - -
+
+%%newpage
+%%center More Rounds
