@@ -183,11 +183,416 @@ w:Turn-ing al-ways in-*to morn-ing
 "^3"G E F G | (E/D/) C D2 ||
 w:And from morn-ing in-*to night.
 
+X:11
+T:One Bottle of Pop
+M:3/4
+L:1/8
+%Q:1/4=70
+K:F
+%
+%%MIDI program 1       71 bassoon
+%%MIDI program 2       74 flute
+%%MIDI program 3       73 piccolo
+%%systemsep      45.0pt
+[V:1]
+"^1" F2 (3FFF F2 | F2 (3FFF F2 | C2 (3CCC C2 | F2 (3FFF F2 | 
+w:1.~1 bot-tle of pop, 2 bot-tles of pop, 3 bot-tles of pop, 4 bot-tles of pop, 
+   F2 (3FFF F2 | F2 (3FFF F2 | C2 (3CCC C2 | F6 |]
+w:5 bot-tles of pop, 6 bot-tles of pop, 7 bot-tles of pop, Pop!
+[V:2]
+"^2" F2 FGAB | c2 A2 A2 | B2 G2 G2 | c2 A2 A2 |
+w: 2.~Don't throw your trash in my back-yard, my back-yard, my back-yard
+  F2 FGAB | c2 A2 A2 | B2 G2 c2 | F6 |]
+w: Don't throw your trash in my back-yard, my back-yard's full.
+[V:3]
+"^3" F3G AB| cd c4|  cd c4|  cd c4|
+w: 3.~Fish and chips and vin-e-gar, vin-e-gar, vin-e-gar, 
+ F3G AB| cd c4| BB GG EE | F6 |]
+w: Fish and chips and vin-e-gar, pep-per, pep-per, pep-per, Pop!
+
+X:12
+T:When Jesus Wept
+C:William Billings
+Q:1/4=120
+M:3/4
+L:1/8
+K:Dminor
+z4 "^1" D2 |A4 G2 |(A3/2B/2 c2) F2 |(A3/2G/2 F2) E2 |
+w:When Je-sus wept,__ a fall---ing
+D4 "^2" D2 |D4 C2 |(F2 E2) D2 |D4 A,2 |
+w:tear In mer-cy flowed_ be-yond all
+D4 "^3" A2 |(d2 A2) c2 |(F2 G2) A2 |A4 A2 |
+w:bound When Je--sus groaned_ a trem-bling
+A4 "^4" F2 |(A3/2G/2 F2) E2 |(F2 B2) A2 |(F3/2E/2 D2) C2 | D4 z2 |]
+w:fear seized all__ the guilt_ y world__ a-round.
 
 
 %%newpage
 %%center Mash-ups
+%%%X:11
+%%%T:Rounds in 4/4 and minor keys that can be sung together
+
+X:12
+T:Hey Ho
+L:1/4
+M:4/4
+%%MIDI program 56
+K:Dm
+"^1" D2 C2 | D D/D/ A,2 |
+w:Hey, ho, no-bo-dy home.
+"^2" D D E E | F/F/F/F/ E2 |
+w:Meat nor drink nor mo-ney have I none.
+"^3" A>G A>G | A>G A/G/F/E/ ||
+w: Yet will I be mer-___ry._
+
+X:13
+T:Rose Rose
+M:4/4
+L:1/4
+%%MIDI program 56
+K:Dmin
+"^1" D2 C2| D2 A,2|"^2" DD EE| FG E2|
+w:Rose, Rose, Rose, Rose, Will I ev-er see thee wed?
+"^3" AA GA| FG/F/ EA,|"^4" D2 CE| D4 ||
+w:I will mar-ry at thy_ will, sir, At thy_ will.
+
+X:14
+T:Ah Poor Bird
+M:4/4
+L:1/4
+%%MIDI program 56
+K:Dmin
+"^1" D2 E2| F4 |"^2" F2 G2| A4| "^3" Ad dc| d2 AG | F2 E2| D4 ||
+w:Ah, poor bird, take your flight, Up a-bove the sor-row of this dark night.
+w:Ah, poor bird, As you fly, Can you see the dawn Of to-mor-row’s sky?
+
+%%newpage
+X:15
+T:My Paddle's Keen and Bright
+C:Traditional Canadian
+M:4/4
+L:1/8
+Q:1/4=80
+K:Cmaj
+%
+%%MIDI program 1       74 flute
+%%MIDI program 2       73 piccolo
+%
+[V:1]
+"^X" A A2 G "^X" FD D2 |"^X" F F2 G "^X" A2 d2 |
+w: My pad-dle's keen and bright, flash-ing with sil-ver
+w: Dip, dip and swing her back, flash-ing with sil-ver
+   A A2 G FD D2 | D D2 C D2 z2 :|]
+w: Fol-low the wild goose flight, dip, dip and swing.
+w: Swift as the wild goose flies, dip, dip and swing.
+[V:2] D D2 C D2 z2 | D D2 C D2 z2 | D D2 C D2 z2 | D D2 C D2 z2 :|]
+w: Dip, dip and swing. Dip, dip and swing. Dip, dip and swing. Dip, dip and swing.
+
+X:16
+T:Land of the Silver Birch
+C:Traditional Canadian
+M:4/4
+L:1/8
+Q:1/4=80
+K:Cmaj
+%
+%%MIDI program 1       73 piccolo
+%
+D2 DD AA A2| D2 DD A2 A2 | d2 cd cA F2|
+w: Land of the sil-ver birch, home of the bea-ver, where still the migh-ty moose
+G F2 G A4| d2 cd cA F2 | G F2 G AF D2 |
+w: wan-ders at will; Blue lake and roc-ky shore, I will re-turn once more;
+DD/D/ DF DD/D/ DF|D D/D/ DF D2 z2|]
+w: bm-di-di ah-da, bm-di-di ah-da, bm-di-di ah-da bm.
+
+%%newpage
+X:17
+T:Shalom chaverim
+C:anon.
+O:Israel
+M:C
+L:1/4
+K:Dm
+"^1" A,|DD/2E/2F "^2" D|FF/2G/2A "^3" A|d3c|A3 "^4" A|
+w:Sha-lom cha-ve-rim sha-lom cha-ve-rim sha-lom sha-lom l'-
+dA/2G/2FG|AF/2E/2DA,|D3E/2F/2|D3 z|]
+w:hit ra-*ot l'-hit ra-*ot sha-lom sha-*lom
+
+X:18
+T:Zum gali
+C:anon.
+O:Israel
+R:Work song
+M:4/4
+L:1/4
+K:Dm
+"^1" D D/2E/2 F/2E/2 F/2E/2|D D/2D/2 A, C:|
+w:Zum ga-li ga-li ga-li, zum ga-li ga-li.
+"^2" z F/2G/2 A A | G F/2G/2 A z | z F/2G/2 A A | G F/2E/2 D z |]
+w:He-cha-lutz le-ma'an a-vo-dah He-cha-lutz le-ma'an a-vo-dah
+
+X:19
+T:Shalom chaverim
+T:Zum gali
+M:C
+L:1/4
+K:Dm
+%
+%%MIDI program 1       74 flute
+%%MIDI program 2       73 piccolo
+%
+[V:1]
+z3 A,|DD/2E/2F D|FF/2G/2A A|d3c|A3 A|
+w:Sha-lom cha-ve-rim sha-lom cha-ve-rim sha-lom sha-lom l'-
+dA/2G/2FG|AF/2E/2DA,|D3E/2F/2|D3 z|]
+w:hit ra-*ot l'-hit ra-*ot sha-lom sha-lom
+[V:2]
+z4 |D D/2E/2 F/2E/2 F/2E/2|D D/2D/2 A, C|
+w:Zum ga-li ga-li ga-li, zum ga-li ga-li.
+D D/2E/2 F/2E/2 F/2E/2|D D/2D/2 A, C|
+w:Zum ga-li ga-li ga-li, zum ga-li ga-li.
+z F/2G/2 A A | G F/2G/2 A z | z F/2G/2 A A | G F/2E/2 D z |]
+w:He-cha-lutz le-ma'an a-vo-dah He-cha-lutz le-ma'an a-vo-dah
+
+%%newpage
+X:20
+T:Row, Row, Row Your Boat
+%R: air, round, march
+B:"The Everyday Song Book", 1927
+F:http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z:2017 John Chambers <jc:trillian.mit.edu>
+M:4/4
+L:1/8
+K:Cmaj
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+"^1"C4 C4 | C2>D2 E4 | "^2"E2> D2 E2> F2 | G8 |
+w:Row, row, row your boat Gen-tly down the stream;
+%
+(3"^3"c2 c2 c2 (3G2 G2 G2 | (3E2 E2 E2 (3C2 C2 C2 | "^4"G2> F2 E2> D2 | C8 |]
+w:Mer-ri-ly, mer-ri-ly, mer-ri-ly, mer-ri-ly, Life is but a dream.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+X:21
+T:Are You Sleeping?
+O:Old French
+%R: air, march
+B:"The Everyday Song Book", 1927
+F:http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z:2017 John Chambers <jc:trillian.mit.edu>
+M:4/4
+L:1/8
+K:Cmaj
+"^1"C2 D2 E2 C2| C2 D2 E2 C2|"^2"E2 F2 G4| E2 F2 G4|
+w:1.~Are you sleep-ing, are you sleep-ing, Bro-ther John, Bro-ther John,
+w:Fr\`e-re Jac-ques, Fr\`e-re Jac-ques, Dor-mez-vous, dor-mez-vous?
+%
+"^3"G A G F E2 C2| G A G F E2 C2|"^4"C2 G,2 C4| C2 G,2 C4 |]
+w:Morn-ing bells are ring-ing, Morn-ing bells are ring-ing; Ding, ding, dong, ding, ding, dong.
+w:Son-nez les ma-ti-nes, son-nez les ma-ti-nes, Bim, bim, bom, bim, bim, bom.
+
+
+X:22
+T:Three Blind Mice
+O:Old Round.
+%R: air, jig, march
+B:"The Everyday Song Book", 1927
+F:http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z:2017 John Chambers <jc:trillian.mit.edu>
+M:6/8
+L:1/8
+K:Cmaj
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+"^1"E3 D3 | C3 z2z | E3 D3 | C3 z2z |
+w:Three blind mice, three blind mice;
+%
+"^2"G3 F2 F | E3 z2z |G3 F2 F | E3 z2G |
+w:See how they run; see how they run; They
+%
+"^3"c2 c B A B | c2 G G2 G |c c c B A B | c2 G G G G |
+w:all ran aft-er the farm-er's wife, She  cut off their tails with a carv-ing knife; Did you
+%
+"^4"c2 c B A B | c G G G2 F | E3 D3 | C3 z2z |]
+w:ev-er see such a sight in your life As three blind mice?
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%newpage
+X:23
+T:Swing Low, Sweet Chariot
+T:All night, all day
+M:4/4
+L:1/8
+K:G
+%
+%%MIDI program 1       74 flute
+%%MIDI program 2       73 piccolo
+%
+[V:1]
+z6 B2| G6 B2| G3G (ED3)| GGGG  BB d2| d6  (ed) |
+w:Swing low, sweet char-i-ot,_ com-in' for to car-ry me home. Swing_ 
+  B6 d2| G3G  (ED3)| GGGG BB A2 | G6 B2 |
+w:low, sweet char-i-ot,_ com-in' for to car-ry me home. I 
+   d2 GD G2 GG | GG G2 (ED3) |  GGGG BB d2 | d6 d2 | 
+w:looked ov-er Jor-dan, an' what did I see,_ com-in' for to car-ry me home. A 
+  (ed) B2 B2 G2 | GGGG (ED3) |  GGGG BB A2 | G8 |]
+w:band_ of an-gels com-in' af-ter me,_ com-in' for to car-ry me home.
+%
+[V:2]
+z8| D4 G4|B4 G4|E2G2 GE GE|GG3 (ED2)z|
+w:All night, all day. An-gels watch-ing o-ver me, my Lord._
+D4 G4|B4 G4|d2B2 BG AF|G6 z2||
+w:All night, all day. An-gels watch-ing o-ver me.
+D2E2 G2A2|(BA)B2 G3 z|E2G2 GE GE|GG3 (ED2)z|
+w:Day is dy-ing in_ the west. An-gels watch-ing o-ver me, my Lord._
+D2E2 G2A2|(BA)B2 G3 z|d2B2 BG AF|G6 z2|]
+w:Sleep, my child, and take_ your rest. An-gels watch-ing o-ver me.
+
+
+W:2. If you get there before I do,
+W:Comin' for to carry me home.
+W:Jes' tell my frens that I'm a-comin', too.
+W:Comin' for to carry me home.
+W:(Chorus)
+W:
+W:3. I'm sometimes up an' sometimes down,
+W:Comin' for to carry me home.
+W:But still my soul feels heavenly boun'.
+W:Comin' for to carry me home.
+W:(Chorus)
+
+W:
+W:  All night, all day.
+W:    Angels watching over me, my Lord.
+W:  All night, all day.
+W:    Angels watching over me.
+W:
+W:Day is dying in the west.
+W:  Angels watching over me, my Lord.
+W:Sleep, my child, and take your rest.
+W:  Angels watching over me.
+W:
+W:  All night, all day...
+W:
+W:Now I lay me down to sleep.
+W:  Angels watching over me, my Lord.
+W:Pray the Lord my soul to keep
+W:  Angels watching over me.
+W:
+W:  All night, all day...
+W:
+W:If I die before I wake.
+W:  Angels watching over me, my Lord.
+W:Pray the Lord my soul to take
+W:  Angels watching over me.
+W:
+W:  All night, all day...
+W:
+W:
+W:  From Musica Viva - http://www.musicaviva.com
+W:  the Internet center for free sheet music downloads.
+
+
 
 %%newpage
 %%center Songs
 
+X:1
+T:Scarborough Fair
+M:3/4
+L:1/4
+K:Cdor
+%%score ( 1 2 )
+%%MIDI program 1       74 flute
+%%MIDI program 2       73 piccolo
+[V:1]
+C2 C|G2 G|D>E D|C3-|C3|z G B|c2 B|G A F|G3-|G3-|G3-|G z c|
+c2 c|B2 G|G F E|D B,2-|B,2 z|
+C2 G|F2 E|D C B,|C3-|C3-|C3-|C3||
+[V:2]
+C2 C|G2 G|D>E D|C3-|C3|z G B|c2 B|G A F|G3-|G3-|G3-|G z
+w:Are you going to Scar-bo-rough Fair?_ Pars-ley, sage, rose-ma-ry and thyme_
+c| c2 c|B2 G|G F E|D B,2-|B,2 z|
+w:Re-mem-ber me to one who lives there__
+C2 G|F2 E|D C B,|C3-|C3-|C3-|C3||
+w:She once was a true love of mine.___
+%%newpage
+%%score  1 2 
+[V:1]
+||:z3|z3 |D C B, | E D C|C C B, |
+w:Ask him to find me an ac-re of 
+w:Ask him to plough_ it with a lamb's
+w:Ask him to reap it with~a sic-kle of 
+G,3|z3|z3|BcB|A G A|B A F|
+w:land 
+w:horn Par_sley, sage,_ rose-ma-ry and
+w:leather
+ G3| z3| z z z|B, C C|B,2 B,|B,/2C/2 D E|
+w:*     Be-tween the wa-ter and_ the sea
+w:thyme And sow it all with one_ pep-per
+w:*     And gather it up with~a rope_ made of
+ C3| z3|z3|E D E |F E D|E D B,|C3:||
+w:sand
+w:corn For then he'll be a true lo-ver of mine
+w:heather
+[V:2]
+||:C2 C|G2 G|D>E D|C3-|C3|z G B|c2 B|G A F|G3-|G3-|G3|
+w:Tell~her to make~me a cam_bric shirt_ Par-sley, sage, rose-ma-ry and thyme
+w:Tell~her to wash~it in yon-der dry well_
+w:Tell~her to dry~it on yon_der thorn_
+z2 c|c2 c|B2 G|G F E|D B,2-|B,2 z|
+w:With-out any seam nor need_le-work_
+w:Which never sprung water nor rain e-ver fell_
+w:Which never bore blossom since A-dam was born_
+C2 G|F2 E|D C B,|C3-|C3-|C3-|C3:||
+w:Then she'll be a true love of mine
+%%newpage
+%
+W:
+W:Tell her to wash it in yonder dry well
+W:Parsley, sage, rosemary and thyme
+W:Which never sprung water nor rain ever fell
+W:And then she'll be a true love of mine
+W:
+W:Tell her to dry it on yonder thorn
+W:Parsley, sage, rosemary and thyme
+W:Which never bore blossom since Adam was born
+W:And then she'll be a true love of mine
+W:
+W:Ask her to do me this courtesy
+W:Parsley, sage, rosemary and thyme
+W:And ask for a like favour from me
+W:And then she'll be a true love of mine
+W:
+W:Have you been to Scarborough Fair?
+W:Parsley, sage, rosemary and thyme
+W:Remember me from one who lives there
+W:For he once was a true love of mine
+W:
+W:Ask him to find me an acre of land
+W:Parsley, sage, rosemary and thyme
+W:Between the salt water and the sea-sand
+W:For then he'll be a true love of mine
+W:
+W:Ask him to plough it with a lamb's horn
+W:Parsley, sage, rosemary and thyme
+W:And sow it all over with one peppercorn
+W:For then he'll be a true love of mine
+W:
+W:Ask him to reap it with a sickle of leather
+W:Parsley, sage, rosemary and thyme
+W:And gather it up with a rope made of heather
+W:For then he'll be a true love of mine
+W:
+W:When he has done and finished his work
+W:Parsley, sage, rosemary and thyme
+W:Ask him to come for his cambric shirt
+W:For then he'll be a true love of mine
+W:
+W:If you say that you can't, then I shall reply
+W:Parsley, sage, rosemary and thyme
+W:Oh, Let me know that at least you will try
+W:Or you'll never be a true love of mine
+W:
+W:Love imposes impossible tasks
+W:Parsley, sage, rosemary and thyme
+W:But none more than any heart would ask
+W:I must know you're a true love of mine
