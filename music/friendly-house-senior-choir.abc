@@ -1,3 +1,15 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+%%header "$P0           $P1"
+
+%%center  Music for the senior choir at Friendly House
+
+%%newpage
+
+%%center  Rounds
+
 X:1
 T:Above the Plain
 C:Czech Folk Tune
@@ -28,7 +40,7 @@ D>D DD E>E DC|D8|]
 w: bel-le Ma-ma bel-le Ma-ma ay 
 
 X: 3
-T:Jubilate Deo (round)
+T:Jubilate Deo
 C:Michael Praetorius
 % Nottingham Music Database
 M:4/4
@@ -42,8 +54,21 @@ W:You be latte, Deo
 W:I'll be cappuccino
 W:We'll be mocha
 
-X:4
-T:Round: Merrily, Merrily
+X: 4
+T: Come, Follow
+L: 1/4
+M: 4/4
+%%MIDI program 73
+K:Gmaj
+"^1"G2 F F | E E D D | C C B, G, | C D G,2 |
+w:Come fol-low, fol-low, fol-low, fol-low, fol-low, fol-low me;
+"^2"G,/2A,/2 B,/2C/2 D B, | C A, D B, | E/2F/2 G/2A/2 F G | G > F G2 |
+w:Whi-ther shall I fol-low, fol-low, fol-low, Whi-ther shall I fol-low, fol-low thee?
+"^3"B > B A B | G> A F G | E/2F/2 G/2A/2 B c | A > A B2 ||
+w:To the green-wood, To the green-wood, To*  the* green-wood, green-wood tree.
+
+X:5
+T:Merrily, Merrily
 %R: air, jig
 B:"The Everyday Song Book", 1927
 F:http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
@@ -59,22 +84,32 @@ w:Mer-ri-ly, mer-ri-ly greet the morn, Cheer-i-ly, cheer-i-ly sound the horn;
 w:Hark to the ech-oes, hear them play  O'er hill and dale, and far a-way.
 % - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-X: 5
-T: Come, Follow
-L: 1/4
-M: 4/4
-%%MIDI program 73
-K:Gmaj
-"^1"G2 F F | E E D D | C C B, G, | C D G,2 |
-w:Come fol-low, fol-low, fol-low, fol-low, fol-low, fol-low me;
-"^2"G,/2A,/2 B,/2C/2 D B, | C A, D B, | E/2F/2 G/2A/2 F G | G > F G2 |
-w:Whi-ther shall I fol-low, fol-low, fol-low, Whi-ther shall I fol-low, fol-low thee?
-"^3"B > B A B | G> A F G | E/2F/2 G/2A/2 B c | A > A B2 ||
-w:To the green-wood, To the green-wood, To*  the* green-wood, green-wood tree.
-
 X:6
+T:Whene'er You Make a Promise
+M:4/4
+L:1/8
+Q:1/4=100
+K:Fmaj
+%
+%%MIDI program 1       71 bassoon
+%%MIDI program 2       74 flute
+%%MIDI program 3       73 piccolo
+%%systemsep      45.0pt
+"^1"  C2 | F3   A   AG   FE| F2  F4 "^2" G2| A3 c   cB     AG|
+w:1.~When-e'er you make* a* prom-ise    Con-sid-er well* its im-
+    A2   A6 |"^3" c4  c4 | c6 "^4" B2| A2    FF   C2  C2 | F6||
+w: port-ance     And when made,    en-grave it up-on your heart.
+%
+W:
+W:We wish you a very merry birthday
+W:A joyous and celebrated birthday
+W:To our dear -----
+W:May s/he have a long, long life.
+W:---
+W:(Alternate words by Dorothy Dushkin)
+
+X:7
 T:White Coral Bells
-T:(Two-part Round)
 M:4/4
 L:1/8
 Q:1/4=70
@@ -90,3 +125,19 @@ w:  Oh, don't you wish that you could hear them ring?
 "^2"    G,B,    A,C    B,D      GB   |A2  F2 G4 :||
 w: 2.~Lil-ies of the val-ley deck my gar-den walk,
 w: That will hap-pen on-ly when the fair-ies sing.
+
+X:1
+T:Dona Nobis Pacem
+M:3/4
+L:1/4
+K:Dmaj
+%%MIDI program 72
+P:A
+(D/2A,/2) F2|(E/2A,/2) G2|(F E) D|D C2|(B A/2G/2F/2E/2)|(A3/2 G/2) F|(F/2E/2) (D C)|D3|
+w:Do-*na no-*bis pa-*cem, pa-cem, do-**na* no-*bis pa-***cem.
+P:B
+A3|A3|(A G) F|F E2|B B2|A A2|(A/2G/2) (F E)|D3|
+w:Do-na no-*bis pa-cem, do-na no-bis pa-***cem.
+P:C
+D3|C3|(D3/2 E/2) (F/2G/2)|A A,2|G G2|F F2|(C/2E/2) (A A,)|D3|
+w:Do-na no-*bis* pa-cem, do-na no-bis pa-***cem.
