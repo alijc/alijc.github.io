@@ -1,10 +1,10 @@
 %%abc-version 2.1
 %%titletrim true
-%%titleformat A-1 T C1, S-1
+%%titleformat A-1 T C1, Z-1, S-1
 %%writefields QP 0
-%%header "$P0           $P1"
-%%textfont Helvetica 26
+%%header "$P0		$P1"
 
+%%textfont Helvetica 26
 %%center  Music for the senior choir at Friendly House
 %%vskip
 %%begintext
