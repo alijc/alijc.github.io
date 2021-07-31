@@ -1,10 +1,22 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, S-1 N
+%%writefields QP 0
+%%header "$P0           $P1"
+
+
 X:0
 T:Llibre Vermell de Montserrat
 F:https://en.wikipedia.org/wiki/Llibre_Vermell_de_Montserrat
 F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/index.htm
 F:https://dick.wursten.be/Vermell_originaltexts_translations.htm
 Z:Ali Corbin <ali.corbin:gmail.com>
-N:A 14th century manuscript from the monastery of Montserrat, in Spain, with some songs to be used by pilgrims, who wanted to sing and dance during the vigils.  In Latin, Catalan and Occitan.
+
+%%begintext
+%%A 14th century manuscript from the monastery of Montserrat, in Spain,
+%%with some songs to be used by pilgrims, who wanted to sing and dance during the vigils.
+%%In Latin, Catalan and Occitan.
+%%endtext
 
 X: 1
 T: O virgo splendens
