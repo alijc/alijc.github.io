@@ -1,0 +1,647 @@
+X:0
+T:Llibre Vermell de Montserrat
+F:https://en.wikipedia.org/wiki/Llibre_Vermell_de_Montserrat
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/index.htm
+F:https://dick.wursten.be/Vermell_originaltexts_translations.htm
+Z:Ali Corbin <ali.corbin:gmail.com>
+N:A 14th century manuscript from the monastery of Montserrat, in Spain, with some songs to be used by pilgrims, who wanted to sing and dance during the vigils.  In Latin, Catalan and Occitan.
+
+X: 1
+T: O virgo splendens
+B: Llibre Vermeil
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0043.htm
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0044.htm
+F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_1.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: Equal notes
+N: Can be sung as a three part canon
+M: none
+L: 1/8
+Q: 1/8=180
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+"^I" (FGF AGA FGF FDED) (CD)  D3|"^II" (DCD FGF) (AGA FAG AcA) A3 |
+w:O** *** *** ****   vir-*go Splen-*****dens******** hic 
+"^III"  (BcA) (AGA cdA AF) (ED) (CD)  D3 | G (FD) F (GF) (ED FD AGF) (GA) A3 |
+w:In**  mon-*******  te*  cel-*so  Mi-ra-*cu-lis* ser-******   ra-*to
+ (GA) (Ac) (Bc) (cdA) F (DEFGD) D3 | (ED) (DCDC) (ED DA AGAGA) A3 |
+w:Ful-*gen-*ti-*bus** u-bi-****que   Quem* fi-*** de-******** les 
+ (CD) (FG)  (FECD)   D  D (FGFED)  D3 |(GFA GAB cA) F    A (AG) (Acd) A3 |
+w:Con-*scen-*dunt*** u-ni- ver-****si,  E-***** **  ya, pi- e-*  ta-**tis 
+ (dc) (cBA) (GA AF) (FGF) (FAG) A3 | G  A (AB) c (dA)   F  F (DCDF)   F  E D3 |
+w:O-*  cu-** lo***   pla-**ca-**to, Cer-ne li-*ga-tos* fu-ne  pec-***ca-to-rum
+  G (FD)  D   E  D  D (DFA) (AGF)    D  C  D3 |  
+w:Ne in-*fer-no-rum ic-ti-** bus** gra-ven-tur, 
+   C   D   F (FG) F (AFAcABABc) A3 (GA)   F (FEF) (DADCDEDDC)  D3 ||
+w:Sed cum be- a-*tis tu-********a   pre-*ce  vo-** cen-********tur.
+%
+W:
+W:
+W:Antiphona dulcis armonia dulcissime Virginis Marie de Monte Serrato
+W:
+W:O Virgo Splendens hic 
+W:In monte celso Miraculis serrato 
+W:Fulgentibus ubique Quem fideles 
+W:Conscendunt universi, Eya, pietatis 
+W:Oculo placato, Cerneligatos fune peccatorum
+W:Ne infernorum ictibus graventur,
+W:Sed cum beatis tua prece vocentur.
+
+X: 2
+T: Stella Splendens
+B: Llibre Vermeil
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0045.htm
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0046.htm
+F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_2.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 2/4
+L: 1/4
+Q: 1/4=120
+K: D Dorian
+%
+%
+V: 1
+%Staff 1
+%%MIDI program 74
+ (A A/G/)|A     F| D    F|(G2|_B/A/F/G/)|E D | F  G |(G/F/) D|C2 |
+w:Stel-**la splen-dens in mon- * * * *  te Ut so-lus ra-*  di-um
+ (A A/G/)|A  F| D   F|(G2|_B/A/F/G/)|E  D| F  G|(G/F/) (D/E/4C/4)|D2 ||
+w:Mi-**  ra-cu-lis ser-ra-* * * *  to, E-xau-di po-*   pu-**  lum
+%
+   D   D | A   B |d (B|c/A/) G |B   c | A (G/F/)|(F/E/) D |
+w:Con-cur-runt u-ni-ver-**  si Gau-den-tes po-*   pu-*  li,
+   D  D| A  B| d (B|c/A/) G  |  B   c |A (G/F/)|(F/E/) D |
+w:Di-vi-tes et e-ge-* *   ni, Gran-des et par-*  vu-* li,
+ (A A/G/)|A     F| D   F|(G2|_B/A/F/G/)|E    D | F   G |(G/F/) D|C2 |
+w:Ip-**  sum   in-gre-di- un- * * * *  tur, Ut  cer-nunt o-*  cu-li.
+ (A A/G/)|A  F| D  F|(G2|_B/A/F/G/)|E    D| F G|(G/F/) (D/E/4C/4)|D2 ||
+w:Et* *  in-de re-ver-tun-* * * *  tur Gra-ti-is re-*   ple-**    ti.
+%
+V: 2
+%Staff 2
+%%MIDI program 42
+  D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 | 
+  A2|D2|D G|F E-|E C| D F|G A | A2|D2|D G|F E-|E  C|D F|G A  |
+  D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 | 
+%%newpage
+%
+W:Stella splendens in monte Ut solus radium
+W:Miraculis serrato, Exaudi populum
+W:
+W:Concurrunt universi Gaudentes populi,
+W:Divites et egeni, Grandes et parvuli,
+W:Ipsum ingrediuntur, Ut cernunt oculi.
+W:Et inde revertuntur Gratiis repleti.
+W:
+W:Principes et magnates Ex stirpe regia,
+W:Saeculi potestates Obtenta venia
+W:Peccaminum proclamant Tundentes pectora.
+W:Poplite flexo clamant Hic: Ave Maria.
+W:
+W:Praelati et barones, Comites incliti,
+W:Religiosi omnes, Atque presbyteri,
+W:Milites, mercatores, Cives, marinari,
+W:Burgenses, piscatores, Praemiantur ibi.
+W:
+W:Rustici aratores, Nec non notarii,
+W:Advocati, scultores, Cuncti ligni fabri,
+W:Sartores et sutores, Nec non lanitici
+W:Artifices et omnes Gratulantur ibi.
+W:
+W:Reginae, comitissae, Illustres dominae,
+W:Potentes et ancillae, Juvenes parvulae,
+W:Virgines et antiquae Pariter viduae
+W:Conscendunt et hunc montem Et religiosae.
+W:
+W:Coetus hi aggregantur, Hic ut exhibeant
+W:Vota, regratiantur, Ut ipsa et reddant
+W:Aulam istam ditantes, Hoc cuncti videant,
+W:Jocalibus ornantes, Soluti redeant.
+W:
+W:Cuncti ergo precantes Sexus utriusque,
+W:Mentes nostras mundantes Oremus devote
+W:Virginem gloriosam, Matrem clementiae,
+W:ln coelis gratiosam Sentiamus vere.
+
+
+X: 3
+T: Laudemus Virginem
+B: Llibre Vermeil
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0046.htm
+F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_2.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: can be sung as a three-part canon
+M: 4/4
+L: 1/4
+Q: 1/4=120
+K: A Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+"^I" F   E D2 |"^II" F  G A2 |"^III" c  G  A2 | F  E  D2 | F  G A2  |   c  G  A2 :|| 
+w:  Lau-de-mus     Vir-gi-nem,     Ma-ter est,  Et e-jus   Fi-li-us,  lhe-sus est.
+w: Plan-ga-mus     sce-le-ra,      a-cri-ter   Spe-ran-tes in lhe-sum, ju-gi-ter.
+
+%X: xx
+%B: Llibre Vermeil
+%T: Laudemus Virginem
+%N: against an inversion
+%M: 4/4
+%L: 1/4
+%Q: 1/4=120
+%K: D Dorian
+%V:1
+%%Staff 1
+%%%MIDI program 74
+%FED2|FGA2|cGA2|FED2|FGA2|cGA2|FED2|FGA2|cGA2|FED2|FGA2|cGA2||
+%V:2
+%%Staff 2
+%%%MIDI program 71
+%FGA2|FDE2|CED2|FGA2|FDE2|CED2|FGA2|FDE2|CED2|FGA2|FDE2|CED2||
+
+X: 4
+T: Splendens Ceptigera
+B: Llibre Vermeil
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0046.htm
+F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_2.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: can be sung as a six-part canon
+M: 4/4
+L: 1/4
+Q: 1/4=180
+K: F lydian
+V:1
+%Staff 1
+%%MIDI program 74
+"^I" D   E    F2|"^II" D  E C2|"^III" D   E  F2|"^IV" A   G  F  F|"^V" A   B c2|"^VI" A   G F2:||
+w:Splen-dens cep-     ti-ge-ra       Nos-tri sis      ad-vo-ca-ta     Vir-go pu-      er-pe-ra
+w:  Tun- den- tes    pec-to-ra       Cri-mi- na     con-fi-ten-tes    Si- mus al-     tis-si-mo
+
+%%newpage
+X: 5
+T: Los set gotxs
+B: Llibre Vermeil
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0047.htm
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0048.htm
+F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_3.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+L: 1/4
+Q: 1/4=180
+K: D Dorian
+%%MIDI program 74
+M:2/4
+   c (B/A/)| B    c| d (c/B/)|A2 |(B/A/G/) F/|E  D|(E/D/E/) F/| E z |
+w:Los set* gotxs re-comp-ta-*rem   Et**   de-vo-ta- ment** xan-tant
+   c (B/A/)| B    c| d (c/B/)|A2 |(B/A/G/) F/|E  D|(E/D/E/) F/| E D ||
+w:Hu- mil-* ment sa-lu- da-* rem   La**   dol-ca ver-ge**  Ma- ri-a.
+M:3/4
+   G>G  A |F E (F/E/)|F/ G/  A   E| G > G  A | F (E/D/) (E/D/)|E/ C/  D D||
+w:Av-e Ma-ri-a, gra-*ci- a  ple-na  Do-mi-nus te-cum,*   Vir-* go se-re-na.
+%
+
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+
+Los set gotxs recomptarem
+Et devotament xantant
+Humilment saludarem
+La dolca verge Maria.
+
+Ave Maria, gracia plena
+Dominus tecum, Virgo serena.
+Ave Maria, gracia plena
+Dominus tecum, Virgo serena.
+
+Verge: fos anans del part
+Pura, e sens falliment
+En lo part, e prés lo part
+Sens negun corrumpiment:
+Lo Fill de Deus, Verge pia
+De vos nasque verament.
+Ave Maria, gracia plena,
+Dominus tecum, Virgo serena
+
+Verge: tres reys d'orient
+Cavalcant amb gran corage
+Al l'estrella precedent
+Vengren al vostre bitage
+Offerint vos de gradage
+Aur et mirre et encenç.
+Ave Maria, gracia plena,
+Dominus tecum, Virgo serena
+
+Verge: estant dolorosa
+Per la mort del Fill molt car
+Romangués tota joyosa
+Can lo vis resuscitar
+A vos, mare piadosa,
+Primer se volch demostrar.
+Ave Maria, gracia plena,
+Dominos tecum, Virgo serena
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+
+Verge: lo quint alegrage
+Que'n agues del Fill molt car
+Estant al Munt d'Olivage
+Al cell l'on vehes puyar
+On aurem tots alegrage
+Si per nos vos plau pregar.
+Ave Maria, gracia plena,
+Dominus tecum, Virgo serena
+ 
+Verge: quan foren complitz
+Los dies de Pentacosta,
+Ab vos eren aùnits
+Los apôstols et decosta,
+Sobre tots, sens nuylla costa,
+Devalla l'(E)spirit Sant.
+Ave Maria, gracia pleut,
+Dominus tecum, Virgo serena
+ 
+Verge: `l derrer alegratge
+Que'n agues en aquest mon,
+Vostre Fill ab gran coratge
+Vos muntâ al cel pregon,
+On sots tots temps coronada,
+Regina perpetual.
+Ave Maria, gracia plena,
+Dominus tecum, Virgo serena
+ 
+Tots donques nos esforcem,
+En aquosta present vida,
+Que peccats foragitem
+de nostr'anima mesquina,
+E vos, dolçe Verge pia,
+Vuyllats-nos-lo empetrar.
+Ave Maria, gracia plena,
+Dominus tecum, Virgo serena.
+%%endtext
+%%multicol end
+
+X: 6
+T: Cuncti Simus Concanentes
+B: Llibre Vermeil
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0047.htm
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0048.htm
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: Rhythmic mode 1
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G Dorian
+V:1
+%Staff 1
+%%MIDI program 65
+   B2  B| A2  A |(GF)   G| A2  G |  D F2 |G (AF)| G3 ||
+w:Cun-cti si-mus con-* ca-nen-tes:  A-ve Ma- ri-*  a.
+   G2 G |B2 B |c  d2 |d2  c|c2 B | A G2 | F A2| G  z2 |
+w:Vir-go so-la e-xis-ten-te en af-fu-it  an-ge-lus;
+  G2 G | B2 B | c  d2| d2  c |c2 B |  A  G2 | F A2| G z2 |
+w:Ga-bri-el est ap-pel-la-tus at-que mis-sus ce-li-tus.
+   B2 B |A2 A |(GF) G| A2  G | D F2|G (AF)|G3 ||
+w:Cla-ra fa-ci- e-*que di-xit: A-ve Ma-ri-*a.
+%
+W: 
+W:CUNCTI SIMUS CONCANENTES.
+W: 
+W:Cuncti simus concanentes: Ave Maria.
+W:
+W:Virgo sola existente en affuit angelus;
+W:Gabnel est appellatus atque missus celitus.
+W:Clara facieque dixit: Ave Maria.
+W:
+W:Clara facieque dixit, audite, karissimi.
+W:En concipies, Maria, Ave Maria.
+W:
+W:En concipies, Maria, audite karissimi.
+W:Pariesque filium, Ave Maria.
+W:
+W:Pariesque tilium, audite, karissimi.
+W:Vocabis eum Ihesum, Ave Maria.
+
+X: 7
+T: Polorum Regina
+B: Llibre Vermeil
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0048.htm
+F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_4.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: C
+V:1
+%Staff 1
+%%MIDI program 74
+  C2 C | E2  F | G2  G | G2 A |(Bc2)|(c/B/A/A/B/G/) | G3 |
+w:Po-lo-rum re-  gi-na   om-ni-um*    no-*****       stra.
+   F2   E | F (AG) | F2  E | D2 C | E3|(GED)| C3 ||
+w:Stel-la  ma- tu-*  ti-na,  de-le sce-le-**ra.
+%
+  F2  E | F (AA) | F2  E | D2 C | E3|(GED)| C3 ||
+w:An-te  par-tum* vir-go   De-o   gra-vi-**da
+  F2  E | F (AA) | F2  E | D2 C | E3|(GED)| C3 ||
+w:An-te  par-tum* vir-go   De-o   gra-vi-**da
+  C2   C | E2  F | G2  G | G2  A |(Bc2)|(c/B/A/A/B/G/)|G3|
+w:Sem-per per-man-si-sti   in-vi-  o-*   la-*****      ta.
+   F2   E | F (AG) | F2  E | D2 C | E3|(GED)| C3 ||
+w:Stel-la  ma- tu-*  ti-na,  de-le sce- le-**ra.
+%
+W:Polorum regina omnium nostra.
+W:Stella matutina, dele scelera.
+W:
+W:Ante partum virgo Deo gravida
+W:Ante partum virgo Deo gravida
+W:Semper permansisti inviolata.
+W:Stella matutina, dele scelera.
+W:
+W:Et in partu virgo Deo fecunda
+W:Et in partu virgo Deo fecunda
+W:Semper permansisti inviolata.
+W:Stella matutina, dele scelera.
+W:
+W:Et post partum virgo mater enixa
+W:Et post partum virgo mater enixa
+W:Semper permansisti inviolata.
+W:Stella matutina, dele scelera.
+
+X: 8
+T: Mariam Matrem
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0050.htm
+F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_4.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 4/4
+L: 1/4
+Q: 1/4=150
+K: D Dorian
+%
+%%MIDI program 1	79 ocarina
+%%MIDI program 2	74 recorder
+%%MIDI program 3	71 clarinet
+%
+V:1 clef=treble
+z D3|F2 G2|A2 (c/BA/)|(A/G/F/E/) (E/DC/)|D3 E |(G/FE) (FD/)|C3
+w:Ma-ri-am Ma- trem**  Vir-***    gi-** nem at- tol-** li-* te
+   D | F2   G2 |A2 (c/BA/)|(A/G/F/E/) (E/DC/)|D3  E|(F/ED/) ^C2|D3  
+w:Ihe-sum Chris-tum ex-**   tol-***    li-**  te con-cor-** di-ter.
+%
+   A|d2 (AB)| c B2 A |A2 G2 |A3   A| c2 (d/c/B/c/)|A3
+w:Ma-ri- a,* se-cu-li a- si-lum, de-fen- de***    nos.
+w:Ihe-su, su-*pre-*ma bo-ni-tas  ve-ris-si-***   ma.
+w:Ma-ri- a* fac-*  ta sae-cu-lis sal-va- ti-***   o
+   A |d2 (AB)|(cB2) A |A2 G2|A3   A| c2 (d/c/B/c/)|A2    
+w:Ihe-su, tu-* tum* re-fu-gi-um,  e-xau- di***    nos.
+w:Ma- ri- a,*  dul-*cis pi-e-tas  gra-tis-si-***  ma.
+w:Ihe-su dam-* na-* ti ho-mi-nis  re-demp-ti-***  o
+   G2|F2  G2| A2 (c/BA/)|(A/G/F/E/) (E/DC/)|D3  E|(G/FE) (FD/)|C3  
+w:lam es-tis vos  to-**   ta-***     li-** ter dif-fu-**  gi-* um,
+w:Am- plis-si-ma  con-**  for-***    mi-** ter sit ca-**  ri-* tas
+w:Pu- gna-re quem vi-**   ri-***     li-** ter per fa-**  mu-* lis
+   D|F2   G2|A2 (c/BA/)|(A/G/F/E/) (E/DC/)|D3  E|(F/ED/) ^C2|D4||
+w:to-tum mun-di  con-**  fu-***    gi-**   um re- a-**   li-ter.
+w:ad nos quos pel-lit**  va-***    ni-**   tas e- nor-** mi-ter.
+w:Per-cus-sis du-ris**   ia-***    cu-**   lis at-ro-**  ci-ter.
+%
+V:2 clef=treble-8 middle=B,
+(D2C2)| D3 C|(E4|C4)|DA,2B,|CB,A,G,|(F,2A,2)|
+(_B,C2D)|(E4|C4)|(D2B,2)|(A,3G,)|A,4|
+(D,4|A,4)|B,C2D|E4|FE2D|E4| 
+(D,4|A,4)|B,C2D|E4|FE2D|E4|
+DEFD|(E4|C4)|DA,2B,|CB,A,G,|(F,2A,2)|
+_B,C2D|(E4|C4)|(D2B,2)|A,3G,|A,4||
+%
+V:3 clef=treble-8 middle=B,
+%
+(D,2A,2|_B,4|A,4|A,4)|D,4|C,2D,E,|F,4|
+(_B,4|A,4|A,4)|(D,2G,2)|(F,2E,2|D,4)|
+(D4|C4)|(C2B,2|A,4)|(F,2G,2|A,4)|
+(D4|C4)|(C2B,2|A,4)|(F,2G,2|A,4|
+_B,4|A,4|A,4)|D,4|C,2D,E,|F,4|
+(_B,4|A,4|A,4)|(D,2G,2)|(F,2E,2|D,4)||
+%
+
+X: 9
+T: Imperaritz
+B: Llibre Vermeil
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0051.htm
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0052.htm
+F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_5.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 6/4
+L: 1/4
+Q: 1/4=160
+K: D Dorian
+V:1
+%%MIDI program 1	74 recorder
+%%MIDI program 2	79 ocarina
+%
+V:1 clef=treble
+ (D2E) (FE)  D | C3 (E2F)|G2   F E2   D|(CEDA,DC)|D6|
+w:Im-*  pe-*ray-ritz de*  la ciu-tat jo-yo-*****  sa,
+w:Ro-*  sa* fla-gran de*  ve-ra  be- ne-nan-***** ça
+w:Flor* de* les flors dol-*ça cle-ment et pi-***** a
+  A3 B2  B|c3  B3| B2  B   (AE) (A/G/)|A6|
+w:De pa-ra-dis ab tot gaug' e-*  ter-* nal,
+w:Fons de mer-cé ia-mays ne de-* fal-* len.
+w:L'an-gel de dieu ve-sém tot cor-*ro-*cat
+ (c2B/A/)G2  F| E3    C3| D2  C   D2 D| (EFDCD2)|E6|
+w:Ne-**  ta de crims, de vir-tuts ha-bun-do-**** sa,
+w:Pa-**lays d'o-nor   on se  fech l'a-li-an-**** ça
+w:E**  par que dieus la-men-dat qu'ens al-ci-****a
+  F3 (GF)   G|(A2G/F/) E3 |(FE) D  A, (DC)|D6|
+w:May-res* de  Dieu**  per  o-*bra di- vi-*nal.
+w:De deu*  e  d'hom**  per nos-*tre sal-va-*men.
+w:Don ell* es prest**  ab le-*stoch af-fi-*lat
+ (A2B) (AG)   F | E3  F3| E2  F G2  G|(A2G/F/EAG|A6)|
+w:Ver-* ges* pla-sen, ab fas an-ge-li- cal,******
+w:E*    fo*  ver dieus es hom per-fe-ta-men.******
+w:Don-*chos* pla-ça   vos que'l sia co-man-dat******
+ (c2B/A/) G2  F | E3 C3| D2   C    D2 D|(EFDCD2)|E6|
+w:A-**    xi com sotz a Dieu molt gra-ci-o-****  sa,
+w:Ses**   de-fal-lir en al-  cu-  na sub-stan-****ça
+w:Qu'es-**toyg l'es-toch e que re-mes nos di-*** a
+ (A2B) (AG)   F|E3  F3 | E2 F   G2  G|(A2G/F/EAG)|A6|
+w:Pla-*caus* e-star als fi-zels pi- a  do-*****  sa,
+w:E*  se-* gons hom mo-ri se-nes dub-tan-*****   ça
+w:Tot* fal-*li-  men tro en lu  pre-sen di-*****a
+ (c2B/A/) G2   F | E3 F3| G2  F  E2 D|(CEDA,DC)|D6||
+w:Pre-** gant per lor ai Rey ce-les-ti-al.******
+w:E**    com ver dieus le-vech dei mo-ni-men.******
+w:Ens**  do- ne  gaug  e  patz e   san-i-tat******
+%
+V:2 clef=treble-8 middle=B,
+  D,3 D,2  D,|A,3 A,3|G,2 G, G,2 G,|A,2 F,2 E,2|D,6|
+w:Ver-ges ses par mi- ser-i- cor-di-o-  *   *   sa
+w:Ve-xell de pats co-ro- na  des-pe-ran-*   *   ça
+w:Es-tel  de mar  qui los pe-ril-lans gui-* *   a
+  D3  D2  D| C3    E3 |D2  C  C2  B,|A,6|
+w:De vos se tany quens de-fe-nats de mal
+w:Port de sa-lut  be   se-gur de tot ven
+w:E'ls fay ve-nir a   bo-na   sal-ve-tat
+  F,3 G,2  G, |A,3 A,3|B,2 A, G,2 F,|E,2 G,2 F,2|E,6|
+w:Et  no siats de- vas nos en-de-ny- o-  *   *   sa
+w:Vos me-re-  xets de  te-nir la ba-lan- *   *   ça
+w:Si Je-su  Christ o-  be-hir no vo-li-  *   *   a
+  A,3   C2 B,|A,3   G,3|A,2 F, G, E,2|D,6|
+w:Pels fal-li-ments que fem en ge-ne- ral.
+w:On   es  pe-sat   be  drey-tu-re-ra-men
+w:Co   que per vos  li  se-  ra sup-pli-cat
+  D,3 A,2    B,|C3   D3|E2  D  C2  B,|A,2 C2 B,2|A,6|
+w:Mas quens cu-brats ab lo man-to re- al  *   *  *
+w:E   pe-   sa mays vos-tre fill ex-cel-len*   *  *
+w:Mo-strats lils pits don l'a-vets al-le-tat* * *
+  F,3 G,2 G,|A,3 A,3|B,2  A,  G,2 F,|E,2 G,2 F,2|E,6|
+w:De  pi- et-at  pus quen ets cu-pi- o-  *   *   sa
+w:Mort en la crots per nos-tra de-liv-ran-*  *   ça
+w:Et tots los sants ab la gran je-rar-qui-    *  *   a
+  D,3 A,2  B,| C3   D3 |E2   D  C2  B,|A,2 C2 B,2|A,6|
+w:Car tots em fayts d'a-vol pas-ta fan-go- *  *   sa
+w:Quels pec-cats d'om en fayt en co-be-jan-*  *   ça.
+w:De  pa- ra-dis qui~us  fa- ran com-pa-ny-*  *   a
+  F,3 G,2    G,|A,3 A,3|G,2  G, G,2 G,|G,2 F,2 E,2|D,6||
+w:Per que'l fal-lir es  de  carn hu-me-nal.*   *   *
+w:Al  be    fi- dei con-fes  e   pe-ni-dén.*   *   *
+w:Tot quan  vol-rets vos er ben  au-tre-yat.*  *   *
+
+X: 10
+T: Ad Mortem Festinamus
+B: Llibre Vermeil
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0053.htm
+F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0054.htm
+F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_6.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 6/8
+L: 1/8
+Q: 1/8=240
+K: C
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  F2  G   A2  F| G2  G C2    D |F2 D  E2  C| D2 E/D/ C2    D |F2 D  E2  C| D2 E/D/ C3 ||
+w:Ad mor-tem fe-sti-na-mus, pec-ca-re de-si-sta-**   mus. pec-ca-re de-si-sta-**   mus.
+    c2  A c2 e/d/|c/B/ A2 G2 F| A2  F   G2  E |F2 A/G/ F3|
+w:Scri-be-re pro-*po-* su-i de con-temp-tu mun-da-**   no,
+  c2  A  c2 e/d/|c/B/ A2 G2  F|  A2   F  G2 E |F2 A/G/ F3|  
+w:ut de-gen-tes* se-* cu-li non mul-cen-tur in va-**   no.
+   F2  G  A2  F| G2  G C2 D| F2   D  E2  C|  D2 E/D/  C2 D| F2   D  E2  C|  D2 E/D/  C3 ||
+w:Iam est ho-ra sur-ge-re a somp-no mor-tis pra-**    vo. a somp-no mor-tis pra-**    vo.
+
+%%multicol start
+%%leftmargin  6cm
+%%rightmargin 6cm
+%%begintext
+
+Ad mortem festinamus, peccare desistamus.
+%%endtext
+%%multicol new
+%%leftmargin  2cm
+%%rightmargin 7cm
+%%vskip 1cm
+%%begintext
+
+Scribere proposui 
+de contemptu mundano,
+ut degentes seculi 
+non mulcentur in vano.
+Iam est hora surgere 
+a sompno mortis pravo.
+
+Vita brevis breviter 
+in brevi finietur
+Mors venit velociter 
+quae neminem veretur
+Omnia mors perimit 
+et nulIi miseretur.
+
+Ni conversus fueris 
+et sicut puer factus,
+et vitam mutaveris 
+in meliores actus,
+intrare non poteris 
+regnum Dei beatus.
+%%endtext
+%%multicol new
+%%leftmargin  8cm
+%%rightmargin 8cm
+%%vskip 1cm
+%%begintext
+
+Tuba cum sonuerit, 
+dies erit extrema
+et iudex advenerit, 
+vocabit sempiterna
+electos in patria 
+prescitos ad inferna.
+
+Quam felices fuerint 
+qui cum Christo regnabunt,
+facie ad faciem 
+sic eum spectabunt,
+Sanctus, sanctus Dominus 
+Sabaoth conclamabunt.
+
+Et quam tristes fuerint 
+qui eterne peribunt,
+pene non deficient  
+nec propter has obibunt.
+Heu, heu, heu, miseri, 
+nunquam inde exibunt.
+%%endtext
+%%multicol new
+%%leftmargin  14cm
+%%rightmargin 2cm
+%%vskip 1cm
+%%begintext
+
+Cuncti reges seculi 
+et in mundo magnates
+advertant et clerici 
+omnesque potestates:
+fiant velut parvuli 
+dimittant vanitates.
+
+Heu, fratres karissimi, 
+si digne contemplemus
+passionem Domini, 
+amara et si flemus,
+ut pupillam oculi 
+servabit ne peccemus.
+
+Alma Virgo virginum, 
+in celis coronata
+apud tuum filium 
+sis nobis advocata.
+Et post hoc exilium 
+occurrens mediata.
+%%endtext
+%%multicol new
+%%leftmargin  8cm
+%%rightmargin 8cm
+%%vskip 14.5cm
+%%begintext
+
+Vila cadaver eris
+Cur non peccare vereris?
+Cur intumescere quaeris?
+Ut quid pecuniam quaeris?
+Quid vestes pomposas geris?
+Ut quid honores quaeris?
+Cur non paenitens confiteris?
+Contra proximum non laeteris?
+%%endtext
+%%multicol end
