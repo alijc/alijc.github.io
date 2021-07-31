@@ -1,0 +1,276 @@
+X: 1
+T: Ondas do mar de Vigo
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=120
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+ (G/A/) c2|(B/c/dc)|(cBA)|c3|(B/c/dc/B/|ABA)|(AG2)|
+w:On-* das  do***   mar** de  vi-*** *  ***   go*
+   A  c2|(B/c/dc)|(cBA)|c3|(B/c/dc|d/c/B/A/B/A/)|(A G2)|
+w:se vis- tes***  meu** a-  mi-*** * * * *  * *   go.*
+ (G/A/) (B/A/A/G/)|(GF2)|(G/A/) c2|(B/c/)(dc)|(d/c/c/B/A|B2A)|(AG2)||
+w:E*     ay***     Deus*  se*  ver- ra*   **   ce-** * * * *   do.*
+%
+W:Ondas do mar de Vigo		% Waves of.the sea of Vigo,
+W:se vistes meu amigo?		% saw.you my friend?
+W:E ay Deus se verra cedo. 	% And, ay God, if I could see him soon.
+W:
+W:Ondas do mar levado 		% Waves of.the sea arisen,
+W:se vistes meu amado? 		% saw.you my beloved?
+W:E ay Deus se verra cedo. 	% And, ay God, if I could see him soon.
+W:
+W:Se vistes meu amigo 		% Saw.you my friend,
+W:o porque eu sospiro?		% him for whom I sigh?
+W:E ay Deus se verra cedo. 	% And, ay God, if I could see him soon.
+W:
+W:Se vistes meu amado 		% Saw.you my beloved,
+W:porque ei gran coidado?	% for whom I.have great care?
+W:E ay deus se verra cedo.	% And, ay God, if I could see him soon.
+
+
+X: 2
+T: Mandad'ei comigo
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=160
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+ (BG2)|(AB2)|(Bd2)|(cBA)|(BA>G)|G3|
+w:Man-* dad'* ei*   co-** mi-** go
+ (AG2)|(AB2)|(Bd2)|(cBA)|G3|(GF2)|
+w:ca*   ven* meu*   a-** mi- go.*
+ (GA2)|B3|(AG2)|(AGF)|(GA/B/c)|(BAB)|G3||
+w:E*   i- rei*  madr** a***     vi-**go. 
+%
+W:Mandad' ei comigo 		% Message I.have with.me
+W:ca ven meu amigo. 		% because comes my friend.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo. 
+W:
+W:Comig' ei mandado 		% With.me I.have message
+W:ca ven meu amado. 		% because comes my beloved 
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+W:
+W:Ca ven meu amigo		% Because comes my friend 
+W:e ven san' e vivo. 		% and comes safe and alive.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+W:
+W:Ca ven meu amado 		% Because comes my beloved
+W:e ven viv' e sano. 		% and comes alive and safe.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+W:
+W:Ca ven san' e vivo 		% Because he.comes safe and alive
+W:e del rei amigo. 		% and of.the king friend.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+W:
+W:Ca ven vivo e sano 		% Because he.comes alive and safe
+W:e del rei privado. 		% and of.the king familiar.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+
+
+X: 3
+T: Mia yrmana fremosa
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 4/4
+L: 1/4
+Q: 1/4=160
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  F2 F G |A2  A  A |B2 A2|(G/F/) E  F > F|(AGA2)|(GF) z2|
+w:Mi-a yr-ma-na fre-mo-sa  tre-* i-des co- mi-** go*
+  F2 F G| A2  A A |B2 A2|(G/F/) E   F > G|A4|(AG) z2|
+w:a la y-gre-ja de Vi-g'u é *   o  mar sa-li- do*   
+M:3/4
+  F2 (F/E/)|(DFE)|(DC2)|(DF2)|A2 (G/F/)|F3||
+w:E   mi-*   ra-**  re-* mos* las  on-* das.
+%
+W:Mia yrmana fremosa, treides comigo. 	% My beautiful sister, come with.me
+W:a la ygreja de Vig', u é o mar salido % to the church of Vigo where the sea is departed 
+W:E miraremos las ondas.		% and we.will.watch the waves.
+W:
+W:Mia yrmana fremosa, treides de grado. % My beautiful sister come willingly
+W:a la ygreja de Vig', u é o mar levado.% to the church of Vigo where the sea is arisen 
+W:E miraremos las ondas. 		% and we.will.watch the waves.
+W:
+W:A la ygreja de Vig', u é o mar levado.% To the church of Vigo where the sea is arisen 
+W:e verra y, mia madre, o meu amado. 	% and I.might.see there, my mother, my own beloved.
+W:E miraremos las ondas. 		% and we.will.watch the waves.
+W:
+W:A la ygreja de Vig', u é o mar salido.% To the church of Vigo where the sea is departed
+W:e verra y, mia madre, o meu amigo. 	% and I.might.see there, my mother, my own friend 
+W:E miraremos las ondas. 		% and we.will.watch the waves.
+W:
+
+
+X: 4
+T: Ay Deus se sabora meu amigo
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=100
+K: A Phrygian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  F | G   A2| A2 (A/G/)|A (B/A/A/G/)|A (G/F/G/A/)|(AG) 
+w:Ay Deus se sab' o-*  ra  meu***    a- mi-***     go.*
+ (F/E/)| F G2|(BA) (A/G/)|A  (B/A/A/G/)|A (G/F/G/A/)|A2 z|
+w:com'* eu se-nnei-*ra*   es- tou***    en vi-***    go.
+M:4/4
+  (B/A/A/G/) (3(BAG)|(F/G/) E F2|(GA2) z||
+w: E***         vou**  na-* mo-ra- da.*
+%
+W:Ay Deus se sab'ora meu amigo		% Ay God, if knows my friend
+W:com' eu senneira estou en Vigo. 	% how lonely I.am in Vigo.
+W:E vou namorada. 			% And I.go enamored
+W:
+W:Ay Deus se sab'ora meu amado. 	% Ay God, if knows my beloved 
+W:com' eu en Vigo senneira manno. 	% how I in Vigo lonely I.flow.
+W:E vou namorada. 			% And I.go enamored
+W:
+W:Com' eu senneira estou en Vigo 	% How lonely I.am in Vigo 		
+W:e nullas gardas non ei comigo 	% and no protection I.have with.me
+W:E vou namorada. 			% And I.go enamored
+W:
+W:Com' eu senneira en Vigo manno 	% How lonely in Vigo I.flow 
+W:e nullas gardas migo non trago 	% and no protection with.me I.bring
+W:E vou namorada. 			% And I.go enamored
+W:
+W:E nullas gardas non ei comigo. 	% And no protection I.have with.me 
+W:ergas meus olhos que choran migo. 	% except my eyes weep with.me.
+W:E vou namorada. 			% And I.go enamored
+W:
+W:E nullas gardas migo non trago 	% And no protection with.me I.bring
+W:ergas meus ollos que choran ambos 	% except my eyes they.weep both.
+W:E vou namorada. 			% And I.go enamored
+
+
+X: 5
+T: Quantas sabedes amar amigo.
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=120
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+    A | c  c2|c2  B |A  c2|(B/c/) (B/A/A/G/)| G2 
+w:Quan-tas sa-be-des a-mar  a-*    mi-***     go. 
+    A | c  c2|(d/c/c/B/) B|A   c2|(B/c/) (B/A/A/G/)|G2 
+w:Trei-des co- mig'***   a-lo mar  de*    vi-***    go. 		
+  G|(B/A/A/G/) (G/F/)| G (A/B/) c |(B/c/) (B/A/A/G/)|G3 ||
+w:E  ban-***    nar*  nos e-*  mos nas*    on-***   das. 		
+%
+W:Quantas sabedes amar amigo. 		% How.much you.know to.love friend.
+W:Treides comig' a lo mar de Vigo. 	% come with.me to the sea of Vigo 
+W:E bannar nos emos nas ondas. 		% and to.bathe us in.them in.the waves 
+W:
+W:Quantas sabedes d'amor amado. 	% How.much you.know of love beloved
+W:treides comig' alo mar levado. 	% come with.me to.the sea arisen 
+W:e bannar nos emos nas ondas. 		% and to.bathe us in.them in.the waves 
+W:
+W:Treides comig' a lo mar de Vigo. 	% Come with.me to.the sea of Vigo 
+W:e veeremo-lo meu amigo.		% and we.will.see my own friend
+W:e bannar nos emos nas ondas.		% and to.bathe us in.them in.the waves 
+W:
+W:Treides comig' a lo mar levado. 	% Come with.me to the sea arisen
+W:e veeremo-lo meu amado		% and we.will.see my own beloved 
+W:e bannar nos emos nas ondas.		% and to.bathe us in.them in.the waves 
+W:
+W:
+W:
+
+
+X: 6
+T: Eno sagrado en Vigo
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (for which there is no music)
+M: none
+L: 1/4
+Q: 1/4=160
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+%
+W:Eno sagrado en Vigo.  		% In.the churchyard, in Vigo
+W:baylava corpo velido. Amor ei. 	% I.was.dancing body favorite. Love I.have.
+W:
+W:En Vigo no sagrado. 			% In Vigo, in.the churchyard.
+W:baylava corpo delgado. Amor ei. 	% I.was.dancing body delicate. Love I.have.
+W:
+W:Baylava corpo delgado 		% I.was.dancing body delicate
+W:que nunc' ouver amado. Amor ei. 	% that never I.might.have beloved. Love I.have.
+W:
+W:Bailava corpo velido, 		% I.was.dancing body favorite
+W:que nunc' ouver amigo. Amor ei. 	% that never I.might.have friend.  Love I.have.
+W:
+W:Que nunc' ouver amigo. 		% That never I.might.have friend
+W:ergas no sagrad'en Vigo. Amor ei. 	% except in.the churchyard in Vigo. Love I.have.
+W:
+W:Que nunc' ouver amado. 		% That never I.might.have beloved 
+W:ergas en Vigo no sagrado. Amor ei. 	% except in Vigo in.the churchyard. Love I.have.
+
+
+
+X: 7
+T: Ay ondas que eu vin 
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 4/4
+L: 1/4
+Q: 1/4=100
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  E2 F2| G   A3|(B/A/G/F/) (F/G/F/E/)|(FEF) (G/A/|BAG A/G/)|
+w:Ay on-das que  eu***      vin***     ve-** er**** * * *       
+ (F/E/D/E/) F2| G A3|(B/A/G/F/) (F/G/F/E/)|(FEF) (G/A/|BAG A/G/)|
+w:se***     me sa-be- re-***     des***     di-** zer******    
+ (F/E/D/E/) (GF)|(FEF)  A|(B/A/G) (B/A/G)|(F/E/D/E/) (F/E/D/C/)|(C3D/E/)|F4||
+w:por***    que* tar-**da  meu**   a-**    mi-***     go***      sen** min.
+%
+W:Ay ondas que eu vin veer		% Ay waves, that I came to.see
+W:se me saberedes dizer 		% to.me would you.be.knowing.how to.say
+W:por que tarda meu amigo sen min.	% why delays my friend from me?
+W:
+W:Ay ondas eu u mirar 			% Ay waves, I where to.watch 
+W:se me saberedes contar 		% to.me would you.be.knowing.how to.recount 
+W:por que tarda meu amigo sen min.	% why delays my friend from me?
+
