@@ -2,7 +2,6 @@
 %%titletrim true
 %%titleformat A-1 T C1, S-1 N
 %%writefields QP 0
-%%header "$P0           $P1"
 
 
 X:0
@@ -11,6 +10,7 @@ F:https://en.wikipedia.org/wiki/Llibre_Vermell_de_Montserrat
 F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/index.htm
 F:https://dick.wursten.be/Vermell_originaltexts_translations.htm
 Z:Ali Corbin <ali.corbin:gmail.com>
+K:C
 
 %%begintext
 %%A 14th century manuscript from the monastery of Montserrat, in Spain,
@@ -153,9 +153,9 @@ K: A Aeolian
 V:1
 %Staff 1
 %%MIDI program 74
-"^I" F   E D2 |"^II" F  G A2 |"^III" c  G  A2 | F  E  D2 | F  G A2  |   c  G  A2 :|| 
-w:  Lau-de-mus     Vir-gi-nem,     Ma-ter est,  Et e-jus   Fi-li-us,  lhe-sus est.
-w: Plan-ga-mus     sce-le-ra,      a-cri-ter   Spe-ran-tes in lhe-sum, ju-gi-ter.
+"^I" F   E "^II" D2 |"^III" F  G A2 | c  G  A2 | F  E  D2 | F  G A2  |   c  G  A2 :|| 
+w:  Lau-de-     mus       Vir-gi-nem, Ma-ter est,  Et e-jus   Fi-li-us,  lhe-sus est.
+w: Plan-ga-     mus       sce-le-ra,  a-cri-ter   Spe-ran-tes in lhe-sum, ju-gi-ter.
 
 %X: xx
 %B: Llibre Vermeil
@@ -426,7 +426,7 @@ w:to-tum mun-di  con-**  fu-***    gi-**   um re- a-**   li-ter.
 w:ad nos quos pel-lit**  va-***    ni-**   tas e- nor-** mi-ter.
 w:Per-cus-sis du-ris**   ia-***    cu-**   lis at-ro-**  ci-ter.
 %
-V:2 clef=treble-8 middle=B,
+V:2 clef=treble_8
 (D2C2)| D3 C|(E4|C4)|DA,2B,|CB,A,G,|(F,2A,2)|
 (_B,C2D)|(E4|C4)|(D2B,2)|(A,3G,)|A,4|
 (D,4|A,4)|B,C2D|E4|FE2D|E4| 
@@ -434,7 +434,7 @@ V:2 clef=treble-8 middle=B,
 DEFD|(E4|C4)|DA,2B,|CB,A,G,|(F,2A,2)|
 _B,C2D|(E4|C4)|(D2B,2)|A,3G,|A,4||
 %
-V:3 clef=treble-8 middle=B,
+V:3 clef=treble_8
 %
 (D,2A,2|_B,4|A,4|A,4)|D,4|C,2D,E,|F,4|
 (_B,4|A,4|A,4)|(D,2G,2)|(F,2E,2|D,4)|
@@ -484,7 +484,7 @@ w:Don-*chos* pla-ça   vos que'l sia co-man-dat******
  (c2B/A/) G2  F | E3 C3| D2   C    D2 D|(EFDCD2)|E6|
 w:A-**    xi com sotz a Dieu molt gra-ci-o-****  sa,
 w:Ses**   de-fal-lir en al-  cu-  na sub-stan-****ça
-w:Qu'es-**toyg l'es-toch e que re-mes nos di-*** a
+w:Qu'es-**toyg l'es-toch e que re-mes nos di-**** a
  (A2B) (AG)   F|E3  F3 | E2 F   G2  G|(A2G/F/EAG)|A6|
 w:Pla-*caus* e-star als fi-zels pi- a  do-*****  sa,
 w:E*  se-* gons hom mo-ri se-nes dub-tan-*****   ça
@@ -494,7 +494,7 @@ w:Pre-** gant per lor ai Rey ce-les-ti-al.******
 w:E**    com ver dieus le-vech dei mo-ni-men.******
 w:Ens**  do- ne  gaug  e  patz e   san-i-tat******
 %
-V:2 clef=treble-8 middle=B,
+V:2 clef=treble_8
   D,3 D,2  D,|A,3 A,3|G,2 G, G,2 G,|A,2 F,2 E,2|D,6|
 w:Ver-ges ses par mi- ser-i- cor-di-o-  *   *   sa
 w:Ve-xell de pats co-ro- na  des-pe-ran-*   *   ça
@@ -548,7 +548,7 @@ V:1
 w:Ad mor-tem fe-sti-na-mus, pec-ca-re de-si-sta-**   mus. pec-ca-re de-si-sta-**   mus.
     c2  A c2 e/d/|c/B/ A2 G2 F| A2  F   G2  E |F2 A/G/ F3|
 w:Scri-be-re pro-*po-* su-i de con-temp-tu mun-da-**   no,
-  c2  A  c2 e/d/|c/B/ A2 G2  F|  A2   F  G2 E |F2 A/G/ F3|  
+  c2  A  c2 e/d/|c/B/ A2 G2  F|  A2   F  G2 E |F2 A/G/ F3|
 w:ut de-gen-tes* se-* cu-li non mul-cen-tur in va-**   no.
    F2  G  A2  F| G2  G C2 D| F2   D  E2  C|  D2 E/D/  C2 D| F2   D  E2  C|  D2 E/D/  C3 ||
 w:Iam est ho-ra sur-ge-re a somp-no mor-tis pra-**    vo. a somp-no mor-tis pra-**    vo.
