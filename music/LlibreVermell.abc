@@ -8,8 +8,10 @@ X:0
 T:Llibre Vermell de Montserrat
 F:https://en.wikipedia.org/wiki/Llibre_Vermell_de_Montserrat
 F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/index.htm
+F:http://www.cervantesvirtual.com/obra-visor/llibre-vermell-de-montserrat--0/html/
 F:https://dick.wursten.be/Vermell_originaltexts_translations.htm
 Z:Ali Corbin <ali.corbin:gmail.com>
+M:C
 K:C
 
 %%begintext
@@ -21,9 +23,8 @@ K:C
 X: 1
 T: O virgo splendens
 B: Llibre Vermeil
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0043.htm
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0044.htm
-F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_1.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_111.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_112.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: Equal notes
 N: Can be sung as a three part canon
@@ -64,9 +65,8 @@ W:Sed cum beatis tua prece vocentur.
 X: 2
 T: Stella Splendens
 B: Llibre Vermeil
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0045.htm
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0046.htm
-F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_2.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_104.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_193.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: 
 M: 2/4
@@ -142,8 +142,7 @@ W:ln coelis gratiosam Sentiamus vere.
 X: 3
 T: Laudemus Virginem
 B: Llibre Vermeil
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0046.htm
-F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_2.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_193.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: can be sung as a three-part canon
 M: 4/4
@@ -177,8 +176,7 @@ w: Plan-ga-     mus       sce-le-ra,  a-cri-ter   Spe-ran-tes in lhe-sum, ju-gi-
 X: 4
 T: Splendens Ceptigera
 B: Llibre Vermeil
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0046.htm
-F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_2.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_193.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: can be sung as a six-part canon
 M: 4/4
@@ -193,19 +191,19 @@ w:Splen-dens cep-     ti-ge-ra       Nos-tri sis      ad-vo-ca-ta     Vir-go pu-
 w:  Tun- den- tes    pec-to-ra       Cri-mi- na     con-fi-ten-tes    Si- mus al-     tis-si-mo
 
 %%newpage
+
 X: 5
 T: Los set gotxs
 B: Llibre Vermeil
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0047.htm
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0048.htm
-F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_3.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_109.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_25.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: 
+M:2/4
 L: 1/4
 Q: 1/4=180
 K: D Dorian
 %%MIDI program 74
-M:2/4
    c (B/A/)| B    c| d (c/B/)|A2 |(B/A/G/) F/|E  D|(E/D/E/) F/| E z |
 w:Los set* gotxs re-comp-ta-*rem   Et**   de-vo-ta- ment** xan-tant
    c (B/A/)| B    c| d (c/B/)|A2 |(B/A/G/) F/|E  D|(E/D/E/) F/| E D ||
@@ -303,9 +301,7 @@ Dominus tecum, Virgo serena.
 X: 6
 T: Cuncti Simus Concanentes
 B: Llibre Vermeil
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0047.htm
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0048.htm
-F:
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_25.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: Rhythmic mode 1
 M: 3/4
@@ -345,8 +341,7 @@ W:Vocabis eum Ihesum, Ave Maria.
 X: 7
 T: Polorum Regina
 B: Llibre Vermeil
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0048.htm
-F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_4.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_315.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: 
 M: 3/4
@@ -390,8 +385,7 @@ W:Stella matutina, dele scelera.
 
 X: 8
 T: Mariam Matrem
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0050.htm
-F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_4.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_26.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: 
 M: 4/4
@@ -447,9 +441,8 @@ _B,4|A,4|A,4)|D,4|C,2D,E,|F,4|
 X: 9
 T: Imperaritz
 B: Llibre Vermeil
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0051.htm
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0052.htm
-F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_5.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_127.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_240.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: 
 M: 6/4
@@ -531,9 +524,8 @@ w:Tot quan  vol-rets vos er ben  au-tre-yat.*  *   *
 X: 10
 T: Ad Mortem Festinamus
 B: Llibre Vermeil
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0053.htm
-F:http://www.lluisvives.com/servlet/SirveObras/abad/08140629733581728654480/ima0054.htm
-F:https://dick.wursten.be/Vermell/LlibreVermell_original_Page_6.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_190.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_28.jpg
 Z:Ali Corbin <ali.corbin:gmail.com>
 N: 
 M: 6/8
