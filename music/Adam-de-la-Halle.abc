@@ -1,0 +1,34 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, S-1 N
+%%writefields QP 0
+
+
+X:0
+T:Rondeaux and Motets of Adam de la Halle
+F:https://en.wikipedia.org/wiki/Adam_de_la_Halle
+F:http://gallica.bnf.fr/ark:/12148/btv1b6001348v
+F:http://digital.bodleian.ox.ac.uk/inquire/p/dd9d1160-196b-48a3-9427-78c209689c1f
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n5/mode/2up
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:C
+K:C
+
+%%begintext
+%%A 13th century French trouvere, who wrote mostly secular music.
+%%Here are transcriptions of his polyphonic works.
+%%endtext
+
+%% Numbering
+%% I've only transcribed his polyphony.
+%% But, just in case I ever transcribe his complete works,
+%% I'll institute the following song numbers:
+%% 1xx Chansons
+%% 2xx Jeux-partis
+%% 3xx Rondeaux
+%% 4xx Motets
+%% 5xx Le Conge
+%% 6xx Le Roi de Sicile
+%% 7xx Le Jeu Adam
+%% 8xx Le Jeu de Robin et Marion
+%% 9xx Le Jeu du Pelerin
