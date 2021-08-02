@@ -42,6 +42,7 @@ M:3/4
 L:1/4
 Q:1/4=120
 K:Bb Lydian
+P:ABCDAAABCDABCD
 %
 %%MIDI program 1       42 Cello
 %%MIDI program 2       72 piccolo
@@ -49,18 +50,18 @@ K:Bb Lydian
 V:1 clef=treble
 V:2 clef=treble_8 
 V:3 clef=bass
-[V:1 ]    d    c2  | A   B2  | A          (BG)  | A          (AG)   ||(3:2:2FG/ (AF)  | G3 ||
-[V:2 ]    D    F2  | F  (FE) |(3:2:2D/C   (B,C) | D          (DC)   ||      B,  (A,B,)| C3 ||
-[V:3 ]    A,   F,2 | D,  B,,2|(3:2:2D,/E, (F,E,)|(3:2:2D,E,/ (F,E,) ||      D,  (E,D,)| C,3||
-w:      1.6.11.~Je   muir, je  muir d'a-*     mou-*  re-*     te.* 2.12.~Las     ai-*  mi!
-w:    5.~~~~~~~~A    pre- miers le  vi*       dou-*  che-*    te*        ~       ~  ~  ~
-w:   7.~~~~~~~~D'une a-  trai- ant ma-*      niè-*  re-*     te*    8.~~~~~~A- dont le  vi;
+[V:1 ][P:A]  d    c2  | A   B2  | A          (BG)  | A          (AG)   ||[P:B](3:2:2FG/ (AF)  | G3 ||
+[V:2 ][P:A]  D    F2  | F  (FE) |(3:2:2D/C   (B,C) | D          (DC)   ||[P:B]      B,  (A,B,)| C3 ||
+[V:3 ][P:A]  A,   F,2 | D,  B,,2|(3:2:2D,/E, (F,E,)|(3:2:2D,E,/ (F,E,) ||[P:B]      D,  (E,D,)| C,3||
+w:  1.6.11.~Je   muir, je  muir d'a-*        mou-*  re-*        te.*        2.12.~Las     ai-*  mi!
+w: 5.~~~~~~~~A    pre- miers le  vi*         dou-*  che-*       te*        ~       ~  ~  ~
+w:7.~~~~~~~~D'une a-  trai- ant ma-*         niè-*  re-*        te*         8.~~~~~~A- dont le  vi;
 %
-[V:1 ]       A   B2  | A  B2    | A          (BG)  | A (AG)   ||       F    G2 | B3  ||
-[V:2 ]       D   F2  | F (FE)   |(3:2:2D/C   (B,C) | D (DC)   ||       B,   A,2| B,3 ||
-[V:3 ]       D,  B,,2| D,(B,,C,)|(3:2:2D,/E, (F,E,)| D,(F,E,) ||       D,   C,2| B,,3||
-w:  3.13.~Par dé-  fau-te*     d'a-*    mi-*   e- te*      4.14.~De   mer- chi.
-w:9.~~~~~~Et  puis le truis*   si*     fiè-*  re- te,* 10.~~~~Quant le  pri. 
+[V:1 ][P:C] A   B2  | A  B2    | A          (BG)  | A (AG)   ||[P:D]  F    G2 | B3  ||
+[V:2 ][P:C] D   F2  | F (FE)   |(3:2:2D/C   (B,C) | D (DC)   ||[P:D]  B,   A,2| B,3 ||
+[V:3 ][P:C] D,  B,,2| D,(B,,C,)|(3:2:2D,/E, (F,E,)| D,(F,E,) ||[P:D]  D,   C,2| B,,3||
+w:   3.13.~Par  dé-  fau-te*     d'a-*      mi-*    e- te*      4.14.~De   mer- chi.
+w:  9.~~~~~~Et  puis le truis*   si*        fiè-*  re- te,*   10.~~~~Quant le   pri. 
 W:
 W:Je muir, je muir d'amourete.  % I die, I die, of infatuation 
 W:Las aimi!                     % Alas, ??? 
