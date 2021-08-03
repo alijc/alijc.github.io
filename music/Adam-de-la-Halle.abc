@@ -36,10 +36,10 @@ K:C
 X: 301
 T:Je muir d'amourette
 C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f72.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n292
 Z:Ali Corbin <ali.corbin:gmail.com>
 N:Triple semi-breves, Transposed up a fourth. (condensed)
-F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f72.item
-F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n292/mode/1up?q=rondel
 M:3/4
 L:1/4
 Q:1/4=120
@@ -84,3 +84,51 @@ W:Je muir, je muir d'amourete.
 W:Las aimi!
 W:Par défaute d'amiete
 W:De merchi.
+
+
+X: 302
+T:Li dous regars de ma Dame
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f72.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n294
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+N: The Bb in the second line of the top part is editoral.
+M:3/4
+L:1/4
+Q:1/4=120
+K:F
+%
+%%MIDI program 1       70 bassoon
+%%MIDI program 2       71 clarinet
+%%MIDI program 3       72 piccolo
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1] [K:C](3:2:2cB/ (3:2:2A/ G F |(3:2:2FG/  (3:2:2A/ B c | B        c  d  | e  (3:2:2f/e  d | f2  z|| 
+[V:2] [K:F]      F   (3:2:2E/ D C |(3:2:2CB,/ (3:2:2A,/G,F,| E,       F, G, | A,       A,   B,| C2  z|| 
+[V:3] [K:F]      F,  (3:2:2A,/B,C |(3:2:2CD/  (3:2:2D/ E F | E  (3:2:2D/CB, | A, (3:2:2B,/A,G,| F,2 z|| 
+w:        1.4.7.~Li        dous**        re-*       gars**   de       ma**    Da-***            me
+w:        3.~~~~~Diex      gart**        son*       gent**   cor      de**    blas-***          me.
+w:        5.~~~~~Je        ne**          vi*        on-**    ques     par**   m'a-***           me
+%
+[V:1] [K:C](fd)   _B |(de)   (3:2:2f g/ |(3:2:2f/ e d2  | f3 ||
+[V:2] [K:F](F,G,) _E,|(G,A,) (3:2:2B,C/ |(3:2:2B,/A,G,2 | F,3||
+[V:3] [K:F](CD)   _E |(DC)   (3:2:2B,A,/|      A,   B,2 | C3 ||
+w:     2.8.~Me*  fait  es-*       pé-rer       mer-*  ci.
+w:     6.~~~~Da-*  me   plus*    plai-sant      de*    li.
+W:
+W:Li dous regars de ma Dame         % The sweet glances of my lady 
+W:Me fait espérer merci.            % Make me hope for mercy. 
+W:
+W:Diex gart son gent cor de blasme. % God keep her noble body from blame. 
+W:
+W:
+W:Li dous regars de ma Dame
+W:
+W:Je ne vi onques par m'ame         % I live not ??? on my soul 
+W:Dame plus plaisant de li.         % Lady more pleasant of it. 
+W:
+W:Li dous regars de ma Dame
+W:Me fait espérer merci.
