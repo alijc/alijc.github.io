@@ -199,8 +199,60 @@ w:     S'il         en      est      es-*   clan-   dèle et   plain-te      Dé-*
 w:     Et          que      de       li*     me     sou-*     vieng-ne,     Car*    s'on-nour     le      gar-   de-**          rai. 
 
 
+X: 305
+T:A Dieu comant amouretes
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f73.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n300
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=110
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1]     F2 (3F/E/D/|((3:2:2C/B,A,) B,    |(CD) (3:2:2E/F| G    G    (3:2:2FG/  |      A2   (3G/F/E/|((3:2:2D/CD E)||
+[V:2]     C2   D     |       E2    (3E/D/C/| F2        E  | D    E          F    |(3:2:2E/DE (3E/D/C/|       B,3    ||
+[V:3]     F,2  F,    |       A,2     A,    | F,2       F, | G,   G,   (3:2:2F,G,/|      A,2    A,    |       G,3    ||
+w:1.4.7.~A   Dieu        co-      mant       a-  mou-  re- tes,  Car*     je      m'en       vois
+w:  3.~~~~~~Do- lans        lai-     rai        les dou-  che-tes   Et*      mout    des-       trois
+w: 5.~~~~~J'en fe-        ro-      ie         ro-  ï-   ne- tes,  S'es-*   to-     ie         roys.
+%
+[V:1]       F2    (3F/E/D/|(3:2:2C/B,A,  B,    |(CD) (3:2:2E/F|     (G (3:2:2F/E D)| F3  ||
+[V:2] (3:2:2C/B,C   D     |      E2    (3E/D/C/| F2        E  |(3:2:2D/C     B,2   | C3  ||
+[V:3]       F,2     F,    |      A,2     A,    | F,2       F, |      G,3           | F,3 ||
+w: 2.8.~Sous-   pi-        rant     en        terre es-    tran-         ge
+w: 6.~~~~Co-     mant       que      la        chose em-    prai-         gne
+W:
+W:A Dieu comant amouretes,      % Oh God, What infatuation! 
+W:Car je m'en vois              % For I see myself in it(her?)  
+W:Souspirant en terre estrange  % Sighing, in a strange land.  
+W:
+W:Dolans lairai les douchetes   % Mournful, I'll leave the sweet ones,   
+W:Et mout destrois              % And ??? destroy  
+W:
+W:
+W:A Dieu comant amouretes,
+W:Car je m'en vois 
+W:
+W:J'en feroie roïnetes,         % I would make of them queens  
+W:S'estoie roys.                % If I were a king  
+W:Comant que la chose empraigne % ???  
+W:
+W:A Dieu comant amouretes,
+W:Car je m'en vois
+W:Souspirant en terre estrange
 
-X: 30x
+
+
+X: 30
 T:
 C:Adam de la Halle
 F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
