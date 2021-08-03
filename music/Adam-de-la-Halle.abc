@@ -251,6 +251,51 @@ W:Car je m'en vois
 W:Souspirant en terre estrange
 
 
+X: 306
+T:Fi maris de vostre amour
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f73.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n302
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1][K:C] C2 (3:2:2D/E   | F2 (3:2:2F/G| A2  (3A/G/F/ | G2   
+[V:2][K:C] F2     (3F/E/D/| C2       D  | E2  (3E/D/C/ | D2   
+[V:3][K:F] F,2      G,    | F,2      B, | A,2   A,     | G,2  
+w:  1.4.7.~Fi       ma-     ris      de  vostre a-       mour,
+w:  ~~5.~~~Il       me     sert      et  nuit   et       jour.
+%
+[V:1][K:C](3:2:2FG/  |((3:2:2F/ED)   E  | F3  ||  C2 ((3:2:2D/E)  | F2   G | A2 (3A/G/F/ ||
+[V:2][K:C](3:2:2CD/  |((3:2:2C/B,A,) B, | C3  ||  F2      (3F/E/D/| C2   D | E2 (3E/D/C/ ||
+[V:3][K:F](3:2:2F,G,/|       A,2     G, | F,3 ||  F,2       G,    | F,2  B,| A,2  A,     ||
+w:         2.8.~Car*         j'ai    a-   mi  3.9.~Biaus   et       de noble a-   tour.
+w:         ~~6.~Pour*        che   l'aim  ci.     ~        ~        ~    ~   ~    ~
+W:
+W:Fi maris de vostre amour,  % Husbands, be secure in your love, 
+W:Car j'ai ami               % For I have a friend 
+W:Biaus et de noble atour.   % Beautiful and of noble dress. 
+W:
+W:Fi maris de vostre amour,
+W:
+W:
+W:Il me sert et nuit et jour.% It serves me both day and night. 
+W:Pour che l'aim ci.         % For the one that I love so. 
+W:
+W:Fi maris de vostre amour,
+W:Car j'ai ami 
+W:Biaus et de noble atour.
+
 
 X: 30
 T:
