@@ -33,6 +33,10 @@ K:C
 %% 8xx Le Jeu de Robin et Marion
 %% 9xx Le Jeu du Pelerin
 
+X:300
+T:Rondeaux
+K:C
+
 X: 301
 T:Je muir d'amourette
 C:Adam de la Halle
@@ -365,7 +369,7 @@ V:3 clef=treble_8
 [V:2 ][K:C]((3:2:2C/B,A,2)| B,3 | C (ED)|  C ((3:2:2C/B,A,)||((3:2:2A,/G,     F,2)  |(E,F,)(A,|G,2) z ||
 [V:3 ][K:F] F,3           | G,3 | F, D,2|  F,3             ||       A,2 (3:2:2A,B,/ | C2   (C |D2)  z ||
 w:  1.6.14.~Dame,           or   sui tra-  ïs               2.7.15.~Par       l'o-*   coi-  son*
-w:  5.~~~~~~~~~Et           par  vo  douch ris			    ~          ~       ~    ~	
+w:  5.~~~~~~~~~Et           par  vo  douch ris			    *          **      *     **	
 w: 10.~~~~~~~Car            il   est as-   sis               11.~~~~~~Sur       cuer*   fé-   lon*
 %
 [V:1 ][K:C]  A ((3:2:2G/FE)| F   G2  |       A3    || ((3:2:2F/ E   D)((3:2:2FE/)|((3:2:2D/ C  B,2)| C3  ||
@@ -418,8 +422,8 @@ V:3 clef=treble_8
 [V:2 ][K:C] F    F2  | E  (ED) |(3E/D/C/  (A,B,)| C2   z  |   F   F2  | E  (ED)    |(3E/D/C/ B,2 | C3  ||
 [V:3 ][K:F] F,   B,2 | A,  A,2 |  B,       A,2  | F,2  z  |   F,  B,2 | A,   A,2   |  G,     G,2 | F,3 ||
 w:   1.4.8.~A-  mours  et  ma    Dame      aus-   si, 2.5.9.~Join-tes  mains vous     proi   mer-  chi.
-w:   3.7.~Votre grant  bi- au-    té       mar    vi          ~    ~     ~    ~        ~      ~     ~
-w:   6.~~~~Se    n'a-  vés pi-    té       de     mi          ~    ~     ~    ~        ~      ~     ~
+w:   3.7.~Votre grant  bi- au-    té       mar    vi          *   *     *    *        *       *    *
+w:   6.~~~~Se    n'a-  vés pi-    té       de     mi          *   *     *    *        *       *    *
 W:
 W:Amours et ma Dame aussi,       % My love and my lady, also, 
 W:Jointes mains vous proi merchi.% With clasped hands I beg mercy of you. 
@@ -646,7 +650,7 @@ V:3 clef=treble_8
 [V:2][K:F]  F,2 ((3:2:2F,G,/) |(A,B,A,)|(G, F,)       D,    ||   (E,F,E,)         |((3:2:2D,/E,F, G,)| F,3 ||
 [V:3][K:F]  C2  ((3:2:2CB,/)  |(A,G,A,)|(B, A,)((3:2:2A,G,/)||   (G,F,(3:2:2G,A,/)|((3:2:2F,/G,F, E,)| F,3 ||
 w:   1.4.7.~Trop       dé-*     sir**    a*          veoir*   2.8.~Ce***            que***      j'aim.
-w: 3.~~~~~~~Ne         m'en*    puis**   re-mou-     voir*          ~                ~            ~
+w: 3.~~~~~~~Ne         m'en*    puis**   re-mou-     voir*         ****             ****         *
 w: 5.~~~~~~~Et         au*      main**   et au       soir*   6.~~~~Me***            com-***     plains
 W:
 W:Trop désir a veoir     % I have too great a desire to see 
@@ -754,6 +758,76 @@ W:N'amerai
 W:Autrui que vous. 
 
 
+X: 316
+T:Diex soit en cheste maison
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f76.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n317
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=130
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble_8
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1] E  F2   |((3:2:2ED/) ((3:2:2C/_B,A,)|       B,   (CD)|(E G2) | E        D2      | E   ((3:2:2D/CB,)  |  C         (DE) | F2  z || 
+[V:2] C (C_B,)|((3:2:2A,G,/)      F,2     |       E,   F,2 |(A,G,2)| A,       B,2     | C          D2      |((3C/B,/A,/) G,2 | F,2 z || 
+[V:3] A, F,2  |((3:2:2A,/B,)     (CD)     |((3:2:2E/D) C2  |(C D2) | C ((3:2:2B,/A,G,)| A, ((3:2:2_B,/A,G,)|  F,         B,2 | C2  z || 
+w:   Diex soit        en*         ches-*          te*  mai-  son,*   Et       bien**    et         joie**     à          fui-  son
+%
+[V:1] C         (D        E)   | F ((3:2:2F/EF) | G2 z | C ((3:2:2B,/A,G,)|       A, ((3:2:2B,/A,G,)      | F, G,2 | F,2 z |
+[V:2] A, ((3:2:2_B,/A,    G,)  | F,       A,2   | G2 z | A,       B,2     |       C         D2            | C  B,2 | C2  z |
+[V:3] E          D ((3:2:2C/B,)| C ((3:2:2C/B,C)| D2 z | E       (DE)     |((3:2:2FE/)      D ((3:2:2C/B,)| C (DE) | F2  z |
+w:    No         si-**          res       no-**   eus  Nous      en-*           voie*      à**            ses a-*   mis;
+w:    Nos        si-**          res       est**   teus Qu'il      prie-*         roit*      à**             en-**    vis;
+%
+[V:1]  E  (ED)  | C ((3:2:2C/B,C)| D2  z | E (DE)          | F       (ED)     |   C        (DE) | F2  z |
+[V:2]  A, (A,G,)| F,       A,2   | G,2 z | A, B,2          | C        D2      |((3C/B,/A,/) B,2 | C2  z |
+[V:3]  C  (DE)  |(F        E   F)| G2  z | E  D((3:2:2C/B,)| C ((3:2:2B,/A,G,)|   F,        G,2 | F,2 z |
+w:  Ch'est as*    a-       mou-*   reus    Et as**          cour-     tois**      bien      a-    pris
+w:   Mais  as*    frans    hon-*   teus  Nous a**            en       son**       lieu      tra-  mis
+%
+[V:1] C   D2  | ((3:2:2EF/) G2     | F  ((3:2:2F/EF)   | G2  z | ((3:2:2AG/) ((3:2:2F/ED) |((3:2:2ED/)    (CB,) | C3  ||
+[V:2] F   F2  | ((3:2:2ED/) C((3:2:2B,/A,)| G, A,((3:2:2G,/F,)| G,2 z | A,  _B,2   |      A,     G,2 | F,3 ||
+[V:3] F, _B,2 | A,   G,2    | C  ((3:2:2C/B,C)  | D2  z | E    F2    |    ((3E/D/C/) DE  | F3  ||
+w:   Pour a-   voir  des     pa- rei-**    sis     A    no-         hé-**   li-*  son
+w:   Qui som-  mes   de      ses nou-**    ris     Et   si          en-**   fan-*çon
+%%newpage
+W:Diex soit en cheste maison, % May God be in this house 
+W:Et bien et joie à fuison    % And wealth and joy ??? 
+W:
+W:No sires noeus              % Our Lord's birth
+W:Nous envoie à ses amis;     % Sends us to his friends 
+W:Ch'est as amoureus          % It is to the amourous 
+W:Et as courtois bien apris   % And to the courteous, well bred ones 
+W:Pour avoir des pareisis     % For the having of ??? 
+W:A nohélison                 % At Noel 
+W:
+W:Diex soit en cheste maison, 
+W:Et bien et joie à fuison
+W:
+W:Nos sires est teus          % Our Lord is such 
+W:Qu'il prieroit à envis;     % That he would plead with longing 
+W:Mais as frans honteus       % But to the ??? shameful 
+W:Nous a en son lieu tramis   % Has ???? us in his stead 
+W:Qui sommes de ses nouris    % That we are by him nourished 
+W:Et si enfançon              % And his children 
+W:
+W:Diex soit en cheste maison, 
+W:Et bien et joie à fuison
+
+%%newpage
+X:400
+T:Motets
+K:C
+
 X: 30
 T:
 C:Adam de la Halle
@@ -764,3 +838,4 @@ Z:Ali Corbin <ali.corbin:gmail.com>
 %%MIDI program 1       42 Cello
 %%MIDI program 2       72 piccolo
 %%MIDI program 3       70 bassoon
+K:C
