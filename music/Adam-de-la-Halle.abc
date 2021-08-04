@@ -159,6 +159,20 @@ V:3 clef=treble_8
 w: 1.4.7.~Ha-reu  li      maus d'a- mer*  2.8.~M'o-chist.
 w: 3.~~~~~~Il me  fait     dé-  si-  rer.*       ~    ~
 w: 5.~~~~~~~Par un douch   re-  gar- der*  6.~~~~Me  prist.
+W:
+W:Hareu li maus d'amer  % Help! The pain of loving 
+W:M'ochist.             % Shook me. 
+W:
+W:Il me fait désirer.   % It makes me to desire. 
+W:
+W:
+W:Hareu li maus d'amer 
+W:
+W:Par un douch regarder % With one sweet glance 
+W:Me prist.             % Took me 
+W:
+W:Hareu li maus d'amer 
+W:M'ochist.
 
 
 X: 304
@@ -197,6 +211,37 @@ w:  Miex vaut que    je        m'en     as-*  teing-     ne,   Pour li        jo
 w:     Et          s'est    si       sa-*    vé-    rou-*     se-  te,     C'as-*    te-nir       ne      m'en   po-**          rai. 
 w:     S'il         en      est      es-*   clan-   dèle et   plain-te      Dé-*    shon-ne-      ré-      e     l'a-**         rai. 
 w:     Et          que      de       li*     me     sou-*     vieng-ne,     Car*    s'on-nour     le      gar-   de-**          rai. 
+%%newpage
+W:Fines amouretes ai;                % I am done with love 
+W:Dieu si ne sai                     % God! If only I knew 
+W:Quant les verrai.                  % When I will see her 
+W:
+W:Or manderai m'amiette              % But I will send for my love 
+W:Qui est cointe et joliette         % Who is quiet and gay 
+W:Et s'est si savérousete,           % And is so savory 
+W:C'astenir ne m'en porai.           % That I won't be able to hold off from her 
+W:
+W:Fines amouretes ai; 
+W:Dieu si ne sai 
+W:Quant les verrai.
+W:
+W:Et s'ele est de moi enchainte      % And if she is delighted with me 
+W:Tost devenra pale et teinte;       % Soon she'll become pale and blush 
+W:S'il en est esclandèle et plainte  % If it is of her ??? and lamenting 
+W:Déshonnerée l'arai.                % I will dishonor her 
+W:
+W:Fines amouretes ai;
+W:Dieu si ne sai 
+W:Quant les verrai.
+W:
+W:Miex vaut que je m'en asteingne,   % It is better I reach her 
+W:Pour li joli me tiengne,           % For ? pretty I would blush 
+W:Et que de li me souviengne,        % And that I would remember her 
+W:Car s'onnour le garderai.          % For I will guard her honor 
+W:
+W:Fines amouretes ai; 
+W:Dieu si ne sai 
+W:Quant les verrai.
 
 
 X: 305
@@ -375,6 +420,22 @@ V:3 clef=treble_8
 w:   1.4.8.~A-  mours  et  ma    Dame      aus-   si, 2.5.9.~Join-tes  mains vous     proi   mer-  chi.
 w:   3.7.~Votre grant  bi- au-    té       mar    vi          ~    ~     ~    ~        ~      ~     ~
 w:   6.~~~~Se    n'a-  vés pi-    té       de     mi          ~    ~     ~    ~        ~      ~     ~
+W:
+W:Amours et ma Dame aussi,       % My love and my lady, also, 
+W:Jointes mains vous proi merchi.% With clasped hands I beg mercy of you. 
+W:
+W:Votre grant biauté mar vi      % Your great beauty ??? I saw 
+W:
+W:Amours et ma Dame aussi, 
+W:Jointes mains vous proi merchi.
+W:
+W:
+W:Se n'avés pité de mi           % If you have no pity for me 
+W:
+W:Votre grant biauté mar vi
+W:
+W:Amours et ma Dame aussi, 
+W:Jointes mains vous proi merchi.
 
 
 X: 30
