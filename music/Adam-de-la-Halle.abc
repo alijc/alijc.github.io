@@ -828,14 +828,150 @@ X:400
 T:Motets
 K:C
 
-X: 30
-T:
+
+X: 401
+T:A Dieu comant/Adan se sont/Super te
 C:Adam de la Halle
 F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
 F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
 Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=90
+K:F Lydian
 %
 %%MIDI program 1       42 Cello
 %%MIDI program 2       72 piccolo
 %%MIDI program 3       70 bassoon
-K:C
+V:1 clef=treble_8
+V:2 clef=treble_8
+V:3 clef=treble_8
+%%%%sysstaffsep    28.0pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1][K:C] 
+   C2  D  | E2 ((3E/D/C/)| F2  E |  D   E  F |
+w: A  Dieu  com-***       mant a-  mou-re-tes,
+   ((3:2:2E/DE) ((3E/D/C/) | B,2 D | E2   C | C2 ((3C/B,/A,/)|
+w:    Car**       je**       m'en*  vois Do- lans  por**      
+    B,2  D | E2 ((3:2:2D/E) | F2 ((3E/D/C/)|((3:2:2D/E(3:2:2DC/)  B, | C2 z |
+w:  les dou- che-      tes*  Fors   dou**          pays***       d'Ar- tois  
+((3:2:2EF/) ((3:2:2E/D) C |  D  D   E|  F2 z | E2   F | G   G  F  |
+w:     Chi*        est* si  mus et des-trois; Pour che que li bour-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   E2 z |((3E/D/C/) B, C|  D  E   F |((3E/D/C/) ((3:2:2B,C/) ((3D/C/B,/)|
+w:geois     Ont**  es-té  si four-me-   nés**         Qu'il*    ne**
+     A,    B,2| C2 z |  ((3:2:2D/CD)   E | F2 z |
+w: quiert drois ne~lois.      Gros** tour-nois
+    F2 F |((3:2:2E/DC)  B,| C   B, C | D    E   F|
+w: Ont a-        nu-** lé, con-tes et rois Jus-ti-
+    E   D   C | B,   C    D| E2 z | C   _B, A,|
+w: ches	et pré-las, tant de fois   Que main-te 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    G, A, G,| F,2  G,|_B,2  C |((3:2:2D/CD) E | F2 ((3F/E/D/)|
+w: be-le com-pain-gne  Dont Ar-       ras** me-hain-gne**     
+   ((3:2:2EF/) ((3:2:2F/D) C| D  D   E | F    F  D | E2 z |G2  F |
+w:        Lais-*     sant* a-mis et mai- sons et har-nois, Et fui-
+   ((3:2:2E/DC)   D |((3:2:2E/DE) ((3E/D/C/)| B,2 z |((3:2:2C/B,C)  D |
+w:        ent,** chà  deus,**        chà**   trois,        Sous-** pi- 
+    E2 ((3E/D/C/)| F2   E |((3:2:2D/CB,2)| C3 ||
+w: rant   en**    terre es-       tran-**  ge  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2][K:C]
+(3:2:2F/ F ((3E/D/C/) B,|((3B,/A,/G,/) ((3:2:2A,B,/) (3:2:2C/  C |(3:2:2C/  C   B,   C |(3:2:2D/  D ((3E/D/C/)  D|
+w:    A-dan   se**   sont   lo-**             é*         d'a-mours;   Mais je m'en dois    plus qui   nus**  bla-
+   E2 z |(3:2:2D/  D   E  F | E2 ((3:2:2EF/)| G (3:2:2E/ C   E |
+w: mer        Con-ques à nul jour       ne*  poi     loy-au-té 
+    F  G2 |(3:2:2G/ G (3:2:2G/  G   G | F ((3F/E/D/) (3:2:2E/  E| G G  E |(3:2:2F/ F   F ((3F/E/D/)|
+w:trou-ver.     Je cui-    dai au pre-miers  A-**         voir a-mi-e par      loi-au-ment  ouv-**  
+    E2 z |(3:2:2F/ G (3:2:2G/ G   E |(3:2:2C/ C  C ((3D/C/B,/)| A,2 z|(3D/   D/  D/  C   D |
+w:  rer.      Mais gi    peus-se lon-      gu-e-ment  ba-**     er;    Car quant je miex ai-			   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (3:2:2E/   E ((3E/D/C/) D |(3:2:2E/   E   E ((3:2:2F/E)| D2 z |(3:2:2A,/  B,  C  D|
+w:      mai, Plus  me**   con-    vient maux en-     du-*  rer.        Non-ques ce-le 
+(3:2:2C/  D   E  D|(3:2:2F/  F  E    F | G2 z |	 C   B,  A,|
+w:   que j'a-moi-e,      Ne me vaut mon-strer 	San-lant où 	   
+   (3:2:2C/ C   C (3:2:2C/  B,| A,  E (3:2:2D/  D|(3:2:2F/ F  F  E | D2 z |
+w:       je me dus-     se con-for-ter      Ne mer-    chi es-pé-*   rer.
+   A,  B, C |   D  E    F |(3:2:2E/ D   E ((3E/D/C/) | F2 z |     
+w:Tout a-des  m'é-toit paine     a moi es-   kié-**    ver.       
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+(3:2:2G/   G ((3F/E/D/) E |(3:2:2F/ F   F    G |((3:2:2D/C) B, ((3:2:2CD/)|(3:2:2G/  G  F ((3F/E/D/)| C2 z |            
+w:   Trop mi    don-** na        à pen-ser  Ains      que* je        le*       peus-se ouv- li-**    er,
+((3:2:2ED/) (3:2:2E/  F  G |(3:2:2G/   A (3:2:2G/  G  (3:2:2E/  E|  C   F ((3:2:2GF/)|(3:2:2E/  D ((3:2:2EF/) ((3E/D/C/)| D2 z |
+w:     Or*       voi je bien     sans dou-    ter que      loi-aus hom est      per-*      dus qui      veut*    a-**     mer.  
+ (3:2:2E/  E   E ((3:2:2F/G)|((3:2:2AF/)  E ((3:2:2FE/)| D2 ((3:2:2ED/)| C2 z |
+w:     Ne nus che       m'es a-     vis* ne       s'en* doit       mer-* ler;	 
+   (3:2:2E/    C   E   G | F ((3E/D/C/) E |((3:2:2GA/) ((3G/F/E/) D  | F3 ||
+w:      Fors chil qui bé-  e    A**    ser-       ver*    de**  quil- ler.	 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3][K:F]
+ F,2 F, | A,2 z | F,2 A,| G,2 F,|
+w:Super~te ~ ~ ~ ~ ~ ~
+				 A,2 F, | G,2 z | A,2 C | C2 z |
+%%%%
+ D2  C | C2 G, | B,2 A, | G,2 z | F,2 G,|
+					 A,3 | G,2 A,| F,2 G, | A,2 B, | G,2 z |
+%%%%
+ A,2 B, | A,2 z | G,2  F, | F,2 G, | 
+				    A,2 G, | F,2 z | G,2 G, | F,3 ||
+%%%%%%% repeat
+ F,2 F, | A,2 z | F,2 A,| G,2 F,|
+w:Super~te ~ ~ ~ ~ ~ ~
+				 A,2 F, | G,2 z | A,2 C | C2 z |
+%%%%
+ D2  C | C2 G, | B,2 A, | G,2 z | F,2 G,|
+					 A,3 | G,2 A,| F,2 G, | A,2 B, | G,2 z |
+%%%%
+ A,2 B, | A,2 z | G,2  F, | F,2 G, | 
+				    A,2 G, | F,2 z | G,2 G, | F,3 ||
+%%%%newpage
+W:A Dieu commant amouretes, 
+W: Car je m'en vois 
+W:Dolans por les douchetes 
+W:Fors dou pays d'Artois 
+W:Chi est si mus et destrois; 
+W:Pour che que li bourgeois 
+W:Ont esté si fourmenés 
+W:Qu'il ne quiert drois ne lois.
+W: Gros tournois 
+W: Ont anulé, 
+W: Contes et rois 
+W:Justiches et prélas, tant de fois 
+W:Que mainte bele compaingne 
+W:Dont Arras mehaingne 
+W:Laissant amis et maisons et harnois, 
+W:Et fuient, chà deus, chà trois, 
+W:Souspirant en terre estrange 
+W:
+W:Adan se sont loé d'amours; 
+W:Mais je m'en dois plus qui nus blamer 
+W:Conques à nul jour 
+W:Ne poi loyauté trouver. 
+W:Je cuidai au premiers 
+W:Avoir amie par loiaument ouvrer. 
+W:Mais g'i peusse longuement baer; 
+W:Car quant je miex aimai, 
+W:Plus me convient maux endurer. 
+W:Nonques cele que j'amoie, 
+W: Ne me vaut monstrer 		 
+W:Sanlant où je me dusse conforter
+W: Ne merchi espérer. 
+W:Tout ades m'étoit paine a moi eskiéver. 
+W:Trop mi donna à penser 
+W:Ains que je le peusse ouvlier,
+W:Or voi je bien sans douter 
+W:Que loiaus hom est perdus qui veut amer. 
+W:Ne nus che m'es avis ne s'en doit merler; 
+W: Fors chil qui bée 
+W: A server de quiller.
+W:
+W:Super te
+
+
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
+Z:Ali Corbin <ali.corbin:gmail.com>
+
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
