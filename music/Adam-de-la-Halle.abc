@@ -573,6 +573,55 @@ W:Hé Diex! quant verrai
 W:Cheli que j'aim.
 
 
+X: 312
+T:Diex coment porroie
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f75.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n311
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=100
+K:G Mixolydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1][K:C]       D2 ((3:2:2F/G)   | A2 ((3A/G/F/)|(EDC)  |D3 ||           E2  ((3:2:2F/G)| A2 
+[V:2][K:C]       G2     ((3F/E/D/)| E2 ((3G/F/E/)|(D2E)  |G3 ||          (ED) ((3:2:2C/D)| E2 
+[V:3][K:F]       G,2       B,     | A,2   B,     | A,3   |G,3||           A,2        B,  | A,2
+w:       1.5.9.~Diex, co-         ment por-       roi-    e        2.10.~Sans        che-   li 
+w:     4.~~~~~~~Elle  est       simple et         coi-    e,		  ~            ~     ~	 
+w:     6.~~~~~~~Ne    m'en        par- ti-        roi-    e    7.~~~~~~~Pour        les    iex
+%
+[V:1][K:C]((3A/G/F/)| A3  ||        (AG) ((3E/D/C/)| D2 ((3:2:2F/G)   |(AGF)| G3  ||
+[V:2][K:C]((3F/E/D/)| E3  ||         E2     F      | G2     ((3F/E/D/)|(EDC)| D3  ||
+[V:3][K:F]   B,     | A,3 ||         A,2    A,     | G,2       B,     |       A,3   | G,3 ||
+w:         du-        rer    3.11.~Qui  me        tient en         joi-     e?
+w:         cre-       ver 8.~~~~~~~Se   s'a-      mours n'a-       voi-     e.
+W:
+W:Diex, coment porroie     % God, how could I  
+W:Sans cheli durer         % Endure without the one 
+W:Qui me tient en joie?    % Who holds me in delight? 
+W:
+W:Elle est simple et coie, % She is simple and quiet, 
+W:
+W:
+W:Diex, coment porroie 
+W:
+W:Ne m'en partiroie        % I'd not leave her 
+W:Pour les iex crever      % For plucking out the eyes 
+W:Se s'amours n'avoie.     % If I'd not have my love 
+W:
+W:Diex, coment porroie 
+W:Sans cheli durer 
+W:Qui me tient en joie?
+
 X: 30
 T:
 C:Adam de la Halle
