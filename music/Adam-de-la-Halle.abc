@@ -622,6 +622,48 @@ W:Diex, coment porroie
 W:Sans cheli durer 
 W:Qui me tient en joie?
 
+
+X: 313
+T:Trop desire a veoir
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f75.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n313
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1][K:C]  F2      ((3F/E/D/)|(C D E) |(D  C) ((3:2:2DC/)  ||   (B,C (3:2:2B,C/) |((3:2:2D/C F  E)  | F3  ||
+[V:2][K:F]  F,2 ((3:2:2F,G,/) |(A,B,A,)|(G, F,)       D,    ||   (E,F,E,)         |((3:2:2D,/E,F, G,)| F,3 ||
+[V:3][K:F]  C2  ((3:2:2CB,/)  |(A,G,A,)|(B, A,)((3:2:2A,G,/)||   (G,F,(3:2:2G,A,/)|((3:2:2F,/G,F, E,)| F,3 ||
+w:   1.4.7.~Trop       dé-*     sir**    a*          veoir*   2.8.~Ce***            que***      j'aim.
+w: 3.~~~~~~~Ne         m'en*    puis**   re-mou-     voir*          ~                ~            ~
+w: 5.~~~~~~~Et         au*      main**   et au       soir*   6.~~~~Me***            com-***     plains
+W:
+W:Trop désir a veoir     % I have too great a desire to see 
+W:Ce que j'aim.          % The one whom I love 
+W:
+W:Ne m'en puis remouvoir % I can't get rid of it 
+W:
+W:
+W:Trop désir a veoir 
+W:
+W:Et au main et au soir  % Morning and evening 
+W:Me complains           % I lament 
+W:
+W:Trop désir a veoir 
+W:Ce que j'aim.
+
+
 X: 30
 T:
 C:Adam de la Halle
