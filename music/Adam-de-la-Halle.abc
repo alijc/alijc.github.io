@@ -491,6 +491,47 @@ W:Des deus piés defférés
 W:Des deus piés defférés 
 
 
+X: 310
+T:A jointes mains vous proi
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: (condensed)
+M:3/4
+L:1/4
+Q:1/4=120
+K:F lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1]         B,  C2 |((3:2:2E/F)     G2 |((3F/E/D/) ((3F/E/D/)  C    ||((3:2:2D/E) F2 |((3:2:2E/F)  G2 | E  F2  ||
+[V:2]         E   F2 |    ((3F/E/D/) (DE)|   D          C((3:2:2B,/A,)||       B,  (CD)|((3:2:2C/B,)(DE)| D  C2  ||
+[V:3]         G,  F,2|       A,       G,2|   G,         F,2           ||       G,   F,2|       A,    G,2| G, F,2 ||
+w:     1.4.7.~A  join-       tes     mains   vous       proi              2.8.~Dou- ce         Da-   me  mer-chi 
+w:  3.~~~~~~~Liés sui       quant    je     vous       voi.		       ~     ~          ~    ~    ~   ~
+w: 5.~~~~~~~A-  vés            mer-     chi    di         moi,              6.~~~Da-  me,        je   vous  en pri
+W:
+W:A jointes mains vous proi  % With clasped hands I beg you 
+W:Douce Dame merchi          % Sweet Lady, for mercy 
+W:
+W:Liés sui quant je vous voi.% I am gay when I see you 
+W:
+W:
+W:A jointes mains vous proi 
+W:
+W:Avés merchi di moi,        % Have mercy on me, 
+W:Dame, je vous en pri       % Lady, I beg it of you 
+W:
+W:A jointes mains vous proi 
+W:Douce Dame merchi 
+
+
 X: 30
 T:
 C:Adam de la Halle
