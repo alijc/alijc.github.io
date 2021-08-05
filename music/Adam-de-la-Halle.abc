@@ -968,6 +968,244 @@ W:
 W:Super te
 
 
+X: 402
+T:De ma Dame/Diex coment/Omnes
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f78.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n331
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=110
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble_8
+V:2 clef=treble_8
+V:3 clef=treble_8
+%%%%sysstaffsep    28.0pt
+%
+%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+   C2 (3A,/G,/F,/|(G,A,) B,|(3:2:2C/   F (3:2:2E/   C (3:2:2D/ B, | C2 z |
+w: De   ma**       Da-*  me     vient li      dous maus    que je   trai
+    F    F F | E(3:2:2D/C   B, |(3:2:2A,/ C (3:2:2D/ C (3:2:2D/ E | F2 z |
+w: Dont je mor-rai,**      S'es-      pe-ran-    che ne      me re-tient; 
+   C2 (3A,/G,/F,/|(G,A,)   B, | C2 (3B,/A,/G,/ |((3:2:2A,/G,F,) z |
+w: Et   la**       grans* joi-  e    que**             j'ai;**     
+  ((3:2:2CD/)  ((3:2:2C/B,) ((3:2:2A,B,/)| C  D   F |(3:2:2E/  C  ((3:2:2DC/)  B,|  C D  E | 
+w:      Car*         j'a-*        per-* choi bien et      sai C'on       m'a*  gre-vé et mel-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   F2 z |(3:2:2G/  G  (3:2:2F/  E  (3:2:2DE/|(3:2:2F/  E   C (3:2:2D/  E | F2 z |
+w: lé,         Si qu'e-     le m'a       tout*    ein-si qu'en    tro-vul-lié    
+   (3:2:2F/ E   C ((3:2:2A,B,/) | C    D   G |((3:2:2E/DC)  B,| C2 ((3:2:2CB,/) | 
+w:       Qui en so-       loie*	 estre au  de-       seu-**re. Diex       quant*  
+((3:2:2A,/G,F,) A,| G,2 A, | C2 ((3:2:2CB,/)|((3:2:2A,/G,F,) ((3:2:2A,G,/)|
+w:     ven-**  ra  l'eu-re  Qu'aie      à*          li**            par-*
+  ((3:2:2A,/G,F,) z | F  F    E |   D   C  B, | C2 ((3:2:2D/E)|
+w:       lé;**        Et de chou qu'on m'a mis  seu-      re*  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    F ((3:2:2E/D) (3E/D/C/ | B,2 z |  A,    C ((3:2:2B,C/) | D   E   D |
+w:  Mi       ex-*  cu-**     sé	     Très douche     a-*    mie  A- yés 
+    ((3:2:2C/B,) A,  B, |C2 z |((3:2:2EF/) (3E/D/C/ ((3:2:2DE/)| F2 z |
+w:         de*  moi pi-  té.          Pour*  Dieu**        mer-* chi   
+    C    D ((3:2:2EF/)| G (3G/F/E/ ((3:2:2DE/)| F ((3:2:2E/D) C | ((3:2:2B,/A,F,) A, |
+w:  On-ques       n'a-* ma   Qui**        pour* si       pa-* u	         hai-**   ne  
+   C2 ((3:2:2DE/) | F  E   D | C2 B, |  C   D   E |
+w: de-       ser-* vi ne l'ai  mi-e   Ains est par 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (FE)  F |(3:2:2G/ F  E D | F   ((3:2:2E/DC)|(3:2:2A,/ G,  A,  B, | 
+w:  en-*vi-       e C'on en a mes-       dit**       et  en leur des- 
+    C2 z |F2  F | E (3:2:2D/C B, | C2 z |
+w:  pit   Main-te-nant**     i-  rai    
+    F  E    F |  G ((3:2:2FE/) ((3:2:2D/E)| F2 z |  D    E   D |
+w: Et pour euls cré-      ver*        fe-*  rai.  Mail-leur san-
+   C2 (3C/B,/A,/ |(CD) ((3:2:2F/E)|(DE)  D |((3:2:2C/B,C) D |
+w:lant que**       je*        ne*   de-*ve-        roi-** e  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    F2  E |((3:2:2E/DC)   D | F2   E |(DC) D |
+w: Fui-te         gai-** té  fais me  voi-*e   
+    F2  E |(DC) D |((3:2:2C/B,A,) B, | C2 C |
+w: Par chi pas-*se        gent**  de  joi-e  
+   (3:2:2E/   F    E  D |((3:2:2CB,/) A, G, |(3:2:2F,/ A, (3:2:2C/ B, (3:2:2D/E | F ((3:2:2E/DC)|
+w:     Tart m'est que gi        soi-* e  En-       co- re       me a-      vés*  vous      mu-**   
+    F2 z | C  D  C |(B,A,) B,|(3:2:2C/ B,    D    E |
+w:  si    Si se-rai  de*  miex      de li Conques ne 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    F2 z |(3:2:2F/  F  E  D |(3:2:2C/  C  B, ((3:2:2A,B,/)|(CD)  E |
+w:  fu          se seu-le-te       an cui en        un*    des-*tour 
+    (FG) (3F/E/D/ | E2  (3E/D/C/ | E   D   E |F2 z |
+w:  Truis* ma-**   miet-  te**    La dou-che- te    
+    F  E  D |C2   B, | C2  E | C  B, ((3:2:2A,B,/)|
+w: La sa-de- te Blon-  de-te  Sa-vé-        rou-*  
+     C2  F | E2 ((3:2:2DE/)| D(3:2:2C/B, ((3:2:2A,/B,)| C3 ||
+w:   se-te  Que      Diex*   doint**            bon-*  jour. 
+%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+    F2 ((3E/D/C/)| D2 ((3:2:2E/D)|(C2D)|F   E   D |
+w: Diex   co-**   ment      por-* roi-*	e trou-ver 
+    C2 (3:2:2CB,/ | A,2  B, |((3:2:2A,/G,F,) ((3:2:2A,/B,)| C3 |
+w:  joi-     e*     D'a-ler         a**	            che-*   lui 
+  ((3:2:2D/E) F E  | D  E  D | C2 z |  C    D  E |
+w:       qui* a-mi-  e-te je  sui    Chain-tu-re- 
+    F ((3:2:2E/D) C | F ((3:2:2E/D) ((3:2:2CD/)| E2 z | C   B, A, |
+w: le        va*  i   en       lieu*       de*   mi,   Car tu fus  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (CD) E | D2  B, |C  (3:2:2B,/ A,   B, |((3:2:2C/B,C)  E |
+w:sie-*ve  de aus- si       Si m'en con-        quer-**ra  
+    C2 z | F ((3:2:2E/D) C |  E  D   E | F2   F |
+w: miex;  Mais      co-*ment se-rai sans ti Dieus
+    F2    E |(DC) B, |(CD)   E | F2 z |
+w: chain-tu-  re-*le   mar* le   vi
+   F2  E | E(3:2:2D/C   B, |(DE)  D | C2  B, |
+w: Au des-chain-**     dre  m'o-*chi-  es De  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  (CB,)  A,|(3:2:2G,/ F, D,2| F,2 G, | A,2 B, |
+w: mes* gri-      é- tés à   vous me  con-for- 
+    C2 D | F2   F |(EF) ((3:2:2GF/) | ((3:2:2E/DC) ((3:2:2D/E)|
+w: toi-e Quant je  vous*       sen-*     toie,**          Ai-* 
+   F2 z |D  C  B, | C2 ((3:2:2B,/C)|(DC)  B, |
+w: mi!   A le sa-  veu        de*    mon* a-  
+   C2 z | C2  B, |((3:2:2A,/G,F,)  E, | F,(3:2:2E,/D, E, |
+w: mi     Ne pour        quant**  d'au- tres**        en  
+    F,2 z | G,  A,    B, | C   B,  C | D  E  D |
+w:  ai      A cleus d'ar- gent et de  soi-e Pour
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    C2   B,|C2 z | A,   C ((3:2:2D/E)| F  E    D |
+w:  m'en u- ser.  Mais las-      se*  co-ment po- 
+    C2  B, | D2    B, |(CD) (3E/D/C/ | D2 z |
+w:  roi-e   Sans che-   li*   du-**    rer
+  (CD)  E | F2 (3E/D/C/ |((3:2:2D/CB,2)| C2 z |
+w: Qui* me tient en**           joi-**   e.
+    C2  B, |((3:2:2C/B,A,) B, | C2 ((3:2:2D/E)| F2 ((3:2:2E/D)|
+w: Can-chon-       è-**    te  che-       lui* proi-      e*
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   (CB,) A, |(G,F,) ((3:2:2E,/F,)|G,2 z | F2    F |
+w:  qui* le   m'en-*       voi-*   a;     puis-que 
+   ((3:2:2E/DC) B, | A, C  D |(3:2:2F/ E    (3:2:2C/  D (3:2:2C/ B, | C2 z |
+w:        jou** ne puis a-ler      là Qu'il       en vien-   gne à     moi  
+   C2 ((3:2:2CB,/) |((3:2:2A,/G,A,) (3A,/G,/F,/ | E,2 z | F,   G, A, |
+w: Chi      droit*         a*  jour   fail-**     li     Pour fai-re  
+   C(3:2:2B,/A,  B, | B,2 z | A, D ((3:2:2CB,/)|((3:2:2A,/G,F,) A, |
+w: tous**       ses   bons.   Et il       mor-*        ra**   quant 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  ((3:2:2C/B,C) D | E2 ((3:2:2CD/)|((3:2:2C/B,A,) B,|((3:2:2C/B,C) D |
+w:       il**  ert poins      Can-*       ter**   à         hau-** te 
+    C2 z | F2 (3F/E/D/ | F2 F |(FE) (3F/E/D/ |
+w: vois:   Par  chi**    va la  mi-*  gno-**  
+    C2 D |(ED) (3E/D/C/ |((3:2:2D/CD) E | F3 ||
+w:  ti-se, Par*  chi**    ou**	     je vois. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3]
+  F,3 | G,2 z | F,2 D, | F,2 z | 
+w:Omnes. ~ ~ ~ ~
+				 F,3 | F,2 z | A,2 G, | F,2 z |
+  F,3 | G,2 z | F,2 D, | F,2 z |
+				 F,3 | F,2 z | A,2 G, | F,2 z |
+  F,3 | G,2 z | F,2 D, | F,2 z |
+				 F,3 | F,2 z | A,2 G, | F,2 z |
+  F,3 | G,2 z | F,2 D, | F,2 z |
+				 F,3 | F,2 z | A,2 G, | F,2 z ||
+  F,3 | G,3 | F,3 | D,3 |
+			 F,2 z| F,2 F, | A,2 G, | F,2 z |
+  F,3 | G,3 | F,3 | D,3 |
+			 F,2 z| F,2 F, | A,2 G, | F,2 z |
+  F,3 | G,3 | F,3 | D,3 |
+			 F,2 z| F,2 F, | A,2 G, | F,2 z |
+  F,3 | G,3 | F,3 | D,3 |
+			 F,2 z| F,2 F, | A,2 G, | F,2 z ||
+  F,2 G, | F,2 D, | F,2 z | F,3 |
+				F,3 | A,3 | G,3 | F,2 z|
+  F,2 G, | F,2 D, | F,2 z | F,3 |		     
+				F,3 | A,3 | G,3 | F,2 z|
+  F,2 G, | F,2 D, | F,2 z | F,3 |		     
+				F,3 | A,3 | G,3 | F,2 z|
+  F,2 G, | F,2 D, | F,2 z | F,3 |		      
+				F,3 | A,3 | G,3 | F,2 z||
+%%%%newpage
+W:De ma Dame vient 
+W:Li dous maus que je trai 
+W:Dont je morrai, 
+W:S'esperanche ne me retient; 
+W:Et la grans joie que j'ai; 
+W:Car j'aperchoi bien et sai 
+W:C'on m'a grevé et mellé, 
+W:Si qu'ele m'a tout einsi qu'en trovullié 
+W:Qui en soloie estre au deseure. 
+W: Diex quant venra l'eure 
+W: Qu'aie à li parlé; 
+W:Et de chou qu'on m'a mis seure 
+W: Mi excusé
+W: Très douche amie 
+W: Ayés de moi pité. 
+W: Pour Dieu merchi 
+W: Onques n'ama qui 
+W:Pour si pau haine deservi 
+W: Ne l'ai mie
+W: Ains est par envie 
+W: C'on en a mesdit
+W: Et en leur despit 
+W: Maintenant irai 
+W:Et pour euls créver ferai. 
+W:Mailleur sanlant que je ne deveroie 
+W:Fuite gaité fais me voie 
+W:Par chi passe gent de joie 
+W:Tart m'est que gi soie 
+W:Encore me avés vous musi 
+W:Si serai de miex de li 
+W:Conques ne fu se seulete 
+W:Ancui en un destour 
+W: Truis m'amiette 
+W: La douchete 
+W: La sadete 
+W: Blondete 
+W: Savérousete 
+W:Que Diex doint bonjour.
+W:
+W: Diex coment porroie 
+W:  Trouver joie 
+W: D'aler a chelui 
+W: Qui amiete je sui
+W: Chainturele va i 
+W: En lieu de mi, 
+W:Car tu fus sieve de aussi 
+W:Si m'en conquerra miex;
+W:Mais coment serai sans ti 
+W:Dieus chainturele mar le vi
+W:Au deschaindre m'ochies
+W:De mes griétés à vous me confortoie 
+W:Quant je vous sentoie, 
+W:  Aimi! 
+W:A le saveur de mon ami 
+W:Ne pour quant d'autres en ai 
+W:A cleus d'argent et de soie 
+W: Pour m'en user. 
+W:Mais lasse coment poroie 
+W: Sans cheli durer
+W: Qui me tient en joie.
+W:Canchonète chelui proie 
+W: Qui le m'envoia; 
+W:Puisque jou ne puis aler là 
+W:Qu'il en viengne à moi 
+W:Chi droit a jour failli 
+W:Pour faire tous ses bons. 
+W:Et il morra quant il ert poins 
+W:Canter à haute vois: 
+W:Par chi va la mignotise, 
+W:Par chi ou je vois.
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:Omnes.
+
 F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
 F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
 Z:Ali Corbin <ali.corbin:gmail.com>
