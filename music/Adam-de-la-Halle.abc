@@ -1206,6 +1206,155 @@ W:
 W:
 W:Omnes.
 
+
+X: 403
+T:Entre Adan et Hankier/Chief bienséans/Aptatur
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f79.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n344
+Z:Ali Corbin <ali.corbin:gmail.com>
+C:Adam de la Halle
+M:3/4
+L:1/4
+Q:1/4=130
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble_8
+V:2 clef=treble_8
+V:3 clef=treble_8
+%%%%sysstaffsep    28.0pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+[K:C] F3| ((3:2:2E/D)  C2|C3 | B, (CD)| C3 |z3|
+w:  Entre       A-*   dan et   Ha- ni-*kiet,
+    D  C (3:2:2B,/A,| B,  G, A,| C2 z| F  E2 | F ((3:2:2E/D  C)| B, C2 |
+w: Ha-nart**          et Gar-te- lot,  A grant es-      ba-*noi qui ot  
+    F,3 | G,3 | A,2 z| C   D  E | F2   F  |  E   D ((3:2:2EF/)|
+w:  Leur  re-   vel  Quant il ho-que-tent, Plus tost      cla-*
+    (3:2:2G/F   E   D | E2 z | F ((3:2:2E/D) C | B,2 z | C     F,  G,| A, B,2|
+w:    pe-tent  Que Fre-tel     Li       da-*moi- sel    Mais qu'il ai-ent  a- 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    C    B,  A,| G,    A,  G,|F,3 |z3| F   F   E | D    C ((3:2:2B,/C)|
+w: vant bai-sié Saint Tor-tu- rel      Et si chan-tent tous      sans* 
+   D3 |(3:2:2E/ D   C  B,| C3 |z3| F ((3:2:2F/ED) | C (A,B,)|
+w: li-     vre Viès et no- vel     Gon-     te-** los fait*  
+    C  C2 |z3| E   D  C | D   C  B, | C   D   E |  F  F   E |
+w: l'i-vre    Si pro-pre-ment et si  bel Que sanle a son mu- 
+    D2 z | C     D  E | F ((3:2:2E/D) C | B,2 z | C A,2 | B, (CD) |
+w:  sel  Qu'il doi-ve traire       à* se fin.   Et quant  il font* 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    F ((3:2:2E/DC) | C2 z | C C2 |  B, ((3:2:2C/B,A,)| C      C2 | F, A,2 |
+w: li        mo-**  lin    En-san-le          tout**  quatre, Et  au  plas-
+   A, B,2 | C  (DE)| F ((3:2:2E/DC)|(FE2)|  F ((3:2:2E/DC)|((3:2:2DC/) (CB,)|
+w:tre ba-  tre  En* ho-       que-** tant* Sont      si**        sé-*   dui-*
+   C3 | z3 | E (3E/D/C/ D | E2  F | F2 ((3:2:2E/D)| C3|
+w:sant,      Si  gai,** si joi-ant  Et        si*   ri-
+    B, (DE) |  C  ((3:2:2C/B,A,)| C2 z | D ((3:2:2E/FG) |F D2 | F3 ||
+w: ant Chil* iiij        en-** 	 fant   Que       nu-** le gent tant.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+[K:F] C3 |(3C/B,/A,/ G,2 |(F,2G,)|((3:2:2F,/E,) D,2|F,3| F, G,2 |
+w:  Chief   bien-**  sé-   ans,*         On-**	    des fre-ma-  
+    A,3 | z3 | C    (CD) | C  A,2| F,3 | F, ((3:2:2B,/A,G,)|
+w:  ins,     Plain front* re-lui-  sans  et        pa-**    
+    F,3 | z3 |[K:C]((3:2:2A,=B,/) ((3:2:2A,/G,F,)|A, B,2| C3 | z3 |
+w: rans,                 Res-*	         gars**   a-trai-ans       
+   D ((3:2:2F/ED)| C  B,2 |C3 | D  (DE)| F3 | E   F (3:2:2E/D|
+w:Vairs      hu-** me-li-  ans, Ca-til-*lans  et fri-**       
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    C3 | z3| C3 | B, (A,B,)| [K:F] C2 (3C/B,/A,/| G,3|
+w:  ans.    Nés  par  me-*  sure        au**      vi- 
+  (A,2B,)| A, G,2 | F,3 |z3| F, (F,G,)|((3:2:2F,/E,)  D,2 |
+w: aire*   af-fé-   rans,   Bou- che-*        te*    rians,
+    F,3 | F,  G,2 |A,3| D, E,2| F,3 |z3|
+w:  Ver- meil-le-  te,  a  dens blans.
+    G, ((3:2:2B,/A,G,)| F,  E,2 | F,3 | ((3:2:2G,/F,E,2)|F,3|(G,A,2)|
+w: Gor-       ge**     bien nais-sans,         Col**	 re-  ploi-* 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    C3 |z3| F  (FE)| D   E2| F3 |   F  E2|
+w:  ans,   Pis dur*  et	poi-gnans, Bou-ti-
+    D3 | C  B,2 | C3 |z3| F,  F,2 |A, G,2|
+w: ne	sou-le-  vans,    Ma-nière a- ve- 
+    F,3 | F,  G,2 |A,3| A, B,2| C3 | D  (DC) |
+w: nans,  Et plus  li re-ma-nans    Ont fait* 
+    D E2 | F3 |((3:2:2E/DC)    D |  D  (ED)| ((3:2:2CD/) (CB,) |C3 ||
+w: tant* den-         chans** Que pris est*	A-***          dans.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3]
+[K:F] F,3 | C,3 | F,3 |(G,  A,2|F,3)| z3 |
+w:    Aptatur. ~ ~ ~ ~ ~
+      D,3 | E,3 | F,3 | F, (A,2|C3) | z3 |
+      C3  | B,3 | A,3 |(A,  G,2|F,3)| z3 | 
+      G,3 | A,3 |(F,3 | G,)(G,2|F,3)| z3 |
+%%%%%
+      F,3 | C,3 |(F,3 | G,  A,2|F,3)| z3 |
+      D,3 | E,3 | F,3 |(F,  A,2|C3) | z3 |
+      C3  | B,3 | A,3 |(A,  G,2|F,3)| z3 | 
+      G,3 | A,3 |(F,3 | G,)(G,2|F,3)| z3 |
+%%%%%
+      F,3 | C,3 |(F,3 | G,  A,2|F,3)| z3 |
+      D,3 | E,3 | F,3 |(F,  A,2|C3) | z3 |
+      C3  | B,3 | A,3 |(A,  G,2|F,3)| z3 | 
+      G,3 | A,3 | F,2 z | G,3 | G,3 | F,3 ||
+W:
+W:Entre Adan et Hanikiet,
+W:Hanart et Gartelot, 
+W:A grant esbanoi qui ot 
+W: Leur revel 
+W:Quant il hoquetent, 
+W:Plus tost clapetent
+W: Que Fretel 
+W: Li damoisel 
+W:Mais qu'il aient avant baisié 
+W: Saint Torturel 
+W:Et si chantent tous sans livre 
+W: Viès et novel 
+W:Gontelos fait l'ivre 
+W:Si proprement et si bel 
+W:Que sanle a son musel 
+W:Qu'il doive traire à se fin. 
+W:Et quant il font li molin 
+W:Ensanle tout quatre, 
+W:Et au plastre batre
+W: En hoquetant 
+W:Sont si séduisant, 
+W:Si gai, si joiant
+W: Et si riant 
+W:Chil iiij enfant 
+W:Que nule gent tant.
+W:
+W:
+W: Chief bienséans, 
+W: On des fremains, 
+W:Plain front reluisans et parans, 
+W: Res gars atraians 
+W: Vairs humelians, 
+W: Catillans et frians.
+W:Nés par mesure au vi aire afférans, 
+W: Bouchete rians, 
+W: Vermeillete, a dens blans.
+W: Gorge bien naissans, 
+W: Col reploians, 
+W: Pis dur et poignans, 
+W: Boutine soulevans, 
+W: Manière avenans, 
+W: Et plus li remanans
+W: Ont fait tant denchans 
+W: Que pris est Adans.
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:
+W:Aptatur.
+
+
 F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
 F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
 Z:Ali Corbin <ali.corbin:gmail.com>
