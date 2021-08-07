@@ -1355,6 +1355,89 @@ W:
 W:Aptatur.
 
 
+X: 404
+T:J'os bien mamie/Je n'os a ma mie/Seculum
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f81.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n351
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=120
+K:C Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble_8
+%%%%sysstaffsep    28.0pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+    c2 (3B/A/G/ | F2 ((3:2:2E/F)| G2 ((3:2:2A/B)|d2 (3c/B/A/|B2 ((3:2:2A/B)|c2 z |
+w: J'os  bien**   à         m'a-* mie       par-*ler  lès** son        ma-* ri,   
+  (BA) (3A/G/F/| G2 ((3:2:2A/B)|c2 (3B/A/G/|F2    G|((3:2:2A/GA)  B|c2 z |
+w: Et*   bai-** sier       et*  a-   co-**  ler d'en-      cos-**té li;   
+   d2 (3c/B/A/|G2 (3A/B/c/ | (BA)    G|(AG)  F|(GA) ((3c/B/c/)|A2 z |
+w: Et   lui**  ort  ja-**    lous* cla-mer* Wi-hot*    aus-**  si,   
+   c2 (3B/A/G/|(AG) (3F/E/D/|D2 ((3:2:2F/G)|(AG)  F| G2 z |
+w: Et   hors**  de*   sa**   mai-      son*  en-*frem-er,  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   G2 (3G/F/E/|D2 ((3:2:2E/F) |G2 ((3:2:2A/B)|c2 (3B/A/G/|(AB) ((3:2:2A/G)|
+w:  Et   tous** mes      bons* de        ma-*miet- te**    a-*       che-* 
+   A2   G|(GF)  E|((3:2:2F/ED) ((3:2:2GA/)|(3G/F/E/  D  E|F2 z ||
+w: ver, et le* vi-       lai-**       ne*    fai-** re mu-ser     
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+   G2   A |B2 ((3:2:2A/B)|c2  B|((3:2:2c/BA) ((3:2:2GA/)|((3:2:2G/FE)   F|G2 z |
+w: Je n'os à         ma*  mie a-       ler**        Pour*         son** ma-ri    
+  (EF) ((3:2:2E/D)|C2  E |G2    A|B2  G| (AG)  F |G2 z |
+w:Que*        il*  ne se peust de mi Gar- de* do- ner.  
+   A2   B|c2 (3B/A/G/| F2 ((3:2:2GA/) | G (3F/E/D/ ((3:2:2EF/)|((3:2:2E/DC) D|E2 z |
+w: Car je ne   puis** gar-**           der  D'en-**       cos-*       té***  li     
+   G2  F|((3:2:2E/DE)  F| G2 ((3:2:2F/G)|A2  B | c2 z |
+w: De son       bel** vi- ai-       re*  re-gar-der,   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   c2 ((3:2:2Bc/)|((3:2:2B/AG) ((3:2:2GF/)|((3:2:2E/DC) ((3:2:2D/E)|((3:2:2G/AGF)|((3:2:2E/FE) D |
+w: Car       en-*        tre**        a-*         mie**        et*         a-***         mi**  An 
+   E2    D |(CB,) C |D2  E|(DC) ((3:2:2C/B,)|C2 z || 
+w:jeux sont a*  che-ler Li mal*       d'a-* mer.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3]
+C3 | B,3 | C3 | D3 | E3 | C3 |
+w:Seculum ~ ~ ~ ~ ~
+                               B,3 | C3 | C3 | B,3 | D3 | C3 |
+D3 | C3 | B,3 | A,3 | A,3 | A,3 |
+                                 C3 | A,3 | G,3 | A,3 | C3 |
+C3 | A,3 | C3 | C3 | B,3 | 
+                          A,3 | C3 | G,3 | G,3 | F,3 || 
+W:
+W:J'os bien à m'amie parler 
+W: Lès son mari, 
+W:Et baisier et acoler 
+W: D'encosté li; 
+W:Et lui ort jalous clamer 
+W: Wihot aussi,
+W:Et hors de sa maison enfremer, 
+W:Et tous mes bons de mamiette achever,
+W:Et le vilaine faire muser
+W:
+W:
+W:Je n'os à ma mie aler
+W: Pour son mari 
+W:Que il ne se peust de mi 
+W: Garde doner. 
+W:Car je ne puis garder 
+W: D'encosté li 
+W:De son bel viaire regarder, 
+W:Car entre amie et ami 
+W:An jeux sont a cheler 
+W: Li mal d'amer.
+W:
+W:
+W:Seculum
+
 F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
 F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
 Z:Ali Corbin <ali.corbin:gmail.com>
