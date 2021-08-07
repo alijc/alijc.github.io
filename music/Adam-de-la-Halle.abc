@@ -1438,6 +1438,112 @@ W:
 W:
 W:Seculum
 
+
+X: 405
+T:J'ai adès d'amour chanté/Omnes
+C:Adam de la Halle
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/f81.item
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n356
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=110
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+V:1 clef=treble_8
+V:2 clef=treble_8
+%
+%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+    C2 ((3:2:2D/E)|F2   E |(DC)    B,|C2 z | D2 ((3:2:2C/B,)|C2  F |
+w: J'ai       a-*  dès d'a-mour* chan-té     et        ser-* vi En 
+   E (3:2:2D/C ((3:2:2D/E)|F2 z | C2 (3D/E/F/| E2  C |(DC) _B,| C2  F |
+w:bon**	              es-*poir    Ma   dame**  et  si ai* guer- pi pour
+  ((3:2:2E/DC) ((3:2:2D/C)| F2 z |(DC)  B, | C2 (3B,/A,/G,/|A,2 B, C2 z |
+w:       li**         a-*  voir    Es-*cole  a-   mis**     et  a-voir   
+    F   F   F |  F2   E |((3:2:2E/DC)   D |  E2   D |((3:2:2E/DC)  B, | C2 z ||
+w: Est che don drois k'a-       mour** me   Lais-sant       ne-** nil voir.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+  F,6 | G,2 z | F,3 | D,3 | F,2 z | 
+w:Omnes. ~ ~ ~ ~
+	 			 F,6 | F,2 z | A,3 | G,3 | F,2 z |
+  F,6 | G,2 z | F,3 | D,3 | F,2 z|
+				 F,3 | F,2 z | A,2 z | G,6 | F,2 z ||
+%
+W:
+W:J'ai adès d'amour chanté et servi 
+W: En bon espoir 
+W:Ma dame et si ai guerpi 
+W: Pour li avoir
+W:Escole amis et avoir 
+W:Est che don drois k'amour me
+W: Laissant nenil voir.
+W:
+W:
+W:Omnes.
+
+
+X: 406
+T:Dame bele/Fi Mari/Nus n'iert ja jolis 
+C:Adam de la Halle
+F:https://stcpress.org/miscellaneous/damme_belle_fi_maris_nus_niert/damme_belle_pg1.jpg
+F:https://stcpress.org/miscellaneous/damme_belle_fi_maris_nus_niert/damme_belle_pg2.jpg
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=120
+K:F Lydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble_8
+%%sysstaffsep    22.00pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+   C2 D | F2  G | A2 (3G/F/E/ | D2  E |((3:2:2F/EF) G |
+w: Da-me bele et  a-   ve-**   nant et        de** biau
+    F2 z| F2 (3E/D/C/ | E2 (3E/D/C/|D2 (3D/C/B,/| C2 z|
+w: port,  Ar-  ri-**    vé   sui**  a    mal**   port. 
+    E2 ((3E/D/E/)| F2 ((3E/D/E/)| F2 z| (3:2:2A/  A  A ((3:2:2_B/A) | G2 ((3:2:2A/G)| F2 ((3:2:2E/D)|
+w:  Je    muir**   a    grant**	 tort,        Se je n'ai       de*   vous       con-*fort.      Sans*
+    C2 ((3:2:2D/E)| F2 z | E2  F |(GF) E | F3 ||
+w:  nul       res-*sort,  Sui mis  à* la  mort. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+   F2 (3F/E/D/|C2  D|  E2 (3E/D/C/ | D2 ((3:2:2C/D)|((3:2:2C/B,A,) B,|
+w: Fi   Ma-**  ri de vostre a-**    mour      Quar*        j'ai**  a- 
+   C2 z| (3:2:2C/  _B, C  D |(3:2:2E/ D  E z | F2 ((3:2:2E/D)| C2  D |
+w: mi,         Tel com il a-    fiert a-mi,    Qui       me*  sert et 
+    E2 (3E/D/C/ | D     C   B,| C2 z | E2  F |(GF)((3:2:2E/D) |C2 ((3:2:2D/E)|
+w: nuit  et**    jour, Sanz sé-jour,   De cuer mi-*      gnot* et        jo-* 
+   D2 z| (3:2:2F/   F    G   G | A2 ((3:2:4G/F//G//) E/|(3D/ E/  C/    D   B,| C3||
+w: li          Vi-lains vous de- mo-       ri-**    tés,  et je m'en vois  à   li. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3][K:F]
+   F,2   G, |F,2 B,|A,2  F, |G,3|F,2 z|
+w: Nus n'iert ja jo-lis s'il n'ai-me.
+(F,2G,|F,2)(B,|A,2)z|(F,2G,|F,2)(B,|
+A,3)|(F,2G,|F,2)(B,|A,2)(F,|G,3)|F,2 z|
+(F,2G,|F,2)(B,|A,2)(F,|G,3)|F,3||
+%
+W:The first measure in the last line clanks.  Maybe the "-li" should be on C or F.
+
+
+F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
+Z:Ali Corbin <ali.corbin:gmail.com>
+
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+
 F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
 F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
 Z:Ali Corbin <ali.corbin:gmail.com>
