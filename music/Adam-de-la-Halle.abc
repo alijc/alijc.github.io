@@ -823,6 +823,52 @@ W:
 W:Diex soit en cheste maison, 
 W:Et bien et joie à fuison
 
+X: 317
+T:Li dous regars de ma Dame
+C:Adam de la Halle
+B:Ms de Cambrai
+F:
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n513
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=120
+K:G Mixolydian
+%
+%%MIDI program 1       42 Cello
+%%MIDI program 2       72 piccolo
+%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble_8
+V:3 clef=treble_8
+%
+[V:1] D ((3:2:2E/F    G)|       G    ((3:2:2F/ E G) |C  (DE)  |F  (D E) |
+[V:2] G      (3G/F/E/ D |((3:2:2DC/) ((3:2:2B,/A,G,)|F, (G,A,)|B, (B,C) |
+[V:3] G,       G,2      |       G,   ((3:2:2B,/C D) |G  (DC)  |B, (G,A,)|
+w:1.4.7.~Li    dous            re-          gars**   de  ma*   da- me*   
+w:3.~~~~~Diex  gart            son          gent**   cor de*   blas-me.*
+w:5.~~~~~Je    ne              vi           on-**   ques par*  m'a-me*  
+%
+[V:1] G (FE)| F  (E D) |((3:2:2F/E) ((3:2:2G/FE)  |G3 ||
+[V:2] D  G,2| F, (A,B,)|((3:2:2CD/) ((3:2:2C/B,A,)|G,3||
+[V:3] G, B,2| C  (A,G,)|((3:2:2F,/A,)      C2     |D3 ||
+w:2.8.~Me fait es-pé-*         rer*        mer-    ci. 
+w:6.~~~~Da-me  plus plai-*    sant*        de      li.   
+W:
+W:Li dous regars de ma Dame         % The sweet glances of my lady 
+W:Me fait espérer merci.            % Make me hope for mercy. 
+W:
+W:Diex gart son gent cor de blasme. % God keep her noble body from blame. 
+W:
+W:
+W:Li dous regars de ma Dame
+W:
+W:Je ne vi onques par m'ame         % I live not ??? on my soul 
+W:Dame plus plaisant de li.         % Lady more pleasant of it. 
+W:
+W:Li dous regars de ma Dame
+W:Me fait espérer merci.
+
 %%newpage
 X:400
 T:Motets
@@ -1489,6 +1535,7 @@ W:Omnes.
 X: 406
 T:Dame bele/Fi Mari/Nus n'iert ja jolis 
 C:Adam de la Halle
+B:Montpellier Codex 300v
 F:https://stcpress.org/miscellaneous/damme_belle_fi_maris_nus_niert/damme_belle_pg1.jpg
 F:https://stcpress.org/miscellaneous/damme_belle_fi_maris_nus_niert/damme_belle_pg2.jpg
 F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n506
@@ -1532,22 +1579,102 @@ w: Nus n'iert ja jo-lis s'il n'ai-me.
 (F,2G,|F,2)(B,|A,2)z|(F,2G,|F,2)(B,|
 A,3)|(F,2G,|F,2)(B,|A,2)(F,|G,3)|F,2 z|
 (F,2G,|F,2)(B,|A,2)(F,|G,3)|F,3||
+
+
+X: 407
+T:Mout me fu grief/Robin m'amie/Portare
+C:Adam de la Halle
+B:Montpellier Codex 192
+F:https://archive.org/details/oeuvrescompltes00cousgoog/page/n508
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:3/4
+L:1/4
+Q:1/4=130
+K:F Lydian
 %
-
-
-
-F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
-F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
-Z:Ali Corbin <ali.corbin:gmail.com>
-
 %%MIDI program 1       42 Cello
 %%MIDI program 2       72 piccolo
 %%MIDI program 3       70 bassoon
-
-F:https://gallica.bnf.fr/ark:/12148/btv1b6001348v/
-F:https://archive.org/details/oeuvrescompltes00cousgoog/page/
-Z:Ali Corbin <ali.corbin:gmail.com>
-
-%%MIDI program 1       42 Cello
-%%MIDI program 2       72 piccolo
-%%MIDI program 3       70 bassoon
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8 middle=B,
+%%%%sysstaffsep    22.00pt
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% triplum %%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:1]
+     G   G  A|(3:2:2B/    c  B  A|(3:2:2G/   G  E  F|G  F  D|(3:2:2E/  E   D   C |
+w: Mout me fu      grief li dé-par-     tir de ma-mi-e-te La       jo-lie au cler 
+   B, z2|E (3:2:2^F/    G     F | E (3F/E/D/ C|D z2| (3:2:2c/  c  B  A |
+w:vis.  Qui      est blanche  et ver- mel-**le-te,         Co-me ro-se  
+   G   F  A |(3:2:2G/   G  A    B| c z2|(3:2:2G/   G   A    B |
+w:par de-sus      lis, Ce m'est a-vis.       Son très dous res 
+   A  G    F|  E   A2| G   F    E |  G ^F   G|  A z2|
+w:Mi fait fre-mir, Et  si oell vair ri-ans lan-guir. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   ^F ((3:2:2D/CD) | E   G2| A (BA)| G z2|  c    B   A|
+w: Ha       diex!** Com-man la lais-*sai!  Blan-che-te 
+  (3:2:2G/   G   E    D|(3:2:2G/    G    A    B | G z2| (3:2:2c/ c   B (3B/A/G/| A   G   G |
+w:    co-   me flour de      lis, Quant vous ver-rai!        Da-me  de   va-** lour Ver-mel-
+  ^F (3:2:2D/ C   D | E  ((3:2:4F/GFG/)| E    A    B|((3G/F/G/) E   F  |G2 z||
+w:le       co-me rose en        mai,*** Pour vous sui   en**  grant do-lour.  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% duplum %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:2]
+   C (DE)|(3E/D/C/ B,2| C  (ED)| C z2| E  G2|
+w: Ro-bin*  m'ai-**me, Ro- bin* m'a.  Ro-bin 
+   ^F (FG)| E ((3:2:2D/CD)| E E2 |D (ED)|C z2|
+w:m'a  de-*man-***         dé-e, se m'a-*ra.  
+    C (DE)|  C B,2 |C (DE)|  C ((3:2:2D/CB,)|
+w: Ro-bin* m'a-cha- ta cor-*roi-      e,**   
+   C (DE)| C  B,2|C  (DE)|C ((3:2:2B,/CD)|E    G2|
+w: et au-*mon-iè- re de-*soi-      e**   Pour-quoi
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    ^F (FG)|  E ((3:2:2D/CD)| E    E2| D  (ED)| C z2|
+w: donc ne*  l'a-      me-** roie, A  leur i-*  va.  
+   C (DE)|  C   D2|  C (ED)|C z2| E G2 |
+w: Ro-bin* m'ai-me, Ro-bin* m'a. Ro-bin 
+   ^F  (FG)| E((3:2:2D/CD)|E  E2|D (ED)|C2 z||
+w: m'a  de-*man-***        dé-e, se m'a-*ra.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% tenor %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[V:3]
+  (CB,A,)|(CD2)|(CA,2)|(CB,G,)|A,G,2|
+w: Portare. ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+^F, z2|A, ((3:2:2G,/CB,)|A, A,2|G, z2|C z2|
+(CB,A,)|  (CD2)|(CA,2)|C z2|
+(CB,G,)|(CD2)|(CA,2)|(CB,G,)|(A,G,2)|
+^F, z2|A, ((3:2:2G,/CB,)|A, A,2|G, z2|  C z2|
+(CB,A,)|(CD2)|(CA,2)|(CB,G,)|(A,G,2)|
+^F, z2|A, ((3:2:2G,/CB,)|A, A,2|G, z2|C2 z||
+%
+W:
+W:Mout me fu grief li départir 
+W:De m'amiete la jolie au cler vis. 
+W:Qui est blanche et vermellete, 
+W:Come rose par desus lis, 
+W: Ce m'est avis. 
+W: Son très dous res 
+W: Mi fait fremir, 
+W:Et si oell vair rians languir. 
+W:Ha diex! Comman la laissai! 
+W:Blanchete come flour de lis, 
+W: Quant vous verrai! 
+W: Dame de valour 
+W:Vermelle come rose en mai, 
+W:Pour vous sui en grant dolour.
+W:
+W:
+W: Robin m'aime, 
+W: Robin m'a. 
+W:Robin m'a demandée, 
+W: Se m'ara. 
+W:Robin m'achata corroie, 
+W:Et aumonière de soie 
+W:Pourquoi donc ne l'ameroie, 
+W: A leur iva.
+W: Robin m'aime, 
+W: Robin m'a. 
+W:Robin m'a demandée, 
+W: Se m'ara.
+W:
+W:
+W:
+W:
+W:Portare.
