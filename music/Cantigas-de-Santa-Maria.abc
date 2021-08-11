@@ -1,0 +1,31 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, S-1 N
+%%writefields QP 0
+
+
+X:0
+T:Cantigas de Santa Maria (incomplete)
+F:https://en.wikipedia.org/wiki/Cantigas_de_Santa_Maria
+F:http://cantigasdesantamaria.com/
+F:http://csm.mml.ox.ac.uk/index.php?p=poem_list
+%% Facsimiles
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/
+%% Dictionaries
+F:https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+F:http://alijc.github.io/music/galician-portuguese/vocab.txt
+F:http://alijc.github.io/music/galician-portuguese/xlate.pl
+%% Grammar
+F:https://www.orbilat.com/Languages/Galician/Grammar/index.html
+F:https://www.orbilat.com/Languages/Portuguese/Grammar/index.html
+F:https://en.wikipedia.org/wiki/Portuguese_grammar
+%% Verbs
+F:https://www.verbix.com/languages/galician.html
+F:https://www.verbix.com/languages/portuguese.html
+F:https://www.orbilat.com/Languages/Galician/Grammar/Verbs/index.html
+F:https://www.orbilat.com/Languages/Portuguese/Grammar/Verbs/index.html
+F:https://en.wiktionary.org/wiki/Category:Portuguese_irregular_verbs
+Z:Ali Corbin <ali.corbin:gmail.com>
+M:C
+K:C
