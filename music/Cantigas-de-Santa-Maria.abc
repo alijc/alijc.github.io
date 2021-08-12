@@ -59,3 +59,146 @@ w:per que en-  ten-da  e    sá-* bia di-  zer
 w:o que  en- tend' e  de   di-zer lle   praz,***
  (AG)  F  (EF)| G2  A  F2|(G/A/B)  G  (AF)| F3 z2 |
 w:ca* ben tro-* bar as-si  s'á** de  ffa-*  zer.
+
+X: 1
+T: Cantiga 1: Des oge mais quer' eu trobar
+N: in 4, with dotted rhythms
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: F 
+V:1
+%Staff 1
+%%MIDI program 74
+   A | A3 A | A3   G |  A3  B | A3 
+w:Des  o-ge  mais quer' eu  tro-bar
+        G |F2 (FG)|(AB) (cB)|(ABAG)| A3 
+w:     po- la  Sen-*nor* on-* rra-***da,
+   A |c2   d2 |(dc3)|  A (AB/A/) G | A3 
+w:en  que Deus  quis* car-ne**  fi- llar
+      (A/G/)|F2 F2|(GA) (FE)|(D3C)| D3 
+w:     be-*  ey-ta  e*   sa-* gra-* da,
+        D |(FE) (DC)|  F2  (FG)| (ABAG) | A3 
+w:     por  nos* dar* gran  sol-* da-***  da
+   A |c2   d2 |(dc3)| A (AB/A/) G | A3 
+w:no  seu rey-  no*   e  nos**  er- dar
+      (A/G/)| F2  F2|(GA) (FE) |(D3C) | D3 
+w:     por*  seus de  sa*  mas-* na-*   da
+       G | G3  E |(FEF)   G | E2  E2 | z3 
+w:     de  vi-da   per-**lon-ga-  da,
+   A | A2 (AG) | F2  (GA) | (FE) (DE) | C3 
+w:sen  a-  ver-* mos  pois*  a*     pas-*   sar
+        E|  G3   (F/E/)|(DE) (FE)| (EDDC)| D4 |
+w:     per mort'  out-*  ra*  ve-*  ga-*** da.
+%
+%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+
+Esta é a primeira cantiga de loor de Santa Maria,
+ementando os VII goyos que ouve de seu fillo.
+
+%%endtext
+%%multicol new
+%%rightmargin 11.5cm
+%%vskip 3cm
+%%begintext
+
+Des oge mais quer' eu trobar
+     pola Sennor onrrada,
+en que Deus quis carne fillar
+     beeyta e sagrada,
+     por nos dar gran soldada
+no seu reyno e nos erdar
+     por seus de sa masnada
+     de vida perlongada,
+sen avermos pois a passar
+     per mort' outra vegada.
+ 
+E poren quero começar
+     como foy saudada
+de Gabriel, u lle chamar
+     foy: «Benaventurada
+     Virgen, de Deus amada:
+do que o mund' á de salvar
+     ficas ora prennada;
+     e demais ta cunnada
+Elisabeth, que foi dultar,
+     é end' envergonnada».
+ 
+E demais quero-ll' enmentar
+     como chegou canssada
+a Belleem e foy pousar
+     no portal da entrada,
+     u paryu sen tardada
+Jesu-Crist', e foy-o deytar,
+     como moller menguada,
+     u deytan a cevada,
+no presev', e apousentar
+     ontre bestias d'arada.
+ 
+E non ar quero obridar
+     com' angeos cantada
+loor a Deus foron cantar
+     e «paz en terra dada»;
+     nen como a contrada
+aos tres Reis en Ultramar
+     ouv' a strela mostrada,
+     por que sen demorada
+veeron sa offerta dar
+     estranna e preçada.
+
+%%endtext
+%%multicol new
+%%leftmargin 11cm
+%%vskip 3cm
+%%begintext
+ 
+Outra razon quero contar
+     que ll' ouve pois contada
+a Madalena: com' estar
+     vyu a pedr' entornada
+     do sepulcr' e guardada
+do angeo, que lle falar
+     foy e disse: «Coytada
+     moller, sey confortada,
+ca Jesu, que vees buscar,
+     resurgiu madurgada.»
+ 
+E ar quero-vos demostrar
+     gran lediç' aficada
+que ouv' ela, u vyu alçar
+     a nuv' enlumada
+     seu Fill'; e poys alçada
+foi, viron angeos andar
+     ontr' a gent' assuada,
+     muy desaconsellada,
+dizend': Assi verrá juygar,
+     est' é cousa provada.»
+ 
+Nen quero de dizer leixar
+     de como foy chegada
+a graça que Deus enviar
+     lle quis, atan grãada,
+     que por el esforçada
+foy a companna que juntar
+     fez Deus, e enssinada,
+     de Spirit' avondada,
+por que souberon preegar
+     logo sen alongada.
+ 
+E, par Deus, non é de calar
+     como foy corõada,
+quando seu Fillo a levar
+     quis, des que foy passada
+     deste mund' e juntada
+con el no ceo, par a par,
+     e Rea chamada,
+     Filla, Madr' e Criada;
+e poren nos dev' ajudar,
+     ca x' é noss' avogada.
+
+%%endtext
+%%multicol end
