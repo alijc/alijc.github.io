@@ -63,6 +63,11 @@ w:ca* ben tro-* bar as-si  s'á** de  ffa-*  zer.
 X: 1
 T: Cantiga 1: Des oge mais quer' eu trobar
 N: in 4, with dotted rhythms
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/054small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob001small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob002small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
 M: 4/4
 L: 1/4
 Q: 1/4=200
@@ -202,3 +207,168 @@ e poren nos dev' ajudar,
 
 %%endtext
 %%multicol end
+
+X: 2
+T: Cantiga 2: Muito devemos varões
+N: 
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/056small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob002small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob003small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: C
+V:1
+%%staffsep 0.5cm
+%Staff 1
+%%MIDI program 74
+   C (DE)|(G>A) F| D  (D/E/F)|G2 G |
+w:Mui-to*  de-*ve-mos, va-**  rõ-es,
+   G (AB)|c2 (B/A/)|G (G/F/E)|D2 D |
+w:lo- ar* a   San-*ta Ma-**   ri-a,
+   D (EF)|(AG) (G/F/)|(E/D/) (D/E/F/E/)|(C>D) B, |
+w:que sas* gra-*ças*   e*     seus***    dõ-* es
+  D2 E|(G>F) (E/D/)| C (DB,)|C2 C ||
+w:dá a quen*  por*  e- la*  fi-a.
+%
+   C (DE) |G2 (G/F/)|(E/D/) (D/E/F/E/)|(C>D) B,|
+w:Sen mui-*ta  de*    bõ-*   a***       man-*na,
+   D2  E|(G>F) (E/D/)| C (DB,)|C2 C |
+w:que deu a*    un*   seu pre-*la-do,
+   C (DE) |G2 (G/F/)|(E/D/) (D/E/F/E/)|(C>D) B,|
+w:que pri-*ma  do*   foi*    d'Es-***   pan-*na
+  D2 E|(G>F)  (E/D/)|C (DB,)| C2 C |
+w:e  Af-fons'* e-*  ra cha-*  ma-do,
+    C   (DE)|(G>A) (G/F/)| E (D/E/F)| G2 G |
+w:deull' hu-* ma*   tal*  ves-ti-**   du-ra
+   G  (AB) |c2 (B/A/)|G (G/F/E)| D2 D |
+w:que trou-*xe  de*   Pa-ra-**   y-so,
+   D  (EF) |(AG) (F/G/) |E (D/E/F/E/)|D2  D |
+w:ben fey-*  ta*  a*    ssa me-***    su-ra,
+   D (EF)|(AG) (G/F/)|(E/D/) (D/E/F/E/)|(C>D) B, |
+w:por-que* me-* te-*   ra*    seu***     si-* so
+  D2 E|(G>F) (E/D/)| C   (DB,)|C2 C ||
+w:en a  lo-*  ar*   noyt' e*   di-a.
+%
+%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+
+Esta é de como pareceu Santa Maria en Toledo 
+a Sant' Alifonsso e deu-ll'huma alva
+que trouxe de parayso, con que dissesse missa.
+ 
+%%endtext
+%%multicol new
+%%rightmargin 11.5cm
+%%vskip 3cm
+%%begintext
+
+Muito devemos, varões,
+loar a Santa Maria,
+que sas graças e seus dões
+dá a quen por ela fia.
+
+Sen muita de bõa manna,
+que deu a un seu prelado,
+que primado foi d'Espanna
+e Affons' era chamado,
+deu-ll' huma tal vestidura
+que trouxe de Parayso,
+ben feyta a ssa mesura,
+porque metera seu siso
+en a loar noyt' e dia.
+
+Poren devemos, varões...
+
+Ben enpregou el seus ditos,
+com' achamos en verdade,
+e os seus bõos escritos
+que fez da virgindade
+daquesta Sennor mui santa,
+per que sa loor tornada
+foi en Espanna de quanta
+a end' avian deytada
+judeus e a eregia.
+
+Poren devemos, varões...
+
+Mayor miragre do mundo
+ll' ant' esta Sennor mostrara,
+u con Rei Recessiundo
+ena precisson andara,
+u lles pareceu sen falla
+Santa Locay', e en quanto
+ll' el Rey tallou da mortalla,
+disse-l': «Ay, Affonsso santo,
+per ti viv' a Sennor mya.»
+
+Poren devemos, varões...
+
+%%endtext
+%%multicol new
+%%leftmargin 11cm
+%%vskip 3cm
+%%begintext
+
+
+
+
+
+
+Porque o a Groriosa
+achou muy fort' e sen medo
+en loar sa preciosa
+virgindad' en Toledo,
+deu-lle porend' huma alva,
+que nas sas festas vestisse,
+a Virgen santa e salva
+e, en dando-lla, lle disse:
+«Meu Fillo esto ch' envia.»
+
+Poren devemos, varões...
+
+Pois ll' este don tan estrãyo
+ouve dad' e tan fremoso,
+disse: «Par Deus, muit eãyo
+seria e orgulloso
+quen ss' en esta ta cadeira,
+se tu non es, s' assentasse,
+nen que per nulla maneira
+est' alva vestir provasse,
+ca Deus del se vingaria.
+
+Poren devemos, varões...
+
+Pois do mundo foi partido
+este confessor de Cristo,
+Don Siagrio falido
+foi Arcebispo, poys isto,
+que o fillou a seu dano;
+ca, porque foi atrevudo
+en se vestir aquel pano,
+foi logo mort' e perdudo,
+com' a Virgen dit' avia.
+
+Poren devemos, varões...
+
+
+%%endtext
+%%multicol end
+
+
+B:Cantigas de Santa Maria
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+
+
+
+B:Cantigas de Santa Maria
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
