@@ -361,13 +361,13 @@ Poren devemos, varões...
 %%multicol end
 
 
-B:Cantigas de Santa Maria
-F:
-F:
-Z:Ali Corbin <ali.corbin:gmail.com>
-
 X: 3
 T: Cantiga 3: Mais nos faz Santa Maria
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/057small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob003small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob004small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
 M: 4/4
 L: 1/4
 Q: 1/4=200
@@ -396,41 +396,6 @@ w:mais a   do**    mui* bon ta-*lan
 w:tant' a* seu  Fi-llo*  ro-*   gou,**
    E | G2 (G/A/B/A/)|F   (FED)| E  F3 |
 w:que  o   foy***    end' el** sa-car.
-
-
-X: 33
-T: Cantiga 3: Mais nos faz Santa Maria
-M: 3/4
-L: 1/4
-Q: 1/4=200
-K: F major
-%%MIDI program 74
-%
-[M:4/4]
-   F |(FE)  (F/E/D)| E   F G2 |E2 C2 |
-w:Mais nos*  faz**  San-ta Ma-ri-a
-z F  F2|((3G/A/B/) (A>G) F |(FE)  G2 |
-w:a seu   Fi-**    llo* per- dõ-* ar,
-z  G  (AB)|c2  A2|(BA) (G>F)|(FE) D2|
-w:que nos* per nos-sa*  fo-* li-* a
-z  E    G2|(A>G) F2|(FED) E | F3
-w:ll'~i-mos fa-*lir e**   er-rar.
-%
-   A |[M:3/4]B c2|(c/B/) G2|  F (FE) | G  (G>A)|F (GF)|(E/F/D/C/)  E| F2 
-w:Por        e-la  nos* per- dõ- ou,* Deus o*  pe- ca-* do***    d'A-dam
-   A| B c2|c G2 | F (FE) |  G  (G>A)| F  (GF)|(E/F/D/C/)   E |F2 
-w:da ma-çã-a que gos-tou,* per que* sof-freu* muit'*** af-fan
-%
-  F|[M:4/4](FE) (F/E/D)| E   F G2|(E2 C2) |
-w:e-        no*  in-**  fer-no en- trou;*
- z  F  F2|((3G/A/B/) (A>G)  F|(FE) G2|
-w:mais a    do**      mui* bon ta-*lan
-z  G   (AB)|c2  A2|(BA) (G>F)|(FED2)|
-w:tant' a* seu  Fi-llo*  ro-*   gou,**
-z  E   G2|(A>G)  F2 |(FED)  E| F4 ||
-w:que  o   foy* end'  el** sa-car.
-
-
 %
 %%newpage
 %%multicol start
