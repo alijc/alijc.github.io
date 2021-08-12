@@ -668,3 +668,332 @@ B:Cantigas de Santa Maria
 F:
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
+X: 5
+T: Cantiga 5: Quenas coitas deste mundo
+N: in 6
+M: 6/8
+L: 1/8
+Q: 1/8=300
+K: A Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+   c2  c (c2B)|(AG) A  B3|(cB)   c  d3|(BG)  A   c3| c6 |
+w:Que-nas coi-*tas* de-ste  mun-*do ben qui-*ser sof-frer,
+   c2  d (c2B)|(AG) A B3|(cB)  c    d3|(BG)  A (cB2)|A6||
+w:San-ta  Ma-*  ri-*a de- ve* sem-pr'an-te* si  põ-* er.
+  c2 B  c3| d2   c   d3|e2 d  e3|(dc)    B  A3|  G2 B  d3|c6|
+w:E de-sto vos quer' eu o-ra con- tar,* se-gund' a le-tra diz,
+  c2  B   c3 |d2  c  d3| e2  d e3| (dc)   B A3|G2  A (cB2)|A6|
+w:un mui gran mi-ra-gre que fa-zer quis* po-la En-pe- ra-*driz
+  c2  B c3 |d2  c    d3| e2  d  e3|(dc)  B  A3|G2  B d3|c6|
+w:de Ro-ma, se-gund' eu con-tar o-  ý,* per no-me Be-a-triz,
+   c2  B  c3|d2 c  d3|e2  d  e3|(dc)    B   A3| G2  A (cB2)|A6 |
+w:San-ta  Ma-ri-a, a  Ma-dre de Deus,* ond' e- ste can-tar* fiz,
+   c2 B (c2B)|(AG)  A  B3|(cB)   c   d3|(BG)   A  c3|c6|
+w:que a guar-*dou* do mun- do,* que lle  foi* mal jo-yz,
+  c2 d (c2B)|(AG)  A    B3|(cB)  c    d3|(BG)  A (cB2)|A6||
+w:e do  de-*  mo* que, por  ten-*tar, a   cuy-*dou ven-*cer.
+
+X: 55
+T: Cantiga 5: Quenas coitas deste mundo
+N: in 5
+M: 5/4
+L: 1/4
+Q: 1/4=300
+K: A Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+   c2  c (cB) |(AG) A  B2|(cB)   c  d2|(BG)  A   c2| c3-c2 |
+w:Que-nas coi-*tas* de-ste  mun-*do ben qui-*ser sof-frer,*
+   c2  d (cB) |(AG) A B2|(cB)  c    d2|(BG)  A (cB) |A3-A2||
+w:San-ta  Ma-*  ri-*a de- ve* sem-pr'an-te* si  põ-* er.*
+  c2 B  c2| d2   c   d2|e2 d  e2|(dc)    B  A2|  G2 B  d2|c3-c2|
+w:E de-sto vos quer' eu o-ra con- tar,* se-gund' a le-tra diz,*
+  c2  B   c2 |d2  c  d2| e2  d e2| (dc)   B A2|G2  A (cB)|A3-A2|
+w:un mui gran mi-ra-gre que fa-zer quis* po-la En-pe- ra-*driz*
+  c2  B c2 |d2  c    d2| e2  d  e2|(dc)  B  A2|G2  B d2|c3-c2|
+w:de Ro-ma, se-gund' eu con-tar o-  ý,* per no-me Be-a-triz,*
+   c2  B  c2|d2 c  d2|e2  d  e2|(dc)    B   A2| G2  A (cB) |A3-A2 |
+w:San-ta  Ma-ri-a, a  Ma-dre de Deus,* ond' e- ste can-tar* fiz,*
+   c2 B (cB)| (AG)  A  B2|(cB)   c   d2|(BG)   A  c2|c3-c2|
+w:que a guar-*dou* do mun- do,* que lle  foi* mal jo-yz,*
+  c2 d (cB)|(AG)  A    B2|(cB)  c    d2|(BG)   A (cB)|A3-A2||
+w:e do  de-* mo* que, por  ten-*tar, a  cuy-*dou ven-*cer.*
+
+X: 555
+T: Cantiga 5: Quenas coitas deste mundo
+N: in 3
+M: 3/4
+L: 1/4
+Q: 1/4=300
+K: A Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+   c2  c|(c2B)|(AG) A |B3|(cB)   c |d3|(BG)  A  |c3| c3 |
+w:Que-nas coi-*tas* de-ste  mun-*do ben qui-*ser sof-frer,
+   c2  d|(c2B)|(AG) A|B3|(cB)  c |  d3|(BG)  A|(cB2)|A3||
+w:San-ta  Ma-*  ri-*a de- ve* sem-pr'an-te* si  põ-* er.
+  c2 B| c3| d2   c  |d3|e2 d| e3|(dc)    B| A3|  G2 B| d3|c3|
+w:E de-sto vos quer' eu o-ra con- tar,* se-gund' a le-tra diz,
+  c2  B | c3 |d2  c| d3| e2  d|e3| (dc)   B|A3|G2  A|(cB2)|A3|
+w:un mui gran mi-ra-gre que fa-zer quis* po-la En-pe- ra-*driz
+  c2  B|c3 |d2  c  | d3| e2  d |e3|(dc)  B |A3|G2  B|d3|c3|
+w:de Ro-ma, se-gund' eu con-tar o-  ý,* per no-me Be-a-triz,
+   c2  B| c3|d2 c |d3|e2  d |e3|(dc)    B | A3| G2  A|(cB2)|A3 |
+w:San-ta  Ma-ri-a, a  Ma-dre de Deus,* ond' e- ste can-tar* fiz,
+   c2 B|(c2B)|(AG)  A| B3|(cB)   c | d3|(BG)   A |c3|c3|
+w:que a guar-*dou* do mun- do,* que lle  foi* mal jo-yz,
+  c2 d|(c2B)|(AG)  A  | B3|(cB)  c | d3|(BG)  A|(cB2)|A3||
+w:e do  de-*  mo* que, por  ten-*tar, a  cuy-*dou ven-*cer.
+%
+%
+%%newpage
+W:
+W:Esta é como Santa Maria ajudou a Emperadriz de Roma
+W:a sofre-las grandes coitas per que passou.
+W: 
+W:
+W:Quenas coitas deste mundo ben quiser soffrer,
+W:     Santa Maria deve sempr'ante si põer.
+W: 
+W:E desto vos quer' eu ora contar, segund' a letra diz,
+W:un mui gran miragre que fazer quis pola Emperadriz
+W:de Roma, segund' eu contar oý, per nome Beatriz,
+W:Santa Maria, a Madre de Deus, ond' este cantar fiz,
+W:     que a guardou do mundo, que lle foi mal joyz,
+W:     e do demo que, por tentar, a cuydou vencer.
+W:
+W:     Quenas coitas deste mundo ben quiser sofrer...
+W: 
+W:Esta dona, de que vos disse ja, foi dun Emperador
+W:moller; mas pero del nome non sei, foi de Roma sennor
+W:e, per quant' eu de seu feit' aprendi, foi de mui gran valor.
+W:Mas a dona tant' era fremosa, que foi das belas flor
+W:     e servidor de Deus e de sa ley amador,
+W:     e soube Santa Maria mays d'al ben querer.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Aquest' Emperador a sa moller queria mui gran ben,
+W:e ela outrossi a el amava mais que outra ren;
+W:mas por servir Deus o Enperador, com' ome de bon sen,
+W:cruzou-ss' e passou o mar e foi romeu a Jherusalen.
+W:     Mas, quando moveu de Roma por passar alen,
+W:     leyxou seu irmão e fez y gran seu prazer.
+W:
+W:     Quenas coitas deste mundo ben quiser sofrer...
+W: 
+W:Quando ss'ouv' a ir o Emperador, aquel irmão seu,
+W:de que vos ja diss', a ssa moller a Emperadriz o deu,
+W:dizend': «Este meu irmão receb' oi mais por fillo meu,
+W:e vos seede-ll' en logar de madre poren, vos rogu' eu,
+W:     e de o castigardes ben non vos seja greu;
+W:     en esto me podedes muy grand' amor fazer.»
+W:
+W:     Quenas  coitas deste mundo ben quiser soffrer...
+W: 
+W:Depoi-lo Emperador se foi. A mui pouca de sazon
+W:catou seu irmão a ssa moller e namorou-s' enton
+W:dela, e disse-lle que a amava mui de coraçon;
+W:mai-la santa dona, quando ll' oyu dizer tal trayçon,
+W:     en huma torre o meteu en muy gran prijon,
+W:     jurando muyto que o faria y morrer.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:O Emperador dous anos e meyo en Acre morou
+W:e tod'a terra de Jerussalem muitas vezes andou;
+W:e pois que tod' est' ouve feito, pera Roma se tornou;
+W:mas ante que d'Ultramar se partisse, mandad' enviou
+W:     a sa moller, e ela logo soltar mandou
+W:     o seu irmão muy falsso, que a foy traer.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Quando o irmão do Emperador de prijon sayu,
+W:barva non fez nen cercou cabelos, e mal se vestiu;
+W:a seu irmão foi e da Emperadriz non s'espedyu;
+W:mas o Emperador, quando o atan mal parado vyu,
+W:     preguntou-lli que fora, e el lle recodyu:
+W:     «En poridade vos quer' eu aquesto dizer.»
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Quando foron ambos a huma parte, fillou-s' a chorar
+W:o irmão do Emperador e muito xe lle queixar
+W:de sa moller, que, por que non quisera con ela errar,
+W:que o fezera porende tan tost' en un carcer deitar.
+W:     Quand' o Emperador oyu, ouv' en tal pesar,
+W:     que se leixou do palaffren en terra caer.
+W:
+W:     Quenas coitas deste mundo ben quiser sofrer...
+W: 
+W:Quand' o Emperador de terra s'ergeu, logo, sen mentir,
+W:cavalgou e quanto mais pod' a Roma começou de ss'ir;
+W:e a pouca d'ora vyu a Emperadriz a ssi vir,
+W:e logo que a vyu, mui sannudo a ela leixou-ss' ir
+W:     e deu-lle gran punnada no rostro, sen falir,
+W:     e mandou-a matar sen a verdade saber.
+W:
+W:     Quenas coytas deste mundo ben quiser soffrer...
+W: 
+W:Dous monteiros, a que esto mandou, fillárona des i
+W:e rastrand' a un monte a levaron mui preto dali;
+W:e quando a no monte teveron, falaron ontre si
+W:que jouvessen con ela per força, segund' eu aprendi.
+W:     Mas ela chamando Santa Maria, log' y
+W:     chegou un Conde, que lla foy das mãos toller.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:O Conde, poi-la livrou dos vilãos, disse-lle: «Senner,
+W:dizede-m' ora quen sodes ou dond'.» Ela respos: «Moller
+W:sõo mui pobr' e coitada, e de vosso ben ei mester.»
+W:«Par Deus», diss' el Conde, «aqueste rogo farei volonter,
+W:     ca mia companneira tal come vos muito quer
+W:     que criedes nosso fill' e façedes crecer.»
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Pois que o Cond' aquesto diss', enton atan toste, sen al,
+W:a levou consigo aa Condessa e disse-ll' atal:
+W:«Aquesta moller pera criar nosso fillo muito val,
+W:ca vejo-a mui fremosa, demais, semella-me sen mal;
+W:     e poren tenno que seja contra nos leal,
+W:     e metamos-lle des oi mais o moç' en poder.»
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Pois que a santa dona o fillo do Conde recebeu,
+W:de o criar muit' apost' e mui ben muito sse trameteu;
+W:mas un irmão que o Cond' avia, mui falss' e sandeu,
+W:Pediu-lle seu amor; e porque ela mal llo acolleu,
+W:     degolou-ll' o menyno huma noit' e meteu
+W:     ll' o cuitelo na mão pola fazer perder.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Pois desta guisa pres mort' o menyno, como vos dit' ei,
+W:a santa dona, que o sentiu morto, diss': «Ai, que farei?»
+W:O Cond' e a Condessa lle disseron: «Que ás?» Diz: «Eu ey
+W:pesar e coita por meu criado, que ora mort' achey.»
+W:     Diss' o irmão do Conde: «Eu o vingarey
+W:     de ti, que o matar foste por nos cofonder.»
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Pois a dona foi ferida mal daquel, peyor que tafur,
+W:e non via quen lla das mãos sacasse de nenllur
+W:senon a Condessa, que lla fillou, mas esto muit' adur;
+W:uns dizian: «Quéimena!» e outros: «Moira con segur!»
+W:     Mas poi-la deron a un mareiro de Sur,
+W:     que a fezesse mui longe no mar somerger.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:O mareiro, poi-la ena barca meteu, ben come fol
+W:disse-lle que fezesse seu talan, e seria sa prol;
+W:mas ela diss' enton: «Santa Maria, de mi non te dol,
+W:neno teu Fillo de mi non se nenbra, como fazer sol?»
+W:     Enton veio voz de ceo, que lle disse: «Tol
+W:     tas mãos dela, se non, farey-te perecer.»
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Os mareiros disseron enton: «Pois est' a Deus non praz,
+W:leixemo-la sobr' aquesta pena, u pod' aver assaz
+W:de coita e d'affan e pois morte, u outra ren non jaz,
+W:ca, se o non fezermos, en mal ponto vimos seu solaz.
+W:     E pois foy feyto, o mar non a leixou en paz,
+W:     ante a veio con grandes ondas combater.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:A Emperadriz, que non vos era de coraçon rafez,
+W:com' aquela que tanto mal sofrera e non huma vez,
+W:tornou, con coita do mar e de fame, negra come pez;
+W:mas en dormindo a Madre de Deus direi-vos que lle fez:
+W:     tolleu-ll' a fam' e deu-ll' huma erva de tal prez,
+W:     con que podesse os gaffos todos guarecer.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:A santa dona, pois que ss' espertou, non sentiu null' afan
+W:nen fame, como se senpr' ouvesse comudo carn' e pan;
+W:e a erva achou so sa cabeça e disse de pran:
+W:«Madre de Deus, beeitos son os que en ti fyuza an,
+W:     ca na ta gran mercee nunca falecerán
+W:     enquanto a souberen guardar e gradecer.»
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Dizend' aquesto, a Emperadriz, muit' amiga de Deus,
+W:vyu viir huma nave preto de si, chea de romeus,
+W:de bõa gente, que non avia y mouros nen judeus.
+W:Pois chegaron, rogou-lles muito chorando dos ollos seus,
+W:     dizendo: «Levade-me vosc', ay, amigos meus!»
+W:     E eles logo conssigo a foron coller.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Pois a nav' u a Emperadriz ya aportou na foz
+W:de Roma, logo baixaron a vea, chamando: «Ayoz.»
+W:E o maestre da nave diss' a un seu ome: «Vai, coz
+W:carn' e pescado do meu aver, que te non cost' huma noz.»
+W:     E a Emperadriz guaryu un gaf', e a voz
+W:     foy end', e muitos gafos fezeron ss' y trager.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Ontr' os gafos que a dona guariu, que foron mais ca mil,
+W:foi guarecer o irmão do Conde eno mes d'abril;
+W:mas ant' ouv' el a dizer seu pecado, que fez come vil.
+W:Enton a Condessa e el Conde changian a gentil
+W:     dona, que perderan por trayçon mui sotil
+W:     que ll' aquel gaffo traedor fora bastecer.
+W:
+W:     Quenas coytas deste mundo ben quiser sofrer...
+W: 
+W:Muitos gafos sãou a Emperadriz en aquele mes;
+W:mas de grand' algo que poren lle davan ela ren non pres,
+W:mas andou en muitas romarias, e depois ben a tres
+W:meses entrou na cidade de Roma, u er' o cortes
+W:     Emperador, que a chamou e disso-lle: «Ves?
+W:     Guari-m' est' irmão gaff', e dar-ch-ei grand' aver.»
+W:
+W:     Quenas coytas deste mundo ben quiser soffrer...
+W: 
+W:A dona diss' ao Emperador: «Voss' irmão guarrá;
+W:mas ante que eu en el faça ren, seus pecados dirá
+W:ant' o Apostolig' e ante vos, como os feitos á.»
+W:E pois foi feito, o Emperador diss': «Ai Deus, que será?
+W:     Nunca mayor trayçon desta om' oyrá.»
+W:     E con pesar seus panos se fillou a ronper.
+W:
+W:     Quenas coytas deste mundo ben quiser soffrer...
+W: 
+W:A Emperadriz fillou-s' a chorar e diss': «A mi non nuz
+W:en vos saberdes que soon essa, par Deus de vera cruz,
+W:a que vos fezestes atan gran torto, com' agor' aduz
+W:voss' irmão a mãefesto, tan feo come estruz;
+W:     mas des oi mais a Santa Maria, que é luz,
+W:     quero servir, que me nunca á de falecer.
+W:
+W:     Quenas coitas deste mundo ben quiser soffrer...
+W: 
+W:Per nulla ren que ll' o Emperador dissesse, nunca quis
+W:a dona tornar a el; ante lle disse que fosse fis
+W:que ao segre non ficaria nunca, par San Denis,
+W:nen ar vestiria pano de seda nen pena de gris,
+W:     mas huma cela faria d'obra de Paris,
+W:     u se metesse por mays o mund' avorrecer.
+W:
+W:     Quenas coytas deste mundo ben quiser soffrer...
+
+B:Cantigas de Santa Maria
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
