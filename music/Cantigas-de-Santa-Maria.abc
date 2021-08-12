@@ -1098,7 +1098,112 @@ W:     dizendo: «Quen faz tal feito, | desta guisa o rende.»
 W:
 W: A que do bon rey Davi...
 
+X: 7
+T: Cantiga 7: Santa Maria amar
+N: (#6 in To Codex)
 B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/069small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob006small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob007small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=230
+K: D aeolian
+V:1
+%%landscape
+%%staffwidth 10in
+%Staff 1
+%%MIDI program 74
+    D  F2| G A2|(B<A)G| A3 |A  c2| A2  B | (A/G/)(A>G)|(F>G) E |F (FG) | A  A2|(BAG)| A3|
+w: San-ta Ma-ri- a*  a-mar  de-ve-mos muit' e*    ro-* gar* que a  ssa*  gra-ça  pon-**na 
+     D  F2| G    A2|(B<A) G| A3|  A   c2|A2  B|(A/G/) (A>G)| F2   F| G (AG)|(F/E/) D2|(EDC) |D3||
+w:  so-bre nos, por que* er-rar non nos fa-ça, nen*   pec-* car, o de-mo*   sen* ver- gon-**na.
+%
+    d  d2| c c2|(BA)  G | A3 | A  c2| A2  B |(A/G/) (A>G)|(F2G)|  E   F (F/G/)| A  A2|(BAG) | A3 |
+w: Po-ren-de vos con-*ta-rey   un mi- ra-gre  que*   a-*   chei* que por hu'*   a- ba- des-** sa   
+    d  d2| c c2|(BA)  G | A3 |  A  c2|  A2  B |(A/G/) (A>G)|(F2G)| E  F (F/G/)| A  A2|(BAG) | A3 |
+w: fez a  Ma-dre do* gran Rei, ca, per com' eu  ap-*  res'*  ei,*  e-ra- xe*   su- a   es-**  sa.
+    D  F2| G A2|(BA) G| A3 |A  c2| A2  B |(A/G/)(A>G)|(F2G)|  E    F(F/G/)| A A2 |(BAG) |A3 |
+w: Mas  o de-mo  en-*ar-rar a foi, por que em-*  pren-*nar* s'~ou-ve dun*  de Bo-  lon-**na,
+   D F2| G  A2|(B<A) G | A3| A c2| A2 B |(A/G/)(A>G)| (F>G)  F |  G   (AG)|(F/E/) D2|(EDC)|D3||
+w: o-me que de  ra-*ca- dar  a-vi- a  e   de*  guar-* dar*  seu feit' e*    sa*   be-son-**na.
+%
+%%newpage
+W:Esta é como Santa Maria livrou a abadessa prenne,
+W:que adormecera ant' o seu altar chorando.
+W:
+W: Santa Maria amar
+W: devemos muit' e rogar
+W: que a ssa graça ponna
+W: sobre nos, por que errar
+W: non nos faça, nen peccar,
+W: o demo sen vergonna.
+W: 
+W: Porende vos contarey
+W: un miragre que achei
+W: que por hu' abadessa
+W: fez a Madre do gran Rei,
+W: ca, per com' eu apres' ei,
+W: era-xe sua essa.
+W: Mas o demo enarrar
+W: a foi, por que emprennnar
+W: s' ouve dun de Bolonna,
+W: ome que de racadar
+W: avia e de guardar
+W: seu feit' e sa besonna.
+W: 
+W:Santa Maria amar...
+W: 
+W: As monjas, pois entender
+W: foron esto e saber,
+W: ouveron gran lediça;
+W: ca, porque lles non sofrer
+W: queria de mal fazer,
+W: avian-lle mayça.
+W: E forona acusar
+W: ao Bispo do logar,
+W: e el ben de Colonna
+W: chegou y; e pois chamar
+W: a fez, veo sen vagar,
+W: leda e mui risonna.
+W: 
+W:Santa Maria amar...
+W: 
+W: O Bispo lle diss' assi:
+W: «Dona, per quant' aprendi,
+W: mui mal vossa fazenda
+W: fezestes; e vin aqui
+W: por esto, que ante mi
+W: façades end' emenda.»
+W: Mas a dona sen tardar
+W: a Madre de Deus rogar
+W: foi; e, come quen sonna,
+W: Santa Maria tirar
+W: lle fez o fill' e criar
+W: lo mandou en Sanssonna.
+W: 
+W:Santa Maria amar...
+W: 
+W: Pois s' a dona espertou
+W: e se guarida achou,
+W: log' ant' o Bispo veio;
+W: e el muito a catou
+W: e desnua-la mandou;
+W: e pois lle vyu o seio,
+W: começou Deus a loar
+W: e as donas a brasmar,
+W: que eran d'ordin d'Onna,
+W: dizendo: «Se Deus m'anpar,
+W: por salva poss' esta dar,
+W: que non sei que ll'aponna.»
+W: 
+W:Santa Maria amar...
+%%portrait
+
+
+B:Cantigas de Santa Maria
+F:
 F:
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
