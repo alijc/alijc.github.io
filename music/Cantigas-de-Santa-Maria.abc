@@ -3,9 +3,10 @@
 %%titleformat A-1 T C1, S-1 N
 %%writefields QP 0
 
+%%center Cantigas de Santa Maria
+%%center (As far as I've got with the transcriptions)
 
-X:0
-T:Cantigas de Santa Maria (incomplete)
+%% References
 F:https://en.wikipedia.org/wiki/Cantigas_de_Santa_Maria
 F:http://cantigasdesantamaria.com/
 F:http://csm.mml.ox.ac.uk/index.php?p=poem_list
@@ -14,8 +15,9 @@ F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/
 %% Dictionaries
 F:https://en.wiktionary.org/wiki/Wiktionary:Main_Page
-F:http://alijc.github.io/music/galician-portuguese/vocab.txt
-F:http://alijc.github.io/music/galician-portuguese/xlate.pl
+F:http://sli.uvigo.es/DDGM/index.php
+F:https://blogs.commons.georgetown.edu/cantigas/files/2013/07/Cohen-Etymological-Wordlist-Article-REVISED-2013.pdf
+F:https://github.com/alijc/Galician-Portuguese-Translation
 %% Grammar
 F:https://www.orbilat.com/Languages/Galician/Grammar/index.html
 F:https://www.orbilat.com/Languages/Portuguese/Grammar/index.html
@@ -26,9 +28,9 @@ F:https://www.verbix.com/languages/portuguese.html
 F:https://www.orbilat.com/Languages/Galician/Grammar/Verbs/index.html
 F:https://www.orbilat.com/Languages/Portuguese/Grammar/Verbs/index.html
 F:https://en.wiktionary.org/wiki/Category:Portuguese_irregular_verbs
+
 Z:Ali Corbin <ali.corbin:gmail.com>
-M:C
-K:C
+
 
 X: 1
 T: Prolog:  Porque trobar
