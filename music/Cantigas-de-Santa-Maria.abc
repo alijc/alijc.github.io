@@ -366,6 +366,160 @@ F:
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
 
+X: 3
+T: Cantiga 3: Mais nos faz Santa Maria
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: F major
+%%MIDI program 74
+%
+   F |(FE)  (F/E/D)| E   F G2| E C2 
+w:Mais nos*  faz**  San-ta Ma-ri-a
+  F| F2 (G/A/B)|(A/G/) F (FE)|G3
+w:a seu  Fi-**   llo* per-dõ-* ar,
+   G |(AB) c2| A2 (BA)|(G>F) (FE)| D3
+w:que nos* per nos-sa*  fo-* li-*a
+   E   | G2 (A>G)|F2 (F/E/D)| E F3 |
+w:ll'~i-mos fa-*lir e**   er-rar.
+%
+   A  B c2|c2 (G/A/G)| F (FE2)| G  (G>A) F|(GF) (E/F/D)| E  F2 z |
+w:Por e-la nos per-** dõ- ou,* Deus o*  pe- ca-* do**  d'A-dam
+   A  B c2|c2 (G/A/G)| F (FE2)|  G  (GA)  F |(GF) (E/F/D) | E  F2 
+w:da ma-çã-a   que**  gos-tou,* per que* sof-freu* muit'** af-fan
+%
+  F|(FE) (F/E/D)| E   F G2|(E C2) 
+w:e- no*  in-**  fer-no en- trou;*
+    F| F2 (G/A/B)|(A/G/)  F (FE)|G3
+w:mais a   do**    mui* bon ta-*lan
+   G | (AB) c2| A2 (BA)|(GF) (FE|D3) 
+w:tant' a* seu  Fi-llo*  ro-*   gou,**
+   E | G2 (G/A/B/A/)|F   (FED)| E  F3 |
+w:que  o   foy***    end' el** sa-car.
+
+
+X: 33
+T: Cantiga 3: Mais nos faz Santa Maria
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: F major
+%%MIDI program 74
+%
+[M:4/4]
+   F |(FE)  (F/E/D)| E   F G2 |E2 C2 |
+w:Mais nos*  faz**  San-ta Ma-ri-a
+z F  F2|((3G/A/B/) (A>G) F |(FE)  G2 |
+w:a seu   Fi-**    llo* per- dõ-* ar,
+z  G  (AB)|c2  A2|(BA) (G>F)|(FE) D2|
+w:que nos* per nos-sa*  fo-* li-* a
+z  E    G2|(A>G) F2|(FED) E | F3
+w:ll'~i-mos fa-*lir e**   er-rar.
+%
+   A |[M:3/4]B c2|(c/B/) G2|  F (FE) | G  (G>A)|F (GF)|(E/F/D/C/)  E| F2 
+w:Por        e-la  nos* per- dõ- ou,* Deus o*  pe- ca-* do***    d'A-dam
+   A| B c2|c G2 | F (FE) |  G  (G>A)| F  (GF)|(E/F/D/C/)   E |F2 
+w:da ma-çã-a que gos-tou,* per que* sof-freu* muit'*** af-fan
+%
+  F|[M:4/4](FE) (F/E/D)| E   F G2|(E2 C2) |
+w:e-        no*  in-**  fer-no en- trou;*
+ z  F  F2|((3G/A/B/) (A>G)  F|(FE) G2|
+w:mais a    do**      mui* bon ta-*lan
+z  G   (AB)|c2  A2|(BA) (G>F)|(FED2)|
+w:tant' a* seu  Fi-llo*  ro-*   gou,**
+z  E   G2|(A>G)  F2 |(FED)  E| F4 ||
+w:que  o   foy* end'  el** sa-car.
+
+
+%
+%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+
+Esta é como Santa Maria fez cobrar a Theophilo
+a carta que fezera cono demo, u se tornou seu vassalo.
+
+%%endtext
+%%multicol new
+%%rightmargin 11.5cm
+%%vskip 3cm
+%%begintext
+
+Mais nos faz Santa Maria
+a seu Fillo perdõar,
+que nos per nossa folia
+ll' imos falir e errar.
+
+Por ela nos perdõou
+Deus o pecado d'Adam
+da maçãa que gostou,
+per que soffreu muit' affan
+eno inferno entrou;
+mais a do mui bon talan
+tant' a seu Fillo rogou,
+que o foy end' el sacar.
+
+Mais nos faz Santa Maria...
+
+Pois ar fez perdon aver
+a Theophilo, un seu
+servo, que fora fazer
+per conssello dun judeu
+carta por gãar poder
+cono demo, e lla deu;
+e fez-ll'en Deus descreer,
+des i a ela negar.
+
+Mais nos faz Santa Maria...
+
+Pois Theophilo assi
+fez aquesta trayçon,
+per quant' end' eu aprendi,
+foy do demo gran sazon;
+mais depoys, segund' oý,
+repentiu-ss' e foy perdon
+pedir logo, ben aly
+u peccador sol achar.
+
+Mais nos faz Santa Maria...
+
+%%endtext
+%%multicol new
+%%leftmargin 11cm
+%%vskip 3cm
+%%begintext
+
+
+
+
+
+
+Chorando dos ollos seus
+muito, foy perdon pedir,
+u vyu da Madre de Deus
+a omagen; sen falir
+lle diss': «Os peccados meus
+son tan muitos, sen mentir,
+que, se non per rogos teus,
+non poss' eu perdon gãar.»
+
+Mais nos faz Santa Maria...
+
+Theophilo dessa vez
+chorou tant' e non fez al,
+trões u a que de prez
+todas outras donas val,
+ao demo mais ca pez
+negro do fog' infernal
+a carta trager-lle fez,
+e deu-lla ant' o altar.
+
+Mais nos faz Santa Maria...
+
+%%endtext
+%%multicol end
 
 
 B:Cantigas de Santa Maria
