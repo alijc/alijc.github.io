@@ -487,6 +487,183 @@ Mais nos faz Santa Maria...
 %%multicol end
 
 
+X: 4
+T: Cantiga 4: A Madre do que livrou 
+N: 
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/058small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob004small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob005small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+  D (F>E)| D  C2| F  (FG)| A3| A  B2|c A2 | B (A/G/A)|F3|
+w:A  Ma-*dre do que liv-*rou  dos le-õ-es  Da- ni-**  el,
+  F  A2| A G2| G   E2| C3| E  G2|A (G/FE/)|(D/C/)(DE)|D3||
+w:es-sa do fo-go guar-dou  un me-ny-no**   d'Ir-*ra-*el.
+%
+  d  d2|c   c2|A (A/B/c)|A3| A (A>B)|(A/G/) F2| G  A2|(BAB)|G3|
+w:En Be-or-ges un ju-** deu  ou-ve*   que*  fa-zer sa- bi-**a
+  d   d2| c c2| A (A/B/c)|A3|   A (A>B)|(A/G/) F2|  G  A2|(BAB)|G3|
+w:vi-dro, e un fi-llo**   seu (ca  el*   en*  mais non a-  vi-**a,
+   d    d2 |  c   A2| B (A/G/A)|F3| G   A2|    G F2| G  (A>G)|(FED/E/)|C3|
+w:per quant' end' a-pren-di**   eu) on-tr'~os cris-chã-os li-* y-***    a
+   F (FG)| A   G2| G  E2| C3 | E  G2 | A (G/FE/)|(D/C/)(DE)|D3||
+w:na  es-*col'; e  e- ra greu  a seu  pa- dre**   Sa-*  mu-*el.
+%
+%%%%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%vskip 1cm
+%%begintext
+
+Esta é como Santa Maria guardou ao fillo do judeu
+que non ardesse, que seu padre deitara no forno.
+
+A Madre do que livrou
+dos leões Daniel,
+essa do fogo guardou
+un menyno d'Irrael.
+ 
+En Beorges un judeu
+ouve que fazer sabia
+vidro, e un fillo seu
+(ca el en mais non avia,
+per quant' end' aprendi eu)
+ontr' os crischãos liya
+na escol'; e era greu
+a seu padre Samuel.
+
+A Madre do que livrou...
+
+%%endtext
+%%multicol end
+%%newpage
+%%multicol start
+%%rightmargin 11.5cm
+%%begintext
+O menyno o mellor
+leeu que leer podia
+e d'aprender gran sabor
+ouve de quanto oya;
+e por esto tal amor
+con esses moços collia,
+con que era leedor,
+que ya en seu tropel.
+
+A Madre do que livrou...
+ 
+Poren vos quero contar
+o que ll' aveio un dia
+de Pascoa, que foi entrar
+na eygreja, u viia
+o abad' ant' o altar,
+e aos moços dand' ya
+ostias de comungar
+e vy' en un calez bel.
+
+A Madre do que livrou...
+ 
+O judeucynho prazer
+ouve, ca lle parecia
+que ostias a comer
+lles dava Santa Maria,
+que viia resprandecer
+eno altar u siia
+e enos braços teer
+seu Fillo Hemanuel.
+
+A Madre do que livrou...
+ 
+Quand' o moç' esta vison
+vyu, tan muito lle prazia,
+que por fillar seu quinnon
+ant' os outros se metia.
+Santa Maria enton
+a mão lle porregia,
+e deu-lle tal comunyon
+que foi mais doce ca mel.
+
+A Madre do que livrou...
+ 
+Poi-la comunyon fillou,
+logo dali se partia
+e en cas seu padr' entrou
+como xe fazer soya;
+e ele lle preguntou
+que fezera. El dizia:
+«A dona me comungou
+que vi so o chapitel.»
+
+A Madre do que livrou...
+%%endtext
+%%multicol new
+%%leftmargin 11cm
+%%begintext
+O padre, quand' est' oyu,
+creceu-lli tal felonia,
+que de seu siso sayu;
+e seu fill' enton prendia,
+e u o forn' arder vyu
+meté-o dentr' e choya
+o forn', e mui mal falyu
+como traedor cruel.
+
+A Madre do que livrou...
+ 
+Rachel, sa madre, que ben
+grand' a seu fillo queria,
+cuidando sen outra ren
+que lle no forno ardia,
+deu grandes vozes poren
+e ena rua saya;
+e aque a gente ven
+ao doo de Rachel.
+
+A Madre do que livrou...
+ 
+Pois souberon sen mentir
+o por que ela carpia,
+foron log' o forn' abrir
+en que o moço jazia,
+que a Virgen quis guarir
+como guardou Anania
+Deus, seu fill', e sen falir
+Azari' e Misahel.
+
+A Madre do que livrou...
+ 
+O moço logo dali
+sacaron con alegria
+e preguntaron-ll' assi
+se sse d'algun mal sentia.
+Diss' el: «Non, ca eu cobri
+o que a dona cobria
+que sobelo altar vi
+con seu Fillo, bon donzel.»
+
+A Madre do que livrou...
+ 
+Por este miragr' atal
+log' a judea criya,
+e o menyno sen al
+o batismo recebia;
+e o padre, que o mal
+fezera per sa folia,
+deron-ll' enton morte qual
+quis dar a seu fill' Abel.
+
+A Madre do que livrou...
+%%endtext
+%%multicol end
+
+
 B:Cantigas de Santa Maria
 F:
 F:
