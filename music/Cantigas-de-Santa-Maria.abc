@@ -1202,6 +1202,92 @@ W:Santa Maria amar...
 %%portrait
 
 
+X: 8
+T: Cantiga 8 : A Virgen Santa Maria
+N: 
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/071small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob008small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob009small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: F
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  A  A2| A  (GA)| B (A/GA/)| F E2| F (GA)| F (GE)|F (GA)|(BAG)|A3|
+w:A Vir-gen San-*ta  Ma-**   ri-a  to- dos* a lo-* ar de-* ve-**mos,
+   A   c2 | A (cB)|G (A>G)| F  E2| F  (GA) | F (GA)|(c/B/) (AG)|(AFE)|F3||
+w:can-tand' e con* a- le-* gri-a, quan-tos* seu ben* a-*   ten-* de-**mos.
+ A c2 |A  (cB)|  G (A>G)| F E2 | F (GA)|(c/B/) (A/GA/)| F (GE)|F3|
+w:E por a-quest'* un mi-*ra-gre vos di-* rei,*  de**   que sa-*bor
+  A c2| A (cB)|   G   (A>G)|F  E2 | F  (GA)|(c/B/) (A/GA/)|F (GE)|F3|
+w:a-ve-re- des* poy'l' o-*  ir-des, que fez*  en*    Ro-**  ca-ma-*dor
+  A  A2| A  (GA)| B (A/GA/)| F E2| F (GA) | F (GA)|(c/B/) (AG)|A3|
+w:a Vir-gen San-*ta  Ma-**  ri-a,  Ma-dre* de Nos-* tro*  Sen-*nor;
+  A c2| A (cB) |G (A>G)|F  E2| F (GA)| F (GA)|(c/B/) (AG)|(AFE)|F3||
+w:o-ra  o- yd'* o  mi-*ra-gre, e nos* con-tar-*vo-*   lo-* e-** mos.
+%
+%%%%newpage
+W:Esta é como Santa Maria fez en Rocamador decender
+W:huma candea na viola do jograr que cantava ant' ela.
+W:
+W:     A Virgen Santa Maria
+W: todos a loar devemos,
+W: cantand' e con alegria,
+W: quantos seu ben atendemos.
+W: 
+W:E por aquest' un miragre | vos direi, de que sabor
+W:averedes poy-l' oirdes, | que fez en Rocamador
+W:a Virgen Santa Maria, | Madre de Nostro Sennor;
+W:ora oyd' o miragre, | e nos contar-vo-lo-emos.
+W:     A Virgen Santa Maria...
+W: 
+W:Un jograr, de que seu nome | era Pedro de Sigrar,
+W:que mui ben cantar sabia | e mui mellor violar,
+W:e en toda-las eigrejas | da Virgen que non á par
+W:un seu lais senpre dizia, | per quant' en nos aprendemos
+W:     A Virgen Santa Maria...
+W:
+W:Aquel lais que el cantava | era da Madre de Deus,
+W:estand' ant' a sa omagen, | chorando dos ollos seus;
+W:e pois diss': «Ai, Groriosa, | se vos prazen estes meus
+W:cantares, huma candea | nos dade a que ceemos.»
+W:     A Virgen Santa Maria...
+W: 
+W:De com' o jograr cantava | Santa Maria prazer
+W:ouv', e fez-lle na viola | huma candea decer;
+W:may-lo monge tesoureiro | foi-lla da mão toller,
+W:dizend': «Encantador sodes, | e non vo-la leixaremos.
+W:     A Virgen Santa Maria...
+W: 
+W:Mas o jograr, que na Virgen | tinia seu coraçon,
+W:non quis leixar seus cantares, | e a candea enton
+W:ar pousou-lle na viola; | mas o frade mui felon
+W:tolleu-lla outra vegada | mais toste ca vos dizemos.
+W:     A Virgen Santa Maria...
+W: 
+W:Pois a candea fillada | ouv' aquel monge des i
+W:ao jograr da viola, | foy-a põer ben ali
+W:u x' ant' estav', e atou-a | mui de rrig' e diss' assi:
+W:«Don jograr, se a levardes, | por sabedor vos terremos.»
+W:     A Virgen Santa Maria...
+W: 
+W:O jograr por tod' aquesto | non deu ren, mas violou
+W:como x' ante violava, | e a candea pousou
+W:outra vez ena vyola; | mas o monge lla cuidou
+W:fillar, mas disse-ll' a gente: | «Esto vos non sofreremos.»
+W:     A Virgen Santa Maria...
+W: 
+W:Poi-lo monge perfiado | aqueste miragre vyu,
+W:entendeu que muit' errara, | e logo ss' arrepentiu;
+W:e ant' o jograr en terra | se deitou e lle pedyu
+W:perdon por Santa Maria, | en que vos e nos creemos.
+W:     A Virgen Santa Maria...
+
 B:Cantigas de Santa Maria
 F:
 F:
