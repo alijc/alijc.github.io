@@ -664,13 +664,14 @@ A Madre do que livrou...
 %%multicol end
 
 
-B:Cantigas de Santa Maria
-F:
-F:
-Z:Ali Corbin <ali.corbin:gmail.com>
 X: 5
 T: Cantiga 5: Quenas coitas deste mundo
-N: in 6
+N:#19 in To Codex
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/061small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob018small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob019small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
 M: 6/8
 L: 1/8
 Q: 1/8=300
@@ -694,60 +695,6 @@ w:San-ta  Ma-ri-a, a  Ma-dre de Deus,* ond' e- ste can-tar* fiz,
 w:que a guar-*dou* do mun- do,* que lle  foi* mal jo-yz,
   c2 d (c2B)|(AG)  A    B3|(cB)  c    d3|(BG)  A (cB2)|A6||
 w:e do  de-*  mo* que, por  ten-*tar, a   cuy-*dou ven-*cer.
-
-X: 55
-T: Cantiga 5: Quenas coitas deste mundo
-N: in 5
-M: 5/4
-L: 1/4
-Q: 1/4=300
-K: A Aeolian
-V:1
-%Staff 1
-%%MIDI program 74
-   c2  c (cB) |(AG) A  B2|(cB)   c  d2|(BG)  A   c2| c3-c2 |
-w:Que-nas coi-*tas* de-ste  mun-*do ben qui-*ser sof-frer,*
-   c2  d (cB) |(AG) A B2|(cB)  c    d2|(BG)  A (cB) |A3-A2||
-w:San-ta  Ma-*  ri-*a de- ve* sem-pr'an-te* si  põ-* er.*
-  c2 B  c2| d2   c   d2|e2 d  e2|(dc)    B  A2|  G2 B  d2|c3-c2|
-w:E de-sto vos quer' eu o-ra con- tar,* se-gund' a le-tra diz,*
-  c2  B   c2 |d2  c  d2| e2  d e2| (dc)   B A2|G2  A (cB)|A3-A2|
-w:un mui gran mi-ra-gre que fa-zer quis* po-la En-pe- ra-*driz*
-  c2  B c2 |d2  c    d2| e2  d  e2|(dc)  B  A2|G2  B d2|c3-c2|
-w:de Ro-ma, se-gund' eu con-tar o-  ý,* per no-me Be-a-triz,*
-   c2  B  c2|d2 c  d2|e2  d  e2|(dc)    B   A2| G2  A (cB) |A3-A2 |
-w:San-ta  Ma-ri-a, a  Ma-dre de Deus,* ond' e- ste can-tar* fiz,*
-   c2 B (cB)| (AG)  A  B2|(cB)   c   d2|(BG)   A  c2|c3-c2|
-w:que a guar-*dou* do mun- do,* que lle  foi* mal jo-yz,*
-  c2 d (cB)|(AG)  A    B2|(cB)  c    d2|(BG)   A (cB)|A3-A2||
-w:e do  de-* mo* que, por  ten-*tar, a  cuy-*dou ven-*cer.*
-
-X: 555
-T: Cantiga 5: Quenas coitas deste mundo
-N: in 3
-M: 3/4
-L: 1/4
-Q: 1/4=300
-K: A Aeolian
-V:1
-%Staff 1
-%%MIDI program 74
-   c2  c|(c2B)|(AG) A |B3|(cB)   c |d3|(BG)  A  |c3| c3 |
-w:Que-nas coi-*tas* de-ste  mun-*do ben qui-*ser sof-frer,
-   c2  d|(c2B)|(AG) A|B3|(cB)  c |  d3|(BG)  A|(cB2)|A3||
-w:San-ta  Ma-*  ri-*a de- ve* sem-pr'an-te* si  põ-* er.
-  c2 B| c3| d2   c  |d3|e2 d| e3|(dc)    B| A3|  G2 B| d3|c3|
-w:E de-sto vos quer' eu o-ra con- tar,* se-gund' a le-tra diz,
-  c2  B | c3 |d2  c| d3| e2  d|e3| (dc)   B|A3|G2  A|(cB2)|A3|
-w:un mui gran mi-ra-gre que fa-zer quis* po-la En-pe- ra-*driz
-  c2  B|c3 |d2  c  | d3| e2  d |e3|(dc)  B |A3|G2  B|d3|c3|
-w:de Ro-ma, se-gund' eu con-tar o-  ý,* per no-me Be-a-triz,
-   c2  B| c3|d2 c |d3|e2  d |e3|(dc)    B | A3| G2  A|(cB2)|A3 |
-w:San-ta  Ma-ri-a, a  Ma-dre de Deus,* ond' e- ste can-tar* fiz,
-   c2 B|(c2B)|(AG)  A| B3|(cB)   c | d3|(BG)   A |c3|c3|
-w:que a guar-*dou* do mun- do,* que lle  foi* mal jo-yz,
-  c2 d|(c2B)|(AG)  A  | B3|(cB)  c | d3|(BG)  A|(cB2)|A3||
-w:e do  de-*  mo* que, por  ten-*tar, a  cuy-*dou ven-*cer.
 %
 %
 %%newpage
