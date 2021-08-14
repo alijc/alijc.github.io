@@ -2820,3 +2820,126 @@ F:
 F:
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
+X: 1
+T: Cantiga 19: Gran sandece faz
+N: T
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   A2   G | A (F<G)| A3| A  (A<B)| c  (c>B) |A2 (A/G/) |
+w:Gran san-de- ce*  faz quen se*  por  mal*  fi- lla*
+   F (GA)| G (A>G)|(FED)|(F>E)  D| C3|(D/E/) F2|  G3 |
+w:co- na* que de*  Deus** é*   Ma-dre  e*    Fi-lla.
+%
+   F (GA)| G (A>G)|(FE) D|(F>E)  D| C  (DE)| F3| F3 |
+w:Des-to* vos di-* rei* un mi-* ra-gre  fre-*mo- so,
+   F (GA)|  F  (A>G)|(FE)  D|(F>E)  D | C (D<E)|F3| F3 |
+w:que mo-*strou a*    Ma-*dre do*  Rei gro-ri-* o-  so
+   A2  G |A (F<G) |A3|A3| A (AB)|c (c>B)| A (A>G)|
+w:con-tra un ric-* o- me fol e* so- ber-*vio-so,*
+  F  A2| G (A>G)|(FE)  D |(F>E) D  | C (D<E)|F3| G3|
+w:e con-tar-vos-* ei* end' a*  gran ma- ra-* vi-lla.*
+
+X: 2
+T: Cantiga 19: Gran sandece faz
+N: T
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   A2   G | A (FG)| A3| A  (AB)| c  (c>B) |A2 (A/G/) |
+w:Gran san-de- ce* faz quen se* por  mal*  fi- lla*
+   F (GA)| G (A>G)|(FED)|(F>E)  D| C3|(D/E/) F2|  G3 |
+w:co- na* que de*  Deus** é*   Ma-dre  e*    Fi-lla.
+%
+   F (GA)| G (A>G)|(FE) D|(F>E)  D| C2 (D/E/)| F3| F3 |
+w:Des-to* vos di-* rei* un mi-* ra-gre  fre-*  mo- so,
+   F (GA)|  F  (A>G)|(FE)  D|(F>E)  D | C2 (D/E/)|F3| F3 |
+w:que mo-*strou a*    Ma-*dre do*  Rei gro- ri-*  o-  so
+   A2  G |A (FG)  |A3|A3| A (AB)|c (c>B)| A (A>G)|
+w:con-tra un ric-* o- me fol e* so- ber-*vio-so,*
+  F (GA)| G (A>G)|(FE)  D | F (ED) |  C (DE) |F3|(F2G)|
+w:e con-*tar-vos-* ei* end' a gran*  ma- ra-* vi-lla.*
+
+%%newpage
+%%multicol start
+%%leftmargin  6cm
+%%rightmargin 6cm
+%%begintext
+Esta é como Santa Maria fillou vingança dos tres cavaleiros
+que mataron seu enemigo ant' o seu altar.
+%%endtext
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+
+     Gran sandece faz quen se por mal filla
+     cona que de Deus é Madre e Filla.
+ 
+Desto vos direi un miragre fremoso,
+que mostrou a Madre do Rei grorioso
+contra un ric-ome fol e sobervioso,
+e contar-vos-ei end' a gran maravilla.
+     Gran sandece faz quen se por mal filla...
+ 
+El e outros dous un dia acharon
+un seu eemig', e pos el derranjaron
+e en huma eigreja o ensserraron
+por prazer do demo, que os seus aguilla.
+     Gran sandece faz quen se por mal filla...
+ 
+O enserrado teve que lle valrria
+aquela eigreja de Santa Maria;
+mas ant' o altar con ssa gran felonia
+peças del fezeron per ssa pecadilla.
+     Gran sandece faz quen se por mal filla...
+ 
+E pois que o eles peças feit' ouveron,
+logo da eigreja sayr-sse quiseron;
+mas aquesto per ren fazer non poderon,
+ca Deus os trillou, o que os maos trilla.
+     Gran sandece faz quen se por mal filla...
+ 
+Non foi quen podesse arma nen escudo
+teer niun deles, assi foi perdudo
+do fogo do ceo, ca tod' encendudo
+foi ben da cabeça tro ena verilla.
+     Gran sandece faz quen se por mal filla...
+ 
+Poi-los malapresos arder-s' assi viron,
+logo por culpados muito se sentiron;
+a Santa Maria mercee pediron
+que os non metesse o dem' en sa pilla.
+     Gran sandece faz quen se por mal filla...
+ 
+Pois sse repentiron, foron mellorados
+e dun santo bispo mui ben confessados,
+que lles mandou, por remiir seus pecados,
+que fossen da terra como quen ss' eixilla.
+     Gran sandece faz quen se por mal filla...
+ 
+Demais lles mandou que aquelas espadas
+con que o mataran fossen pecejadas
+e cintas en feitas, con que apertadas
+trouxessen as carnes per toda Cezilla.
+     Gran sandece faz quen se por mal filla...
+%%endtext
+%%multicol end
+
+
+%%landscape 0
+B:Cantigas de Santa Maria
+F:
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
