@@ -1919,6 +1919,88 @@ W:     O que a Santa Maria mais despraz...
 
 
 %%landscape 0
+X: 13
+T: Cantiga 13: Assi como Jesu-Cristo
+N: 14 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/078small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob014small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+ (F/E/) (FG)| A A2|(c/B/) (A/G/F/G/)|  A A2  | c   c2| d (e/d/c)|(c/B/) (AG)| A3|
+w:As-*   si* co-mo  Je-*   su-***    Cri-sto,  e-stan-do  na**   cruz,*  sal-*vou
+  c  c2|  d  (e/d/c)|(c/B/) (AG)|(A/G/) F2 | A  c2|(c/B/) (AG)|(A/G/) (FE)|F3||
+w:un la-dron, as-**   si*    sa*  Ma-*  dre ou-tro  de*    mor-*te*   liv-*rou.
+ (F/E/) (FG)| A    A2|(c/B/) (A/G/F/G/)|A  A2| c  c2|(c/B/) (AG)|(A/G/) (FE)|F3|
+w:E*     po-*rend' un  gran*  mi-***   ra-gre vos di- rei*   de-* sta*   ra-*zón,
+ (F/E/) (FG)| A A2|(c/B/) (A/G/F/G/)| A A2| c  c2|(c/B/) (AG)|(A/G/) (FE)|F3|
+w:que*   fe-*ze San-ta*    Ma-***    ri-a, dun mui mal-*  fei-*tor*  lad-*ron
+ (F/E/) (FG)| A A2|(c/B/) (A/G/F)|A A2|  c  c2 | d    (e/d/c)|(c/B/) (AG)|A3|
+w:que*   El-*bo por nom'*  a-**   vi-a; mas sem-pr'~en ssa**   o-*    ra-*çon
+  c c2|d (e/d/c)|(c/B/) (AG)|(A/G/) F2| A c2|(c/B/)(AG)|(A/G/) (FE) |F3||
+w:a  e-la s'~a-** co-*   men-*da-*  va, e  a- quel-*lo*  lle*  pres-*tou.
+%
+%%newpage
+W:
+W:Esta é como Santa Maria guardou o ladron
+W:que non morresse na forca, porque a saudava.
+W: 
+W: 
+W:Assi como Jesu-Cristo,  estando na cruz, salvou
+W:un ladron, assi sa Madre  outro de morte livrou.
+W:
+W:E porend' un gran miragre vos direi desta razón,
+W:que feze Santa Maria,  dun mui malfeitor ladron
+W:que Elbo por nom' avia;  mas sempr' en ssa oraçon
+W:a ela s' acomendava,  e aquello lle prestou.
+W:
+W:Assi como Jesu-Cristo...
+W:
+W:Onde ll' aveo un día  que foi un furto fazer,
+W:e o meiryno da terra  ouve-o log' a prender,
+W:e tan toste sen tardada  fez-lo na forca põer;
+W:mas a Virgen, de Deus Madre,  log' enton del se nenbrou.
+W:
+W:Assi como Jesu-Cristo...
+W:
+W:E u pendurad' estava  na forca por ss' afogar,
+W:a Virgen Santa Maria  non vos quis enton tardar,
+W:ante chegou muit' agia  e foil-ll' as mãos parar
+W:so os pees e alçó-o  assi que non ss' afogou.
+W:
+W:Assi como Jesu-Cristo...
+W:
+W:Assi esteve tres dias  o ladron que non morreu;
+W:mais lo meiryno passava per y e mentes meteu
+W:com' era viv', e un ome  seu logo lle corregeu
+W:o laço per que morresse,  mas a Virgen o guardou.
+W:
+W:Assi como Jesu-Cristo...
+W:
+W:U cuidavan que mort' era,  o ladron lles diss' assi:
+W:«Quero-vos dizer, amigos  ora por que non morri:
+W:guardou-me Santa Maria,  e aque-vo-la aqui
+W:que me nas sas mãos sofre  que m' o laço non matou.»
+W:
+W:Assi como Jesu-Cristo...
+W:
+W:Quand' est' oyu o meirino,  deu aa Virgen loor
+W:Santa Maria, e logo  foi decer por seu amor
+W:Elbo, o ladron, da forca,  que depois por servidor
+W:dela foi senpr' en sa vida,  ca en orden log' entrou.
+W:
+W:Assi como Jesu-Cristo,  estando na cruz, salvou
+W:un ladron, assi sa Madre  outro de morte livrou.
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
