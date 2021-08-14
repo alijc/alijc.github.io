@@ -2518,6 +2518,161 @@ na cima do ano foy-o consigo levar.
 
 
 %%landscape 0
+X: 17
+T: Cantiga 17: Sempre seja beeita
+N: 7 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/086small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob008small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 5/4
+L: 1/4
+Q: 1/4=200
+K: C 
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   G2  A  F2|D2  E F2|G2 (F/E/) D2|(E>D) (CB,2) |
+w:Sem-pre se-ja be-ei-ta  e*    lo- a*    da*
+   D2  E F2|(G>F) E D2|(CB,)  C D2 |(E>D) C3 ||
+w:San-ta Ma- ri-* a a  noss'* a-vo-  ga-* da
+  G2  A F2 |G2  A B2|c2  B  A2|(A/B/c/B/A3)|
+w:Ma-ra-vi-llo-so mi-ra-gre d'o-ir****
+   G2  A    F2|G2 A  B2|c2   B  A2|(A/B/c/B/A3)|
+w:vos quer' eu o-ra con-tar sen men-tir****
+  G2  A F2| D2 E F2|G2 (F/E/) D2|(E>DCB,2) |
+w:de co-mo fez o di-a-  bre*  fo- gir***
+  D2  E F2|(G>F) E   D2|(CB,) C   D2|(E>D) C3 ||
+w:de Ro-ma  a*  Vir-gen  de* deus a-  ma-* da
+%
+%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+Esta é de como Santa Maria guardou de morte
+a onrrada dona de Roma a que o demo acusou pola fazer queimar.
+%%
+%%endtext
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+Sempre seja beeita e loada
+Santa Maria, a noss' avogada.
+%%
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+Maravilloso miragre d'oir
+vos quer' eu ora contar sen mentir,
+de como fez o diabre fogir
+de Roma a Virgen de Deus amada.
+%%
+Sempre seja beeita e loada...
+%% 
+En Roma foi, ja ouve tal sazon,
+que huma dona mui de coraçon
+amou a Madre de Deus; mas enton
+soffreu que fosse do demo tentada.
+%%
+Sempre seja beeita e loada...
+%% 
+A dona mui bon marido perdeu,
+e con pesar del per poucas morreu;
+mas mal conorto dun fillo prendeu
+que del avia, que a fez prennada.
+%%
+Sempre seja beeita e loada...
+%% 
+A dona, pois que prenne se sentiu,
+gran pesar ouve; mas depois pariu
+un fill', e u a nengun non viu
+mató-o dentr' en sa cas' ensserrada.
+%%
+Sempre seja beeita e loada...
+%% 
+En aquel tenpo o demo mayor
+tornou-ss' en forma d' ome sabedor,
+e mostrando-sse por devyador,
+o Emperador lle fez dar soldada.
+%%
+Sempre seja beeita e loada...
+%% 
+E ontr' o al que soub' adevyar,
+foy o feito da dona mesturar;
+e disse que llo queria provar,
+en tal que fosse log' ela queimada.
+%%
+Sempre seja beeita e loada...
+%% 
+E pero ll' o Emperador dizer
+oyu, ia per ren non llo quis creer;
+mas fez a dona ante ssi trager,
+e ela veo ben aconpannada.
+%%
+Sempre seja beeita e loada...
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+Poi-lo Emperador chamar mandou
+a dona, logo o dem' ar chamou,
+que lle foi dizer per quanto passou,
+de que foi ela mui maravillada.
+%%
+Sempre seja beeita e loada...
+%% 
+O Emperador lle disse: «Moller
+bõa, de responder vos é mester.»
+«O ben», diss' ela, «se prazo ouver
+en que eu possa seer conssellada.»
+%%
+Sempre seja beeita e loada...
+%% 
+O emperador lles pos praz' atal:
+«D'oj'a tres dias, u non aja al,
+venna provar o maestr' este mal;
+se non, a testa lle seja tallada.»
+%%
+Sempre seja beeita e loada...
+%% 
+A bõa dona se foi ben dali
+a un' eigreja, per quant' aprendi,
+de Santa Maria, e diss' assi:
+«Sennor, acorre a tua coitada.»
+%%
+Sempre seja beeita e loada...
+%% 
+Santa Maria lle diss': «Est' affan
+e esta coita que tu ás de pran
+faz o maestre; mas meos que can
+o ten en vil, e sei ben esforçada.»
+%%
+Sempre seja beeita e loada...
+%% 
+A bõa dona sen niun desden
+ant' o Emperador aque-a ven;
+mas o demo enton per nulla ren
+non a connoceu nen lle disse nada.
+%%
+Sempre seja beeita e loada...
+%% 
+Diss' o Emperador: «Par San Martin,
+maestre, mui pret' é a vossa fin.»
+Mas foi-ss' o demo e fez-ll' o bocin,
+e derribou do teit' huma braçada.
+%%
+Sempre seja beeita e loada...
+%%endtext
+%%multicol end
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
