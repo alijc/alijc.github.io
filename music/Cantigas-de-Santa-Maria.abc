@@ -2001,6 +2001,107 @@ W:un ladron, assi sa Madre  outro de morte livrou.
 
 
 %%landscape 0
+X: 14
+T: Cantiga 14:  Par Deus, muit'é gran razon
+N: 15 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/079small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob015small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: F Ionian 
+V:1
+%Staff 1
+%%MIDI program 74
+%
+ (G/F/) (FE)  |(F/E/) (FG)| A  (G/A/B/A/)|G3|
+w:Par*  Deus,*  mui-* t'é* gran ra-***    zon
+  G (FE)| D  (DE)|(G/F/) (ED)|(E/D/) C2|  E   G2|  A (BA)|(G/F/)(FE)| F3||
+w:de po-*der San-* ta*    Ma-* ri-*  a   mais de quan-tos* San-* tos* son.
+  c (cB)  |G (AB)| c (BA)| c c2| c (cB)| G (A>G)| F (EF)|G3|
+w:E muit'* é cou-*sa guy-*sa-da  de po-*der mui-*to con* Deus
+  c (cB)|G (AB)  | c  (BA)| c  c2| c (cB)| G  (A>G)| F (GE) |F3|
+w:a que* o troux'* en seu* cor-po, e  de-*pois nos* bra-ços* seus
+  G (FE) | F (FG)| A (G/A/B/A/)| G G2|  G (FE)| D (DE)|(G/F/) (ED)|(EC2)|
+w:o trou-*xe mui-*tas ve-***    ga-das, e con* pa- vor* dos*   ju-* deus*
+  G  (FE)| F (FG)| A (G/A/B/A/)| G  G2|  G (FE)| F (GA)| F (GE)|F3||
+w:fu-giu* con el*  a  E-***     gip-to, ter-ra* de rey*  Fa-ra-*on.
+%
+W:
+W:Esta é como Santa Maria a seu fillo rogou pola alma do monge de San Pedro,
+W:por que rogaran todo-los santos, e o non quis fazer senon por ela.
+W: 
+W:
+W:      Par Deus, muit'é gran razon
+W:de poder Santa Maria  mais de quantos Santos son.
+W:
+W:E muit' é cousa guysada  de poder muito con Deus
+W:a que o troux' en seu corpo,  e depois nos braços seus
+W:o trouxe muitas vegadas,  e con pavor dos judeus
+W:fugiu con el a Egipto,  terra de rey Faraon.
+W:
+W: Par Deus, muit' é gran razon...
+W:
+W:Esta Sennor groriosa  quis gran miragre mostrar
+W:en un mõesteir' antigo,  que soya pret' estar
+W:da cidade de Colonna,  u soyan a morar
+W:monges e que de San Pedro  avian a vocaçon.
+W:
+W: Par Deus, muit' é gran razón...
+W:
+W:Entr' aqueles bõos frades  avia un frad' atal,
+W:que dos sabores do mundo  mais ca da celestial
+W:vida gran sabor avia;  mas por se guardar de mal
+W:deveu huma meezyna,  e morreu sen confisson.
+W:
+W: Par Deus, muit' é gran razon...
+W:
+W:E tan toste que foi morto,  o dem' a alma fillou
+W:dele e con gran lediça  logo a levar cuidou;
+W:mas defendeu-llo San Pedro,  e a Deus por el rogou
+W:que a alma do seu monge  por el ouvesse perdon.
+W:
+W: Par Deus, muit' é gran razon...
+W:
+W:Pois que San Pedr' esto disse  a Deus, respos-ll' el assi:
+W:«Non sabes la profecia que diss' o bon rei Davi,
+W:que o ome con mazela  de peccado ante mi
+W:non verrá, nen de mia casa  nunca será conpannon?»
+W:
+W: Par Deus, muit' é gran razon...
+W:
+W:Mui triste ficou San Pedro quand' esta razon oyu,
+W:e chamou todo-los Santos  ali u os estar vyu,
+W:e rogaron polo frade  a Deus; mas el recodiu
+W:ben com' a el recodira,  e en outra guisa non.
+W:
+W: Par Deus, muit' é gran razon...
+W:
+W:Quando viu San Pedr' os Santos  que assi foran falir,
+W:enton a Santa Maria mercee lle foi pedir
+W:que rogass' ao seu Fillo  que non quisess' consentir
+W:que a alma do seu frade  tevess' o dem' en prijon.
+W:
+W: Par Deus, muit' é gran razon...
+W:
+W:Log' enton Santa Maria  a seu Fill' o Salvador
+W:foi rogar que aquel frade perdõas por seu amor.
+W:E diss' el: «Madre farey-o  pois end' avedes sabor;
+W:mas torn' a alma no corpo,  e compra ssa profisson.»
+W:
+W: Par Deus, muit' é gran razon...
+W:
+W:E Deus por Santa Maria  este rogo foi fazer,
+W:o frade que era morto  foi-ss' en pees log' erger,
+W:e contou ao convento  como ss' ouver' a perder,
+W:senon por Santa Maria,  a que Deus lo deu en don.
+W:
+W: Par Deus, muit' é gran razon...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
