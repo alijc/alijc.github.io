@@ -32,7 +32,7 @@ F:https://en.wiktionary.org/wiki/Category:Portuguese_irregular_verbs
 B:Cantigas de Santa Maria
 Z:Ali Corbin <ali.corbin:gmail.com>
 
-
+%portrait
 X: 0
 T: Prolog:  Porque trobar
 B:Cantigas de Santa Maria
@@ -59,6 +59,62 @@ w:per que en-  ten-da  e    sá-* bia di-  zer
 w:o que  en- tend' e  de   di-zer lle   praz,***
  (AG)  F  (EF)| G2  A  F2|(G/A/B)  G  (AF)| F3 z2 |
 w:ca* ben tro-* bar as-si  s'á** de  ffa-*  zer.
+%
+%%newpage
+%
+W:Este é o prologo das cantigas de Santa Maria,
+W:ementando as cousas que á mester eno trobar
+W:
+W:Por que trobar é cousa en que jaz
+W:entendimento, poren queno faz
+W:á-o d'aver e de razon assaz,
+W:per que entenda e sábia dizer
+W:o que entend' e de dizer lle praz,
+W:ca ben trobar assi s'á de ffazer.
+W:
+W:E maçar eu estas duas non ey
+W:com' eu querria, pero provarei
+W:a mostrar ende un pouco que sei,
+W:confiand' en Deus, ond' o saber ven;
+W:ca per ele tenno que poderei
+W:mostrar do que quero algunna ren.
+W:
+W:E o que quero é dizer loor
+W:da Virgen, Madre de Nostro Sennor,
+W:Santa Maria, que ést' a mellor
+W:cousa que el fez; e por aquest' eu
+W:quero seer oy mais seu trobador,
+W:e rogo-lle que me queira por seu
+W:
+W:Trobador e que queira meu trobar
+W:reçeber, ca per el quer' eu mostrar
+W:dos miragres que ela fez; e ar
+W:querrei-me leixar de trobar des i
+W:por outra dona, e cuid' a cobrar
+W:per esta quant' enas outras perdi.
+W:
+W:Ca o amor desta Senor é tal,
+W:que queno á sempre per i mais val;
+W:e poi-lo gaannad' á, non lle fal,
+W:senon se é per sa grand' ocajon,
+W:querendo leixar ben e fazer mal,
+W:ca per esto o perd' e per al non.
+W:
+W:Poren dela non me quer' eu partir,
+W:ca sei de pran que, se a ben servir,
+W:que non poderei en seu ben falir
+W:de o aver, ca nunca y faliu
+W:quen llo soube con merçee pedir,
+W:ca tal rogo sempr' ela ben oyu.
+W: 
+W:Onde lle rogo, se ela quiser,
+W:que lle praza do que dela disser
+W:en mes cantares e, se ll'aprouguer,
+W:que me dé gualardon com' ela dá
+W:aos que ama; e queno souber,
+W:por ela mais de grado trobará.
+
+
 
 X: 1
 T: Cantiga 1: Des oge mais quer' eu trobar
