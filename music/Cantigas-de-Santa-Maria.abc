@@ -115,7 +115,7 @@ W:aos que ama; e queno souber,
 W:por ela mais de grado trobará.
 
 
-
+%portrait
 X: 1
 T: Cantiga 1: Des oge mais quer' eu trobar
 N: in 4, with dotted rhythms
@@ -157,16 +157,16 @@ w:     per mort'  out-*  ra*  ve-*  ga-*** da.
 %%leftmargin  5cm
 %%rightmargin 5cm
 %%begintext
-
+%%
 Esta é a primeira cantiga de loor de Santa Maria,
 ementando os VII goyos que ouve de seu fillo.
-
+%%
 %%endtext
 %%multicol new
 %%rightmargin 11.5cm
 %%vskip 3cm
 %%begintext
-
+%%
 Des oge mais quer' eu trobar
      pola Sennor onrrada,
 en que Deus quis carne fillar
@@ -177,7 +177,7 @@ no seu reyno e nos erdar
      de vida perlongada,
 sen avermos pois a passar
      per mort' outra vegada.
- 
+%% 
 E poren quero começar
      como foy saudada
 de Gabriel, u lle chamar
@@ -188,7 +188,7 @@ do que o mund' á de salvar
      e demais ta cunnada
 Elisabeth, que foi dultar,
      é end' envergonnada».
- 
+%% 
 E demais quero-ll' enmentar
      como chegou canssada
 a Belleem e foy pousar
@@ -199,7 +199,7 @@ Jesu-Crist', e foy-o deytar,
      u deytan a cevada,
 no presev', e apousentar
      ontre bestias d'arada.
- 
+%% 
 E non ar quero obridar
      com' angeos cantada
 loor a Deus foron cantar
@@ -210,13 +210,13 @@ aos tres Reis en Ultramar
      por que sen demorada
 veeron sa offerta dar
      estranna e preçada.
-
+%%
 %%endtext
 %%multicol new
 %%leftmargin 11cm
 %%vskip 3cm
 %%begintext
- 
+%% 
 Outra razon quero contar
      que ll' ouve pois contada
 a Madalena: com' estar
@@ -227,7 +227,7 @@ do angeo, que lle falar
      moller, sey confortada,
 ca Jesu, que vees buscar,
      resurgiu madurgada.»
- 
+%% 
 E ar quero-vos demostrar
      gran lediç' aficada
 que ouv' ela, u vyu alçar
@@ -238,7 +238,7 @@ foi, viron angeos andar
      muy desaconsellada,
 dizend': Assi verrá juygar,
      est' é cousa provada.»
- 
+%% 
 Nen quero de dizer leixar
      de como foy chegada
 a graça que Deus enviar
@@ -249,7 +249,7 @@ foy a companna que juntar
      de Spirit' avondada,
 por que souberon preegar
      logo sen alongada.
- 
+%% 
 E, par Deus, non é de calar
      como foy corõada,
 quando seu Fillo a levar
@@ -260,7 +260,6 @@ con el no ceo, par a par,
      Filla, Madr' e Criada;
 e poren nos dev' ajudar,
      ca x' é noss' avogada.
-
 %%endtext
 %%multicol end
 
