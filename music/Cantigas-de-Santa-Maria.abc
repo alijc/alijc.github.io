@@ -543,6 +543,7 @@ Mais nos faz Santa Maria...
 %%multicol end
 
 
+%portrait
 X: 4
 T: Cantiga 4: A Madre do que livrou 
 N: 
@@ -578,15 +579,15 @@ w:na  es-*col'; e  e- ra greu  a seu  pa- dre**   Sa-*  mu-*el.
 %%rightmargin 5cm
 %%vskip 1cm
 %%begintext
-
+%%
 Esta é como Santa Maria guardou ao fillo do judeu
 que non ardesse, que seu padre deitara no forno.
-
+%%
 A Madre do que livrou
 dos leões Daniel,
 essa do fogo guardou
 un menyno d'Irrael.
- 
+%% 
 En Beorges un judeu
 ouve que fazer sabia
 vidro, e un fillo seu
@@ -595,9 +596,9 @@ per quant' end' aprendi eu)
 ontr' os crischãos liya
 na escol'; e era greu
 a seu padre Samuel.
-
+%%
 A Madre do que livrou...
-
+%%
 %%endtext
 %%multicol end
 %%newpage
@@ -612,9 +613,9 @@ e por esto tal amor
 con esses moços collia,
 con que era leedor,
 que ya en seu tropel.
-
+%%
 A Madre do que livrou...
- 
+%%
 Poren vos quero contar
 o que ll' aveio un dia
 de Pascoa, que foi entrar
@@ -623,9 +624,9 @@ o abad' ant' o altar,
 e aos moços dand' ya
 ostias de comungar
 e vy' en un calez bel.
-
+%%
 A Madre do que livrou...
- 
+%% 
 O judeucynho prazer
 ouve, ca lle parecia
 que ostias a comer
@@ -634,9 +635,9 @@ que viia resprandecer
 eno altar u siia
 e enos braços teer
 seu Fillo Hemanuel.
-
+%%
 A Madre do que livrou...
- 
+%%
 Quand' o moç' esta vison
 vyu, tan muito lle prazia,
 que por fillar seu quinnon
@@ -645,9 +646,9 @@ Santa Maria enton
 a mão lle porregia,
 e deu-lle tal comunyon
 que foi mais doce ca mel.
-
+%%
 A Madre do que livrou...
- 
+%%
 Poi-la comunyon fillou,
 logo dali se partia
 e en cas seu padr' entrou
@@ -656,7 +657,7 @@ e ele lle preguntou
 que fezera. El dizia:
 «A dona me comungou
 que vi so o chapitel.»
-
+%%
 A Madre do que livrou...
 %%endtext
 %%multicol new
@@ -670,9 +671,9 @@ e u o forn' arder vyu
 meté-o dentr' e choya
 o forn', e mui mal falyu
 como traedor cruel.
-
+%%
 A Madre do que livrou...
- 
+%% 
 Rachel, sa madre, que ben
 grand' a seu fillo queria,
 cuidando sen outra ren
@@ -681,9 +682,9 @@ deu grandes vozes poren
 e ena rua saya;
 e aque a gente ven
 ao doo de Rachel.
-
+%%
 A Madre do que livrou...
- 
+%%
 Pois souberon sen mentir
 o por que ela carpia,
 foron log' o forn' abrir
@@ -692,9 +693,9 @@ que a Virgen quis guarir
 como guardou Anania
 Deus, seu fill', e sen falir
 Azari' e Misahel.
-
+%%
 A Madre do que livrou...
- 
+%% 
 O moço logo dali
 sacaron con alegria
 e preguntaron-ll' assi
@@ -703,9 +704,9 @@ Diss' el: «Non, ca eu cobri
 o que a dona cobria
 que sobelo altar vi
 con seu Fillo, bon donzel.»
-
+%%
 A Madre do que livrou...
- 
+%% 
 Por este miragr' atal
 log' a judea criya,
 e o menyno sen al
@@ -714,7 +715,7 @@ e o padre, que o mal
 fezera per sa folia,
 deron-ll' enton morte qual
 quis dar a seu fill' Abel.
-
+%%
 A Madre do que livrou...
 %%endtext
 %%multicol end
