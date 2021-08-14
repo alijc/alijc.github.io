@@ -1623,54 +1623,217 @@ w:Se-nnor en  tol-* ler* coi-tas e do-o-res.*
 %%leftmargin  4cm
 %%rightmargin 4cm
 %%begintext
-
-
+%%
+%%
 Esta é de loor de Santa Maria, com' é fremosa e bõa e á gran poder.
-
+%%
 %%endtext
 %%multicol end
 %%multicol start
 %%leftmargin  6cm
 %%rightmargin 6cm
 %%begintext
- 
+%% 
 Rosa das rosas e Fror das frores,
 Dona das donas, Sennor das sennores.
-
+%%
 %%endtext
 %%multicol end
 %%multicol start
 %%rightmargin 11.5cm
 %%begintext
- 
+%%
 Rosa de beldad' e de parecer
 e Fror d'alegria e de prazer,
 Dona en mui piadosa seer,
 Sennor en toller coitas e doores.
   Rosas das rosas...
- 
+%% 
 Atal Sennor dev' ome muit' amar,
 que de todo mal o pode guardar;
 e pode-ll' os peccados perdõar,
 que faz no mundo per maos sabores.
   Rosas das rosas...
-
+%%
 %%endtext
 %%multicol new
 %%leftmargin 11cm
 %%begintext
- 
+%% 
 Devemo-la muit' amar e servir,
 ca punna de nos guardar de falir;
 des i dos erros nos faz repentir,
 que nos fazemos come pecadores.
   Rosas das rosas...
-
+%%
 Esta dona que tenno por Sennor
 e de que quero seer trobador,
 se eu per ren poss' aver seu amor,
 dou ao demo os outros amores.
   Rosas das rosas...
+%%endtext
+%%multicol end
+
+%%landscape 0
+X: 11
+T: Cantiga 11: Macar ome per folia
+N: 
+B:Cantigas de Santa Maria
+F:
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4 
+L: 1/4
+Q: 1/4=140
+K: C 
+V:1
+%
+% Squeeze things together a bit, to get the whole tune to fit on one page.
+%%staffsep    45.0pt
+%
+%Staff 1
+%%MIDI program 74
+%
+  C (DE) | F G2 | A (G/A/B/A/)| G (F/E/D)|
+w:Ma-car*  o-me  per fo-***    li- a**
+   E (G>F)|(E/D/) (C>D)| B,3 |  D  (D>E)| C (D/E/F/E/)| D3 |
+w: a- gin-* na*    ca-*  er    pod' en*  pe- ca-***     do,
+  D (DE) | F  G2 | A (G/A/B/A/)| G (F/E/D)|
+w:do ben* de San- ta  Ma-***     ri-a**
+   E (G>F)|(E/D/)(C>D)|B,3| D (DE)|  C (DB,)|C3||
+w:non dev'* a*    se-* er  de- sa-*spe- ra-* do.
+%
+ (A/B/) c2|(B/A/) (G<F)|  G A2|B  G2|
+w:Po-* ren  di-*   rei* to-da-vi-a
+ (A/B/) c2|(B/A/) (G<F)|G A2|B G2|
+w:com'* en  hu-*   ma*  a-ba-di-a
+  E (EF) | G   G2 |A (G/A/B/A/)| G (F/E/D)|
+w:un te-* sou-rei- ro a-***      vi-a,**
+   E (G>F)|(E/D/) (C>D)|B,3 |  D (DE)|  C (D/E/F/E/)|D3|
+w:mon-ge*   que*   tra-*ger   con mal* re- ca-***    do
+  D (DE)| F  G2| A (G/A/B/A/)|G (F/E/D)|
+w:á ssa* fa-zen-da  sa-***    bi-a,**
+   E (G>F)|(E/D/) (C>D)|B,3|  D (DE)|  C (DB,)|C3||
+w:por á*    Deus*  per-* der,  o  mal-*fa- da-* do.
+%
+%%newpage
+%
+%%multicol start
+%%leftmargin  4cm
+%%rightmargin 4cm
+%%begintext
+%%
+Esta é de como Santa Maria tolleu a alma do monge
+que ss' affogara no rio ao demo, e feze-o ressocitar.
+%%
+%%endtext
+%%multicol end
+%%multicol start
+%%rightmargin 11.5cm
+%%begintext
+%%
+Macar ome per folia
+   aginna caer   pod' en pecado,
+do ben de Santa Maria
+   non dev' a seer   desasperado.
+%% 
+Poren direi todavia
+com' en huma abadia
+un tesoureiro avia,
+   monge que trager   con mal recado
+á ssa fazenda sabia,
+   por á Deus perder,   o malfadado.
+%%
+Macar ome per folia...
+%% 
+Sen muito mal que fazia,
+cada noyt' en drudaria
+a huma sa druda ya
+   con ela teer   seu gasallado;
+pero ant' «Ave Maria»
+   sempr' ya dizer   de mui bon grado.
+%%
+Macar ome per folia...
+%% 
+Quand' esto fazer queria,
+nunca os sinos tangia,
+e log' as portas abria
+   por ir a fazer   o desguisado;
+mas no ryo que soya
+   passar foi morrer   dentr' afogado.
+%%
+Macar ome per folia...
+%% 
+E u ll' a alma saya,
+log' o demo a prendia
+e con muy grand' alegria
+   foi pola põer   no fog' irado;
+mas d' angeos conpania
+   pola socorrer   veo privado.
+%%
+Macar ome per folia...
+%% 
+Gran refferta y crecia,
+ca o demo lles dizia:
+«Ide daqui vossa via,
+   que dest' alm' aver   é juigado,
+ca fez obras noit' e dia
+   senpr' a meu prazer   e meu mandado.»
+%%
+Macar ome per folia...
+%%endtext
+%%multicol new
+%%leftmargin 11cm
+%%begintext
+%% 
+Quando est' a compann' oya
+dos angeos, sse partia
+dali triste, pois viya
+   o demo seer   ben rezõado;
+mas a Virgen que nos guía
+   non quis falecer   a seu chamado.
+%%
+Macar ome per folia...
+%% 
+E pois chegou, lles movía
+ssa razon con preitesia
+que per ali lles faria
+   a alma toller   do frad' errado,
+dizendo-lles: «Ousadia
+   foi d'irdes tanger   meu comendado.»
+%%
+Macar ome per folia...
+%% 
+O demo, quand' entendía
+esto, con pavor fugia;
+mas un angeo corria
+   a alma prender,   led' afícado,
+e no corpo a metia
+   e fez-lo erger   ressucitado.
+%%
+Macar ome per folia...
+%%
+O convento atendia
+o syno a que ss' ergia,
+ca des peça non durmia;
+   poren sen lezer   ao sagrado
+foron, e à agua ffria,
+   u viron jazer   o mui culpado.
+%%
+Macar ome per folia...
+%% 
+Tod' aquela crerezia
+dos monges logo liia
+sobr' ele a ledania,
+   polo defender   do denodado
+demo; mas a Deus prazia,
+   e logo viver   fez o passado.
+%%
+Macar ome per folia
+   aginna caer   pod' en pecado,
+do ben de Santa Maria
+   non dev' a seer   desasperado.
 %%endtext
 %%multicol end
 
