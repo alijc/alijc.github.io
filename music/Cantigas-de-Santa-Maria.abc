@@ -2363,6 +2363,161 @@ W:Todo-los Santos que son no Ceo...
 
 
 %%landscape 0
+X: 16
+T: Cantiga 16 : Quen dona fremosa
+N: 12 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/084small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob011small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob012small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=150
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+ (A>G)   F| G (A>B)|A2   A| A (A>B)|d2 (d/c/)|(B/A/) (A/B/c/B/)|G3|
+w:Quen* do-na  fre-*mo-  sa e  bõ-* a   qui-*  ser*   a-***     mar,
+ (A>G) F| G  (A>B)|A2 A|(B/A/) (GF)| G (A>B)|(A/G/) (A/G/F)|G3 ||
+w:am'* a Gro- ri-* o- sa e*     non* po-de-*  rá*    er-**  rar.
+%
+ (A>G) F | G (A>B)|A2  A|(B/A/) (GF)| G (A>B)|(A/G/) (A/G/F)|G3 |
+w:E*  des-ta  ra-*zon vos quer'* eu*  a- go-*  ra*    di-**  zer
+ (A>G)  F|G  (A>B)|A2  A |(B/A/) (GF)| G (A>B) |(A/G/) (A/G/F)|G3 |
+w:fre-*mo-so  mi-* ra-gre, que*   foi* en Fran-* ça*    fa-**  zer
+ (A>G) F| G  (A>B)|A2    A | A  (A>B)|d2 (d/c/)|(B/A/) (A/B/c/B/)|G3|
+w:a*  Ma-dre  de* Deus, que non  qui-*so  lei-*  xar*   per-***   der
+ (A>G) F| G (A>B)|A2   A|(B/A/) (GF) | G (A>B)|(A/G/) (A/G/F)|G3 |
+w:un* na-mo- ra-* do  que ss'ou-*ver'* a  de-*  sa-*   spe-** rar.
+%
+%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+Esta é como Santa Maria converteu un cavaleiro namorado,
+que ss' ouver' a desasperar porque non podia aver sa amiga.
+%%
+%%endtext
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+Quen dona fremosa e bõa quiser amar,
+am' a Groriosa e non poderá errar.
+%%
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+E desta razon vos quer' eu agora dizer
+fremoso miragre, que foi en França fazer
+a Madre de Deus, que non quiso leixar perder
+un namorado que ss' ouver' a desasperar.
+  Quen dona fremosa e bõa quiser amar...
+%% 
+Este namorado foi cavaleiro de gran
+prez d'armas, e mui fremos' e apost' e muy fran;
+mas tal amor ouv' a huma dona, que de pran
+cuidou a morrer por ela ou sandeu tornar.
+  Quen dona fremosa e bõa quiser amar...
+%% 
+E pola aver fazia o que vos direi:
+non leixava guerra nen lide nen bon tornei,
+u se non provasse tan ben, que conde nen rey
+polo que fazia o non ouvess' a preçar.
+  Quen dona fremosa e bõa quiser amar...
+%% 
+E, con tod' aquesto, dava seu aver tan ben
+e tan francamente, que lle non ficava ren;
+mas quando dizia aa dona que o sen
+perdia por ela, non llo queri' ascoitar.
+  Quen dona fremosa e bõa quiser amar...
+%% 
+Macar o cavaleir' assi despreçar se viu
+da que el amava, e seu desamor sentiu,
+pero, con tod' esto, o coraçon non partiu
+de querer seu ben e de o mais d'al cobiiçar.
+  Quen dona fremosa e bõa quiser amar...
+%% 
+Mas con coita grande que tinia no coraçon,
+com' ome fora de seu siso, se foi enton
+a un sant' abade e disse-ll' en confisson
+que a Deus rogasse que lla fezesse gãar.
+  Quen dona fremosa e bõa quiser amar...
+%% 
+O sant' abade, que o cavaleiro sandeu
+vyu con amores, atan toste ss' apercebeu
+que pelo dem' era; e poren se trameteu
+de buscar carreira pera o ende tirar.
+  Quen dona fremosa e bõa quiser amar...
+%% 
+E poren lle disse: «Amigo, creed' a mi,
+se esta dona vos queredes, fazed' assi:
+a Santa Maria a pedide des aqui,
+que é poderosa e vo-la poderá dar.
+  Quen dona fremosa e bõa quiser amar...
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+E a maneyra en que lla devedes pedir
+é que duzentas vezes digades, sen mentir,
+«Ave Maria, d'oj' a un ano, sen falir,
+cada dia, en geollos ant' o seu altar.»
+  Quen dona fremosa e bõa quiser amar...
+%% 
+O cavaleiro fez todo quanto ll' el mandou
+e tod' ess' ano sas Aves-Marias rezou,
+senon poucos dias que na cima en leixou
+con coita das gentes que yan con el falar.
+  Quen dona fremosa e bõa quiser amar...
+%% 
+Mas o cavaleiro tant' avia gran sabor
+de comprir o ano, cuidand' aver sa sennor,
+que en un' ermida da Madre do Salvador
+foi conprir aquelo que fora ant' obridar.
+  Quen dona fremosa e bõa quiser amar...
+%% 
+E u el estava en aqueste preit' atal,
+mostrand' a Santa Maria ssa coit' e seu mal,
+pareceu-lle log' a Reinna esperital,
+tan fremos' e crara que a non pod' el catar;
+  Quen dona fremosa e bõa quiser amar...
+%% 
+E disse-ll' assi: «Toll' as mãos dante ta faz
+e para-mi mentes, ca eu non tenno anfaz;
+de mi e da outra dona, a que te mais praz
+filla qual quiseres, segundo teu semellar.»
+  Quen dona fremosa e bõa quiser amar...
+%% 
+O cavaleiro disse: «Sennor, Madre de Deus,
+tu es a mais fremosa cousa que estes meus
+ollos nunca viron; poren seja eu dos teus
+servos que tu amas, e quer' a outra leixar.»
+  Quen dona fremosa e bõa quiser amar...
+%% 
+E enton lle disse a Sennor do mui bon prez:
+«Se me por amiga queres aver, mais rafez,
+tanto que est' ano rezes por mi outra vez
+quanto pola outra antano fuste rezar.»
+  Quen dona fremosa e bõa quiser amar...
+%% 
+Poi-la Groriosa o cavaleiro por seu
+fillou, des ali rezou el, e non lle foi greu,
+quanto lle mandara ela; e, com' oý eu,
+na cima do ano foy-o consigo levar.
+  Quen dona fremosa e bõa quiser amar...
+%%endtext
+%%multicol end
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
