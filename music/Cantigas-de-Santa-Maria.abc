@@ -263,6 +263,8 @@ e poren nos dev' ajudar,
 %%endtext
 %%multicol end
 
+
+%portrait
 X: 2
 T: Cantiga 2: Muito devemos varões
 N: 
@@ -312,22 +314,22 @@ w:en a  lo-*  ar*   noyt' e*   di-a.
 %%leftmargin  5cm
 %%rightmargin 5cm
 %%begintext
-
+%%
 Esta é de como pareceu Santa Maria en Toledo 
 a Sant' Alifonsso e deu-ll'huma alva
 que trouxe de parayso, con que dissesse missa.
- 
+%%
 %%endtext
 %%multicol new
 %%rightmargin 11.5cm
 %%vskip 3cm
 %%begintext
-
+%%
 Muito devemos, varões,
 loar a Santa Maria,
 que sas graças e seus dões
 dá a quen por ela fia.
-
+%%
 Sen muita de bõa manna,
 que deu a un seu prelado,
 que primado foi d'Espanna
@@ -337,9 +339,9 @@ que trouxe de Parayso,
 ben feyta a ssa mesura,
 porque metera seu siso
 en a loar noyt' e dia.
-
+%%
 Poren devemos, varões...
-
+%%
 Ben enpregou el seus ditos,
 com' achamos en verdade,
 e os seus bõos escritos
@@ -349,9 +351,9 @@ per que sa loor tornada
 foi en Espanna de quanta
 a end' avian deytada
 judeus e a eregia.
-
+%%
 Poren devemos, varões...
-
+%%
 Mayor miragre do mundo
 ll' ant' esta Sennor mostrara,
 u con Rei Recessiundo
@@ -361,20 +363,20 @@ Santa Locay', e en quanto
 ll' el Rey tallou da mortalla,
 disse-l': «Ay, Affonsso santo,
 per ti viv' a Sennor mya.»
-
+%%
 Poren devemos, varões...
-
+%%
 %%endtext
 %%multicol new
 %%leftmargin 11cm
 %%vskip 3cm
 %%begintext
-
-
-
-
-
-
+%%
+%%
+%%
+%%
+%%
+%%
 Porque o a Groriosa
 achou muy fort' e sen medo
 en loar sa preciosa
@@ -384,9 +386,9 @@ que nas sas festas vestisse,
 a Virgen santa e salva
 e, en dando-lla, lle disse:
 «Meu Fillo esto ch' envia.»
-
+%%
 Poren devemos, varões...
-
+%%
 Pois ll' este don tan estrãyo
 ouve dad' e tan fremoso,
 disse: «Par Deus, muit eãyo
@@ -396,9 +398,9 @@ se tu non es, s' assentasse,
 nen que per nulla maneira
 est' alva vestir provasse,
 ca Deus del se vingaria.
-
+%%
 Poren devemos, varões...
-
+%%
 Pois do mundo foi partido
 este confessor de Cristo,
 Don Siagrio falido
@@ -408,10 +410,8 @@ ca, porque foi atrevudo
 en se vestir aquel pano,
 foi logo mort' e perdudo,
 com' a Virgen dit' avia.
-
+%%
 Poren devemos, varões...
-
-
 %%endtext
 %%multicol end
 
