@@ -115,7 +115,7 @@ W:aos que ama; e queno souber,
 W:por ela mais de grado trobará.
 
 
-%portrait
+%%portrait
 X: 1
 T: Cantiga 1: Des oge mais quer' eu trobar
 N: in 4, with dotted rhythms
@@ -264,7 +264,7 @@ e poren nos dev' ajudar,
 %%multicol end
 
 
-%portrait
+%%portrait
 X: 2
 T: Cantiga 2: Muito devemos varões
 N: 
@@ -416,7 +416,7 @@ Poren devemos, varões...
 %%multicol end
 
 
-%portrait
+%%portrait
 X: 3
 T: Cantiga 3: Mais nos faz Santa Maria
 B:Cantigas de Santa Maria
@@ -543,7 +543,7 @@ Mais nos faz Santa Maria...
 %%multicol end
 
 
-%portrait
+%%portrait
 X: 4
 T: Cantiga 4: A Madre do que livrou 
 N: 
@@ -721,6 +721,7 @@ A Madre do que livrou...
 %%multicol end
 
 
+%%portrait
 X: 5
 T: Cantiga 5: Quenas coitas deste mundo
 N:#19 in To Codex
@@ -997,6 +998,8 @@ W:     u se metesse por mays o mund' avorrecer.
 W:
 W:     Quenas coytas deste mundo ben quiser soffrer...
 
+
+%%portrait
 X: 6
 T: Cantiga 6: A que do bon rey Davi
 N: (#5 in To Codex)
@@ -1155,6 +1158,8 @@ W:     dizendo: «Quen faz tal feito, | desta guisa o rende.»
 W:
 W: A que do bon rey Davi...
 
+
+%%portrait
 X: 7
 T: Cantiga 7: Santa Maria amar
 N: (#6 in To Codex)
@@ -1256,9 +1261,9 @@ W: por salva poss' esta dar,
 W: que non sei que ll'aponna.»
 W: 
 W:Santa Maria amar...
+
+
 %%portrait
-
-
 X: 8
 T: Cantiga 8 : A Virgen Santa Maria
 N: 
