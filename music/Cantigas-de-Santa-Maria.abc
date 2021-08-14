@@ -1674,14 +1674,14 @@ dou ao demo os outros amores.
 %%endtext
 %%multicol end
 
+
 %%landscape 0
 X: 11
 T: Cantiga 11: Macar ome per folia
 N: 
 B:Cantigas de Santa Maria
-F:
-F:
-F:
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/075small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob011small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
 M: 3/4 
 L: 1/4
@@ -1836,6 +1836,15 @@ do ben de Santa Maria
    non dev' a seer   desasperado.
 %%endtext
 %%multicol end
+
+
+%%landscape 0
+B:Cantigas de Santa Maria
+F:
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+
 
 %%landscape 0
 B:Cantigas de Santa Maria
