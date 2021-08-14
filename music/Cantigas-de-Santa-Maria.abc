@@ -1387,12 +1387,12 @@ w: co-mo fez di-*ga-mos hum' al-ber-ga- ri-* a,  u fil-lou mo- ran-*ça.
 %%begintext center
 %%
 %%
-Esta é como Santa Maria fez en Sardonay, preto de domas, que a ssa omagen, 
-que era pintada en huma tavoa, sse fezesse carne e manass' oyo.
+%%Esta é como Santa Maria fez en Sardonay, preto de domas, que a ssa omagen, 
+%%que era pintada en huma tavoa, sse fezesse carne e manass' oyo.
 %%
 %%
- Por que nos ajamos | senpre, noit' e dia, | dela renenbrança,
- en Domas achamos   | que Santa Maria      | fez gran demostrança.
+%% Por que nos ajamos | senpre, noit' e dia, | dela renenbrança,
+%% en Domas achamos   | que Santa Maria      | fez gran demostrança.
 %%endtext
 W:En esta cidade, | que vos ei ja dita,
 W:ouv' y huma dona | de mui santa vida,
@@ -2099,6 +2099,267 @@ W:e contou ao convento  como ss' ouver' a perder,
 W:senon por Santa Maria,  a que Deus lo deu en don.
 W:
 W: Par Deus, muit' é gran razon...
+
+
+%%landscape 0
+X: 15
+T: Cantiga 15: Todo-los Santos que son no Ceo
+N: 33 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/081small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob032small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  F2 G | A2  B | A2 (G/F/)|G  A2|D C2|F2  G | A2  B |A2 (G/F/)| G (A>B)|A3 |
+w:To-do-los San-tos  que* son no Ce-o de ser-vir mui-to  an*  gran sa-* bor
+   F2  G|A2  B|A2 (G/F/)|G   A2 | D C2 |F2  G|A2  B | A2 (G/F/)| G  A2 | D3 ||
+w:San-ta Ma-ri-a    a*  Vir-gen, Ma-dre de Je-so Cri-sto, Nos-* tro Sen-nor.
+%
+  d2 c| d3| c A2|c2   A | B2  A| G3 |G2 A|(B/c/) A  (G/F/)|(G/F/) G  A| A3 |
+w:E de lle se-e- ren ben man-da-dos, es-to de-*reit' e*     ra-* zon a-duz,
+  d2    c |d3 |c A2 |c2  A |B2  A|G3 |G2 A|(B/c/)  A  (G/F/)|(G/F/)  G   A| D3 |
+w:pois que por e-les en-cra-ve-la-dos ou-ve seu* Fill' os*    nem-*bros na cruz;
+%
+  F2  G   |A2  B|A2 (G/F/)|G   A2| D C2 | F2  G|A2  B|A2 (G/F/)|G (A>B)| A3 |
+w:de-mais, per e-la  San-*tos cha-ma-dos son, e de to-dos  é*  lum' e*  luz;
+  F2  G   |A2  B | A2 (G/F/)|  G A2| D  C2 |F2  G|A2    B |A2 (G/F/) | G  A2 | D3 ||
+w:po-rend' es-tan sem-pr'~ap-*pa-re-lla-dos de fa-zer quan-to ll'~en* pra-zer for.
+%
+%%begintext center
+%%
+%%Esta é como Santa Maria defendeu a cidade de Cesaira do emperador Juyão.
+%%
+%%
+%%Todo-los Santos que son no Ceo | de servir muito an gran sabor
+%%Santa Maria a Virgen, Madre    | de Jeso-Cristo, Nostro Sennor.
+%%
+%%endtext
+W: E de lle seeren ben mandados,
+W: esto dereit' e razon aduz,
+W: pois que por eles encravelados
+W: ouve seu Fill' os nembros na cruz;
+W: demais, per ela Santos chamados
+W: son, e de todos é lum' e luz;
+W: porend' estan sempr' apparellados
+W: de fazer quanto ll' en prazer for.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Ond' en Cesaira a de Suria
+W: fez un miragre, á gran sazon,
+W: por San Basillo Santa Maria
+W: sobre Juyão falss' e felon,
+W: que os crischãos matar queria,
+W: ca o demo no seu coraçon
+W: metera y tan grand' erigia,
+W: que per ren non podia mayor.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Este Juyão avia guerra
+W: con perssiãos, e foi sacar
+W: oste sobr' eles, e pela terra
+W: de Cesaira ouve de passar;
+W: e San Basill' a pe duma serra
+W: sayu a el por xe ll' omillar,
+W: e diss' assi: «Aquel que non erra,
+W: que Deus é, te salv', Enperador.»
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Juyão diss' ao ome santo:
+W: «Sabedor es, e muito me praz;
+W: mas quer' agora que sábias tanto
+W: que mui mais sei eu ca ti assaz,
+W: e de tod' esto eu ben m' avanto
+W: que sei o que en natura jaz.»
+W: Basilo diz: «Será est' enquanto
+W: tu connoceres teu Criador.»
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: O sant' ome tirou de seu seo
+W: pan d' orjo, que lle foi offrecer
+W: dizend': «Esto nos dando alleo
+W: por Deus, con que possamos viver.
+W: Pois ta pessõa nobr' aqui veo,
+W: filla-o, se te jaz en prazer.»
+W: Juyão disse: «Den-ti do feo,
+W: pois me cevada dás por amor.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: E mais ti digo que, sse conqueiro
+W: terra de Perssia, quero viir
+W: per aqui log' e teu mõesteiro
+W: e ta cidade ti destroyr;
+W: e feo comerás por fazfeiro,
+W: ou te farey de fame fiir;
+W: e se t' aqueste pan non refeiro,
+W: terrei-me por d'outr' ome peyor.»
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Pois San Basill' o feo fillado
+W: ouve, tornando-sse diss' atal:
+W: «Juyão, deste feo que dado
+W: mi ás que comesse feziste mal;
+W: e est' orgullo que mi ás mostrado,
+W: Deus tio demande, que pod' e val;
+W: e quant' eu ei tenn' encomendado
+W: da Virgen, Madre do Salvador.»
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Pois se tornou aos da cidade,
+W: fez-los juntar, chorando dos seus
+W: ollos, contand' a deslealdade
+W: de Juyão, e disse: «Por Deus
+W: de quen é Madre de piadade
+W: Santa Mari'(a), ay amigos meus,
+W: roguemos-lle pola sa bondade
+W: que nos guarde daquel traedor.»
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Demais fez-lles gejuar tres dias
+W: e levar gran marteir' e afan,
+W: andando per muitas romarias,
+W: bevend' agua, comendo mal pan;
+W: de noite lles fez teer vigias
+W: na eigreja da do bon talan,
+W: Santa Maria, que désse vias
+W: per que saissen daquel pavor.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Poi-lo sant' om' aquest' ouve feito,
+W: ben ant' o altar adormeceu
+W: da Santa Virgen, lass' e maltreito;
+W: e ela logo ll' apareceu
+W: con gran poder de Santos afeito
+W: que a terra toda 'sclareceu,
+W: e dizendo: «Pois que ei congeyto,
+W: vingar-m-ei daquele malfeitor.»
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Pois esto disse, chamar mandava
+W: San Mercuiro e disse-ll' assi:
+W: «Juyão falsso, que rezõava
+W: mal a meu Fill' e peyor a mi,
+W: por quanto mal nos ele buscava
+W: dá-nos dereyto del ben aly
+W: du vay ontr' os seus, en que fiava,
+W: e sei de nos ambos vingador.»
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: E mantenente sen demorança
+W: San Mercuiro log' ir-se leixou
+W: en seu cavalo branqu', e sa lança
+W: muito brandind'; e toste chegou
+W: a Juyão, e deu-lle na pança
+W: que en terra morto o deitou
+W: ontr' os seus todos; e tal vingança
+W: fillou del come bon lidador.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Tod' aquesto que vos ora dito
+W: ei, San Basil' en sa vison viu;
+W: e Santa Maria deu-ll' escrito
+W: un lyvro, e ele o abryu,
+W: e quant' y viu no coraçon fito
+W: teve ben, e logo ss' espedyu
+W: dela. E pois da vison foi quito,
+W: ficou en con med' e con tremor.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Depos aquest' un seu conpanneiro
+W: San Basillo logo chamou,
+W: e catar foi logo de primeiro
+W: u as sas armas ante leixou
+W: de San Mercuiro, o cavaleiro
+W: de Jeso-Crist', e non as achou;
+W: e teve que era verdadeyro
+W: seu sonn', e deu a Deus en loor.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Essa ora logo sen tardada
+W: San Basillo, com' escrit' achey,
+W: u a gente estav' assuada
+W: foi-lles dizer como vos direi:
+W: «Gran vengança nos á ora dada
+W: San Mercuiro daquel falsso rei,
+W: ca o matou duma gran lançada,
+W: que nunca atal deu justador.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: E se daquesto, pela ventura,
+W: que digo non me creedes en:
+W: eu fui catar a ssa sepultura
+W: e das sas armas non vi y ren.
+W: Mas tornemos y log' a cordura,
+W: por Deus que o mund' en poder ten,
+W: ca este feit' é de tal natura
+W: que dev' om' en seer sabedor.»
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Logo tan toste foron correndo
+W: e as armas todas essa vez
+W: acharon, e a lança jazendo,
+W: con que San Mercuir' o colbe fez,
+W: sangoent'; e per y entendendo
+W: foron que a Virgen mui de prez
+W: fez fazer esto en defendendo
+W: os seus de Juyão chufador.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: Eles assi a lança catando,
+W: que creer podian muit' adur,
+W: maestre Libano foi chegando,
+W: filosofo natural de Sur,
+W: que lles este feito foi contando,
+W: ca sse non detevera nenllur
+W: des que leixara a ost' alçando
+W: e Juyão morto sen coor.
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: E contou-lles a mui gran ferida
+W: que ll' un cavaleiro branco deu,
+W: per que alma tan toste partida
+W: lle foi do corp'. «Aquesto vi eu,»
+W: diss' el, «poren quero santa vida
+W: fazer vosqu', e non vos seja greu,
+W: e receber vossa ley comprida,
+W: e serey dela preegador.»
+W:
+W:Todo-los Santos que son no Ceo...
+W:
+W: E log' a agua sobela testa
+W: lle deytaron, e batismo pres;
+W: e começaron log' y a festa
+W: da Virgen, que durou ben un mes;
+W: e cada dia pela gran sesta
+W: vyan da ost' un e dous e tres,
+W: que lles contaron da mort' a gesta
+W: que pres Juyão a gran door.
+W:
+W:Todo-los Santos que son no Ceo...
 
 
 %%landscape 0
