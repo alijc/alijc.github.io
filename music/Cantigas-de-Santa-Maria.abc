@@ -1839,11 +1839,83 @@ do ben de Santa Maria
 
 
 %%landscape 0
+X: 12
+T: Cantiga 12: O que a Santa Maria
+N: 13 in To 
 B:Cantigas de Santa Maria
-F:
-F:
-F:
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/077small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob012small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob013small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
+M: 6/8
+L: 1/8
+Q: 1/8=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+  F (FG) A2 (A/G/)|(F/E/) D2 F2 G|(FED)   E   C2 |
+w:O que* a   San-*  ta*   Ma-ri-a mais** des-praz,
+  F (FG)  A2 (A/G/)|(F/E/) D2 (F>G) (F/E/)| D (EC) D3 ||
+w:é  de* quen a-*    o*    seu Fil-* lo*   pe- sar* faz.
+  F (FG)  A2    A |(c/B/) (AG) A2 (A/G/)| F  (FG)   A2 (A/G/)|(F/E/) (D/C/D) F3 |
+w:E  da-*quest' un gran*   mi-*ra- gre*  vos quer'* eu  o-*    ra*    con-** tar,
+   F (FG) A2  A|(c/B/) (AG)  A2 (A/G/)| F (FG) A2 (A/G/)|(F/E/) (DC)  D3 |
+w:que a*  Re-in- na*    do*  Ce- o*   quis en* To- le-*   do*    mo-*strar
+  F (FG)  A2 (A/G/)|(F/E/) D2 F2   G|(FED)   E C2 |
+w:e- no*  di- a*     que*  a Deus foi co-** rõ-ar,
+   F (FG)  A2 (A/G/)|(F/E/) D2 (F>G) (F/E/)| D (EC)  D3 ||
+w:na  sa* fe-  sta*   que*  no  mes*  d'A-* go- sto* jaz.
+%
+%%newpage
+W:Esta é como Santa Maria se queixou en Toledo eno dia de ssa festa de agosto,
+W:porque os judeus crucifigavan a omagen de cera, a semellança de seu fillo.
+W: 
+W:
+W:     O que a Santa Maria mais despraz,
+W:     é de quen ao seu Fillo pesar faz.
+W: 
+W:E daquest' un gran miragre | vos quer' eu ora contar,
+W:que a Reinna do Ceo | quis en Toledo mostrar
+W:     eno dia que a Deus foi corõar,
+W:     na sa festa que no mes d'Agosto jaz.
+W:
+W:     O que a Santa Maria mais despraz...
+W: 
+W:O Arcebispo aquel dia | a gran missa ben cantou;
+W:e quand' entrou na segreda | e a gente se calou,
+W:     oyron voz de dona, que lles falou
+W:     piadosa e doorida assaz.
+W:
+W:     O que a Santa Maria mais despraz...
+W: 
+W:E a voz, come chorando, | dizia: «Ay Deus, ai Deus,
+W:com' é mui grand' e provada | a perfia dos judeus
+W:     que meu Fillo mataron, seendo seus,
+W:     e aynda non queren con paz.»
+W:
+W:     O que a Santa Maria mais despraz...
+W: 
+W:Poi-la missa foi cantada, | o Arcebispo sayu
+W:da eigreja e a todos | diss' o que da voz oyu;
+W:     e toda a gent' assi lle recodyu:
+W:     «Esto fez o poblo dos judeus malvaz.»
+W:
+W:     O que a Santa Maria mais despraz...
+W: 
+W:Enton todos mui correndo | começaron logo d'ir
+W:dereit' aa judaria, | e acharon, sen mentir,
+W:     omagen de Jeso-Crist', a que ferir
+W:     yan os judeus e cospir-lle na faz.
+W:
+W:     O que a Santa Maria mais despraz...
+W: 
+W:E sen aquest', os judeus | fezeran ua cruz fazer
+W:en que aquela omagen | querian logo põer.
+W:     E por est' ouveron todos de morrer,
+W:     e tornou-xe-lles en doo seu solaz.
+W:
+W:     O que a Santa Maria mais despraz...
 
 
 %%landscape 0
