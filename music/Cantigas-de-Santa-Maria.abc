@@ -32,7 +32,8 @@ F:https://en.wiktionary.org/wiki/Category:Portuguese_irregular_verbs
 B:Cantigas de Santa Maria
 Z:Ali Corbin <ali.corbin:gmail.com>
 
-%portrait
+
+%%landscape 0
 X: 0
 T: Prolog:  Porque trobar
 B:Cantigas de Santa Maria
@@ -115,7 +116,7 @@ W:aos que ama; e queno souber,
 W:por ela mais de grado trobará.
 
 
-%%portrait
+%%landscape 0
 X: 1
 T: Cantiga 1: Des oge mais quer' eu trobar
 N: in 4, with dotted rhythms
@@ -264,7 +265,7 @@ e poren nos dev' ajudar,
 %%multicol end
 
 
-%%portrait
+%%landscape 0
 X: 2
 T: Cantiga 2: Muito devemos varões
 N: 
@@ -416,7 +417,7 @@ Poren devemos, varões...
 %%multicol end
 
 
-%%portrait
+%%landscape 0
 X: 3
 T: Cantiga 3: Mais nos faz Santa Maria
 B:Cantigas de Santa Maria
@@ -543,7 +544,7 @@ Mais nos faz Santa Maria...
 %%multicol end
 
 
-%%portrait
+%%landscape 0
 X: 4
 T: Cantiga 4: A Madre do que livrou 
 N: 
@@ -721,7 +722,7 @@ A Madre do que livrou...
 %%multicol end
 
 
-%%portrait
+%%landscape 0
 X: 5
 T: Cantiga 5: Quenas coitas deste mundo
 N:#19 in To Codex
@@ -999,7 +1000,7 @@ W:
 W:     Quenas coytas deste mundo ben quiser soffrer...
 
 
-%%portrait
+%%landscape 0
 X: 6
 T: Cantiga 6: A que do bon rey Davi
 N: (#5 in To Codex)
@@ -1159,7 +1160,7 @@ W:
 W: A que do bon rey Davi...
 
 
-%%portrait
+%%landscape 1
 X: 7
 T: Cantiga 7: Santa Maria amar
 N: (#6 in To Codex)
@@ -1173,7 +1174,6 @@ L: 1/4
 Q: 1/4=230
 K: D aeolian
 V:1
-%%landscape
 %%staffwidth 10in
 %Staff 1
 %%MIDI program 74
@@ -1266,7 +1266,7 @@ W:
 W:Santa Maria amar...
 
 
-%%portrait
+%%landscape 0
 X: 8
 T: Cantiga 8 : A Virgen Santa Maria
 N: 
@@ -1353,7 +1353,8 @@ W:e ant' o jograr en terra | se deitou e lle pedyu
 W:perdon por Santa Maria, | en que vos e nos creemos.
 W:     A Virgen Santa Maria...
 
-%%landscape
+
+%%landscape 1
 X: 9
 T: Cantiga 9: Por que nos ajamos
 N: 
@@ -1589,8 +1590,91 @@ W:%%
 W: Por que nos ajamos...
 
 
+%%landscape 0
+X: 10
+T: Cantiga 10: Rosa das rosas
+N: 
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/075small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob010small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 6/8
+L: 1/8
+Q: 1/8=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  D3  C  D2|(E/F/G2) (F/E/D2)|D3   C   D2| F2 F4 |
+w:Ro-sa das  ro-**    sas**   e  Fror das fro-res,
+  F3  G  A2|(A2G) (F/E/) D2| C3   D  E2| D2 (D3E) ||
+w:Do-na das  do-*  nas,* Se-nnor das se-nno-res.*
+  c3  c d2 |(c2B)  A  (GA)|F3  G (A_B)| A3 z3|
+w:Ro-sa de   bel-*dad' e*  de pa- re-* cer
+  c3  c   d2|(c2B)  A (GA)|F3  G (A_B)| A3 z3|
+w:e Fror d'a- leg-*ri- a*  e  de  pra-* zer,
+  F3  F F2|G3   G A2|(G/F2E/) D (DE)|C3 z3|
+w:Do-na en mui pi-a-  do-**  sa  se-*er,
+  F3   G  A2|(A2G) (F/E/) D2| C3 D E2|D2 (D3E)||
+w:Se-nnor en  tol-* ler* coi-tas e do-o-res.*
+%
+%%multicol start
+%%leftmargin  4cm
+%%rightmargin 4cm
+%%begintext
 
 
+Esta é de loor de Santa Maria, com' é fremosa e bõa e á gran poder.
+
+%%endtext
+%%multicol end
+%%multicol start
+%%leftmargin  6cm
+%%rightmargin 6cm
+%%begintext
+ 
+Rosa das rosas e Fror das frores,
+Dona das donas, Sennor das sennores.
+
+%%endtext
+%%multicol end
+%%multicol start
+%%rightmargin 11.5cm
+%%begintext
+ 
+Rosa de beldad' e de parecer
+e Fror d'alegria e de prazer,
+Dona en mui piadosa seer,
+Sennor en toller coitas e doores.
+  Rosas das rosas...
+ 
+Atal Sennor dev' ome muit' amar,
+que de todo mal o pode guardar;
+e pode-ll' os peccados perdõar,
+que faz no mundo per maos sabores.
+  Rosas das rosas...
+
+%%endtext
+%%multicol new
+%%leftmargin 11cm
+%%begintext
+ 
+Devemo-la muit' amar e servir,
+ca punna de nos guardar de falir;
+des i dos erros nos faz repentir,
+que nos fazemos come pecadores.
+  Rosas das rosas...
+
+Esta dona que tenno por Sennor
+e de que quero seer trobador,
+se eu per ren poss' aver seu amor,
+dou ao demo os outros amores.
+  Rosas das rosas...
+%%endtext
+%%multicol end
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
