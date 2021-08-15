@@ -3007,6 +3007,142 @@ W:      Virga de Jesse...
 
 
 %%landscape 0
+X: 21
+T: Cantiga 21: Santa Maria pod'
+N: 26 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/090small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob025small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: F Major
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   G (AB)| c (BA)| c  c2| d (e>d)| c (cB)| G3 |
+w:San-ta* Ma- ri-* a pod' en-fer-*mos gua-*rir
+   G (AB)| c (cB)| G (AG)| E (GA)| B (A<G)| F3 ||
+w:quan-do* xe qui-*ser, e* mor-tos* re-sor-*gir.
+  F (GA) | c   (cB)| G   (AG)| E (GA)| B (A<G)| F3|
+w:Na que* Deus seu* Sant' Es-*pe-rit'* en-vi-*  ou,
+  F (GA)| c (cB)| G (AG)| E (GA)|B (A<G)| F3 |
+w:e que* for-ma* d'o-me* en  e-*la fi-* llou,
+  F  (GA)|c (BA)| c  c2| d (e>d)|c (cB) |G3 |
+w:non é* ma- ra-*vi-lla se del*  ga-a-* nnou
+  G   (AB)|c (cB)| G (AG)| E   (GA)|B (A<G)|F3 ||
+w:ver-tu-*de per* que po-*dess' e-*sto com-*prir.
+%%
+%%newpage
+%%multicol start
+%%leftmargin  6cm
+%%rightmargin 6cm
+%%begintext
+Esta é como Santa Maria fez aver fillo a huma moller manyna,
+e depois morreu-lle, e ressocitou-llo.
+%%
+%%endtext
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+%%
+Santa Maria pod' enfermos guarir
+quando xe quiser, e mortos resorgir.
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+%%
+Na que Deus seu Sant' Esperit' enviou,
+e que forma d'ome en ela fillou,
+non é maravilla se del gaannou
+vertude per que podess' esto comprir.
+%%
+Santa Maria pod' enfermos guarir...
+%% 
+Porend' un miragr' aquesta Reyna
+santa fez mui grand' a huma mesqyna
+moller, que con coita de que manyna
+era, foi a ela un fillo pedir.
+%%
+Santa Maria pod' enfermos guarir...
+%% 
+Chorando dos ollos mui de coraçon,
+lle diss': «Ai Sennor, oe mia oraçon,
+e por ta mercee un fillo baron
+me dá, con que goy' e te possa servir.»
+%%
+Santa Maria pod' enfermos guarir...
+%% 
+Log' o que pediu lle foi outorgado,
+e pois a seu tenp' aquel fillo nado
+que a Santa Maria demandado
+ouve, calle non quis eno don falir.
+%%
+Santa Maria pod' enfermos guarir...
+%% 
+Mas o menyn', a pouco pois que naceu,
+duma forte fever mui cedo morreu;
+mas a madre per poucas ensandeceu
+por el, e sas faces fillou-ss' a carpir.
+%%
+Santa Maria pod' enfermos guarir...
+%% 
+Enton a cativa con gran quebranto
+ao mõesteir'o levou e ant' o
+altar o pos, fazendo tan gran chanto,
+que toda-las gentes fez a ssi viir.
+%%
+Santa Maria pod' enfermos guarir...
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+%%
+E braandando começou a dizer:
+«Santa Maria, que me fuste fazer
+en dar-m' este fill' e logo mio toller,
+por que non podesse con ele goyr?
+%%
+Santa Maria pod' enfermos guarir...
+%% 
+Sennor, que de madre nome me déste,
+en toller-mio logo mal me fezeste;
+mas polo prazer que do teu ouveste
+Fillo, dá-m' este meu que veja riir.
+%%
+Santa Maria pod' enfermos guarir...
+%% 
+Ca tu soa es a que mio podes dar,
+e porend' a ti o venno demandar;
+onde, groriosa Sennor, sen tardar
+dá-mio vivo, que aja que ti gracir.»
+%%
+Santa Maria pod' enfermos guarir...
+%% 
+Log' a oraçon da moller oyda
+foi, e o menyo tornou en vida
+por prazer da Virgen santa conprida,
+que o fez no leit' u jazia bolir.
+%%
+Santa Maria pod' enfermos guarir...
+%% 
+Quand' esto viu a moller, ouve pavor
+da primeir', e pois tornou-sse-l' en sabor;
+e deu poren graças a Nostro Sennor
+e a ssa Madre, porque a quis oyr.
+%%
+Santa Maria pod' enfermos guarir...
+%%endtext
+%%multicol end
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
