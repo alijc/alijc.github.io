@@ -3669,39 +3669,14 @@ W:  o que à Madre de Deus fia.
 
 
 %%landscape 0
-B:Cantigas de Santa Maria
-F:
-F:
-F:
-Z:Ali Corbin <ali.corbin:gmail.com>
 X: 26
 T: Cantiga 26: Non é gran cousa
-N: 
-M: 6/8
-L: 1/8
-Q: 1/8=370
-K: D Aeolian
-V:1
-%Staff 1
-%%MIDI program 74
-%
-   G |G3 E3 | G3 G3|(A2G)(F2E)|D6| E3 C3|D3 F3|(F3F2G|F6)|
-w:Non é gran cou-sa  se*  sa-* be bon jo-y- zo  dar***
-  A3 (A2B)|A3 (A2G)|(F2E) D3|C3 D2  E |F3 G3|E3 F3|D3-D2
-w:a   Ma-* dre do*   que* o mun-do tod' á de jo-i- gar.*
-%
-   A | A3  A3| A3 (A2B)|A3-A2 G|F3 (G2A)|(F2ED2E)|F3-F2
-w:Mui gran ra-zon  é*   que* sá-bia de-*  rei-*** to*
-    A | A3   A3   |A3 (A2B)|A3-A2  G|F3 (G2A)|(F2ED2E)|F6 |
-w:quen Deus troux' en  seu* corp'* e de  seu*  pei-*** to
-  G3  E3| G3  G   G2|(A2G)(F2E)| D6 | E3 C3| D3 F3|(F3F2G|F6)|
-w:ma-men-tou, e  del  de-* spei-*to  nun-ca foi fi- llar;***
-  A3 (A2B)|A3 (A2G)|(F2E) D3| C3  D2  E |F3 G3 |E3 (F2E)|D6 ||
-w:po- ren* de  sen*  me*  so-spei-to que a quis a-  von-*dar.
-
-X: 266
-T: Cantiga 26: Non é gran cousa
-N: 
+N: ??
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/097small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob023small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob024small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
 M: 4/4
 L: 1/4
 Q: 1/4=300
