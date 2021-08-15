@@ -3826,3 +3826,162 @@ F:
 F:
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
+X: 27
+T: Cantiga 27 : Non devemos por maravilla
+N: 
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   d2  c  A|(B>A) G (B/A/)|F (A>B) c |B2 A2 |
+w:Non de-ve-mos* por ma-* ra- vi-*lla te-er
+   d2  c A |(B>A) G (B/A/)|F (A>B)  c|(B/AG/) G2 ||
+w:d'a Ma-dre do* Ven-ce-* dor sem-*pre ven-**cer.
+   d2  c   A |(B>A) G (B/A/)|F (A>B)  c|(B/AG/) G2 |
+w:Ven-cer dev' a*  Ma- dre* da-quel* que dei-**tou
+  d2  c  A|(B>A) G (B/A/)|F (A>B) c |(B/AG/) G2 |
+w:Lo-ci-fer do*  Ce-o,*   e  de-*pois bri-**tou
+ d2 c  A  |(B>A) G (B/A/)|F (A>B) c|B2  A2 |
+w:o i-fern' e*   os san-*tos de-*le sa-cou,
+  d2 c   A|(B>A) G   (B/A/)|F (A>B)  c|(B/AG/) G2 ||
+w:e ven-ceu a*  mort' u*   por nos* foi mor-**rer.
+
+X: 277
+T: Cantiga 27 : Non devemos por maravilla
+N: 
+M: 6/8
+L: 1/8
+Q: 1/8=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   d2  c  A (B>A)|G (B/A/) F (A>B) c |B3 A3 |
+w:Non de-ve-mos* por ma-* ra- vi-*lla te-er
+   d2  c A  (B>A)|G (B/A/) F (A>B)  c|(BAG) G3 ||
+w:d'a Ma-dre do* Ven-ce-* dor sem-*pre ven-**cer.
+   d2  c   A  (B>A)|G (B/A/) F (A>B)  c|(BAG) G3 |
+w:Ven-cer dev' a*  Ma- dre* da-quel* que dei-**tou
+  d2  c  A (B>A)|G (B/A/) F (A>B) c |(BAG) G3 |
+w:Lo-ci-fer do*  Ce-o,*   e  de-*pois bri-**tou
+ d2 c  A   (B>A)|G (B/A/) F (A>B) c|B3  A3 |
+w:o i-fern' e*   os san-*tos de-*le sa-cou,
+  d2 c   A (B>A)|G   (B/A/) F (A>B)  c|(BAG) G3 ||
+w:e ven-ceu a*  mort' u*   por nos* foi mor-**rer.
+
+W:Esta é como Santa Maria fillou a sinagoga
+W:dos judeus e fez dela eigreja.
+W:
+W:Non devemos por maravilla teer
+W:d' a Madre do Vencedor sempre vencer.
+W: 
+W:Vencer dev' a Madre daquel que deitou
+W:Locifer do Ceo, e depois britou
+W:o ifern' e os santos dele sacou,
+W:e venceu a mort' u por nos foi morrer.
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Porend' un miragre a Madre de Deus
+W:fez na sinagoga que foi dos judeus
+W:e que os Apostolos, amigos seus,
+W:compraran e foran eigreja fazer.
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Os judeus ouveron desto gran pesar,
+W:e a Cesar se foron ende queixar,
+W:dizendo que o aver querian dar
+W:que pola venda foran en receber.
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:O Emperador fez chamar ante ssi
+W:os Apostolos, e disse-lles assi:
+W:«Contra tal querela que or' ante mi
+W:os judeus fezeron, que ides dizer?»
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Os Apostolos, com' omees de bon sen,
+W:responderon: «Sennor, nos fezemos ben,
+W:pois que lla compramos e fezemos en
+W:eigreja da que virgen foi conceber.»
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Sobr' esto deu Cesar seu joyz' atal:
+W:«Serren a eigreja, u non aja al,
+W:e a quaraenta dias, qual sinal
+W:de lei y acharen, tal a dev' aver.
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Os Apostolos log' a Monte Syon
+W:foron, u a Virgen morava enton
+W:Santa Maria, e mui de coraçon
+W:a rogaron que os veess' acorrer.
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Assi lles respos a mui santa Sennor:
+W:«Daqueste preito non ajades pavor,
+W:ca eu vos serei y tal ajudador
+W:per que a os judeus ajan de perder.»
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:E pois que o prazo chegou, sen falir,
+W:mandou enton Cesar as portas abrir,
+W:e amba-las partes fez log' alá ir
+W:e dos seus que fossen a prova veer.
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Des que foron dentr', assi lles conteceu
+W:que logo San Pedr' ant' o altar varreu,
+W:e aos judeus tan tost' appareceu
+W:omagen da Virgen pintada seer.
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Os judeus disseron: «Pois que a Deus praz
+W:que esta omagen a Maria faz,
+W:leixemos-ll' aqueste seu logar en paz
+W:e non queramos con ela contender.»
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Foron-ss' os judeus, e gãou dessa vez
+W:aquela eigreja a Sennor de prez,
+W:que foi a primeira que sse nunca fez
+W:en seu nome dela, sen dulta prender.
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:Depois Juyão, emperador cruel,
+W:que a Santa Maria non foi fiel,
+W:mandou ao poboo dos d' Irrael
+W:que ll' aquela omagen fossen trager.
+W:
+W:Non devemos por maravilla ter...
+W: 
+W:E os judeus, que sempr' acostumad' an
+W:de querer gran mal à do mui bon talan,
+W:foron y; e assi os catou de pran
+W:que a non ousaron per ren sol tanger.
+W:
+W:Non devemos por maravilla ter...
+
+
+%%landscape 0
+B:Cantigas de Santa Maria
+F:
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
