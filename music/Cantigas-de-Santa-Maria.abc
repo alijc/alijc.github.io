@@ -3234,11 +3234,11 @@ W:Mui gran poder á a Madre de Deus...
 %%landscape 0
 X: 23
 T: Cantiga 23: Como Deus fez vyno 
-N: E
+N: 24 in To
 B:Cantigas de Santa Maria
-F:
-F:
-F:
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/092small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob022small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob023small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
 M: 3/4
 L: 1/4
@@ -3261,32 +3261,7 @@ w:San-ta Ma-ri-a por hu-ma do-na mui sen sa-nna,
 w:en que mui-to bon cos-* tu-* m'e mui-ta bõ-a  ma-nna
    A   c2| B G2 | A  (c>B)|(A/G/) F2| G E2| G   A2| (AGF)|F3||
 w:Deus po-se-ra, que quis*  de-*  la se-er seu ve-   zy-**no.
-
-X: 233
-T: Cantiga 23: Como Deus fez vyno 
-N: T
-M: 3/4
-L: 1/4
-Q: 1/4=180
-K: F Ionian
-V:1
-%Staff 1
-%%MIDI program 74
-%
-   A c2| B    G2| A (c>B)|  A  F2| G   E2| G  A2|G3 |G3|
-w:Co-mo Deus fez vy- no*  d'a-gua ant' Ar-che-te-cry-no,
-   A  c2|B  G2| A  (c>B)|(A/G/) F2 | G   E2| G  (A>G)|F3|F3||
-w:ben as-si de-pois sa*   Ma-* dr'a-cre-cen-tou  o*   vi-nno.
-%
-   A c2 | c  B2|d  c2| c  A2| c  B2|(A/G/) F2|A3| A3|
-w:De-sto di-rei un mi-ra-gre que fez en*  Bre-ta-nna
-   A  c2| c B2|d  c2| c A2| c B2| G   E2|F3| F3|
-w:San-ta Ma-ri-a por hu-ma do-na mui sen sa-nna,
-  A   c2| B  G2| A (c>B)|(A/G/) F2| G  E2| G A2|G3| G3| 
-w:en que mui-to bon cos-* tu-* m'e mui-ta bõ-a  ma-nna
-   A   c2| B G2 | A  (c>B)|(A/G/) F2| G E2| G (A>G)|F3|F2||
-w:Deus po-se-ra, que quis*  de-*  la se-er seu ve-* zy-no.
-
+%%
 %%newpage
 W:Esta é como Santa Maria acrecentou o vyno no tonel, 
 W:por amor da bõa dona de Bretanna.
