@@ -3232,6 +3232,113 @@ W:Mui gran poder á a Madre de Deus...
 
 
 %%landscape 0
+X: 23
+T: Cantiga 23: Como Deus fez vyno 
+N: E
+B:Cantigas de Santa Maria
+F:
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   A c2| B    G2| A (c>B)|(A/G/) F2| G   E2| G  A2|G3 |G3|
+w:Co-mo Deus fez vy- no*   d'a-*gua ant' Ar-che-te-cry-no,
+   A  c2|B  G2| A  (c>B)|(A/G/) F2 | G   E2| G  A2|F3|F2
+w:ben as-si de-pois sa*   Ma-* dr'a-cre-cen-tou o  vi-nno.
+%
+   A|c2   c| B2 d |c2  c| A2  c |B2 (A/G/)|F  A2| A2
+w:De-sto di-rei un mi-ra-gre que fez en*  Bre-ta-nna
+   A |c2  c|B2 d| c2  c|A2  c|B2  G | E  F2| F3|
+w:San-ta Ma-ri-a por hu-ma do-na mui sen sa-nna,
+  A   c2| B  G2| A (c>B)|(A/G/) F2| G  E2| G A2|G3| G3| 
+w:en que mui-to bon cos-* tu-* m'e mui-ta bõ-a  ma-nna
+   A   c2| B G2 | A  (c>B)|(A/G/) F2| G E2| G   A2| (AGF)|F3||
+w:Deus po-se-ra, que quis*  de-*  la se-er seu ve-   zy-**no.
+
+X: 233
+T: Cantiga 23: Como Deus fez vyno 
+N: T
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   A c2| B    G2| A (c>B)|  A  F2| G   E2| G  A2|G3 |G3|
+w:Co-mo Deus fez vy- no*  d'a-gua ant' Ar-che-te-cry-no,
+   A  c2|B  G2| A  (c>B)|(A/G/) F2 | G   E2| G  (A>G)|F3|F3||
+w:ben as-si de-pois sa*   Ma-* dr'a-cre-cen-tou  o*   vi-nno.
+%
+   A c2 | c  B2|d  c2| c  A2| c  B2|(A/G/) F2|A3| A3|
+w:De-sto di-rei un mi-ra-gre que fez en*  Bre-ta-nna
+   A  c2| c B2|d  c2| c A2| c B2| G   E2|F3| F3|
+w:San-ta Ma-ri-a por hu-ma do-na mui sen sa-nna,
+  A   c2| B  G2| A (c>B)|(A/G/) F2| G  E2| G A2|G3| G3| 
+w:en que mui-to bon cos-* tu-* m'e mui-ta bõ-a  ma-nna
+   A   c2| B G2 | A  (c>B)|(A/G/) F2| G E2| G (A>G)|F3|F2||
+w:Deus po-se-ra, que quis*  de-*  la se-er seu ve-* zy-no.
+
+%%newpage
+W:Esta é como Santa Maria acrecentou o vyno no tonel, 
+W:por amor da bõa dona de Bretanna.
+W: 
+W:
+W:Como Deus fez vyno d'agua ant' Archetecryno,
+W:ben assi depois sa Madr' acrecentou o vinno.
+W: 
+W:Desto direi un miragre que fez en Bretanna
+W:Santa Maria por huma dona mui sen sanna,
+W:en que muito bon costum' e muita bõa manna
+W:Deus posera, que quis dela seer seu vezyno.
+W:
+W:Como Deus fez vyno d'agua ant' Archetecryo...
+W: 
+W:Sobre toda-las bondades que ela avia,
+W:era que muito fiava en Santa Maria;
+W:e porende a tirou de vergonna un dia
+W:del rei, que a ssa casa veera de camyno.
+W:
+W:Como Deus fez vyno d'agua ant' Archtecryo...
+W: 
+W:A dona polo servir foi muit' afazendada,
+W:e deu-lle carn' e pescado e pan e cevada;
+W:mas de bon vyno pera el era mui menguada,
+W:ca non tinia senon pouco en un tonelcyno.
+W:
+W:Como Deus fez vyno d'agua ant' Archtecro...
+W: 
+W:E dobrava-xe-ll' a coita, ca pero quisesse
+W:ave-lo, non era end' en terra que podesse
+W:por dineiros nen por outr' aver que por el désse,
+W:se non fosse pola Madre do Vell' e Menino.
+W:
+W:Como Deus fez vyno d'agua ant' Archtecro...
+W: 
+W:E con aquest' asperança foi aa eigreja
+W:e diss' «Ai, Santa Maria, ta mercee seja
+W:que me saquess daquesta vergonna tan sobeja;
+W:se non, nunca vestirei ja mais lãa nen lyno.»
+W:
+W:Como Deus fez vyno d'agua ant' Archtecro...
+W: 
+W:Mantenent' a oraçon da dona foi oyda,
+W:e el rei e ssa companna toda foi conprida
+W:de bon vinn', e a adega non en foi falida
+W:que non achass' y avond' o riqu' e o mesqyno.
+W:
+W:Como Deus fez vyno d'agua ant' Archtecro...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
