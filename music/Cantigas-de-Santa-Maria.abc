@@ -3430,11 +3430,11 @@ W:Madre de Deus, non pod' errar | quen en ti á fiança.
 %%landscape 0
 X: 25
 T: Cantiga 25: Pagar ben pod'
-N: E
+N: 39 in To
 B:Cantigas de Santa Maria
-F:
-F:
-F:
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/094small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob037small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob038small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
 M: 4/4
 L: 1/4
@@ -3455,29 +3455,6 @@ w:que fez o a   Vir-*gen  sen*  par,* Ma-dre do gran Rei gro- ri-* o- so,
 w:por un o-me  que* seu  a-*   ver*  to-do ja de-spen-*dud'* a-* vi-a
    B2  B  c | d2 (c>d)|A2 (G>A)|(G2F2)|A2  B   c|d2 (cB)|(B>A) (GF)|G2 G2||
 w:por fa-zer ben  e*  mais va-* ler,*  ca non ja en  ou-* tra*  fo-*li-a.
-
-X: 2
-T: Cantiga 25: Pagar ben pod'
-N: To
-M: 3/4
-L: 1/4
-Q: 1/4=200
-K: C Ionian
-V:1
-%Staff 1
-%%MIDI program 74
-%
-  D2  E | F3| G2 (F/G/)| D2 (C/D/)|(CB,2)|D2 E |F3|G2 (F/E/)|(E>D) (C/D/)|C3|C3|
-w:Pa-gar ben pod' o*    que  de-*   ver*  o que à  Ma- dre*   de*   Deus* fi-a.
-%
-  E2 E| F3| G2 (G/F/)|G2 (A/G/)|(GF2)|A2  A  |A3|_B2 (A/G/)| A2 (G/F/)|E3|E3|
-w:E de-sto vos  que-* ro  con-* tar*  un gran mi- ra- gre*  mui  fre-* mo-so,
-   E2  E|F3|G2 (G/F/)|G2 (A/G/)|(GF2)| A2  A |A3|_B2   G | A2 (G/F/)|E3|E3|
-w:que fez o a   Vir-* gen  sen*  par,* Ma-dre do gran Rei gro- ri-*  o- so,
-   E2  E|F3|G2 (F/G/)|D2 (C/D/)|(CB,2)|D2  E|F3|G2 (F/E/)|(E>D) (C/B,/)|C3|C3|
-w:por un o- me  que* seu  a-*    ver*  to-do ja de- spen-* dud'* a-*    vi-a
-   E2  E| F3|G2 (F/G/)|D2 (C/D/)|(CB,2)|D2  E |F3|G2(F/E/)|(E>D) (C/B,/)|C3|C3||
-w:por fa-zer ben e*   mais va-*  ler,*  ca non ja en ou-*   tra*  fo-*   li-a.
 %%
 %%newpage
 %%multicol start
