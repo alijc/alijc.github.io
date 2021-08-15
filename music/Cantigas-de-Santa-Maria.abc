@@ -2913,6 +2913,101 @@ trouxessen as carnes per toda Cezilla.
 
 
 %%landscape 0
+X: 20
+T: Cantiga 20: Virga de Jesse
+N: 
+B:Cantigas de Santa Maria
+F:
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=280
+K: A Phrygian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   c2  c|B2  A |(A2G)| F2  G | E2   F |(F2G)|A2 A | A (B>A)| G A2| A3|
+w:Vir-ga de Jes-se,*  quen te  sou-bes- se*  lo-ar co- mo*  me-re-ces,
+   c2  c|B2  A |(A2G)| F2  G | E2   F |(F2G)|A2   A |A (B>A)| G A2| A3|
+w: e sen ou-ves- se*   per que dis-ses- se* quan-to por nos* pa-de-ces!
+   G d2| d2   e|d3|d3| c2   B  | A2   G| A3|A3|
+w:Ca tu noit' e di-a  sen-pr'~e-stás ro-gan-do
+   G   d2   |d2  e|d3|d3| c2   B | A2  G | A3|A3|
+w:teu Fill', ai Ma-ri-a,  por nos que, an-dan-do
+   c2 c | B2  A |(A2G)|F2  G | E2   F |(F2G)|A2  A |A2  (BA)| G  A2| A3|
+w: a-qui pec-can- do*  e  mal  o- bran-do*  que tu muit' a-*  vor-re-ces
+   c2  c |B2   A |(A2G)|F2  G | E2   F |(F2G)|A2  A |A  (BA)|  G  A2| A3|
+w:non que-ra, quan-do*  se-ver jul- gan- do,* ca-tar nos-sas* san-de-ces.
+%
+%%newpage
+W:Esta é de loor de Santa Maria,
+W:por quantas mercees nos faz
+W: 
+W:
+W:      Virga de Jesse,
+W: quen te soubesse
+W:loar como mereces,
+W: e sen ouvesse
+W: per que dissesse
+W:quanto por nos padeces!
+W: 
+W:     Ca tu noit' e dia
+W:     senpr' estás rogando
+W:     teu Fill', ai Maria,
+W:     por nos que, andando
+W: aqui peccando
+W: e mal obrando
+W:que tu muit' avorreces
+W: non quera, quando
+W: sever julgando,
+W:catar nossas sandeces.
+W:
+W:      Virga de Jesse...
+W: 
+W:     E ar todavia
+W:     sempr' estás lidando
+W:     por nos a perfia
+W:     o dem' ariando,
+W: que, sossacando,
+W: nos vai tentando
+W:con sabores rafeces;
+W: mas tu guardando
+W: e anparando
+W:nos vas, poi-lo couseces.
+W:
+W:      Virga de Jesse...
+W: 
+W:     Miragres fremosos
+W:     vas por nos fazendo
+W:     e maravillosos,
+W:     per quant' eu entendo,
+W: e corregendo
+W: muit' e soffrendo,
+W:ca non nos escaeces,
+W: e, contendendo,
+W: nos defendendo
+W:do demo, que sterreces.
+W:
+W:      Virga de Jesse...
+W: 
+W:     E os soberviosos
+W:     d'alto vas decendo,
+W:     e os omildosos
+W:     en onrra crecendo,
+W: e enadendo
+W: e provezendo
+W:tan santas grãadeces.
+W: Poren m' acomendo
+W: a ti e rendo,
+W:que os teus non faleces.
+W:
+W:      Virga de Jesse...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
