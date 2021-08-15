@@ -2817,7 +2817,7 @@ Por nos de dulta tirar...
 %%landscape 0
 X: 19
 T: Cantiga 19: Gran sandece faz
-N: T
+N: 
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/088small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob017small.gif
@@ -2843,7 +2843,7 @@ w:que mo-*strou a*    Ma-*dre do*  Rei gro-ri-* o-  so
    A2  G |A (F<G) |A3|A3| A (AB)|c (c>B)| A (A>G)|
 w:con-tra un ric-* o- me fol e* so- ber-*vio-so,*
   F  A2| G (A>G)|(FE)  D |(F>E) D  | C (D<E)|F3| G3|
-w:e con-tar-vos-* ei* end' a*  gran ma- ra-* vi-lla.*
+w:e con-tar-vos-* ei* end' a*  gran ma- ra-* vi-lla.
 %%
 %%newpage
 %%multicol start
@@ -2917,9 +2917,8 @@ X: 20
 T: Cantiga 20: Virga de Jesse
 N: 
 B:Cantigas de Santa Maria
-F:
-F:
-F:
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/089small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob020small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
 M: 3/4
 L: 1/4
