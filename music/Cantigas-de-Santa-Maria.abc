@@ -3143,6 +3143,120 @@ Santa Maria pod' enfermos guarir...
 
 
 %%landscape 0
+X: 22
+T: Cantiga 22 : Mui gran poder
+N: 
+B:Cantigas de Santa Maria
+F:
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=150
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   F   F2 |(GA) (A/4G/4F/)| A3 |c (cB)| (AGF)| (G/A/B/A/) (B/4A/4G/)|
+w:Mui gran  po-* der**      á   a  Ma-*  dre**  de***      Deus**
+  A  G2 |(FE) (F/4E/4D/)| E G2| E (F/E/D/C/)|(F2E/2D/4E/4)| F3||
+w:de def-fen-* der**      e am-pa- ra-***     los***        seus.
+%
+    A  G2|(FE) (F/4E/4D/)| E  G2 | E (F/E/D/C/)|(F2E/D/4E/4	)|F3|
+w:Gran po- der* á,**      ca sseu Fi- llo***     llo***      deu,
+  A  G2 |(FE) (F/4E/4D/)| E  G2| E (F/E/D/C/)|(F2E/D/4E/4)|F3|
+w:en def-fen-* der**    quen se cha-mar***     por***     seu;
+  F  F2 |(GA) (A/4G/4F/)|A  c (c/B/)|(AGF)|(G/A/B/A/) (B/4A/4G/)|
+w:e dest' un*  mi-**    ra-gre vos*   di-** rei***     eu**
+   A2 G|(FE) (F/4E/4D/)| E  G2| E (F/E/D/C/)|(F2E/D/4E/4)|F3||
+w:que e- la*  fez**    gran-de nos di-***     as***      meus.
+
+X: 2
+T: Cantiga 22 : Mui gran poder
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   F   F2 |(G/A/) (A/G/F)| A3 |c (cB)| (AGF)| (G/A/BA)|(BAG)|
+w:Mui gran  po-*   der**   á   a  Ma-*  dre**  de***    Deus**
+  A  G2 |(F/E/) (F/E/D)| E G2| E (F/E/D/C/)|(FED/E/)| F3||
+w:de def-fen-*   der**   e am-pa- ra-***     los***  seus.
+%
+    A  G2|(F/E/) (F/E/D)| E  G2 | E (F/E/D/C/)|(FED/E/)|F3|
+w:Gran po- der*   á,**   ca sseu Fi- llo***     llo***  deu,
+  A  G2 |(F/E/) (F/E/D)| E  G2| E (F/E/D/C/)|(FED/E/)|F3|
+w:en def-fen-*   der**  quen se cha-mar***    por***  seu;
+  F  F2 |(G/A/) (A/G/F)|A  c (c/B/)|(AGF)|(G/A/BA)|(BAG)|
+w:e dest' un*    mi-**  ra-gre vos*   di-** rei***   eu**
+   A2 G|(F/E/) (F/E/D)| E  G2| E (F/E/D/C/)|(FED/E/)|F3||
+w:que e- la*    fez**  gran-de nos di-***    as***   meus.
+
+%%newpage
+W:Esta é como Santa Maria guardou a un lavrador que non morresse das feridas
+W:que lle dava un cavaleiro e seus omees.
+W: 
+W:
+W:Mui gran poder á a Madre de Deus
+W:de deffender e ampara-los seus.
+W: 
+W:Gran poder á, ca sseu Fillo llo deu,
+W:en deffender quen se chamar por seu;
+W:e dest' un miragre vos direi eu
+W:que ela fez grande nos dias meus.
+W:
+W:Mui gran poder á a Madre de Deus...
+W: 
+W:En Armenteira foi un lavrador,
+W:que un cavaleiro, por desamor
+W:mui grande que avi' a seu sennor,
+W:foi polo matar, per nome Mateus.
+W:
+W:Mui gran poder á a Madre de Deus...
+W: 
+W:E u o viu seu millo debullar
+W:na eira, mandou-lle lançadas dar;
+W:mas el começou a Madr' a chamar
+W:do que na cruz mataron os judeus.
+W:
+W:Mui gran poder á a Madre de Deus...
+W: 
+W:Duas lançadas lle deu un peon,
+W:mas non ll' entraron; e escantaçon
+W:cuidou que era o coteif', enton
+W:mas bravo foi que Judas Macabeus.
+W:
+W:Mui gran poder á a Madre de Deus...
+W: 
+W:Enton a ssa azciia lle lançou
+W:e feriu-o, pero non o chagou;
+W:ca el a Santa Maria chamou:
+W:«Sennor, val-me como vales os teus,
+W:
+W:Mui gran poder á a Madre de Deus...
+W: 
+W:E non moira, ca non mereci mal.»
+W:Eles, pois viron o miragr' atal
+W:que fez a Reynna esperital,
+W:creveron ben, ca ant' eran encreus.
+W:
+W:Mui gran poder á a Madre de Deus...
+W: 
+W:E fillaron-sse log' a repentir
+W:e ao lavrador perdon pedir,
+W:e deron-ll' algu'; e el punnou de ss' ir
+W:a Rocamador con outros romeus.
+W:
+W:Mui gran poder á a Madre de Deus...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
