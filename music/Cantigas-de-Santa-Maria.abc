@@ -3821,14 +3821,14 @@ Non é gran cousa se sabe...
 
 
 %%landscape 0
+X: 27
+T: Cantiga 27 : Non devemos por maravilla
+N: 25 in To
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/099small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob024small.gif
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob025small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
-X: 27
-T: Cantiga 27 : Non devemos por maravilla
-N: 25 in To
 M: 4/4
 L: 1/4
 Q: 1/4=200
@@ -3958,13 +3958,12 @@ W:Non devemos por maravilla ter...
 
 
 %%landscape 0
-X: 1
+X: 28
 T: Cantiga 28 : Todo logar mui ben pode
-N: 
+N: 27 in To 
 B:Cantigas de Santa Maria
-F:
-F:
-F:
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/101small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob026small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
 M: 3/4
 L: 1/4
@@ -3986,207 +3985,182 @@ w:con-tar mui de**  co- ra-*çon, que fez mui** grand' e   fe-***      ro*
 w:a Vir-gen que non á par, que* non quis* que per-*du-*  do
    G    E2|F  G2| A   F2 | D  (EF)|G (G>F)|E  (ED)|(F/E/) (ED)|(DC2)||
 w:foss' o po-boo que guar-dar  a-* vi-a,* nen ven-* çu-***      do*
-
-%%newpage
-%%multicol start
-%%leftmargin  6cm
-%%rightmargin 6cm
-%%begintext
+%
+%%begintext center
+%%
 Esta é como Santa Maria deffendeu Costantinobre
 dos mouros que a conbatian e a cuidavan fillar.
-
-%%endtext
-%%multicol start
-%%leftmargin  6.5cm
-%%rightmargin 6.5cm
-%%begintext
+%%
+%%
 Todo logar mui ben pode sseer deffendudo
 o que a Santa Maria  á por seu escudo.
-
-%%endtext
-%%multicol start
-%%leftmargin  2cm
-%%rightmargin 10.5cm
-%%begintext
-Onde daquesta razon
-un miragre vos quero
-contar mui de coraçon,
-que fez mui grand' e fero
-a Virgen que non á par,
-que non quis que perdudo
-foss' o poboo que guardar
-avia, nen vençudo.
-
-Todo logar mui ben...
- 
-De com' eu escrit' achei,
-pois que foi de crischãos
-Costantinobre, un rei
-con oste de pagãos
-veo a vila cercar
-mui brav' e mui sannudo,
-pola per força fillar
-por seer mais temudo.
-
-Todo logar mui ben...
- 
-E começou a dizer,
-con sanna que avia,
-que sse per força prender
-a cidade podia,
-que faria en matar
-o poboo myudo
-e o tesour' en levar
-que tinian ascondudo.
-
-Todo logar mui ben...
- 
-Na cidade, com' oý,
-se Deus m' ajud' e parca,
-San German dentr' era y,
-un santo Patriarcha,
-que foi a Virgen rogar
-que dela acorrudo
-foss' o poblo sen tardar
-daquel mour' atrevudo.
-
-Todo logar mui ben...
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 2cm
-%%begintext
-E as donas ar rogou
-da mui nobre cidade
-mui de rrig' e conssellou
-que ant' a majestade
-da Virgen fossen queimar
-candeas, que traudo
-o poboo do logar
-non fosse, nen rendudo.
-
-Todo logar mui ben...
- 
-Mas aquel mouro Soldan
-fez-lles põer pedreiras
-per' aos de dentr' afan
-dar de muitas maneiras,
-e os arqueiros tirar;
-e assi combatudo
-o muro foi sen vagar,
-que toste foi fendudo.
-
-Todo logar mui ben
-
-E coyta soffreron tal
-os de dentro e tanta,
-que presos foran sen al,
-se a Virgen mui santa
-non fosse, que y chegar
-con seu mant' estendudo
-foi polo mur' anparar
-que non fosse caudo.
-
-Todo logar mui ben...
- 
-E ben ali u deceu,
-de Santos gran conpanna
-con ela appareceu;
-e ela mui sen sanna
-o seu manto foi parar,
-u muito recebudo
-colb' ouve dos que y dar
-fez o Soldan beyçudo.
-
-Todo logar mui ben...
+%%
 %%endtext
 %%newpage
-%%multicol start
-%%leftmargin  2cm
-%%rightmargin 10.5cm
-%%begintext
-E aveo dessa vez
-aos que combatian
-que Deus por ssa Madre fez
-que dali u ferian
-os colbes, yan matar
-daquel Soldan barvudo
-as gentes, e arredar
-do muro ja movudo.
-
-Todo logar mui ben...
- 
-Aquel Soldan, sen mentir,
-cuidou que per abete
-non querian envayr
-os seus, e Mafomete
-começou muit' a chamar,
-o falsso connoçudo,
-que os veess' ajudar;
-mas foy y decebudo.
-
-Todo logar mui ben...
- 
-Ali u ergeu os seus
-ollos contra o ceo,
-viu log' a Madre de Deus,
-coberta de seu veo,
-sobela vila estar
-con seu manto tendudo,
-e as feridas fillar.
-Pois est' ouve veudo,
-
-Todo logar mui ben...
- 
-Teve-sse por peccador,
-ca viu que aquel feito
-era de Nostro Sennor;
-poren per niun preito
-non quis conbater mandar,
-e fez come sisudo,
-e na vila foi entrar
-dos seus desconnoçudo.
-
-Todo logar mui ben...
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 2cm
-%%begintext
-Pera San German se foi
-aquel Soldan pagão
-e disse-lle: «Sennor, oi
-mais me quer' eu crischão
-per vossa mão tornar
-e seer convertudo
-e Mafomete leixar,
-o falsso recreudo.
-
-Todo logar mui ben...
- 
-E o por que esto fiz,
-direi-vo-lo aginna:
-segundo vossa lei diz,
-a mui santa Reinna
-vi, que vos veo livrar;
-pois m' est' apareçudo
-foi, quero-me batiçar,
-mas non seja sabudo.»
-
-Todo logar mui ben...
-
-oderia-vos de dur
-dizer as grandes dõas
-que aquel Soldan de Sur
-deu y, ricas e bõas;
-demais foy-os segurar
-que non fosse corrudo
-o reino, se Deus m' anpar,
-e foi-lle gradeçudo.
-
-Todo logar mui ben...
-%%endtext
-%%multicol end
+W:Onde daquesta razon
+W:un miragre vos quero
+W:contar mui de coraçon,
+W:que fez mui grand' e fero
+W:a Virgen que non á par,
+W:que non quis que perdudo
+W:foss' o poboo que guardar
+W:avia, nen vençudo.
+W:
+W:Todo logar mui ben...
+W: 
+W:De com' eu escrit' achei,
+W:pois que foi de crischãos
+W:Costantinobre, un rei
+W:con oste de pagãos
+W:veo a vila cercar
+W:mui brav' e mui sannudo,
+W:pola per força fillar
+W:por seer mais temudo.
+W:
+W:Todo logar mui ben...
+W: 
+W:E começou a dizer,
+W:con sanna que avia,
+W:que sse per força prender
+W:a cidade podia,
+W:que faria en matar
+W:o poboo myudo
+W:e o tesour' en levar
+W:que tinian ascondudo.
+W:
+W:Todo logar mui ben...
+W: 
+W:Na cidade, com' oý,
+W:se Deus m' ajud' e parca,
+W:San German dentr' era y,
+W:un santo Patriarcha,
+W:que foi a Virgen rogar
+W:que dela acorrudo
+W:foss' o poblo sen tardar
+W:daquel mour' atrevudo.
+W:
+W:Todo logar mui ben...
+W:
+W:E as donas ar rogou
+W:da mui nobre cidade
+W:mui de rrig' e conssellou
+W:que ant' a majestade
+W:da Virgen fossen queimar
+W:candeas, que traudo
+W:o poboo do logar
+W:non fosse, nen rendudo.
+W:
+W:Todo logar mui ben...
+W: 
+W:Mas aquel mouro Soldan
+W:fez-lles põer pedreiras
+W:per' aos de dentr' afan
+W:dar de muitas maneiras,
+W:e os arqueiros tirar;
+W:e assi combatudo
+W:o muro foi sen vagar,
+W:que toste foi fendudo.
+W:
+W:Todo logar mui ben
+W:
+W:E coyta soffreron tal
+W:os de dentro e tanta,
+W:que presos foran sen al,
+W:se a Virgen mui santa
+W:non fosse, que y chegar
+W:con seu mant' estendudo
+W:foi polo mur' anparar
+W:que non fosse caudo.
+W:
+W:Todo logar mui ben...
+W: 
+W:E ben ali u deceu,
+W:de Santos gran conpanna
+W:con ela appareceu;
+W:e ela mui sen sanna
+W:o seu manto foi parar,
+W:u muito recebudo
+W:colb' ouve dos que y dar
+W:fez o Soldan beyçudo.
+W:
+W:Todo logar mui ben...
+W:
+W:E aveo dessa vez
+W:aos que combatian
+W:que Deus por ssa Madre fez
+W:que dali u ferian
+W:os colbes, yan matar
+W:daquel Soldan barvudo
+W:as gentes, e arredar
+W:do muro ja movudo.
+W:
+W:Todo logar mui ben...
+W: 
+W:Aquel Soldan, sen mentir,
+W:cuidou que per abete
+W:non querian envayr
+W:os seus, e Mafomete
+W:começou muit' a chamar,
+W:o falsso connoçudo,
+W:que os veess' ajudar;
+W:mas foy y decebudo.
+W:
+W:Todo logar mui ben...
+W: 
+W:Ali u ergeu os seus
+W:ollos contra o ceo,
+W:viu log' a Madre de Deus,
+W:coberta de seu veo,
+W:sobela vila estar
+W:con seu manto tendudo,
+W:e as feridas fillar.
+W:Pois est' ouve veudo,
+W:
+W:Todo logar mui ben...
+W: 
+W:Teve-sse por peccador,
+W:ca viu que aquel feito
+W:era de Nostro Sennor;
+W:poren per niun preito
+W:non quis conbater mandar,
+W:e fez come sisudo,
+W:e na vila foi entrar
+W:dos seus desconnoçudo.
+W:
+W:Todo logar mui ben...
+W:
+W:Pera San German se foi
+W:aquel Soldan pagão
+W:e disse-lle: «Sennor, oi
+W:mais me quer' eu crischão
+W:per vossa mão tornar
+W:e seer convertudo
+W:e Mafomete leixar,
+W:o falsso recreudo.
+W:
+W:Todo logar mui ben...
+W: 
+W:E o por que esto fiz,
+W:direi-vo-lo aginna:
+W:segundo vossa lei diz,
+W:a mui santa Reinna
+W:vi, que vos veo livrar;
+W:pois m' est' apareçudo
+W:foi, quero-me batiçar,
+W:mas non seja sabudo.»
+W:
+W:Todo logar mui ben...
+W:
+W:oderia-vos de dur
+W:dizer as grandes dõas
+W:que aquel Soldan de Sur
+W:deu y, ricas e bõas;
+W:demais foy-os segurar
+W:que non fosse corrudo
+W:o reino, se Deus m' anpar,
+W:e foi-lle gradeçudo.
+W:
+W:Todo logar mui ben...
 
 
 %%landscape 0
