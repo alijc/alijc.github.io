@@ -3822,13 +3822,13 @@ Non é gran cousa se sabe...
 
 %%landscape 0
 B:Cantigas de Santa Maria
-F:
-F:
-F:
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/099small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob024small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob025small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
 X: 27
 T: Cantiga 27 : Non devemos por maravilla
-N: 
+N: 25 in To
 M: 4/4
 L: 1/4
 Q: 1/4=200
@@ -3849,33 +3849,11 @@ w:Lo-ci-fer do*  Ce-o,*   e  de-*pois bri-**tou
 w:o i-fern' e*   os san-*tos de-*le sa-cou,
   d2 c   A|(B>A) G   (B/A/)|F (A>B)  c|(B/AG/) G2 ||
 w:e ven-ceu a*  mort' u*   por nos* foi mor-**rer.
-
-X: 277
-T: Cantiga 27 : Non devemos por maravilla
-N: 
-M: 6/8
-L: 1/8
-Q: 1/8=200
-K: G Mixolydian
-V:1
-%Staff 1
-%%MIDI program 74
-%
-   d2  c  A (B>A)|G (B/A/) F (A>B) c |B3 A3 |
-w:Non de-ve-mos* por ma-* ra- vi-*lla te-er
-   d2  c A  (B>A)|G (B/A/) F (A>B)  c|(BAG) G3 ||
-w:d'a Ma-dre do* Ven-ce-* dor sem-*pre ven-**cer.
-   d2  c   A  (B>A)|G (B/A/) F (A>B)  c|(BAG) G3 |
-w:Ven-cer dev' a*  Ma- dre* da-quel* que dei-**tou
-  d2  c  A (B>A)|G (B/A/) F (A>B) c |(BAG) G3 |
-w:Lo-ci-fer do*  Ce-o,*   e  de-*pois bri-**tou
- d2 c  A   (B>A)|G (B/A/) F (A>B) c|B3  A3 |
-w:o i-fern' e*   os san-*tos de-*le sa-cou,
-  d2 c   A (B>A)|G   (B/A/) F (A>B)  c|(BAG) G3 ||
-w:e ven-ceu a*  mort' u*   por nos* foi mor-**rer.
-
-W:Esta é como Santa Maria fillou a sinagoga
-W:dos judeus e fez dela eigreja.
+W:
+%%begintext center
+Esta é como Santa Maria fillou a sinagoga
+dos judeus e fez dela eigreja.
+%%endtext
 W:
 W:Non devemos por maravilla teer
 W:d' a Madre do Vencedor sempre vencer.
