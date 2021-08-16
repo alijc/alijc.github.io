@@ -4164,14 +4164,14 @@ W:Todo logar mui ben...
 
 
 %%landscape 0
-B:Cantigas de Santa Maria
-F:
-F:
-F:
-Z:Ali Corbin <ali.corbin:gmail.com>
 X: 29
 T: Cantiga 29: Nas mentes senpre ter
-N: E
+N: 
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/103small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob027small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob028small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
 M: 3/4
 L: 1/4
 Q: 1/4=200
@@ -4192,39 +4192,19 @@ w:na san-*ta Ges-se-ma-ni fo-ron* a- cha-*das fi- gu-* ras
   G (AB)| c  A2| B    c2|d3| d  (dc)| A (B>c)| A (GF) | G G2||
 w:da Ma-*dre de Deus, as-si que non* fo- ron* de  pin-*tu-ras.
 %
-
-X: 299
-T: Cantiga 29: Nas mentes senpre ter
-N: To
-M: 3/4
-L: 1/4
-Q: 1/4=200
-K: G mixolydian
-V:1
-%Staff 1
-%%MIDI program 74
-%
-   G2 (A/B/)| c   A2| B  c2|d3| d2 (d/c/)|A2 (B/c/)| A  G2 |(A/G/) F2|
-w:Nas men-*  tes sen-pre te-er  de- ve-*  mo- las*  sas fei- tu-* ras
-  G2  (A/B/)| c    A2 | B c2|d3 | d2 (d/c/)| A (Bc)|A2 (G/F/)|G3| G3||
-w:da  Vir-*  gen, pois re-ce-ber  as fo-*   ron as* ped-ras*  du-ras.
-%
-  d2  (d/c/) |A2 (B/c/)| A2 (G/F/4G/4)|A3|d2 (d/c/)| A2 (B/c/)|A2 (G/F/)|G3|
-w:Per quant'* eu  di-*  zer  o-**      ý  a  mui-*  tos  que*  fo-ron*  y,
-  G2 (A/B/)| c  A2| B c2|d3|d2 (d/c/)|A2 (B/c/)| A  G2|(A/G/)  F2|
-w:na san-*  ta Ges-se-ma-ni fo-ron*   a- cha-*  das fi- gu-*  ras
-  G2 (A/B/)| c  A2| B    c2|d3| d2 (d/c/)| A (Bc) |A2 (G/F/)|G3| G3||
-w:da Ma-*   dre de Deus, as-si que non*   fo- ron* de  pin-*  tu-ras.
-
-%
-W:Esta é como Santa Maria fez parecer nas pedras omages a ssa semellança.
-W: 
-W:
-W:Nas mentes sempre teer
-W:devemo-las sas feituras
-W:da Virgen, pois receber
-W:as foron as pedras duras.
-W: 
+%%begintext center
+%%
+%%
+%%Esta é como Santa Maria fez parecer nas pedras omages a ssa semellança.
+%%
+%%
+%%Nas mentes sempre teer
+%%devemo-las sas feituras
+%%da Virgen, pois receber
+%%as foron as pedras duras.
+%%
+%%
+%%endtext  
 W:Per quant' eu dizer oý
 W:a muitos que foron y,
 W:na santa Gessemani
