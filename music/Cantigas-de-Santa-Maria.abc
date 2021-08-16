@@ -1194,8 +1194,8 @@ w: o-me que de  ra-*ca- dar  a-vi- a  e   de*  guar-* dar*  seu feit' e*    sa* 
 %%begintext center
 %%
 %%
-Esta é como Santa Maria livrou a abadessa prenne,
-que adormecera ant' o seu altar chorando.
+%%Esta é como Santa Maria livrou a abadessa prenne,
+%%que adormecera ant' o seu altar chorando.
 %%endtext
 %%newpage
 W: Santa Maria amar
@@ -2936,7 +2936,7 @@ w: e sen ou-ves- se*   per que dis-ses- se* quan-to por nos* pa-de-ces!
 w:Ca tu noit' e di-a  sen-pr'~e-stás ro-gan-do
    G   d2   |d2  e|d3|d3| c2   B | A2  G | A3|A3|
 w:teu Fill', ai Ma-ri-a,  por nos que, an-dan-do
-   c2 c | B2  A |(A2G)|F2  G | E2   F |(F2G)|A2  A |A2  (BA)| G  A2| A3|
+   c2 c | B2  A |(A2G)|F2  G | E2   F |(F2G)|A2  A |A  (BA)| G  A2| A3|
 w: a-qui pec-can- do*  e  mal  o- bran-do*  que tu muit' a-*  vor-re-ces
    c2  c |B2   A |(A2G)|F2  G | E2   F |(F2G)|A2  A |A  (BA)|  G  A2| A3|
 w:non que-ra, quan-do*  se-ver jul- gan- do,* ca-tar nos-sas* san-de-ces.
@@ -3458,11 +3458,11 @@ w:por fa-zer ben  e*  mais va-* ler,*  ca non ja en  ou-* tra*  fo-*li-a.
 %%
 %%begintext center
 %%
-Esta é como a ymagen de Santa Maria falou en testimonio ontr'o crischão e o judeu.
+%%Esta é como a ymagen de Santa Maria falou en testimonio ontr'o crischão e o judeu.
 %%
 %%
-  Pagar ben pod' o que dever
-  o que à Madre de Deus fia.
+%%  Pagar ben pod' o que dever
+%%  o que à Madre de Deus fia.
 %%
 %%endtext
 %
@@ -3701,12 +3701,12 @@ w:po-ren* de sen*  me* so-spei-to que a quis a-  von-*dar.
 %
 %%newpage
 %%begintext center
-Esta é como Santa Maria juigou a alma do romeu que ya a Santiago,
-que sse matou na carreira por engano do diabo, que tornass' ao corpo e fezesse penedença.
+%%Esta é como Santa Maria juigou a alma do romeu que ya a Santiago,
+%%que sse matou na carreira por engano do diabo, que tornass' ao corpo e fezesse penedença.
 %%
 %%
-Non é gran cousa se sabe | bon joyzo dar
-a Madre do que o mundo | tod' á de joigar.
+%%Non é gran cousa se sabe | bon joyzo dar
+%%a Madre do que o mundo | tod' á de joigar.
 %%endtext
 %%
 %%multicol start
@@ -3851,8 +3851,8 @@ w:o i-fern' e*   os san-*tos de-*le sa-cou,
 w:e ven-ceu a*  mort' u*   por nos* foi mor-**rer.
 W:
 %%begintext center
-Esta é como Santa Maria fillou a sinagoga
-dos judeus e fez dela eigreja.
+%%Esta é como Santa Maria fillou a sinagoga
+%%dos judeus e fez dela eigreja.
 %%endtext
 W:
 W:Non devemos por maravilla teer
@@ -3988,12 +3988,12 @@ w:foss' o po-boo que guar-dar  a-* vi-a,* nen ven-* çu-***      do*
 %
 %%begintext center
 %%
-Esta é como Santa Maria deffendeu Costantinobre
-dos mouros que a conbatian e a cuidavan fillar.
+%%Esta é como Santa Maria deffendeu Costantinobre
+%%dos mouros que a conbatian e a cuidavan fillar.
 %%
 %%
-Todo logar mui ben pode sseer deffendudo
-o que a Santa Maria  á por seu escudo.
+%%Todo logar mui ben pode sseer deffendudo
+%%o que a Santa Maria  á por seu escudo.
 %%
 %%endtext
 %%newpage
@@ -4161,6 +4161,105 @@ W:o reino, se Deus m' anpar,
 W:e foi-lle gradeçudo.
 W:
 W:Todo logar mui ben...
+
+
+%%landscape 0
+B:Cantigas de Santa Maria
+F:
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+X: 29
+T: Cantiga 29: Nas mentes senpre ter
+N: E
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   G (AB)|  c   A2| B  c2|d3 | d (dc)| A (B>c)| A   G2|(A/G/) F2 |
+w:Nas men-*tes sen-pre te-er  de- ve-*mo- las* sas fei- tu-* ras
+   G (AB)|  c    A2 | B c2|d3 | d (dc)| A (B>c)|A  (GF)| G G2 || 
+w:da  Vir-*gen, pois re-ce-ber  as fo-*ron as* ped-ras* du-ras.
+%
+   d   (dc) | A (B>c)|A2(G/4F/4G/4A/4)|A3|d (dc)|  A (B>c)|A2 (G/F/)|G3|
+w:Per quant'* eu di-*zer o-***  ý  a  mui-*tos que* fo- ron* y,
+  G  (AB)| c  A2| B c2|d3| d (dc)|A (B>c)| A  G2|(A/G/) F2 |
+w:na san-*ta Ges-se-ma-ni fo-ron* a- cha-*das fi- gu-* ras
+  G (AB)| c  A2| B    c2|d3| d  (dc)| A (B>c)| A (GF) | G G2||
+w:da Ma-*dre de Deus, as-si que non* fo- ron* de  pin-*tu-ras.
+%
+
+X: 299
+T: Cantiga 29: Nas mentes senpre ter
+N: To
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   G2 (A/B/)| c   A2| B  c2|d3| d2 (d/c/)|A2 (B/c/)| A  G2 |(A/G/) F2|
+w:Nas men-*  tes sen-pre te-er  de- ve-*  mo- las*  sas fei- tu-* ras
+  G2  (A/B/)| c    A2 | B c2|d3 | d2 (d/c/)| A (Bc)|A2 (G/F/)|G3| G3||
+w:da  Vir-*  gen, pois re-ce-ber  as fo-*   ron as* ped-ras*  du-ras.
+%
+  d2  (d/c/) |A2 (B/c/)| A2 (G/F/4G/4)|A3|d2 (d/c/)| A2 (B/c/)|A2 (G/F/)|G3|
+w:Per quant'* eu  di-*  zer  o-**      ý  a  mui-*  tos  que*  fo-ron*  y,
+  G2 (A/B/)| c  A2| B c2|d3|d2 (d/c/)|A2 (B/c/)| A  G2|(A/G/)  F2|
+w:na san-*  ta Ges-se-ma-ni fo-ron*   a- cha-*  das fi- gu-*  ras
+  G2 (A/B/)| c  A2| B    c2|d3| d2 (d/c/)| A (Bc) |A2 (G/F/)|G3| G3||
+w:da Ma-*   dre de Deus, as-si que non*   fo- ron* de  pin-*  tu-ras.
+
+%
+W:Esta é como Santa Maria fez parecer nas pedras omages a ssa semellança.
+W: 
+W:
+W:Nas mentes sempre teer
+W:devemo-las sas feituras
+W:da Virgen, pois receber
+W:as foron as pedras duras.
+W: 
+W:Per quant' eu dizer oý
+W:a muitos que foron y,
+W:na santa Gessemani
+W:foron achadas figuras
+W:da Madre de Deus, assi
+W:que non foron de pinturas.
+W:
+W:Nas mentes sempre ter...
+W: 
+W:Nen ar entalladas non
+W:foron, se Deus me perdon,
+W:e avia y fayçon
+W:da Sennor das aposturas
+W:con sseu Fill', e per razon
+W:feitas ben per sas mesuras.
+W:
+W:Nas mentes sempre ter...
+W: 
+W:Poren as resprandecer
+W:fez tan muit' e parecer,
+W:per que devemos creer
+W:que é Sennor das naturas,
+W:que nas cousas á poder
+W:de fazer craras d' escuras.
+W:
+W:Nas mentes sempre ter...
+W: 
+W:Deus x' as quise figurar
+W:en pedra por nos mostrar
+W:que a ssa Madre onrrar
+W:deven todas creaturas,
+W:pois deceu carne fillar
+W:en ela das sas alturas.
+W:
+W:Nas mentes senpre ter...
 
 
 %%landscape 0
