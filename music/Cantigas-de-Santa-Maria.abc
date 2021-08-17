@@ -4680,6 +4680,89 @@ nen fezessen falimentos.
 
 
 %%landscape 0
+Z:Ali Corbin <ali.corbin:gmail.com>
+X: 34
+T: Cantiga 34: Gran dereit' é que fill' o
+N: 36 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/110small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob035small.gif
+M: 3/4 
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   F2   G| A2   B|(c/B/)(AG)| (AF) G|(E/C/) D2|(EF/G/) F| E3|(F/E/FD)|
+w:Gran de-reit' é  que* fill'* o* de- mo*   por es-**car-men- to***
+   F2   G | A2  B |(c/B/)(AG)|A  F  G|(E/C/) D2|(E/F/G/F/)  E|(D2E/C/)|D3||
+w:quen con-tra San- ta*   Ma-*ri-a fi- lla*  a- tre-***    ve- men-**  to.
+%
+  c2  B | A (B/c/d)|c2  B|A2  G |(F>E)  D |(EF)   G| E3|E3|
+w:Po-ren di- rei**  un mi-ra-gre, que* foi gran* ver-da-de,
+  c2   B |A (B/c/d)| c2  B|A2  G  |(FE)  D|(ED)  C|(D2E)|D3|
+w:que fez en Cos-** tan-ti-no-ble,  na* ri- ca* ci- da-* de,
+  F2 G | A2   B|(c/B/) (AG)|(AF)    G |(E/C/) D2|(EF/G/) F| E3|(F/E/FD)|
+w:a Vir-gen, Ma- dre*   de* Deus,* por dar*   en- ten-**di-men-to***
+   F2   G | A2  B |(c/B/)(AG)|(AF)   G|(E/C/) D2|(E/F/G/F/) E |(D2E/C/)|D3||
+w:que quen con-tra  e-*   la* vay,* pa- lla*  é   con-***  tra  ven-**  to.
+%
+%%newpage
+W:Esta é como Santa Maria fillou dereito do judeu
+W:pola desonrra que fezera a sua omagen.
+W: 
+W:
+W:Gran dereit' é que fill' o demo por escarmento
+W:quen contra Santa Maria filla atrevemento.
+W:
+W:Poren direi un miragre, que foi gran verdade,
+W:que fez en Costantinoble, na rica cidade,
+W:a Virgen, Madre de Deus, por dar entendimento
+W:que quen contra ela vay, palla é contra vento.
+W:- Gran dereit' é que fill' o...
+W:
+W:Huma omage pintada na rua siya
+W:en tavoa, mui ben feita, de Santa Maria,
+W:que non podian achar ontr' outras mais de cento
+W:tan fremosa, que furtar foi un judeu a tento
+W:- Gran dereit' é que fill' o...
+W:
+W:De noit'. E poi-la levou sso ssa capa furtada,
+W:en ssa cas' a foi deitar na camara privada,
+W:des i assentou-ss' aly e fez gran falimento;
+W:mas o demo o matou, e foi a perdimento.
+W:- Gran dereit' é que fill' o...
+W:
+W:Pois que o judeu assi foi mort' e cofondudo,
+W:e o demo o levou que nunc' apareçudo
+W:foi, un crischão enton con bon enssinamento
+W:a omagen foi sacar do logar balorento.
+W:- Gran dereit' é que fill' o...
+W:
+W:E pero que o logar muit' enatio estava,
+W:a omagen quant' en si muy bõo cheiro dava,
+W:que specias d'Ultramar, balssamo nen onguento,
+W:non cheiravan atan ben com' esta que emento.
+W:- Gran dereit' é que fill' o...
+W:
+W:Pois que a sacou daly, mantenente lavou-a
+W:con agua e log' enton a ssa casa levou-a,
+W:e en bon logar a pos e fez-lle comprimento
+W:de quant' ouve de fazer por aver salvamento.
+W:- Gran dereit' é que fill' o...
+W:
+W:Pois lle tod' esto feit' ouve, mui gran demostrança
+W:fez y a Madre de Deus, que d' oyo semellança
+W:correu daquela omage grand' avondamento,
+W:que ficasse deste feito por renenbramento.
+W:
+W:Gran dereit' é que fill' o demo por escarmento...
+W:quen contra Santa Maria filla atrevemento.
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
