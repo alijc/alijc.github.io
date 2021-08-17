@@ -5464,58 +5464,52 @@ w:e pois teu pa-dre pa-* ri-ste e  fi-* ci-ste  pu-* ra
 w:Vir-gen,  e po-ren so-*  bi-* ste so-be- la*   al-tu- ra*
    F  F2|F    A2| G (A>G)|(F/E/) D2|G2 (F/E/)|D   C2|(D2E)|D3||
 w:dos ce-os, por-que que-* si-* ste o   que*  el que- ri-* a.
-
-%%multicol start
-%%leftmargin  5cm
-%%rightmargin 5cm
-%%begintext
-
-Esta é de loor de Santa Maria das maravillas que deus faz por ela.
-%%endtext
-%%multicol start
-%%leftmargin  7cm
-%%rightmargin 7cm
-%%begintext
- 
-Deus te salve, groriosa		Reinna Maria,
-Lume dos Santos fremosa		e dos Ceos Via.
+%
+%%begintext center
+%%
+%%
+%%Esta é de loor de Santa Maria das maravillas que deus faz por ela.
+%%
+%%
+%%Deus te salve, groriosa		Reinna Maria,
+%%Lume dos Santos fremosa		e dos Ceos Via.
 %%endtext
 %%multicol start
 %%leftmargin  2cm
 %%rightmargin 10.5cm
 %%begintext
- 
+%% 
 Salve-te, que concebiste	mui contra natura,
 e pois teu padre pariste	e ficiste pura
 Virgen, e poren sobiste		sobela altura
 dos ceos, porque quesiste	o que el queria.
-
+%%
 Deus te salve groriosa...
- 
+%% 
 Salve-te, que enchoisti		Deus gran sen mesura
 en ti, e dele fezisti		om' e creatura;
 esto foi porque ouvisti		gran sen e cordura
 en creer quando oisti,		ssa messageria.
-
+%%
 Deus te salve, groriosa...
 %%endtext
 %%multicol new
 %%leftmargin 12cm
 %%rightmargin 2cm
 %%begintext
- 
+%% 
 Salve-te Deus, ca nos disti	en nossa figura
 o seu Fillo que trouxisti,	de gran fremosura,
 e con el nos remiisti		da mui gran loucura
 que fez Eva, e vencisti		o que nos vencia.
-
+%%
 Deus te salve, groriosa...
- 
+%% 
 Salve-te Deus, ca tollisti	de nos gran tristura
 u por teu Fillo frangisti	a carcer escura
 u yamos, e metisti		nos en gran folgura;
 con quanto ben nos viisti,	queno contaria?
-
+%%
 Deus te salve, groriosa...
 %%endtext
 %%multicol end
