@@ -5347,7 +5347,6 @@ W:
 W: Pois que Deus quis da Virgen fillo...
 
 
-
 %%landscape 0
 X: 39
 T: Cantiga 39: Torto seria grand' e desmesura
@@ -5434,6 +5433,92 @@ W:assi cheirava con ssa cobertura.
 W:
 W:Torto seria grand' e desmesura...
 
+
+%%landscape 0
+X: 40
+T: Cantiga 40: Deus te salve, groriosa
+N: 30 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/121small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob028small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob029small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4 
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+    F  F2| F  A2 | G (A>G)|(F/E/) D2 | E G2|(F/E/) D2|C3|(C2D)|
+w:Deus te sal-ve, gro-ri-*  o-*   sa  Re-i-  nna*  Ma-ri- a,*
+   F F2| F   A2| G (A>G)|(F/E/) D2 | G2 (F/E/)|D C2 |(D2E)|D3 ||
+w:Lu-me dos San-tos fre-* mo-*  sa   e   dos* Ce-os   Vi-* a.
+%
+   c  c2| c   d2| c (c>B)| A  A2| G  (FE)| F  G2|E3|E3 |
+w:Sal-ve-te, que con-ce-* bi-ste mui con-*tra na-tu-ra,
+  c  c2 | c  d2| c (c>B)| A  A2|G (F>E)| D  C2|(D2E)|D3|
+w:e pois teu pa-dre pa-* ri-ste e  fi-* ci-ste  pu-* ra
+   F   F2 | F A2| G (A>G)|(F/E/) D2| E G2|(F/E/) D2|C3|(C2D) |
+w:Vir-gen,  e po-ren so-*  bi-* ste so-be- la*   al-tu- ra*
+   F  F2|F    A2| G (A>G)|(F/E/) D2|G2 (F/E/)|D   C2|(D2E)|D3||
+w:dos ce-os, por-que que-* si-* ste o   que*  el que- ri-* a.
+
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+
+Esta é de loor de Santa Maria das maravillas que deus faz por ela.
+%%endtext
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+ 
+Deus te salve, groriosa		Reinna Maria,
+Lume dos Santos fremosa		e dos Ceos Via.
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+ 
+Salve-te, que concebiste	mui contra natura,
+e pois teu padre pariste	e ficiste pura
+Virgen, e poren sobiste		sobela altura
+dos ceos, porque quesiste	o que el queria.
+
+Deus te salve groriosa...
+ 
+Salve-te, que enchoisti		Deus gran sen mesura
+en ti, e dele fezisti		om' e creatura;
+esto foi porque ouvisti		gran sen e cordura
+en creer quando oisti,		ssa messageria.
+
+Deus te salve, groriosa...
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+ 
+Salve-te Deus, ca nos disti	en nossa figura
+o seu Fillo que trouxisti,	de gran fremosura,
+e con el nos remiisti		da mui gran loucura
+que fez Eva, e vencisti		o que nos vencia.
+
+Deus te salve, groriosa...
+ 
+Salve-te Deus, ca tollisti	de nos gran tristura
+u por teu Fillo frangisti	a carcer escura
+u yamos, e metisti		nos en gran folgura;
+con quanto ben nos viisti,	queno contaria?
+
+Deus te salve, groriosa...
+%%endtext
+%%multicol end
 
 
 %%landscape 0
