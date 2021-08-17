@@ -4331,6 +4331,136 @@ W:     vai por nossos pecados.
 
 
 %%landscape 0
+X: 31
+T: Cantiga 31: Tanto, se Deus me perdon
+N: 32 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/105small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob031small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=150
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   F (FG) | A  G2 | c (B/A/G)|(AG2)| c (cB)| A (AG) | F (G/F/E)| D  C2|
+w:Tan-to,* se Deus me  per-** don,* son da* Vir-gen* co- nno-** çu-das
+   F (FG) | A A2 | G (G/E/D)|(F/E/DC)| E   G2| A (G/F/F/E/)|(D/C/)(DE) | F D2||
+w:sas mer-*ce-es, que qui-**  nnon*** que-ren end' as***     be-*stias* mu-das.
+%
+   F (FG)| A   A2 |G (F/E/D)|(F/E/) (DC)|E G2 |A (G/F/F/E/)|(D/C/)(DE)|(F/E/) D2| 
+w:De-sto* mo-strou un mi-**   ra-*  gre* a que é  cha-***    ma-*  da*  Vir-* ga
+   F (FG)| A  A2| G (F/E/D)|(F/E/)(DC)| E G2| A (F>E)|(D/C/)(DE)|(F/E/) D2|
+w:de Je-* sse na ssa ei-**   gre-* ja* que é-ste en*   Vi-*  la-* Sir-* ga,
+   F (FG)| A  G2| c (B/A/G)|(AG2)|c (c>B)|A (AG)|  F (G/F/E)| D C2|
+w:que a*  pre-to de  Ca-**  rron* a  du-* as le-*guas sa-**  bu-das,
+  F (FG)| A A2| G (F/E/D)|(F/E/DC)| E  G2 |  A (G/F/F/E/)|(D/C/)(DE)|F D2||
+w:u van* fa-zer o- ra-**   çon***  gen-tes gran-des***     e*    mi-*u-das.
+%
+%%newpage
+W:Esta é como Santa Maria levou o boi do aldeão de Segovia
+W:que ll' avia prometudo e non llo queria dar.
+W: 
+W:Tanto, se Deus me perdon,
+W: son da Virgen connoçudas
+W: sas mercees, que quinnon
+W: queren end' as bestias mudas.
+W: 
+W:Desto mostrou un miragre a que é chamada Virga
+W:de Jesse na ssa eigreja que éste en Vila-Sirga,
+W: que a preto de Carron
+W: a duas leguas sabudas,
+W: u van fazer oraçon
+W: gentes grandes e miudas.
+W:
+W: Tanto, se Deus me perdon...
+W: 
+W:Ali van muitos enfermos, que receben sãydade,
+W:e ar van-x'i muitos sãos, que dan y ssa caridade;
+W: e per aquesta razon
+W: sson as gentes tan movudas,
+W: que van y de coraçon
+W: ou envian sas ajudas.
+W:
+W: Tanto, se Deus me perdon...
+W: 
+W:E porend' un aldeão de Segovia, que morava
+W:na aldea, huma vaca  perdera que muit' amava;
+W: e en aquela ssazon
+W: foran y outras perdudas,
+W: e de lobos log' enton
+W: comestas ou mal mordudas.
+W:
+W: Tanto, se Deus me perdon...
+W: 
+W:E porque o aldeão desto muito se temia,
+W:ante sa moller estando, diss' assi: «Santa Maria,
+W: dar-t-ei o que trag', en don,
+W: a vaca, se ben m' ajudas
+W: que de lob' e de ladron
+W: mia guardes; ca defendudas
+W:
+W: Tanto, se Deus me perdon...
+W: 
+W:Son as cousas que tu queres; e por aquesto te rogo
+W:que mi aquesta vaca guardes.» E a vaca veio logo
+W: sen dan' e sen ocajon,
+W: con ssas orellas merjudas,
+W: e fez fillo sen lijon
+W: con sinaes pareçudas.
+W:
+W: Tanto, se Deus me perdon...
+W: 
+W:Pois creceu aquel bezerro  e foi almall' arrizado,
+W:a ssa moller o vilão diss': «Irey cras a mercado;
+W: mas este novelo non
+W: yrá nas offereçudas
+W: bestias qu' en offereçon
+W: sson aos Santos rendudas.»
+W:
+W: Tanto, se Deus me perdon...
+W: 
+W:Dizend' esto aa noyte,  outro dia o vilão
+W:quis ir vende-lo almallo;  mas el sayu-lle de mão,
+W: e correndo de randon
+W: foi a jornadas tendudas,
+W: come sse con aguillon
+W: o levassen de corrudas.
+W:
+W: Tanto, se Deus me perdon...
+W: 
+W:Pois foi en Santa Maria,  mostrou-sse por bestia sage:
+W:meteu-sse na ssa eigreja  e parou-ss' ant' a omage;
+W: e por aver ssa raçon
+W: foi u as bestias metudas
+W: eran, que ena maison
+W: foran dadas ou vendudas.
+W:
+W: Tanto, se Deus me perdon...
+W: 
+W:E des ali adeante  non ouv' y boi nen almallo
+W:que tan ben tirar podesse  o carr' e soffrer traballo,
+W: de quantas bestias y son
+W: que an as unnas fendudas,
+W: sen feri-lo de baston
+W: nen d' aguillon a 'scodudas.
+W:
+W: Tanto, se Deus me perdon...
+W: 
+W:O lavrador que pos ele a mui gran pressa veera,
+W:poi-lo vyu en Vila-Sirga, ouv' en maravilla fera;
+W: e fez chamar a pregon,
+W: e gentes foron vynudas,
+W: a que das cousas sermon
+W: fez que ll'eran conteçudas.
+W:
+W: Tanto, se Deus me perdon...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
