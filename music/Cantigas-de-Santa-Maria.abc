@@ -4461,6 +4461,86 @@ W: Tanto, se Deus me perdon...
 
 
 %%landscape 0
+X: 32
+T: Cantiga 32: Quen loar podia
+N: 34 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/107small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob033small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: D Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   E   F2|G  F2| E D2| D   F2| A G2 |(F/E/) D2|G G2|(F/E/) D2| C3 | 
+w:Quen lo-ar po-di-a, com'  e-la que- rri-* a, a Ma- dre*  de quen  
+  F2 F |F2 (A/G/)|(F/E/) D2|C3| D E2| D3||
+w:o mun-do fez,*   se-*  ri-a  de bon sen.
+   D    A2|  A  B2|A3| G3| F   A2| G F2 |E3|D3|
+w:Dest' un gran mi-ra-gre vos con-ta-rei o- ra,
+   D   A2| A B2|A3|G3| F   A2 | G  F2 |E3|D3|
+w:que san-ta Ma-ri-a  fez, que por nos o- ra,
+   E F2| G  F2|  E D2| E  F2| A  G2|(F/E/) D2| G  G2 |(F/E/) D2 |C3 |
+w:dun*  que al, fo-ra  a ssa mi-ssa, o-*   ra-çon nun- ca*   per ren 
+  F2  F |F2 (A/G/)|(F/E/) D2|C3 | D   E2|D3||
+w:ou-tra sa- bi-*   a*    di-zer mal nen ben.
+     
+%%newpage
+W:Esta é como Santa Maria amenaçou o bispo
+W:que descomungou o crerigo
+W:que non sabia dizer outra missa senon a sua.
+W:
+W:     Quen loar podia,  com' ela querria,  a Madre de quen
+W:            o mundo fez, seria de bon sen.
+W: 
+W:Dest' un gran miragre vos contarei ora,
+W:que santa Maria fez, que por nos ora,
+W:     dum que al, fora  a ssa missa, oraçon nunca per ren
+W:            outra sabia dizer mal nen ben.
+W:
+W:     Quen loar podia...
+W: 
+W:Onde ao Bispo daquele bispado
+W:en que el morava foi end' acusado;
+W:     e ant' el chamado  e enpreguntado  foy, se era ren
+W:            o que oya del Respos: «O ben.»
+W:
+W:     Quen loar podia...
+W: 
+W:Poi-lo Bispo soube per el a verdade,
+W:mandou-lle tan toste  mui sen piedade
+W:     que a vezindade  leixas' da cidade  tost' e sen desden,
+W:            e que ssa via logo sse foss' en.
+W:
+W:     Quen loar podia...
+W: 
+W:Aquela noit' ouve  o Bispo veuda
+W:a Santa Maria  con cara sannuda,
+W:     dizendo-lle: «Muda  a muit' atrevuda  sentença, ca ten
+W:            que gran folia fezist'. E poren
+W:
+W:     Quen loar podia...
+W: 
+W:Te dig' e ti mando  que destas perfias
+W:te quites; e se non, d' oj' a trinta dias
+W:     morte prenderias  e alá yrias  u dem' os seus ten
+W:            na ssa baylia, ond' ome non ven.»
+W:
+W:     Quen loar podia...
+W: 
+W:O Bispo se levou  mui de madurgada,
+W:e ao capelan deu raçon dobrada
+W:     «E missa cantada  com' acostumada  ás,» disse, «manten
+W:            da que nos guia, ca assi conven.»
+W:
+W:     Quen loar podia...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
