@@ -5349,6 +5349,94 @@ W: Pois que Deus quis da Virgen fillo...
 
 
 %%landscape 0
+X: 39
+T: Cantiga 39: Torto seria grand' e desmesura
+N: 43 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/120small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob043small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   F   G A2| F>G   A2  |B (c/B/) A2|(G/F/E) D2| 
+w:Tor-to se-ri-a grand' e  des-* me- su-**  ra
+ (E/F/G) (F>E) |(DC)  C2 |(C>D)  F2| F   G  A2|(A/G/F) (A/G/A)||
+w:de**    pren-* der* mal  da*  Vir-gen ssa fi- gu-**   ra.**
+%
+  (A>G) (F>E)|(DC) C2|(CD)   F2|F > G   A2|(A/G/F) (G<A) |
+w:Ond'*  a-*   ve-*io  en*  San Mi-guel de  Tom-**  ba,*  
+  F2 (F>E)|(DC) C2|(C>D)  F2| F   G  A2|(A/G/F) (A/G/A)|
+w:un  mõ-*  e-*stei-ro*  que jaz so-bre  lom-**  ba**
+   F  G  A2 |F > G   A2| B (c/B/)  A2|(G/F/E) D2| 
+w:du-ma gran pe-na, que ja quant'* é   com-** ba,
+  (E/F/G) (F>E)|(D>C) C2|(C>D) F2| F   G    A2|(A/G/F) (A/G/A)||
+w:en**    que*  co-* ri- sco* fe-riu noit' e-  scu-**  ra.**
+%
+%%newpage
+W:Esta é como Santa Maria guardou a sa omagen, que a non queimas' o fogo.
+W: 
+W:
+W:Torto seria grand' e desmesura
+W:de prender mal da Virgen ssa figura.
+W: 
+W:Ond' aveio en San Miguel de Tomba,
+W:un mõesteiro que jaz sobre lomba
+W:duma gran pena, que ja quant' é comba,
+W:en que corisco feriu noit' escura.
+W:
+W:Torto seria grand' e desmesura...
+W: 
+W:Toda a noite ardeu a perfia
+W:ali o fog' e queimou quant' avia
+W:na eigreja, mas non foi u siia
+W:a omagen da que foi Virgen pura.
+W:
+W:Torto seria grand' e desmesura...
+W: 
+W:E como quer que o fogo queimasse
+W:en redor da omagen quant' achase,
+W:Santa Maria non quis que chegasse
+W:o fum' a ela, nena caentura.
+W:
+W:Torto seria grand' e desmesura...
+W: 
+W:Assi guardou a Reinna do Ceo
+W:a ssa omagen, que nen sol o veo
+W:tangeu o fogo, come o ebreo
+W:guardou no forno con ssa vestidura.
+W:
+W:Torto seria grand' e desmesura...
+W: 
+W:Assi lle foi o fog' obediente
+W:a Santa Maria, que sol niente
+W:non tangeu sa omage veramente,
+W:ca de seu Fill' el era creatura.
+W:
+W:Torto seria grand' e desmesura...
+W: 
+W:Daquesto foron mui maravillados
+W:quantos das terras y foron juntados,
+W:que solament' os fios defumados
+W:non viron do veo, nena brancura.
+W:
+W:Torto seria grand' e desmesura...
+W: 
+W:Da omagen nen ar foi afumada,
+W:ante semellava que mui lavada
+W:fora ben toda con agua rosada,
+W:assi cheirava con ssa cobertura.
+W:
+W:Torto seria grand' e desmesura...
+
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
