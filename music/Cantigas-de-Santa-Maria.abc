@@ -4763,6 +4763,227 @@ W:quen contra Santa Maria filla atrevemento.
 
 
 %%landscape 0
+X: 35
+T: Cantiga 35: O que a Santa Maria
+N: 92 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/111small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob081small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob082small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: A Phrygian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  c (cd)|e2 c | f (fe)|d2 (e/d/)| c (dc)|(BA) G |(GAB) | c (BA)|
+w:O que* a San-ta  Ma-*ri- a*    der al-* go* ou  pro-**me-ter,*
+  A  (AB)  |c2 B |  G   (A/G/F)|(AGF)| E3| G (GA)| F  (GA) | c (B/A/G)|A3||
+w:de-reit'* é que ss'~en mal**   a-** che se llo* pois qui-*ser to-** ller.
+%
+   F (GA)  |c (cB)|G (A/G/F)|(AGF)|E3| G  (G>A)| F (GA) |c (B/A/G) | A3 |
+w:Ca muit'* é  o-* me sen**   si-**so quen lle* de  dar* al-gu'~é** greu,
+   F (GA)| c  (cB)| G (A/G/F)|(AGF)| E3 | G  (G>A)|F (GA)| c (B/A/G)|A3|
+w:ca  o*  ben que* nos a-**    ve-**mos, Deus por* e- la* no- lo**   deu.
+  c (cd)|e2  c| f  (fe)| d (ed)| c (dc)|(BA/B/)  G|(GAB)| c2 (B/A/)|
+w:E por* es-to non lle* da-mos* ren do*  nos-** so, mas** do seu,*
+  A (AB)| c   (cB)| G (A/G/F)|(AGF) |E3| G  (G>A)|F (GA) | c (B/A/G)|A3||
+w:on-de* quen llo* to- ller**  cui-**da gran so-*ber-via* vay fa-**  zer.
+%
+%%newpage
+W:Esta é como Santa Maria fez queimar a lãa aos mercadores
+W:que offereran algo a sua omage, e llo tomaran depois.
+W: 
+W: 
+W:
+W:O que a Santa Maria der algo ou prometer,
+W:dereit' é que ss' en mal ache  se llo pois quiser toller.
+W:
+W:Ca muit' é ome sen siso quen lle de dar algu' é greu,
+W:ca o ben que nos avemos, Deus por ela no-lo deu.
+W:E por esto non lle damos ren do nosso, mas do seu,
+W:onde quen llo toller cuida gran sobervia vay fazer.
+W:
+W:O que a Santa Maria  der algo ou prometer...
+W:
+W:Desta razon un miragre direi fremoso, que fez
+W:a Virgen Santa Maria, que é Sennor de gran prez,
+W:por humas sas reliquias  que levaron huma vez
+W:uus crerigos a França, de que vos quero dizer.
+W:
+W:O que a Santa Maria der algo ou prometer...
+W:
+W:Estes foron da cidade  que é chamada Leon
+W:do Rodão, u avia  muy grand' igreja enton,
+W:que ardeu tan feramente  que sse fez toda carvon;
+W:mas non tangeu nas relicas, esto devedes creer.
+W:O que a Santa Maria der algo ou prometer...
+W:
+W:Ca avia y do leyte   da Virgen esperital,
+W:outrossi dos seus cabelos   envoltos en un cendal,
+W:tod' aquest' en huma arca   feita d' ouro, ca non d'al;
+W:estas non tangeu o fogo,   mai-lo al foi tod' arder.
+W:
+W:O que a Santa Maria  der algo ou prometer...
+W:
+W:Os crerigos, quando viron  que a eigreja queimar
+W:se fora, como vos digo,  ouveron-sse d' acordar
+W:que sse fossen pelo mundo  conas relicas gãar
+W:per que ssa eigreja feita  podess' agynna seer.
+W:
+W:O que a Santa Maria  der algo ou prometer...
+W:
+W:Maestre Bernad' avia  nom' un que er' en dayan
+W:da egreija, ome bõo,  manss' e de mui bon talan,
+W:que por aver Parayso  sempre soffria afan;
+W:este foi conas relicas  polas fazer connocer.
+W:
+W:O que a Santa Maria  der algo ou prometer...
+W:
+W:E andou primeiro França,  segundo com' aprendi,
+W:u fez Deus muitos miragres  per elas; e foi assy
+W:que depois a Ingraterra  ar passou e, com' oý,
+W:polas levar mais en salvo foy-as na nave meter.
+W:
+W:O que a Santa Maria  der algo ou prometer...
+W:
+W:Dun mercador que avia   per nome Colistanus,
+W:que os levass' a Bretanna,   a que pobrou rei Brutus;
+W:e entrou y tanta gente   que non cabian y chus,
+W:de mui ricos mercadores   que levavan grand' aver.
+W:O que a Santa Maria der algo ou prometer...
+W:
+W:E u ja pelo mar yan   todos a mui gran sabor,
+W:ouveron tan gran bonaça   que non podia mayor;
+W:e estando en aquesto,   ar ouveron gran pavor,
+W:ca viron ben seis galeas   leixar-ss' a eles correr,
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:De cossarios que fazian   en aquel mar mal assaz.
+W:Mas pois o sennor da nave   os viu, disse: «Non me praz
+W:con estes que aqui veen;   mais paremo-nos en az,
+W:e ponnamos as relicas   alt' u as possan veer.»
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:Logo que esto foi dito,   maestre Bernalt sacou
+W:a arca conas relicas;   e tanto que as mostrou,
+W:de quento mercadores yan   ena nav' un non ficou
+W:que tan toste non veessen   mui grand' alg' y offerer.
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:Todos enton mui de grado   offerian y mui ben:
+W:os uus davan y panos,   os outros our' ou argen,
+W:dizendo: «Sennor, tod' esto   filla que non leixes ren,
+W:sol que non guardes os corpos   de mort' e de mal prender.»
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:En tod' est' as seis galeas   non quedavan de viir,
+W:cada huma de ssa parte,   por ena nave ferir.
+W:E o que tinia a arca   das relicas, sen mentir,
+W:alçou-a contra o ceo,   pois foy-a alte põer.
+W:
+W:O que a Santa Maria der algo ou prometer...
+W:
+W:O armiral das galeas   vinia muit' ant' os seus,
+W:e o que tinia a arca   da Virgen, Madre de Deus,
+W:lles diss' a mui grandes vozes:   «Falssoss, maos e encreus,
+W:de Santa Maria somos,   a de que Deus quis nacer,
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:E poren mal non nos faças,   se non, logo morrerás
+W:e con quantos tigo trages   ao inferno yrás
+W:e de quant' acabar cuidas   ren en non acabarás,
+W:ca a nav' estas relicas   queren de ti deffender.»
+W:
+W:O que a Santa Maria der algo ou prometer...
+W:
+W:Quant' o crerigo dizia   o almiral tev' en vil,
+W:e fez tirar das galeas   saetas mui mais de mil
+W:por mataren os da nave;   mas un vento non sotil
+W:se levantou muit' agynna,   que as galeas volver
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:Fez, que a do almirallo   de fond' a cima fendeu,
+W:e britou logo o maste,   e sobr' el enton caeu
+W:e deu-lle tan gran ferida,   que os ollos lle verteu
+W:logo fora da cabeça   e fez-lo no mar caer.
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:E fez as outras galeas   aquele vento de sur
+W:alongar enton tan muito   que as non viron nenllur;
+W:e apareceu-lles Dovra,   a que pobrou rey Artur,
+W:e enton cuydaron todos   o seu en salvo teer.
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:E logo aas relicas   correndo mui gran tropel
+W:venno desses mercadores,   e cada un seu fardel
+W:fillou e quant' aly dera,   e non cataron o bel
+W:miragre maravilloso,   per que os fez guarecer
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:A Virgen Santa Maria,   Madre do muit' alto Rey,
+W:que matou seus enemigos,   como vos eu ja dito ey.
+W:E maestre Bernal disse: «Un preito vosco farey:
+W:dar-vos-ey a meyadade,   e leixad' o al jazer.»
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:Todos responderon logo:   «Preit' outr' y non averá
+W:que o todo non tomemos,   mas tornaremos dacá;
+W:daquelo que gaannarmos   cad uu y dará
+W:o que vir que é guisado,   como o poder soffrer.»
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:Os mais desses mercadores   de Frandes e de Paris
+W:eran; e pois s' apartaron,   cada uu deles quis
+W:comprar de seu aver lãa,   cuidando seer ben fis
+W:que en salvo a ssa terra   a poderia trager.
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:E poy-ll' ouveron conprada,   un dia ante da luz
+W:moveron do porto Dovra;   mais o que morreu na cruz,
+W:querendo vingar sa Madre,   fez com' aquel que aduz
+W:gran poder de meter medo   que ll' ajan de correger
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:O gran torto que fezeran   a ssa Madr' Emperadriz,
+W:a que é Sennor do mundo.   E poren, par San Fiiz,
+W:feriu corisco na nave,   e com' o escrito diz,
+W:queimou tod' aquela lãa   e non quis o al tanger.
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:Quand' este miragre viron,   tornaron mui volonter
+W:u leixaran as relicas,   e disseron: «Pois Deus quer
+W:que a ssa Madre do nosso   demos, quis do que tever
+W:dará y de bõa mente,   e ide-o receber.»
+W:
+W:O que a Santa Maria   der algo ou prometer...
+W:
+W:Disso maestre Bernaldo:   «Esto mui gran dereit' é
+W:de vos nenbrar das relicas   da Virgen que con Deus ssé,
+W:a que fezestes gran torto   guardando mal vossa fe.»
+W:E non quis en mais do terço,   que fez o logo coller.
+W:
+W:O que a Santa Maria   der algo ou prometer...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
