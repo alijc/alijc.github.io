@@ -5516,6 +5516,106 @@ Deus te salve, groriosa...
 
 
 %%landscape 0
+X: 41
+T: Cantiga 41: A Virgen, Madre de Nostro Sennor
+N: 44 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/122small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob043small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob044small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 6/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  D2 C   D3| F2  G (F2E)|(D>E)  C  D3| F6 |  A2  c (B2c)|A6| G2(FEFG/A/)|F6|
+w:A Vir-gen, Ma-dre de*   No-*stro Se-nnor, ben po- de* dar seu si-****  so
+  F2 G  A3|(A>G)   F  (G2A)|(F>E) D (D2E)|C6 | D2 C  D3| F2(A/G/F/E/) (F/E/D/C/)| D6||
+w:a- o san- deu,* pois a-*   o*  pe- ca-* dor faz a-ver Pa- ra-***     y-***      so.
+%
+  D2  C   D3 | F2 G (F2E)|(D>E)  D   C  D2| D2 C   D3 |F2  G (F2E)|(D>E) D   C3| D6 |
+w:En Sei-xons fez a  Ga-*  rin* cam-bia-dor a Vir-gen, Ma-dre de*   No-*stro Se-nnor,
+   D2  C    D3|F2  G (F2E)|(D>E) D   C  D2|D2  C   D3 |F2  G (F2E)|(D>E) D   C3| D6 |
+w:que tant' ou-ve de  o*    ti-*rar sa-bor  a Vir-gen, Ma-dre de*   No-*stro Se-nnor,
+  D2  C  D3|F2 (A/G/) (F2E)|(D>E) C  D3|F6| A2  c (B2c)|A6| G2(FEFG/A/)|F6|
+w:do po-der do  de-*   mo,*  ca* de pa-vor del per-de-* ra  o  si-****  so;
+   F2 G A3|(A>G)   F (G2A)|(F>E)  D (D2E)|C6|D2 C  D3 | F2(A/G/F/E/) (F/E/D/C/)|D6||
+w:mas e-la  to-*lleu-ll'a-* que-*sta do-* or e deu-lle Pa- ra-***     y-***     so.
+
+X: 2
+T: Cantiga 41: A Virgen, Madre de Nostro Sennor
+N: 
+M: 5/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  D2 C   D2| F2  G (F>E)|(D>E)  C  D2| F4 z| A2  c (B>c)|A4z| G (FEFG/A/)|F4z|
+w:A Vir-gen, Ma-dre de*   No-*stro Se-nnor, ben po- de* dar  seu si-****  so
+  F2 G  A2|(A>G)   F  (G>A)|(F>E) D (D>E)|C4z| D2 C  D2| F (A/G/F/E/) (F/E/D/C/)| D4z||
+w:a- o san- deu,* pois a-*   o*  pe- ca-* dor faz a-ver Pa- ra-***     y-***      so.
+%
+  D2  C   D2 | F2 G (F>E)|(D>E)  D/  C/ D2| D2 C   D2 |F2  G (F>E)|(D>E) D   C2| D4z |
+w:En Sei-xons fez a  Ga-*  rin* cam-bia-dor a Vir-gen, Ma-dre de*   No-*stro Se-nnor,
+   D2  C    D2|F2  G (F>E)|(D/E/) D   C  D2|D2  C   D2 |F2  G (F>E)|(D>E) D   C2| D4z |
+w:que tant' ou-ve de  o*    ti-* rar sa-bor  a Vir-gen, Ma-dre de*   No-*stro Se-nnor,
+  D2  C  D2|F2 (A/G/) (F>E)|(D>E) C  D2|F4z| A2  c (B>c)|A4z| G (FEFG/A/)|F4z|
+w:do po-der do  de-*   mo,*  ca* de pa-vor  del per-de-* ra   o  si-****  so;
+   F2 G A2|(A>G)   F (G>A)|(F>E)  D (D>E)|C4z|D2 C  D2 | F (A/G/F/E/) (F/E/D/C/)|D4z||
+w:mas e-la  to-*lleu-ll'a-* que-*sta do-* or  e deu-lle Pa- ra-***     y-***     so.
+%
+%%newpage
+W: 
+W:Esta é como Santa Maria guareceu o que era sandeu.
+W: 
+W:
+W:A Virgen, Madre de Nostro Sennor,
+W:          ben pode dar seu siso
+W:ao sandeu, pois ao pecador
+W:          faz aver Parayso.
+W: 
+W:En Seixons fez a Garin cambiador
+W:a Virgen, Madre de Nostro Sennor,
+W:que tant' ouve de o tirar sabor
+W:a Virgen, Madre de Nostro Sennor,
+W:do poder do demo, ca de pavor
+W:          del perdera o siso;
+W:mas ela tolleu-ll' aquesta door
+W:          e deu-lle Parayso.
+W:
+W:A Virgen, Madre de Nostro Sennor...
+W: 
+W:Gran ben lle fez en est' e grand' amor
+W:a Virgen, Madre de Nostro Sennor,
+W:que o livrou do dem' enganador,
+W:a Virgen, Madre de Nostro Sennor,
+W:que o fillara come traedor
+W:          e tollera-ll' o siso;
+W:mas cobrou-llo ela, e por mellor
+W:          ar deu-lle Parayso.
+W:
+W:A Virgen, Madre de Nostro Sennor...
+W: 
+W:Loada será mentr' o mundo for
+W:a Virgen, Madre de Nostro Sennor,
+W:de poder, de bondad' e de valor,
+W:a Virgen, Madre de Nostro Sennor,
+W:porque a ssa mercee é mui mayor
+W:          ca o nosso mal siso,
+W:e sempre a seu Fill' é rogador
+W:          que nos dé Parayso.
+W:
+W:A Virgen, Madre de Nostro Sennor...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
