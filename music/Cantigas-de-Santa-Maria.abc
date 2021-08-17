@@ -4541,6 +4541,145 @@ W:     Quen loar podia...
 
 
 %%landscape 0
+X: 33
+T: Cantiga 33: Gran poder á de mandar
+N: 35 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/108small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob034small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+    F  F2| F (AG)|(F/E/)(D>E)|C3| D (F>E)|D C2| D (CE)|(FG/FE/)|F3|
+w:Gran po-der á*   de*   man-*dar o  mar* e to-do-los*  ven-***  tos
+  F (FG)| A (A>G)|(F/E/)(D>E)|C3|  D (CE)| F  (AG) |(F/E/) D2|(EDC)|D3||
+w:a  Ma-*dre da-*  quel* que* fez to- do-*los qua-* tr'~e-*le-men-**tos.
+%
+   D (CE)| F (G/FE/)| D (EC)| D3|D (CE)| F (G/FE/)| D (EC)|D3|
+w:Des-to* vos que-** ro con-*tar un mi-*ra- gre,** que a-*char
+   F   F2| F (AG)|(F/E/) (D>E)|C3 |D (F>E)| D    C2 | D (CE)|(FG/FE/)|F3|
+w:ouv' en un  li-*vr',~e* ti-* rar o  fui* ben d'~on-tre tre-*zen-*** tos,
+   F  (FG)|A (A>G)|(F/E/)(D>E)|C3|  D (F>E)|D C2| D (CD)|  F3 |
+w:que fez* a  Vir-* gen*  sen* par por nos* a to-dos mos-*trar
+   F  (FG) |  A (A>G)|(F/E/) D2|(EDC)|D3||
+w:que seus* sson os*   man-* da-men-**tos.
+%
+%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+Esta é como Santa Maria levou en salvo o romeu que caera no mar,
+e o guyou per so a agua ao porto ante que chegass' o batel.
+
+%%endtext
+%%multicol start
+%%leftmargin  6cm
+%%rightmargin 6cm
+%%begintext
+Gran poder á de mandar o mar e todo-los ventos
+a Madre daquel que fez todo-los quatr' elementos.
+ 
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+Desto vos quero contar
+un miragre, que achar
+ouv' en un livr', e tirar
+o fui ben d' ontre trezentos,
+que fez a Virgen sen par
+por nos a todos mostrar
+que seus sson os mandamentos.
+  Gran poder á de mandar...
+ 
+Huma nav' ya per mar,
+cuidand' en Acre portar;
+mas tormenta levantar
+se foi, que os bastimentos
+da nave ouv' a britar,
+e começou-ss' afondar
+con romeus mais d' oitocentos.
+  Gran poder á de mandar...
+ 
+Un Bispo fora entrar
+y, que cuidava passar
+con eles; e pois torvar
+o mar viu, seus penssamentos
+foron dali escapar;
+e poren se foi cambiar
+no batel ben con duzentos
+  Gran poder á de mandar...
+ 
+Omees. E un saltar
+deles quis e se lançar
+cuidou no batel; mas dar
+foi de pees en xermentos
+que y eran, e tonbar
+no mar foi e mergullar
+ben até nos fondamentos.
+  Gran poder á de mandar...
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+Os do batel a remar
+se fillaron sen tardar
+per sse da nav' alongar
+e fugir dos escarmentos,
+de que oyran falar,
+dos que queren perfiar
+sen aver acorrimentos.
+  Gran poder á de mandar...
+ 
+E con coyta d' arribar,
+ssa vea foron alçar,
+e terra foron fillar
+con pavor e medorentos;
+e enton viron estar
+aquel que perigoar
+viran enos mudamentos.
+  Gran poder á de mandar...
+
+Començaron-ss' a sinar,
+e fórono preguntar
+que a verdad' enssinar
+lles fosse sen tardamentos,
+se guarira per nadar,
+ou queno fora tirar
+do mar e dos seus tormentos.
+  Gran poder á de mandar...
+ 
+E el fillou-ss' a chorar
+e disse: «Se Deus m' anpar,
+Santa Maria guardar
+me quis por merecimentos
+non meus, mas por vos mostrar
+que quen per ela fiar,
+valer-ll-an seus cousimentos.»
+  Gran poder á de mandar...
+ 
+Quantos eran no logar
+começaron a loar
+e «mercee» lle chamar,
+que dos seus ensinamentos
+os quisess' acostumar,
+que non podessen errar
+nen fezessen falimentos.
+  Gran poder á de mandar...
+%%endtext
+%%multicol end
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
