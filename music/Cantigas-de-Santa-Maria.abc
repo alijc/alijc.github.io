@@ -4243,6 +4243,94 @@ W:Nas mentes senpre ter...
 
 
 %%landscape 0
+X: 30
+T: Cantiga 30: Muito valvera mais
+N: 40 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/104small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob039small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob040small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   G  B2|(c/d/) (BA)|(A/G/)  F2 |(G/A/) B2 |(AGF)|E3 |(E/F/) G2|(G/A/) c2| B (A/G/F)| G3 |
+w:Mui-to  val-*  ve-* ra*   mais, se*   Deus m'~an-**par, que*  non fos-* se-mos na-**dos,
+   G  B2|(c/d/) (BA)|(A/G/) F2|(3(G/A/B/) (A>G)|F3|E3|(E/F/) G2|(G>A) (c/B/)|(A/G/) (A/G/F/E/)|F3||
+w:se nos  non*   des-*se*  Deus   a**      que* ro-gar vai*  por nos-* sos*   pe-*    ca-***    dos.
+%
+   c2  c|(dB)  c | d (d/e/f/e/)|c c2|(BAG) |A3| c (c/B/) (A/G/)|(AGF)|(G/A/) (c/B/A/G/)|A3|
+w:Mas da-que-*sto nos fez***    el o  ma-**yor ben que*  fa-*   zer**  po-*   di-***    a,
+  c2 c|(dB)   c | d  (d/e/f/e/)| c  c2|(BAG)|A3  |c (c/B/) (A/G/)|(AGF)|(G/A/) (c/B/A/G/)|A3|
+w:u fi-llou* por Madr' e***     deu por  Se-**nnor a  nos*   San-*  ta**  Ma-*   ri-***    a,
+   A  c2|(c>d) (B/A/)|(A/G/) F2|(G/A/) B2|(AGF)|E3|(E/F/) G2|(G/A/) c2| B (A/G/F)|G3 |
+w:que lle ro-* gue,*   quan-*do  san-* nu- do** for con-*tra  nos*  to-da- vi-**  a,
+   G  B2|(c/d/) (BA)|(A/G/) F2|(3(G/A/B/) (A>G)|F3|E3|(E/F/) G2|(G>A) (c/B/)|(A/G/) (A/G/F/E/)|F3||
+w:que da  ssa*  gra-* ça*  nen    do**    seu*  a- mor non*  se- ja-*  mos*   dei-*  ta-***    dos.
+%
+%%newpage
+W:Esta é de loor de Santa Maria, de como deus non
+W:lle pode dizer de non do que lle rogar, nen ela a nos.
+W: 
+W:Muito valvera mais, se Deus m' anpar,
+W:     que non fossemos nados,
+W:se nos non desse Deus a que rogar
+W:     vai por nossos pecados.
+W: 
+W:Mas daquesto nos fez el o mayor
+W:     ben que fazer podia,
+W:u fillou por Madr' e deu por Sennor
+W:     a nos Santa Maria,
+W:que lle rogue, quando sannudo for
+W:     contra nos todavia,
+W:que da ssa graça nen do seu amor
+W:     non sejamos deitados.
+W:
+W:Muito valvera mais...
+W: 
+W:Tal foi el meter entre nos e ssi
+W:     e deu por avogada,
+W:que madr', amiga ll' é, creed' a mi,
+W:     e filla e criada.
+W:Poren non lle diz de non, mas de si,
+W:     u a sent' afficada,
+W:rogando-lle por nos, ca log' ali
+W:     somos del perdõados.
+W:
+W:Muito valvera mais...
+W: 
+W:Nen ela outrossi a nos de non
+W:     pode, se Deus m' ajude,
+W:dizer que non rogue de coraçon
+W:     seu Fill', ond' á vertude;
+W:ca por nos lle deu el aqueste don,
+W:     e por nossa saude
+W:fillou dela carn' e sofreu paxon
+W:     por fazer-nos onrrados
+W:
+W:Muito valvera mais...
+W: 
+W:No seu reino que el pera nos ten,
+W:     se o nos non perdermos
+W:per nossa culpa, non obrando ben,
+W:     e o mal escollermos.
+W:Mas seu ben non perderemos per ren
+W:     se nos firme creermos
+W:que Jeso-Crist' e a que nos manten
+W:     por nos foron juntados.
+W:
+W:Muito valvera mais, se Deus m' anpar,
+W:     que non fossemos nados,
+W:se nos non desse Deus a que rogar
+W:     vai por nossos pecados.
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
