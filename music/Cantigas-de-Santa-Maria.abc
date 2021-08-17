@@ -5080,7 +5080,7 @@ F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/117small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob038small.gif
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob039small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
-M: none
+M: 4/4
 L: 1/4
 Q: 1/4=160
 K: D Dorian
@@ -5180,6 +5180,192 @@ e os seus miragres ontr' os outros teveron
  por mais groriosos.
 %%
  Miragres fremosos...
+%%endtext
+%%multicol end
+
+
+%%landscape 0
+X: 38
+T: Cantiga 38: Pois que Deus
+N: 39
+B:Cantigas de Santa Maria
+F:
+F:
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: D Dorian
+V:1
+%%landscape
+%Staff 1
+%%MIDI program 74
+%
+   F2   F | G    A2 |G2  A | G (F/E/D)| C2 z|F2 F | G   A2|G2  A| G (F/E/D)|C  F2|
+w:Pois que Deus quis da Vir-gen fi-**  llo   se-er por nos pe-ca-do-res**  sal-var,
+  F2  F | G  A2|G2  A| G (F/E/D)|C2 z|E2  C |D3|(E/F/G) F| E2 (D/E/)|D  C2|D3 ||
+w:po-ren-de non me ma-ra- vi-**  llo  se lle pe- sa**  de quen lle* faz pe-sar.
+  c2 A|c3|B2 G  |B3|A2   F | A3| G2 E | G3|(F>E)   F |G3 |(F>E) D|(C/D/) F2| F  G2|(F>E) D|(C/D/) F2|
+w:Ca e-la e sseu Fi-llo son jun-ta-dos d'a- mor,* que par- ti-*dos per* ren nun-ca  po-*den se-*  er;
+  c2 A| c3| B2  G | B3|A2 F | A3|G2  E |G3|(F>E)  F | G3|(F>E) D|(C/D/) F2| F   G2|(F>E) D|  C  D2|
+w:e po-ren son mui nei-ci-os pro-va-dos os  que* con-tra  e-* la van,* non cui-dand' y*  el tan-ger.
+  F2  F| G  A2|G2  A | G (F/E/D)| C2 z| F2  F | G  A2| G2  A | G (F/E/D)|C  F2|
+w:Es-to fa-zen os mal-fa- da-**  dos   que est' a-mor non que-ren en-** ten-der
+  F2  F| G   A2| G2   A| G (F/E/D)|C2 z| E2 C |D3|(E/F/G) F |E2 (D/E/)|D  C2| D3||
+w:co-mo Madr' e Fill' a-cor-da-**  dos  son en fa- zer** ben e   mal* cas-ti-gar.
+
+%%newpage
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+
+Esta é como a omagen de Santa Maria tendeu o braço e tomou o de seu fillo,
+que queria caer da pedra da que lle dera o tafur, de que sayu sangui.
+ 
+
+  Pois que Deus quis da Virgen fillo    seer por nos pecadores salvar,
+  porende non me maravillo              se lle pesa de quen lle faz pesar.
+ 
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+Ca ela e sseu Fillo son juntados
+   d'amor, que partidos per ren nunca poden seer;
+e poren son mui neicios provados
+   os que contra ela van, non cuidand' y el tanger.
+ Esto fazen os malfadados
+    que est' amor non queren entender
+ como Madr' e Fill' acordados
+    son en fazer ben e mal castigar.
+
+ Pois que Deus quis da Virgen fillo...
+ 
+Daquest' aveo, tempos sson passados
+   grandes, que o Conde de Peiteus quis batall' aver
+con Rey de Franç'; e foron assuados
+   en Castro Radolfo, per com' eu oý retraer,
+ un mõesteiro d' ordinnados
+     monges qu' el Conde mandou desfazer
+ porque os ouv' el sospeytados
+     que a franceses o querian dar.
+
+ Pois que Deus quis da Virgen fillo...
+ 
+Poi-los monges foron ende tirados,
+   mui maas conpannas se foron tan tost' y meter,
+ribaldos e jogadores de dados
+   e outros que lles tragian y vynno a vender;
+ e ontr' os malaventurados
+     ouv' y un que começou a perder,
+ per que foron del demostados
+     os Santos e a Reynna sen par.
+
+ Pois que Deus quis da Virgen fillo...
+%%endtext
+%%multicol new
+%%leftmargin 16cm
+%%rightmargin 2cm
+%%begintext
+Mas huma moller, que por seus pecados
+   entrara na eigreja, como sol acaecer,
+ben u soyan vesti-los sagrados
+   panos os monges quando yan sas missas dizer,
+ porque viu y ben entallados
+    en pedra Deus con ssa Madre seer,
+ os geollos logo ficados
+    ouv' ant' eles e fillou-s' a culpar.
+
+ Pois que Deus quis da Virgen fillo...
+ 
+O tafur, quand' esto vyu, con yrados
+   ollos a catou, e começou-a mal a trager
+dizendo: «Vella, son muit' enganados
+   os que nas omagenes de pedra querer creer;
+ e por que vejas com' errados
+     sson, quer' eu ora logo cometer
+ aqueles ydolos pintados.»
+     E foi-lles log' huma pedra lançar.
+
+ Pois que Deus quis da Virgen fillo...
+
+E deu no Fillo, que ambos alçados
+   tinia seus braços en maneira de beneizer;
+e macar non llos ouv' ambos britados,
+   britou-ll' end' un assi que ll' ouvera log' a caer;
+ mas sa Madre os seus deitados
+     ouve sobr' el, con que llo foy erger,
+ e a fror que con apertados
+     seus dedos tinia foy logo deytar.
+
+ Pois que Deus quis da Virgen fillo...
+%%endtext
+%%newpage
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+Mayores miragres ouv' y mostrados
+   Deus, que sangui craro fez dessa ferida correr
+do Menino, e os panos dourados
+   que tinia a Madre fez ben sso as tetas decer,
+ assi que todos desnuados
+     os peitos ll' ouveron de parecer;
+ e macar non dava braados,
+     o contenente parou de chorar.
+
+ Pois que Deus quis da Virgen fillo...
+ 
+E demais ouve os ollos tornados
+   tan bravos, que quantos a soyan ante veer,
+atan muit' eran dela espantados
+   que sol ena face non ll' ousavan mentes teer.
+ E demões log' assembrados
+     contra o que esto fora fazer,
+ come monteyros ben mandados
+     o foron logo tan toste matar.
+
+ Pois que Deus quis da Virgen fillo...
+ 
+Outros dous tafures demoniados
+   ouv' y, porque foran aquel tafur mort' asconder;
+poren sass carnes os endiabrados
+   con gran ravia as começaron todas de roer;
+ e poys no rio affogados
+     foron, ca o demo non lles lezer
+ deu, que todos escarmentados
+     fossen quantos dest' oyssen falar.
+
+ Pois que Deus quis da Virgen fillo...
+%%endtext
+%%multicol new
+%%leftmargin 16cm
+%%rightmargin 2cm
+%%begintext
+O Conde, quando est' oyu, con armados
+   cavaleiros veio e ant' a eigreja decer
+foi; e un daqueles mais arrufados
+   diss' assi: «No meu coraçon non pod' esto caber,
+ se a pedra que me furados
+     os queixos ouv', e mia vedes trager,
+ e por que dyneiros pagados
+     ouvi muitos, se me non quer sãar.»
+
+ Pois que Deus quis da Virgen fillo...
+ 
+Pois esto disse, pernas e costados
+   e a cabeça foi log' ant' a omagen merger,
+e log' os ossos foron ben soldados
+   e a pedra ouv' ele pela boca de render.
+ Desto foron maravillados
+     todos, e el foy a pedra põer,
+ estand' y omees onrrados,
+     ant' a omagen sobelo altar.
+
+ Pois que Deus quis da Virgen fillo...
 %%endtext
 %%multicol end
 
