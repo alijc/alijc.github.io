@@ -5072,6 +5072,119 @@ W:     Muit' amar devemos en nossas voontades...
 
 
 %%landscape 0
+X: 37
+T: Cantiga 37: Miragres fremosos
+N: 39 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/117small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob038small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob039small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: none
+L: 1/4
+Q: 1/4=160
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   C  C  C    D|(F/E/D) C2| F   F   F   G | A  A  G (A/G/)|(F/E/) D (E/D/)  C|D> (ED2)||
+w:Mi-ra-gres fre-mo-** sos faz por nos San-ta Ma-ri- a,*    e*   ma- ra-*  vi-llo sos.*
+%
+    A  A  A   B|(c>B)  A   G | F  F    G    A|(A/GA/) F2|
+w:Fre-mo-sos mi- ra-*gres faz que en Deus cre- a-**  mos,
+  A  A  A  B|(c>B)  A    G | F  F  G   A|(A/GA/) F2 |
+w:e ma-ra-vi- llo-*sos, por que o mais te-ma-** mos;
+   A  A    A (A/B/)|A2   G (A/G/)|F   F   A  G|(F/E/D) D2|  E    D (E/D/) C|D> (ED2)||
+w:po-rend' un da-* ques-tes é*   ben que vos di-ga-** mos, dos mais pi-*  a-do- sos.*
+%
+%%newpage
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+%%
+Esta é como Santa Maria fez cobrar seu pee 
+ao ome que o tallara con coyta de door.
+%%
+%%endtext
+%%multicol start
+%%leftmargin  8cm
+%%rightmargin 8cm
+%%begintext
+ Miragres fremosos
+ faz por nos Santa Maria,
+ e maravillosos.
+%% 
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+Fremosos miragres faz que en Deus creamos,
+e maravillosos, por que o mais temamos;
+porend' un daquestes é ben que vos digamos,
+ dos mais piadosos.
+%%
+ Miragres fremosos...
+%% 
+Est' aveo na terra que chaman Berria,
+dun ome coytado a que o pe ardia,
+e na ssa eigreja ant' o altar jazia
+ ent' outros coitosos.
+%%
+ Miragres fremosos...
+%% 
+Aquel mal do fogo atanto o coytava,
+que con coita dele o pe tallar mandava;
+e depois eno conto dos çopos ficava,
+ desses mais astrosos,
+%%
+ Miragres fremosos...
+%% 
+Pero con tod' esto sempr' ele confiando
+en Santa Maria e mercee chamando
+que dos seus miragres en el fosse mostrando
+ non dos vagarosos,
+%%
+ Miragres fremosos...
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+E dizendo: «Ay, Virgen, tu que es escudo
+sempre dos coitados, queras que acorrudo
+seja per ti; se non, serei oi mais teudo
+ por dos mais nojosos.
+%%
+ Miragres fremosos...
+%% 
+Logo a Santa Virgen a el en dormindo
+per aquel pe a mão yndo e vijndo
+trouxe muitas vezes, e de carne conprindo
+ con dedos nerviosos,
+%%
+ Miragres fremosos...
+%% 
+E quando s' espertou, sentiu-sse mui ben são,
+e catou o pe; e pois foi del ben certão,
+non semellou log', andando per esse chão,
+ dos mais preguiçosos.
+%%
+ Miragres fremosos...
+%% 
+Quantos aquest' oyron, log' ali veeron
+e aa Virgen santa graças ende deron,
+e os seus miragres ontr' os outros teveron
+ por mais groriosos.
+%%
+ Miragres fremosos...
+%%endtext
+%%multicol end
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
