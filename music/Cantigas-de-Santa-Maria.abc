@@ -4984,6 +4984,94 @@ W:O que a Santa Maria   der algo ou prometer...
 
 
 %%landscape 0
+X: 36
+T: Cantiga 36: Muit' amar devemos
+N: 37 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/115small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob036small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob037small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=180
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   E  | G2 G (A/G/)|(FE)  D  E | F   E   D  E|(D>E) C
+w:Muit' a-mar de-*   ve-*mos en no-ssas vo- on-ta-*des
+  E|G2   G  (A/G/)|(FE)   D   E |(F/E/) D (E/D/) C |D2 D3/2
+w:a Se-nnor, que*   coi-*tas nos toll'* e  tem-*pes-ta-des.
+%
+  A/|[M:3/4] c   B (c/B/)| A  G (A/G/)|F   E  D| F  E    F|G3|G2
+w:E         des-to  mos-*trou a  Vir-*gen ma-ra-vi-lla qua-ma-nna
+   A | c  B (c/B/)| A   G (A/G/)|F   E   D| E  F3/2  E/|D3| D2
+w:non po-de  mos-*trar ou- tro* san-to, no mar de   Bre-ta-nna,
+  E|[M:4/4] G   G   G (A/G/)|F  E  D  E| F3/2 E/   D   E|(D>E) C
+w:u        foi liv-rar hu-* ma na-ve, u  y-   a gran com-pa-*nna
+   E | G G   G (A/G/)|F    E   D    E| F   D (E/D/)  C| D2  D2 ||
+w:d'o-me-es por sa*  prol bus-car, no que to- dos*  pu-nna-des.
+%
+%%newpage     
+W:Esta é de como Santa Maria pareceu no maste da nave,
+W:de noite, que ya a Bretanna, e a guardou que non perigoasse.
+W:
+W:     Muit' amar devemos en nossas voontades
+W:     a Sennor, que coitas nos toll' e tempestades.
+W: 
+W:E desto mostrou a Virgen maravilla quamanna
+W:non pode mostrar outro santo, no mar de Bretanna,
+W:u foi livrar huma nave, u ya gran companna
+W:d'omees por sa prol buscar, no que todos punnades.
+W:
+W:     Muit' amar devemos en nossas voontades...
+W: 
+W:E u singravan pelo mar, atal foi ssa ventura
+W:que sse levou mui gran tormenta, e a noit' escura
+W:se fez, que ren non lles valia siso nen cordura,
+W:e todos cuidaron morrer, de certo o sabiades.
+W:
+W:     Muit' amar devemos en nossas voontades...
+W: 
+W:Pois viron o perigo tal, gemendo e chorando
+W:os santos todos a rogar se fillaron, chamando
+W:por seus nomes cada un deles, muito lles rogando
+W:que os veessen acorrer polas ssas piedades.
+W:
+W:     Muit' amar devemos en nossas voontades...
+W: 
+W:Quand' est' oyu un sant' abade, que na nave ya,
+W:disse-lles: Tenno que fazedes ora gran folia,
+W:que ides rogar outros santos, e Santa Maria,
+W:que nos pode desto livrar, sol non a ementades.
+W:
+W:     Muit' amar devemos en nossas voontades...
+W: 
+W:Quand' aquest' oyron dizer a aquel sant' abade,
+W:enton todos dun coraçon e duma voontade
+W:chamaron a Virgen santa, Madre de piedade,
+W:que lles valvess' e non catasse as suas maldades.
+W:
+W:     Muit' amar devemos en nossas voontades...
+W: 
+W:E dizian: «Sennor, val-nos, ca a nave sse sume!
+W:E dizend' esto, cataron, com' er é de costume,
+W:contra o masto, e viron en cima mui gran lume,
+W:que alumeava mui mais que outras craridades.
+W:
+W:     Muit' amar devemos en nossas voontades...
+W: 
+W:E pois lles est' apareceu, foi o vento quedado,
+W:e o ceo viron craro e o mar amanssado,
+W:e ao porto chegaron cedo, que desejado
+W:avian; e se lles proug' en, sol dulta non prendades.
+W:
+W:     Muit' amar devemos en nossas voontades...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
