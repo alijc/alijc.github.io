@@ -5545,31 +5545,6 @@ w:que tant' ou-ve de  o*    ti-*rar sa-bor  a Vir-gen, Ma-dre de*   No-*stro Se-
 w:do po-der do  de-*   mo,*  ca* de pa-vor del per-de-* ra  o  si-****  so;
    F2 G A3|(A>G)   F (G2A)|(F>E)  D (D2E)|C6|D2 C  D3 | F2(A/G/F/E/) (F/E/D/C/)|D6||
 w:mas e-la  to-*lleu-ll'a-* que-*sta do-* or e deu-lle Pa- ra-***     y-***     so.
-
-X: 2
-T: Cantiga 41: A Virgen, Madre de Nostro Sennor
-N: 
-M: 5/4
-L: 1/4
-Q: 1/4=200
-K: D Dorian
-V:1
-%Staff 1
-%%MIDI program 74
-%
-  D2 C   D2| F2  G (F>E)|(D>E)  C  D2| F4 z| A2  c (B>c)|A4z| G (FEFG/A/)|F4z|
-w:A Vir-gen, Ma-dre de*   No-*stro Se-nnor, ben po- de* dar  seu si-****  so
-  F2 G  A2|(A>G)   F  (G>A)|(F>E) D (D>E)|C4z| D2 C  D2| F (A/G/F/E/) (F/E/D/C/)| D4z||
-w:a- o san- deu,* pois a-*   o*  pe- ca-* dor faz a-ver Pa- ra-***     y-***      so.
-%
-  D2  C   D2 | F2 G (F>E)|(D>E)  D/  C/ D2| D2 C   D2 |F2  G (F>E)|(D>E) D   C2| D4z |
-w:En Sei-xons fez a  Ga-*  rin* cam-bia-dor a Vir-gen, Ma-dre de*   No-*stro Se-nnor,
-   D2  C    D2|F2  G (F>E)|(D/E/) D   C  D2|D2  C   D2 |F2  G (F>E)|(D>E) D   C2| D4z |
-w:que tant' ou-ve de  o*    ti-* rar sa-bor  a Vir-gen, Ma-dre de*   No-*stro Se-nnor,
-  D2  C  D2|F2 (A/G/) (F>E)|(D>E) C  D2|F4z| A2  c (B>c)|A4z| G (FEFG/A/)|F4z|
-w:do po-der do  de-*   mo,*  ca* de pa-vor  del per-de-* ra   o  si-****  so;
-   F2 G A2|(A>G)   F (G>A)|(F>E)  D (D>E)|C4z|D2 C  D2 | F (A/G/F/E/) (F/E/D/C/)|D4z||
-w:mas e-la  to-*lleu-ll'a-* que-*sta do-* or  e deu-lle Pa- ra-***     y-***     so.
 %
 %%newpage
 W: 
