@@ -13,6 +13,8 @@ F:http://csm.mml.ox.ac.uk/index.php?p=poem_list
 %% Facsimiles
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/
+%% Midi transcriptions
+F:http://web.archive.org/web/20061126032920fw_/http://brassy.club.fr/PartMed/Cantigas/CSMIDI.html
 %% Dictionaries
 F:https://en.wiktionary.org/wiki/Wiktionary:Main_Page
 F:http://sli.uvigo.es/DDGM/index.php
@@ -40,7 +42,7 @@ B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/053small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob001small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
-N: in 5
+N:
 M: 5/8
 L: 1/8
 Q: 1/8=180
@@ -429,6 +431,7 @@ M: 4/4
 L: 1/4
 Q: 1/4=200
 K: F major
+V:1
 %%MIDI program 74
 %
    F |(FE)  (F/E/D)| E   F G2| E C2 
@@ -1013,6 +1016,7 @@ M: 3/4
 L: 1/4
 Q: 1/4=180
 K: F Ionian
+V:1
 %Staff 1
 %%MIDI program 74
 %
@@ -1268,7 +1272,7 @@ W:Santa Maria amar...
 
 %%landscape 0
 X: 8
-T: Cantiga 8 : A Virgen Santa Maria
+T: Cantiga 8: A Virgen Santa Maria
 N: 
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/071small.html
@@ -2002,7 +2006,7 @@ W:un ladron, assi sa Madre  outro de morte livrou.
 
 %%landscape 0
 X: 14
-T: Cantiga 14:  Par Deus, muit'é gran razon
+T: Cantiga 14: Par Deus, muit'é gran razon
 N: 15 in To
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/079small.html
@@ -2817,7 +2821,7 @@ Por nos de dulta tirar...
 %%landscape 0
 X: 19
 T: Cantiga 19: Gran sandece faz
-N: 
+N: 18 in To 
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/088small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob017small.gif
@@ -3145,7 +3149,7 @@ Santa Maria pod' enfermos guarir...
 %%landscape 0
 X: 22
 T: Cantiga 22 : Mui gran poder
-N: 23 in To
+N:
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/091small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob021small.gif
@@ -3234,7 +3238,7 @@ W:Mui gran poder á a Madre de Deus...
 %%landscape 0
 X: 23
 T: Cantiga 23: Como Deus fez vyno 
-N: 24 in To
+N:
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/092small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob022small.gif
@@ -3316,7 +3320,7 @@ W:Como Deus fez vyno d'agua ant' Archtecro...
 %%landscape 0
 X: 24
 T: Cantiga 24: Madre de Deus, non pod' errar
-N: 18 in To
+N: 17 in To
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/093small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob017small.gif
@@ -3430,7 +3434,7 @@ W:Madre de Deus, non pod' errar | quen en ti á fiança.
 %%landscape 0
 X: 25
 T: Cantiga 25: Pagar ben pod'
-N: 39 in To
+N: 38 in To
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/094small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob037small.gif
@@ -3671,7 +3675,7 @@ W:  o que à Madre de Deus fia.
 %%landscape 0
 X: 26
 T: Cantiga 26: Non é gran cousa
-N: ??
+N: 24 in To
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/097small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob023small.gif
@@ -3822,7 +3826,7 @@ Non é gran cousa se sabe...
 
 %%landscape 0
 X: 27
-T: Cantiga 27 : Non devemos por maravilla
+T: Cantiga 27: Non devemos por maravilla
 N: 25 in To
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/099small.html
@@ -3959,7 +3963,7 @@ W:Non devemos por maravilla ter...
 
 %%landscape 0
 X: 28
-T: Cantiga 28 : Todo logar mui ben pode
+T: Cantiga 28: Todo logar mui ben pode
 N: 27 in To 
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/101small.html
@@ -4680,13 +4684,13 @@ nen fezessen falimentos.
 
 
 %%landscape 0
-Z:Ali Corbin <ali.corbin:gmail.com>
 X: 34
 T: Cantiga 34: Gran dereit' é que fill' o
 N: 36 in To
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/110small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob035small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
 M: 3/4 
 L: 1/4
 Q: 1/4=200
@@ -5187,7 +5191,7 @@ e os seus miragres ontr' os outros teveron
 %%landscape 1
 X: 38
 T: Cantiga 38: Pois que Deus
-N: 39
+N: 41
 B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/118small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob040small.gif
