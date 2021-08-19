@@ -117,6 +117,62 @@ W:que me dé gualardon com' ela dá
 W:aos que ama; e queno souber,
 W:por ela mais de grado trobará.
 
+% Translation
+%%begintext skip
+Este é o prologo das cantigas de Santa Maria,	This is the prolog of.the songs of Saint Maria,
+ementando as cousas que á mester eno trobar.	noting the things that have art in.it 
+							to.make.rhymes.
+%%
+Por que trobar é cousa en que jaz	Because making.rhymes is a thing in which lies
+entendimento, poren queno faz		understanding, but he.who does it
+á-o d'aver e de razon assaz,		has to.have it and of reason enough,
+per que entenda e sábia dizer		because he.might.understand and might.know.how to.say 
+o que entend' e de dizer lle praz,	what he.understands and pleases him to.say,
+ca ben trobar assi s'á de ffazer.	because to.make.rhymes well thus one has to.do 
+%%
+E maçar eu estas duas non ey		And to.beat(polish?) I these two.things I.have not
+com' eu querria, pero provarei		as I would.wish, but I.will.try
+a mostrar ende un pouco que sei,	to.show thence a little that I.can,
+confiand' en Deus, ond' o saber ven;	trusting in God, whence the knowledge comes;
+ca per ele tenno que poderei		for by him I.hold that I.will.be.able 
+mostrar do que quero algunna ren.	to.show something of what I.wish.
+%%
+E o que quero é dizer loor		And what I.wish is to.say praise 
+da Virgen, Madre de Nostro Sennor,	of.the Virgin, Mother of Our Lord,
+Santa Maria, que ést' a mellor		Saint Maria, who is the best
+cousa que el fez; e por aquest' eu	thing that he made; and for this I 
+quero seer oy mais seu trobador,	wish to.be ever more her troubador,
+e rogo-lle que me queira por seu	and I.pray to.her that she.might.wish me for her own...
+%%
+Trobador e que queira meu trobar	...troubador and that she.might.wish me to.make.rhymes
+reçeber, ca per el quer' eu mostrar	to.accept, because through her I wish to.show 
+dos miragres que ela fez; e ar		some of.the miracles that she has done; and now
+querrei-me leixar de trobar des i	I.wish to leave.off from making.rhymes from now on
+por outra dona, e cuid' a cobrar	for any other lady, and think to.recover
+per esta quant' enas outras perdi.	by the amount that in.the others I.lost.
+%%
+Ca o amor desta Senor é tal,		Because the love of.this Lady is such 
+que queno á sempre per i mais val;	that he.who has it ever that way is.worth more
+e poi-lo gaannad' á, non lle fal,	and when it has been.earned, he does not fail her
+senon se é per sa grand' ocajon,	unless it is by his great cause,
+querendo leixar ben e fazer mal,	wishing to abandon good and to.do evil,
+ca per esto o perd' e per al non.	because by this he loses it and by nothing else.
+%%
+Poren dela non me quer' eu partir,	Yet from.her I.don't.wish to.part,
+ca sei de pran que, se a ben servir.	because I.know plainly that, if to.serve well
+que non poderei en seu ben falir	that I.can.not in her goodness to.fail 
+de o aver, ca nunca y faliu		for to.have it, because never did there fail
+quen llo soube con merçee pedir,	one who knew.how to.ask if of her with mercy,
+ca tal rogo sempr' ela ben oyu.		because I so pray always she well heard.
+%%
+Onde lle rogo, se ela quiser,		Where to.her I.pray, were she to.desire
+que lle praza do que dela disser	that I.'d.please her than to.say of.her
+en mes cantares e, se ll'aprouguer,	in my songs and, if it.please her,
+que me dé gualardon com' ela dá		that she.might.give me some reward as she gives 
+aos que ama; e queno souber,		to.those that she loves; and who were.to.know it
+por ela mais de grado trobará.		for her more willingly will.make.rhymes.
+%%endtext
+
 
 %%landscape 0
 X: 1
@@ -265,6 +321,10 @@ e poren nos dev' ajudar,
      ca x' é noss' avogada.
 %%endtext
 %%multicol end
+
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -417,6 +477,10 @@ com' a Virgen dit' avia.
 Poren devemos, varões...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -545,6 +609,10 @@ Mais nos faz Santa Maria...
 %%
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -723,6 +791,10 @@ quis dar a seu fill' Abel.
 A Madre do que livrou...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -1001,6 +1073,10 @@ W:     mas huma cela faria d'obra de Paris,
 W:     u se metesse por mays o mund' avorrecer.
 W:
 W:     Quenas coytas deste mundo ben quiser soffrer...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -1162,6 +1238,10 @@ W:e aquel que o ferira | eno fogo o queimaron,
 W:     dizendo: «Quen faz tal feito, | desta guisa o rende.»
 W:
 W: A que do bon rey Davi...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 1
@@ -1268,6 +1348,10 @@ W: por salva poss' esta dar,
 W: que non sei que ll'aponna.»
 W: 
 W:Santa Maria amar...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -1356,6 +1440,10 @@ W:entendeu que muit' errara, | e logo ss' arrepentiu;
 W:e ant' o jograr en terra | se deitou e lle pedyu
 W:perdon por Santa Maria, | en que vos e nos creemos.
 W:     A Virgen Santa Maria...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 1
@@ -1592,6 +1680,10 @@ W: certos que corria
 W: e corr' avondança.
 W:%%
 W: Por que nos ajamos...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -1677,6 +1769,10 @@ dou ao demo os outros amores.
   Rosas das rosas...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -1840,6 +1936,10 @@ do ben de Santa Maria
    non dev' a seer   desasperado.
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -1920,6 +2020,10 @@ W:     E por est' ouveron todos de morrer,
 W:     e tornou-xe-lles en doo seu solaz.
 W:
 W:     O que a Santa Maria mais despraz...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -2002,6 +2106,10 @@ W:dela foi senpr' en sa vida,  ca en orden log' entrou.
 W:
 W:Assi como Jesu-Cristo,  estando na cruz, salvou
 W:un ladron, assi sa Madre  outro de morte livrou.
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -2103,6 +2211,10 @@ W:e contou ao convento  como ss' ouver' a perder,
 W:senon por Santa Maria,  a que Deus lo deu en don.
 W:
 W: Par Deus, muit' é gran razon...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -2364,6 +2476,10 @@ W: que lles contaron da mort' a gesta
 W: que pres Juyão a gran door.
 W:
 W:Todo-los Santos que son no Ceo...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -2519,6 +2635,10 @@ na cima do ano foy-o consigo levar.
   Quen dona fremosa e bõa quiser amar...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -2674,6 +2794,10 @@ e derribou do teit' huma braçada.
 Sempre seja beeita e loada...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -2816,6 +2940,10 @@ van per sa gran folia.
 Por nos de dulta tirar...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -2914,6 +3042,10 @@ trouxessen as carnes per toda Cezilla.
      Gran sandece faz quen se por mal filla...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -3008,6 +3140,10 @@ W: a ti e rendo,
 W:que os teus non faleces.
 W:
 W:      Virga de Jesse...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -3144,6 +3280,10 @@ e a ssa Madre, porque a quis oyr.
 Santa Maria pod' enfermos guarir...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -3233,6 +3373,10 @@ W:e deron-ll' algu'; e el punnou de ss' ir
 W:a Rocamador con outros romeus.
 W:
 W:Mui gran poder á a Madre de Deus...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -3315,6 +3459,10 @@ W:de bon vinn', e a adega non en foi falida
 W:que non achass' y avond' o riqu' e o mesqyno.
 W:
 W:Como Deus fez vyno d'agua ant' Archtecro...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -3429,6 +3577,10 @@ W: e pois fezeron en sermon,
 W:     leváron o con dança.
 W:
 W:Madre de Deus, non pod' errar | quen en ti á fiança.
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -3670,6 +3822,10 @@ W:como Deus verria nacer
 W:da Virgen por nos todavia.
 W:  Pagar ben pod' o que dever
 W:  o que à Madre de Deus fia.
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -3822,6 +3978,10 @@ pod' o de que foi falido, | con que fora pecar.
 Non é gran cousa se sabe...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -3959,6 +4119,10 @@ W:foron y; e assi os catou de pran
 W:que a non ousaron per ren sol tanger.
 W:
 W:Non devemos por maravilla ter...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -4165,6 +4329,10 @@ W:o reino, se Deus m' anpar,
 W:e foi-lle gradeçudo.
 W:
 W:Todo logar mui ben...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -4244,6 +4412,10 @@ W:pois deceu carne fillar
 W:en ela das sas alturas.
 W:
 W:Nas mentes senpre ter...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -4332,6 +4504,10 @@ W:Muito valvera mais, se Deus m' anpar,
 W:     que non fossemos nados,
 W:se nos non desse Deus a que rogar
 W:     vai por nossos pecados.
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -4462,6 +4638,10 @@ W: a que das cousas sermon
 W: fez que ll'eran conteçudas.
 W:
 W: Tanto, se Deus me perdon...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -4542,6 +4722,10 @@ W:     «E missa cantada  com' acostumada  ás,» disse, «manten
 W:            da que nos guia, ca assi conven.»
 W:
 W:     Quen loar podia...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -4681,6 +4865,10 @@ nen fezessen falimentos.
   Gran poder á de mandar...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -4764,6 +4952,10 @@ W:que ficasse deste feito por renenbramento.
 W:
 W:Gran dereit' é que fill' o demo por escarmento...
 W:quen contra Santa Maria filla atrevemento.
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -4985,6 +5177,10 @@ W:a que fezestes gran torto   guardando mal vossa fe.»
 W:E non quis en mais do terço,   que fez o logo coller.
 W:
 W:O que a Santa Maria   der algo ou prometer...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -5073,6 +5269,10 @@ W:e ao porto chegaron cedo, que desejado
 W:avian; e se lles proug' en, sol dulta non prendades.
 W:
 W:     Muit' amar devemos en nossas voontades...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -5186,6 +5386,10 @@ e os seus miragres ontr' os outros teveron
  Miragres fremosos...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 1
@@ -5349,6 +5553,10 @@ W: estand' y omees onrrados,
 W:     ant' a omagen sobelo altar.
 W:
 W: Pois que Deus quis da Virgen fillo...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -5436,6 +5644,10 @@ W:fora ben toda con agua rosada,
 W:assi cheirava con ssa cobertura.
 W:
 W:Torto seria grand' e desmesura...
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -5517,6 +5729,10 @@ con quanto ben nos viisti,	queno contaria?
 Deus te salve, groriosa...
 %%endtext
 %%multicol end
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -5592,6 +5808,14 @@ W:e sempre a seu Fill' é rogador
 W:          que nos dé Parayso.
 W:
 W:A Virgen, Madre de Nostro Sennor...
+%
+% Translation
+%%begintext skip
+%%endtext
+%
+% Translation
+%%begintext skip
+%%endtext
 
 
 %%landscape 0
@@ -5600,3 +5824,8 @@ F:
 F:
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
+
+%
+% Translation
+%%begintext skip
+%%endtext
