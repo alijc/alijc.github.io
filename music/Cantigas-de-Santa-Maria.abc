@@ -10104,6 +10104,366 @@ A Virgen, Madre de Nostro Sennor...
 
 
 %%landscape 0
+X: 42
+T: Cantiga 42: A Virgen mui groriosa
+N: 57 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/123small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob054small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob055small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   G  d2| d (dc) | A  B2|c (BA)|  G B2|(B/A/) G2| F (A>B)|A3|
+w: A Vir-gen mui* gro-ri-o- sa,* Re-i-  nna*  es-pi- ri-* tal,
+    A   d2|d (dc)|A B2|c (BA) | G  B2|(B/A/)  G2| F  A2|G3||
+w: dos que a- ma* é ce-o- sa,* ca non  quer* que fa-çan mal.
+ (B>A)   G | F (A>B)| c  (BA)|(B>A) G |(B>A)  G| F A2|(B/A/) (GF)|G3 |
+w:Dest'* un mi- ra-* gre fre-* mo-*so,  ond'* a-ve-re- des*   sa-*bor,
+ (B>A)  G| F  (A>B)| c (BA)|(B>A)  G |(B>A) G | F A2|(B/A/) (GF)| G3 |
+w:vos* di-rey, que* fez a*   Vir-*gen, Ma-*dre de No- stro*  Se-*nnor,
+   G   d2| d (dc)| A  B2 | c (BA)|G B2|(B/A/) G2   |F (A>B)| A3 |
+w:per que ti-rou* de gran fa-lla* a un  mui* falss' a- ma-*  dor,
+   G  d2|d (dc)|A  B2| c (BA)| G   B2|(B/A/) G2| F  A2 |G3||
+w:que a- mi-ú-*de cam-bia-va* seus a-  mo-* res dun en  al.
+%
+W: 
+W:Esta é de como o crerizon meteu o anel eno dedo da omagen de Santa Maria,
+W:e a omagen encolleu o dedo con el.
+W: 
+W:
+W:      A Virgen mui groriosa,
+W: Reinna espirital,
+W: dos que ama é ceosa,
+W: ca non quer que façan mal.
+W: 
+W:Dest' un miragre fremoso,  ond' averedes sabor,
+W:vos direy, que fez a Virgen, Madre de Nostro Sennor,
+W:per que tirou de gran falla  a un mui falss' amador,
+W:que amiúde cambiava  seus amores dun en al.
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Foi en terra d'Alemanna  que querian renovar
+W:humas gentes ssa eigreja,  e poren foran tirar
+W:a majestad' ende fora,  que estava no altar,
+W:e poséron a na porta  da praça, sso o portal.
+W:
+W: A Virgen mui groriosa...
+W: 
+W:En aquela praç' avia  un prado mui verd' assaz,
+W:en que as gentes da terra  yan teer seu solaz
+W:e jogavan à pelota,  que é jogo de que praz
+W:muit' a omees mancebos  mais que outro jog' atal.
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Sobr' aquest' huma vegada chegou y un gran tropel
+W:de mancebos por jogaren  à pelot', e un donzel
+W:andava y namorado,  e tragia seu anel
+W:que ssa amiga lle dera,  que end' era natural.
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Este donzel, con gran medo  de xe l' o anel torcer
+W:quando feriss' a pelota,  foy buscar u o põer
+W:podess'; e viu a omage  tan fremosa parecer,
+W:e foi-llo meter no dedo,  dizend': «Oi mais non m'enchal
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Daquela que eu amava,  ca eu ben o jur' a Deus
+W:que nunca tan bela cousa  viron estes ollos meus;
+W:poren daqui adeante  serei eu dos servos teus,
+W:e est' anel tan fremoso  ti dou porend' en sinal.»
+W:
+W: A Virgen mui groriosa...
+W: 
+W:E os geollos ficados  ant' ela con devoçon,
+W:dizendo «Ave Maria»,  prometeu-lle log' enton
+W:que des ali adeante nunca no seu coraçon
+W:outra moller ben quisesse  e que lle fosse leal.
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Pois feit' ouve ssa promessa, o donzel logo ss' ergeu,
+W:e a omagen o dedo  cono anel encolleu;
+W:e el, quando viu aquesto,  tan gran pavor lle creceu
+W:que diss' a mui grandes vozes:  «Ay, Santa Maria, val!
+W:
+W: A Virgen mui groriosa...
+W: 
+W:As gentes, quand' est' oyron,  correndo chegaron y
+W:u o donzel braadava,  e el contou-lles des i
+W:como vos ja dit' avemos;  e conssellaron-ll' assi
+W:que orden logo fillasse  de monges de Claraval.
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Que o fezesse cuidaron  logo todos dessa vez;
+W:mas per consello do demo  ele d' outra guisa fez,
+W:que o que el prometera aa Virgen de gran prez,
+W:assi llo desfez da mente  como desfaz agua sal.
+W:
+W: A Virgen mui groriosa...
+W: 
+W:E da Virgen groriosa  nunca depois se nenbrou,
+W:mas da amiga primeira  outra vez sse namorou,
+W:e per prazer dos parentes  logo con ela casou
+W:e sabor do outro mundo  leixou polo terreal.
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Poi-las vodas foron feitas  e o dia sse sayu,
+W:deitou-ss' o novio primeiro  e tan toste ss' adormyu;
+W:e el dormindo, en sonnos  a Santa Maria vyu,
+W:que o chamou mui sannuda:  «Ai, meu falss' e mentiral!
+W:
+W: A Virgen mui groriosa...
+W: 
+W:De mi por que te partiste  e fuste fillar moller?
+W:Mal te nenbrou a sortella  que me dést'; ond' á mester
+W:que a leixes e te vaas  comigo a como quer,
+W:se non, daqui adeante  averás coyta mortal.»
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Logo s' espertou o novio,  mas pero non se quis ir;
+W:e a Virgen groriosa  fez-lo outra vez dormir,
+W:que viu jazer ontr' a novia  e ssi pera os partir,
+W:chamand' a el mui sannuda:  «Mao, falsso, desleal,
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Ves? E por que me leixaste  e sol vergonna non ás?
+W:Mas se tu meu amor queres,  daqui te levantarás,
+W:e vai-te comigo logo,  que non esperes a cras;
+W:erge-te daqui correndo  e sal desta casa, sal!»
+W:
+W: A Virgen mui groriosa...
+W: 
+W:Enton ss' espertou o novio,  e desto tal medo pres
+W:que ss' ergeu e foi ssa via,  que non chamou dous nen tres
+W:omees que con el fossen;  e per montes mais dun mes
+W:andou, e en un' hermida  se meteu cab' un pial.
+W:
+W: A Virgen mui groriosa...
+W:
+W:E pois en toda ssa vida,  per com' eu escrit' achei,
+W:serviu a Santa Maria,  Madre do muit' alto Rei,
+W:que o levou pois conssigo per com' eu creo e sei,
+W:deste mund' a Parayso,  o reino celestial.
+W:
+W: A Virgen mui groriosa...
+
+
+% Translation
+%%begintext skip
+Esta é de como o crerizon meteu o anel	This is about how the believer put the ring
+eno dedo da omagen de Santa Maria,	on.the finger of.the statue of Saint Maria, 
+e a omagen encolleu o dedo con el.	and the statue did.shrink the finger with(for?) him.
+%%
+A Virgen mui groriosa,			The Virgin very glorious,
+Reinna espirital,			Queen spiritual,
+dos que ama é ceosa,			of.those who love is envious,
+ca non quer que façan mal.		because she.wants not that they.should.do evil.
+%%
+Dest' un miragre fremoso,  ond' averedes sabor,
+	Of a miracle beautiful, in.which you.might.have pleasure,
+vos direy, que fez a Virgen, Madre de Nostro Sennor,
+	to.you I.will.tell, which did the Virgin, Mother of Our Lord, 
+per que tirou de gran falla  a un mui falss' amador,
+	for she.drew from great fault ?to? a very false lover 
+que amiúde cambiava  seus amores dun en al.
+	who often would.change his loves one after another.
+%%
+ A Virgen mui groriosa...
+%%
+Foi en terra d'Alemanna  que querian renovar
+	It.was in land of Alemanna  that were.wanting to.renovate
+humas gentes ssa eigreja,  e poren foran tirar
+	some people their church,  and yet they.went to.pull|take.off 
+a majestad' ende fora,  que estava no altar,
+	the majesty thence|for.that.cause one.had.been|outside|shame, that was on.the altar 
+e posérona na porta  da praça, sso o portal.
+	and they.did.put it in.the entry of.the square, under the portal.
+%%
+ A Virgen mui groriosa...
+%%
+En aquela praç' avia  un prado mui verd' assaz,
+	In that square there.was a meadow quite green enough,
+en que as gentes da terra  yan teer seu solaz
+	in which the people of.the country would.go to.take their leisure
+e jogavan à pelota,  que é jogo de que praz
+	and they.were.playing at.the ball, which is game that pleases 
+muit' a omees mancebos  mais que outro jog' atal.
+	very.much to men lovers more than other such game.
+%%
+ A Virgen mui groriosa...
+%%
+Sobr' aquest' huma vegada chegou y un gran tropel
+	Upon this one time arrived there a great tumult 
+de mancebos por jogaren  à pelot', e un donzel
+	of lovers for they.might.play at.the ball, and one young.nobleman 
+andava y namorado,  e tragia seu anel
+	was.walking there enamored, and he.was.wearing his ring 
+que ssa amiga lle dera,  que end' era natural.
+	which his girlfriend to.him had.given, which for.that.reason was natural.
+%%
+ A Virgen mui groriosa...
+%%
+Este donzel, con gran medo  de xe l' o anel torcer
+	This young.nobleman, with great fear  from himself her ring to.twist 
+quando feriss' a pelota,  foy buscar u o põer
+	when he.should.strike the ball,  went to.seek where to.put it
+podess'; e viu a omage  tan fremosa parecer,
+	he.could; and saw the statue  so beautiful to.appear,
+e foi-llo meter no dedo,  dizend': «Oi mais non m'enchal
+	and went to.put it on.the finger, saying: "Oy more no #m'enchal# 
+%%
+ A Virgen mui groriosa...
+%%
+Daquela que eu amava,  ca eu ben o jur' a Deus
+	of|by.she whom I loved,  because I well swear it to God 
+que nunca tan bela cousa  viron estes ollos meus;
+	that never so beautiful thing saw these mine eyes;
+poren daqui adeante  serei eu dos servos teus,
+	yet from.here henceforth will.be I of.thy servants,
+e est' anel tan fremoso  ti dou porend' en sinal.»
+	and this ring so beautiful thee I.give therefore as sign."
+%%
+ A Virgen mui groriosa...
+%%
+E os geollos ficados  ant' ela con devoçon,
+	And his knees fixed before her with devotion,
+dizendo «Ave Maria»,  prometeu-lle log' enton
+	saying: "Ave, Maria", he.promised to.her at.once then 
+que des ali adeante nunca no seu coraçon
+	that from that.place henceforth never in.the his heart 
+outra moller ben quisesse  e que lle fosse leal.
+	another woman well he.would.desire and that to.her he.would.be true.
+%%
+ A Virgen mui groriosa...
+%%
+Pois feit' ouve ssa promessa, o donzel logo ss' ergeu,
+	Then done he.had his promise, the young.nobleman at.once himself raised,
+e a omagen o dedo  cono anel encolleu;
+	and the image the finger  with.the ring did.shrink;
+e el, quando viu aquesto,  tan gran pavor lle creceu
+	and he, when he.saw this, such great terror to.him grew 
+que diss' a mui grandes vozes:  «Ay, Santa Maria, val!
+	that he.said in a very great voice: "Ay, Saint Maria, help!
+%%
+ A Virgen mui groriosa...
+%%
+As gentes, quand' est' oyron,  correndo chegaron y
+	The people, when this they.heard,  running they.arrived there 
+u o donzel braadava,  e el contou-lles des i
+	where the young.nobleman was.crying.out, and he recounted to.them from there 
+como vos ja dit' avemos;  e conssellaron-ll' assi
+	as to.you already we.have said; and they.advised him thus
+que orden logo fillasse  de monges de Claraval.
+	that order at.once he.should.take of monks of Claraval.
+%%
+ A Virgen mui groriosa...
+%%
+Que o fezesse cuidaron  logo todos dessa vez;
+	That it he.should.do they.thought  at.once all of.this occasion|time 
+mas per consello do demo  ele d' outra guisa fez,
+	but by advice of.the devil he of|by other guise did,
+que o que el prometera aa Virgen de gran prez,
+	that what he had.promised to.the virgin of great honor,
+assi llo desfez da mente  como desfaz agua sal.
+	so to.her.it destroyed by.the mind  as destroys water salt.
+%%
+ A Virgen mui groriosa...
+%%
+E da Virgen groriosa  nunca depois se nenbrou,
+	And of.the Virgin glorious  never afterwards remembered,
+mas da amiga primeira  outra vez sse namorou,
+	but of|by.the first girlfriend  another time fell.in.love,
+e per prazer dos parentes  logo con ela casou
+	and for to.please her parents at.once with her married 
+e sabor do outro mundo  leixou polo terreal.
+	and pleasure of.the other world  abandoned for.the mundane.
+%%
+ A Virgen mui groriosa...
+%%
+Poi-las vodas foron feitas  e o dia sse sayu,
+	When the weddings they.were done and him the day left,
+deitou-ss' o novio primeiro  e tan toste ss' adormyu;
+	laid himself down the new bridegroom  and at once fell.asleep;
+e el dormindo, en sonnos  a Santa Maria vyu,
+	and he, sleeping, in dreams the Saint Maria saw,
+que o chamou mui sannuda:  «Ai, meu falss' e mentiral!
+	who him called greatly inspiring.fear:  "Ay, my false.one and deceiver!
+%%
+ A Virgen mui groriosa...
+%%
+De mi por que te partiste  e fuste fillar moller?
+	From me for thou departed  and did.thou take wife?
+Mal te nenbrou a sortella  que me dést'; ond' á mester
+	Evil reminded thee of the magic.ring  that to.me thou.gave in.which there.is art 
+que a leixes e te vaas  comigo a como quer,
+	that it thou.would.abandon and thou.fly  with.me to|it|her as wants,
+se non, daqui adeante  averás coyta mortal.»
+	if not, from.here henceforth  thou.will.have pain|care mortal."
+%%
+ A Virgen mui groriosa...
+%%
+Logo s' espertou o novio,  mas pero non se quis ir;
+	At.once awoke the bridegroom,  but yet did not wish to.go;
+e a Virgen groriosa  fez-lo outra vez dormir,
+	and the Virgin glorious did the|it|him another time to.sleep,
+que viu jazer ontr' a novia  e ssi pera os partir,
+	which|who(m) saw to.lie beside the bride  and self|him|her|it for them to.part,
+chamand' a el mui sannuda:  «Mao, falsso, desleal,
+	calling to him greatly inspiring.fear: "Wretch, false.one, disloyal.one,
+%%
+ A Virgen mui groriosa...
+%%
+Ves? E por que me leixaste  e sol vergonna non ás?
+	See.thou?  And because me thou.abandoned  and only shame has.thou none?
+Mas se tu meu amor queres,  daqui te levantarás,
+	But if thou my love wish,  of|by.here thou.will.wash thyself,
+e vai-te comigo logo,  que non esperes a cras;
+	and go thee with.me at.once,  that thou.would not wait til tomorrow 
+erge-te daqui correndo  e sal desta casa, sal!»
+	rise.up from.here running  and leave this house leave!"
+%%
+ A Virgen mui groriosa...
+%%
+Enton ss' espertou o novio,  e desto tal medo pres
+	Then awoke the bridegroom,  and by.this such fear #pres# 
+que ss' ergeu e foi ssa via,  que non chamou dous nen tres
+	that he.rose and went his way,  which|who(m) no called two nor three
+omees que con el fossen;  e per montes mais dun mes
+	men who with him would.have.been;  and through mountains more than.a month
+andou, e en un' hermida  se meteu cab' un pial. pinal
+	he.walked, and in a hermitage if|oneself put #cab'# a|one #pial# 
+%%
+ A Virgen mui groriosa...
+%%
+E pois en toda ssa vida,  per com' eu escrit' achei,
+	And then in all his life,  for as I writing found,
+serviu a Santa Maria,  Madre do muit' alto Rei,
+	he.served the Saint Maria,  Mother of.the very high King, 
+que o levou pois conssigo per com' eu creo e sei,
+	who him carried then with.her for as I believe and I.know 
+deste mund' a Parayso,  o reino celestial.
+	from.this world to Paradise,  the kingdom celestial.
+%%
+ A Virgen mui groriosa...
+%%endtext
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
