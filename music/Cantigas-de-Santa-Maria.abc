@@ -10472,32 +10472,6 @@ F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/126small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob053small.gif
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob054small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
-M: 3/4
-L: 1/4
-Q: 1/4=180
-K: G dorian
-V:1
-%Staff 1
-%%MIDI program 74
-!ff!
-%
-   E   F2|G2 G | G (A>G)|F2 F | F (GA) | B2   A | G  A2|(BAG)|F3|
-w:Por-que é San-ta  Ma-* ri-a  le  al*   e   mui ver-da- dei-**ra,
-   E  F2| G2  A|(B/A/) G2 |(FE)  D | D (E>D)|(C>D) B,| C (DE)| F3| G3||
-w:po-ren mui-to ll'a-* vo- rre-*ce  da  pa-*  rav-*la men-ti-*rei-ra.
-%
-  E F2| G2   G| A G2 |(FE) D | D (E>D)|(C>D) B,|C (DE)|F3| G3|
-w:E po-rend' un o-me   bõ-*o  que en*   Da-*rou-ca mo-*ra-va,
-   E  F2|G2   G  | A  G2 |(FE) D | D (E>D)|(C>D) B,| C   (DE)|F3| G3|
-w:de ssa mo-ller, que a-   vi-*a  bõ- a*    e*  que muit' a-* ma-va,
-   E  F2|G2 G| G (A>G)|F2  F  | F (GA)| B2  A|G   A2 |(BAG)|F3|
-w:non po-di-a  a- ver* fi-llos, e  po-*ren-de se quei- xa-**  va
-   E     F2 |G2   A |(B/A/)  G2 |  (FE) D |  D (E>D)|(C>D) B, |C (DE)| F3 | G3||
-w:muit' end' el; mas  di-* sse\-ll' e-*la: «Eu  vos*  po-*rrei en ca-*rrei-ra
-
-X: 433
-T: Cantiga 43: Porque é Santa Maria
-N: 
 M: 4/4
 L: 1/4
 Q: 1/4=180
@@ -10505,7 +10479,6 @@ K: G dorian
 V:1
 %Staff 1
 %%MIDI program 74
-!ff!
 %
    E   F  G2|G   G (A>G)|F2 F   F|(GA)   B2|  A   G  A2|(B/A/G) F2|
 w:Por-que é San-ta  Ma-* ri-a  le  al*   e   mui ver-da- dei-**ra,
@@ -10520,34 +10493,8 @@ w:de ssa mo-ller, que a-   vi-*a  bõ- a*    e*  que muit' a-* ma-va,
 w:non po-di-a  a- ver* fi-llos, e  po-*ren-de se quei- xa-**  va
    E     F   G2 | A  (B/A/)  G2   |(FE) D    D|(E>D) (C>D)|B,  C (DE)| F2   G2||
 w:muit' end' el; mas  di-* sse\-ll' e-*la: «Eu  vos*  po-*rrei en ca-*rrei-ra
-
-X: 4333
-T: Cantiga 43: Porque é Santa Maria
-N: 
-M: 6/8
-L: 1/8
-Q: 1/8=180
-K: G dorian
-V:1
-%Staff 1
-%%MIDI program 74
-!ff!
 %
-   E   F2 G2 G | G (A>G) F2 F | F (GA)   B2   A | G  A2 (B/A/G) F |
-w:Por-que é San-ta  Ma-* ri-a  le  al*   e   mui ver-da- dei-**ra,
-   E  F2  G2  A|(B/A/) G2  (FE)  D | D (E>D) (C>D) B,| C (DE)  F2  G ||
-w:po-ren mui-to ll'a-* vo- rre-*ce  da  pa-*  rav-*la men-ti-*rei-ra.
-%
-  E F2  G2   G| A G2  (FE) D | D (E>D) (C>D) B,|C (DE) F2  G |
-w:E po-rend' un o-me   bõ-*o  que en*   Da-*rou-ca mo-*ra-va,
-   E  F2 G2   G  | A  G2  (FE) D | D (E>D) (C>D) B,| C   (DE) F2  G |
-w:de ssa mo-ller, que a-   vi-*a  bõ- a*    e*  que muit' a-* ma-va,
-   E  F2 G2 G| G (A>G) F2  F  | F (GA)  B2  A|G   A2  (B/A/G)  F |
-w:non po-di-a  a- ver* fi-llos, e  po-*ren-de se quei- xa-**  va
-   E     F2  G2   A |(B/A/)  G2    (FE) D |  D (E>D) (C>D) B, |C (DE)  F2   G ||
-w:muit' end' el; mas  di-* sse\-ll' e-*la: «Eu  vos*  po-*rrei en ca-*rrei-ra
-%
-%%newpage
+W:
 W:Esta é de como Santa Maria resucitou un menyno na ssa eigreja de salas.
 W:
 W:
@@ -10659,7 +10606,6 @@ W:por prazer da Groriosa,  santa e dereitureira.
 W:
 W:Porque é Santa Maria   leal e mui verdadeira...
 
-
 % Translation
 %%begintext skip
 Esta é de como Santa Maria resucitou	This is about how Saint Maria revived 
@@ -10669,7 +10615,6 @@ Porque é Santa Maria			Because is Saint Maria
   leal e mui verdadeira,		  loyal and very true,
 poren muito ll' avorrece		yet greatly to.her is.hateful
   da paravla mentireira.		  of.the speech deceitful. 
-		he could not have sons,
 %%
 E porend' un ome bõo			And therefore a good man
   que en Darouca morava,		  who in Darouca resided,
