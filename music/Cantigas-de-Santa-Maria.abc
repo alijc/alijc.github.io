@@ -10464,6 +10464,381 @@ deste mund' a Parayso,  o reino celestial.
 
 
 %%landscape 0
+X: 43
+T: Cantiga 43: Porque é Santa Maria
+N: 56 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/126small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob053small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob054small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=180
+K: G dorian
+V:1
+%Staff 1
+%%MIDI program 74
+!ff!
+%
+   E   F2|G2 G | G (A>G)|F2 F | F (GA) | B2   A | G  A2|(BAG)|F3|
+w:Por-que é San-ta  Ma-* ri-a  le  al*   e   mui ver-da- dei-**ra,
+   E  F2| G2  A|(B/A/) G2 |(FE)  D | D (E>D)|(C>D) B,| C (DE)| F3| G3||
+w:po-ren mui-to ll'a-* vo- rre-*ce  da  pa-*  rav-*la men-ti-*rei-ra.
+%
+  E F2| G2   G| A G2 |(FE) D | D (E>D)|(C>D) B,|C (DE)|F3| G3|
+w:E po-rend' un o-me   bõ-*o  que en*   Da-*rou-ca mo-*ra-va,
+   E  F2|G2   G  | A  G2 |(FE) D | D (E>D)|(C>D) B,| C   (DE)|F3| G3|
+w:de ssa mo-ller, que a-   vi-*a  bõ- a*    e*  que muit' a-* ma-va,
+   E  F2|G2 G| G (A>G)|F2  F  | F (GA)| B2  A|G   A2 |(BAG)|F3|
+w:non po-di-a  a- ver* fi-llos, e  po-*ren-de se quei- xa-**  va
+   E     F2 |G2   A |(B/A/)  G2 |  (FE) D |  D (E>D)|(C>D) B, |C (DE)| F3 | G3||
+w:muit' end' el; mas  di-* sse\-ll' e-*la: «Eu  vos*  po-*rrei en ca-*rrei-ra
+
+X: 433
+T: Cantiga 43: Porque é Santa Maria
+N: 
+M: 4/4
+L: 1/4
+Q: 1/4=180
+K: G dorian
+V:1
+%Staff 1
+%%MIDI program 74
+!ff!
+%
+   E   F  G2|G   G (A>G)|F2 F   F|(GA)   B2|  A   G  A2|(B/A/G) F2|
+w:Por-que é San-ta  Ma-* ri-a  le  al*   e   mui ver-da- dei-**ra,
+   E  F   G2| A (B/A/) G2| (FE)  D   D|(E>D) (C>D)|B,  C (DE)| F2  G2 ||
+w:po-ren mui-to ll'a-* vo- rre-*ce  da  pa-*  rav-*la men-ti-*rei-ra.
+%
+  E  F  G2 | G  A G2 |(FE) D   D|(E>D) (C>D)|B, C (DE)|F2  G2 |
+w:E po-rend' un o-me   bõ-*o  que en*   Da-*rou-ca mo-*ra-va,
+   E  F  G2|  G    A  G2| (FE) D   D|(E>D) (C>D)|B,  C   (DE)|F2  G2 |
+w:de ssa mo-ller, que a-   vi-*a  bõ- a*    e*  que muit' a-* ma-va,
+   E   F G2|G  G (A>G)|F2  F    F|(GA)  B2| A G   A2 |(B/A/G) F2 |
+w:non po-di-a  a- ver* fi-llos, e  po-*ren-de se quei- xa-**  va
+   E     F   G2 | A  (B/A/)  G2   |(FE) D    D|(E>D) (C>D)|B,  C (DE)| F2   G2||
+w:muit' end' el; mas  di-* sse\-ll' e-*la: «Eu  vos*  po-*rrei en ca-*rrei-ra
+
+X: 4333
+T: Cantiga 43: Porque é Santa Maria
+N: 
+M: 6/8
+L: 1/8
+Q: 1/8=180
+K: G dorian
+V:1
+%Staff 1
+%%MIDI program 74
+!ff!
+%
+   E   F2 G2 G | G (A>G) F2 F | F (GA)   B2   A | G  A2 (B/A/G) F |
+w:Por-que é San-ta  Ma-* ri-a  le  al*   e   mui ver-da- dei-**ra,
+   E  F2  G2  A|(B/A/) G2  (FE)  D | D (E>D) (C>D) B,| C (DE)  F2  G ||
+w:po-ren mui-to ll'a-* vo- rre-*ce  da  pa-*  rav-*la men-ti-*rei-ra.
+%
+  E F2  G2   G| A G2  (FE) D | D (E>D) (C>D) B,|C (DE) F2  G |
+w:E po-rend' un o-me   bõ-*o  que en*   Da-*rou-ca mo-*ra-va,
+   E  F2 G2   G  | A  G2  (FE) D | D (E>D) (C>D) B,| C   (DE) F2  G |
+w:de ssa mo-ller, que a-   vi-*a  bõ- a*    e*  que muit' a-* ma-va,
+   E  F2 G2 G| G (A>G) F2  F  | F (GA)  B2  A|G   A2  (B/A/G)  F |
+w:non po-di-a  a- ver* fi-llos, e  po-*ren-de se quei- xa-**  va
+   E     F2  G2   A |(B/A/)  G2    (FE) D |  D (E>D) (C>D) B, |C (DE)  F2   G ||
+w:muit' end' el; mas  di-* sse\-ll' e-*la: «Eu  vos*  po-*rrei en ca-*rrei-ra
+%
+%%newpage
+W:Esta é de como Santa Maria resucitou un menyno na ssa eigreja de salas.
+W:
+W:
+W:Porque é Santa Maria leal e mui verdadeira,
+W:poren muito ll' avorrece  da paravla mentireira.
+W:
+W:E porend' un ome bõo  que en Darouca morava,
+W:de ssa moller, que avia  bõa e que muit' amava,
+W:non podia aver fillos,  e porende se queixava
+W:muit' end' el; mas disse-ll' ela:  «Eu vos porrei en carreira
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:Com' ajamos algun fillo,  ca se non, eu morreria.
+W:Poren dou-vos por conssello  que log' a Santa Maria
+W:de Salas ambos vaamos,  ca quen se en ela fia,
+W:o que pedir dar-ll-á logo,  aquest' é cousa certeira.»
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:Muit' en proug' ao marido,  e tan toste se guisaron
+W:de fazer sa romaria  e en seu camyn' entraron.
+W:E pois foron na eigreja, Santa Maria rogaron
+W:que podessen aver fillo  ontr' el e ssa conpanneira.
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:E a moller fez promessa  que se ela fill' ouvesse,
+W:que con seu peso de cera  a un ano llo trouxesse
+W:e por seu servidor sempre  na ssa eigreja o desse;
+W:e que aquesto comprisse  entrou-ll' ende par maneira.
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:E pois aquesto dit' ouve,  ambos fezeron tornada
+W:a Darouca u moravan;  mas non ouv' y gran tardada
+W:que log' a poucos de dias  ela se sentiu prennada,
+W:e a seu temp' ouve fillo  fremoso de gran maneira.
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:Des que lle naceu o fillo,  en logar que adianos
+W:déss' end' a Santa Maria  teve-o grandes set' anos
+W:que lle non ven o emente  nen da cera nen dos panos
+W:con que o levar devera,  e cuidou seer arteira.
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:Ca u quis tee-lo fillo  e a cera que tinia,
+W:deu fever ao menyno  e mató-o muit' aginna,
+W:que lle nunca prestar pode fisica nen meezyna;
+W:mas gran chanto fez la madre  pois se viu dele senlleira.
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:Que o soterrassen logo  o marido ben quisera;
+W:mas la madre do menyno  disse con gran coita fera
+W:que el' a Santa Maria  o daria, que llo dera
+W:con sa cera como ll' ela  prometera da primeira.
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:E logo en outro dia entraron en seu camyno,
+W:e a madr' en ataúde  levou sig' aquel menyno;
+W:e foron en quatro dias,  e ant' o altar festinno
+W:o pos, fazendo gran chanto,  depenando sa moleira
+W:
+W:Porque é Santa Maria   leal e mui verdadeira...
+W:
+W:E dizend' a grandes vozes:  «A ti venno, Groriosa,
+W:con meu fill' e cona cera  de que te fui mentirosa
+W:en cho dar quand' era vivo;  mas, porque es piadosa,
+W:o adug' ante ti morto,  e dous dias á que cheira.
+W:
+W:Porque é Santa Maria leal e mui verdadeira...
+W:
+W:Mas se mio tu dar quisesses,  non porque seja dereito,
+W:mas porque sabes mia coita,  e non catasses despeito
+W:de como fui mentirosa,  mas quisesses meu proveito
+W:e non quisesses que fosse  nojosa e mui parleira.»
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:Toda a noit' a mesquinna  estev' assi braadando
+W:ant' o altar en geollos,  Santa Maria chamando
+W:que ss' amerceasse dela  e seu Fillo ll' ementando,
+W:a quen polas nossas coitas  roga senpr' e é vozeira.
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:Mas, que fez Santa Maria,  a Sennor de gran vertude
+W:que dá aos mortos vida  e a enfermos saude?
+W:Logo fez que o menyno  chorou eno ataúde
+W:u jazia muit' envolto  en panos duma liteira.
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:Quando o padr' e a madre,  que fazian muit' esquivo
+W:doo por seu fillo, viron  que o menyn' era vivo,
+W:britaron o ataúde  u jazia o cativo.
+W:Enton ven o y mais gente  que non ven a huma feira,
+W:
+W:Porque é Santa Maria  leal e mui verdadeira...
+W:
+W:Por veer o gran miragre  que a Virgen demostrara
+W:de como aquel meninno  de morte ressucitara,
+W:que a cabo de seis dias  jazendo morto chorara
+W:por prazer da Groriosa,  santa e dereitureira.
+W:
+W:Porque é Santa Maria   leal e mui verdadeira...
+
+
+% Translation
+%%begintext skip
+Esta é de como Santa Maria resucitou	This is about how Saint Maria revived 
+un menyno na ssa eigreja de Salas.	a boy in her church of Salas.
+%%
+Porque é Santa Maria			Because is Saint Maria
+  leal e mui verdadeira,		  loyal and very true,
+poren muito ll' avorrece		yet greatly to.her is.hateful
+  da paravla mentireira.		  of.the speech deceitful. 
+		he could not have sons,
+%%
+E porend' un ome bõo			And therefore a good man
+  que en Darouca morava,		  who in Darouca resided,
+de ssa moller, que avia			with his wife, who was
+  bõa e que muit' amava,		  good and whom greatly he.loved,
+non podia aver fillos,			could not have sons,
+  e porende se queixava			  and therefore he lamented
+muit' end' el; mas disse-ll' ela:	greatly therefore; but she said to.him:
+  «Eu vos porrei en carreira		  "I will.put you on track 
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+Com' ajamos algun fillo,		While we.would.act some son,
+  ca se non, eu morreria.		  because if not, I would.die.
+Poren dou-vos por conssello		Yet I.give you for advice
+  que log' a Santa Maria		 that at.once to Saint Maria 
+de Salas ambos vaamos,			of Salas let us both go,
+  ca quen se en ela fia,		  because whoever her relies,
+o que pedir dar-ll-á logo,		what he.might.ask she will give him at.once,
+  aquest' é cousa certeira.»		  this is thing sure."
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+Muit' en proug' ao marido,		greatly in|on #proug'# to.the husband,
+  e tan toste se guisaron		  and so immediately they.prepared.themselves
+de fazer sa romaria			for to.make their pilgrimage
+  e en seu camyn' entraron.		  and on their way they.started.
+E pois foron na eigreja,		and when they.went into.the church,
+  Santa Maria rogaron			  to.Saint Maria they.prayed
+que podessen aver fillo			that they.might get son
+  ontr' el e ssa conpanneira.		  between him and his wife.
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+E a moller fez promessa			And the wife did promise
+  que se ela fill' ouvesse,		  that if she son should.have
+que con seu peso de cera		that with his weight of wax
+  a un ano llo trouxesse		  in one year to.her.it she.would.bring
+e por seu servidor sempre		and for her servant always
+  na ssa eigreja o desse;		  in.the her church it she.would.give;
+e que aquesto comprisse			and that this she.would.fulfill
+  entrou-ll' ende par maneira.		  to.start to.her thence for manner.
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+E pois aquesto dit' ouve,		and when this said she.had,
+  ambos fezeron tornada			  both did return
+a Darouca u moravan;			to Darouca where they.lived;
+  mas non ouv' y gran tardada		   but there.was not there great delay
+que log' a poucos de dias		that presently in a few days
+  ela se sentiu prennada,		  she found herself pregnant,
+e a seu temp' ouve fillo		and at her time had son
+  fremoso de gran maneira.		  handsome of great manner.
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+Des que lle naceu o fillo,		Since that to.her was.born the son,
+  en logar que adianos			  in|on place which|who(m) #adianos# 
+déss' end' a Santa Maria		by.this thence to Saint Maria
+  teve-o grandes set' anos		  she.had the|it|him big seven years 
+que lle non ven o emente		that to.her it.comes not she.would.note it
+  nen da cera nen dos panos		  neither of.the wax nor of.the cloths 
+con que o levar devera,			with which him to.carry|lift.up she.owed,
+  e cuidou seer arteira.		  and she.thought to.be cunning.
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+Ca u quis tee-lo fillo			Because where she.wished to.have the son
+  e a cera que tinia,			  and the wax that she.had,
+deu fever ao menyno			gave fever to.the boy
+  e mató-o muit' aginna,		  and killed him much afterwards 
+que lle nunca prestar pode		that to.him never can give
+ fisica nen meezyna;			  physic nor medicine 
+mas gran chanto fez la madre		but great lamentation made the mother
+  pois se viu dele senlleira.		  when she.found herself of|by.him #senlleira# 
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+Que o soterrassen logo			That they.should.bury him at.once
+  o marido ben quisera;			  the husband much wished;
+mas la madre do menyno			but the mother of.the boy
+  disse con gran coita fera		  said with great pain fierce 
+que el' a Santa Maria			that she to Saint Maria
+  o daria, que llo dera			  would.give him, who had.given him.to.her
+con sa cera como ll' ela		with her wax as to.her
+  prometera da primeira.		  she had.promised from.the first.
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+E logo en outro dia			And at.once on the.next day
+  entraron en seu camyno,		  they.started on their way,
+e a madr' en ataúde			and the mother in casket
+  levou sig' aquel menyno;		  carried with.her that boy;
+e foron en quatro dias,			and they.went in four days,
+  e ant' o altar festinno		  and before the altar joyful 
+o pos, fazendo gran chanto,		him did.put, making great lamentation,
+  depenando sa moleira			  pulling her hair.
+%%
+Porque é Santa Maria   leal e mui verdadeira...
+%%
+E dizend' a grandes vozes:		And saying in a loud voice:
+  «A ti venno, Groriosa,		  "To thee I.come, Glorious.Lady, 
+con meu fill' e cona cera		with my son and with.the wax
+  de que te fui mentirosa		  of which to.thee I.was deceitful
+en cho dar quand' era vivo;		for to.give it to.thee when he.was alive;
+  mas, porque es piadosa,		  but because thou.art merciful,
+o adug' ante ti morto,			him I.bring before thee dead,
+  e dous dias á que cheira.		  and two days has|there.is which|who(m) smells.
+%%
+Porque é Santa Maria leal e mui verdadeira...
+%%
+Mas se mio tu dar quisesses,		But if thou might.wish to.give him.to.me,
+  non porque seja dereito,		  not because it.would.be right,
+mas porque sabes mia coita,		but because thou.knows my pain,
+  e non catasses despeito		  and thou.would not seek spite
+de como fui mentirosa,			from when I.was deceiver,
+  mas quisesses meu proveito		  but thou.would.wish my advantage 
+e non quisesses que fosse		and thou.would not wish that I.should.be
+  nojosa e mui parleira.»		  mournful and greatly|much|many #parleira#."
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+Toda a noit' a mesquinna		All the night the wretched.woman
+  estev' assi braadando			  had.been so clamoring 
+ant' o altar en geollos,		before the altar on her knees,
+  Santa Maria chamando			  to Saint Maria calling 
+que ss' amerceasse dela			that she.should.have.pity on.her
+  e seu Fillo ll' ementando,		  and her son to.her noting,
+a quen polas nossas coitas		she who for.the our cares
+  roga senpr' e é vozeira.		  prays ever and is intercessor.
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+Mas, que fez Santa Maria,		But, that did Saint Maria,
+  a Sennor de gran vertude		 the Lord of great virtue 
+que dá aos mortos vida			who gives to.the dead life
+  e a enfermos saude?			  and to sick.people health 
+Logo fez que o menyno			at.once caused that the boy
+  chorou eno ataúde			  wept in.the casket 
+u jazia muit' envolto			in.which he.lay greatly wrapped.up
+  en panos duma liteira.		  in cloths of.a litter.
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+Quando o padr' e a madre,		When the father and the mother,
+  que fazian muit' esquivo		  who were.making great inconsolable 
+doo por seu fillo, viron		grief for their son,
+  que o menyn' era vivo,		  saw that the boy was alive,
+britaron o ataúde			they.broke the casket
+  u jazia o cativo.			  in.which lay the captive.
+Enton ven o y mais gente		Then comes it there more people
+  que non ven a huma feira,		  than no comes to a fair.
+%%
+Porque é Santa Maria  leal e mui verdadeira...
+%%
+Por veer o gran miragre			For to.see the great miracle
+  que a Virgen demostrara		  that the Virgin had.shown 
+de como aquel meninno			of how that boy
+  de morte ressucitara,			  from death she.had.revived,
+que a cabo de seis dias			who after stretch of 6 days
+  jazendo morto chorara			  lying dead he.had.cried.out
+por prazer da Groriosa,			for the.pleasure of.the Glorious.Lady,
+  santa e dereitureira.			  holy and just. 
+%%
+Porque é Santa Maria   leal e mui verdadeira...
+%%endtext
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
