@@ -1,4 +1,5 @@
 %%abc-version 2.1
+%%oneperpage 1
 %%titletrim true
 %%titleformat A-1 T C1, S-1 N
 %%writefields QP 0
@@ -11352,6 +11353,256 @@ e fez o seu mõesteiro,				and built it his monastery
 u viveu en castidade.				where he.lived in chasity.
 %%
 A Virgen Santa Maria | tant' é de gran piadade...
+%%endtext
+
+%%landscape 0
+X: 46
+T: Cantiga 46: Porque ajan de seer
+N: 59 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/132small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob056small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+ (F>E) (D/E/)|C2 D |F (GA/G/)|F3| F  (FG)|A2 (A/B/)|A2   G|(FG/F/E/D/)|C3|
+w:Por-* que*  a-jan de se-**  er seus mi-*ra-gres* mais sa- bu-****    dos
+ (F>E) (D/E/)|C2   D|  F (GA/G/)|F3| F (FG)  |A (A>G)|F (GA/G/)|(F/E/D/C3/2)|D3||
+w:da*   Vir-*gen, de lles fa-** zer vai ant'* o- me-* es de-**   screu-***   dos.
+%
+ (F>E) (D/E/) |C2 D| F (GA/G/)|F3|  F (FG)| A2 (A/G/)|(F/E/) (DC)|D3|
+w:E*    dest'* a-ve-nno a-**   ssi co- mo* vos  que-*  ro*   con-*tar
+ (F>E) (D/E/)|C2   D  |F (GA/G/)|F3|  F  (FG)| A2 (A/G/)|(F/E/) (DC)|D3|
+w:dun*  mou-* ro, com' a- pren-**di, que con* ost' en*    Ul-*  tra-*mar
+ (F>E) (D/E/)|C2   D| F  (GA/G/)|F3| F   (FG)|  A (A>B)|A (G>A)| F2 
+w:gran-*de*  foi, se-gund' o-**  ý,  por cris-*chã-os* gue-rre-*jar  
+ (A/G/)|(FED/E/)|C3|     F (FG) |A (A>G)| F (GA/G/)|(F/E/D/C3/2)|D3||
+w:e*     rou-*** bar,   que non* e- ran* per-ce-**   bu-***      dos.
+%
+%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+%%
+Esta é como a omagen de Santa Maria,
+que un mouro guardava en sa casa onrradamente,
+deitou leite das tetas.
+%%endtext
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+%%
+Porque ajan de seer
+seus miragres mais sabudos
+da Virgen, de lles fazer
+vai ant' omees descreudos.
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+%%
+E dest' avenno assi
+como vos quero contar
+dun mouro, com' aprendi,
+que con ost' en Ultramar
+grande foi, segund' oý,
+por crischãos guerrejar
+      e roubar,
+que non eran percebudos.
+%%
+Porque ajan de seer...
+%% 
+Aquel mouro astragou
+as terras u pod' entrar,
+e todo quanto robou
+feze-o sigo levar;
+e mui ledo sse tornou
+a ssa terra, e juntar
+ foi e dar
+os roubos que ouv' avudos.
+%%
+Porque ajan de seer...
+%% 
+Daquel aver que partiu
+foi en pera ssi fillar
+huma omagen que vyu
+da Virgen que non á par;
+e pois la muito cousyu,
+feze-a logo alçar
+ e guardar
+en panos d' ouro teçudos.
+%%
+Porque ajan de seer...
+%% 
+E ameude veer
+a ya muit' e catar;
+pois fillava-ss' a dizer
+ontre ssi e rezõar
+que non podia creer
+que Deus quisess' encarnar
+ nen tomar
+carn' en moller. «E perdudos
+%%
+Porque ajan de seer...
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+%%
+Son quantos lo creer van,»
+diss' el, «ca non poss' osmar
+que quisesse tal afan
+prender Deus nen ss' abaxar,
+que el que éste tan gran
+se foss' en corp' ensserrar
+ nen andar
+ontre poboos minnudos,
+%%
+Porque ajan de seer...
+%% 
+Como dizen que andou
+pera o mundo salvar;
+mas se de quant' el mostrou
+foss' a mi que quer mostrar,
+faria-me logo sou
+crischão, sen detardar,
+ e crismar
+con estes mouros barvudos.»
+%%
+Porque ajan de seer...
+%%
+Adur pod' esta razon
+toda o mour' encimar,
+quand' à omagen enton
+viu duas tetas a par,
+de viva carn' e d' al non,
+que foron logo mãar
+ e deitar
+leite come per canudos.
+%%
+Porque ajan de seer...
+%% 
+Quand' esto viu, sen mentir,
+começou muit' a chorar,
+e un crerigo vir
+fez, que o foi batiçar;
+e pois desto, sen falir,
+os seus crischãos tornar
+ fez, e ar
+outros benes connosçudos.
+%%
+Porque ajan de seer...
+%%endtext
+%%multicol end
+
+% Translation
+%%begintext skip
+Esta é como a omagen de Santa Maria,		This is how the statue of Saint Maria,
+que un mouro guardava en sa casa onrradamente,	that a mouro guarded in his house honorably,
+deitou leite das tetas.				let.down milk from.the breasts.
+%%
+Porque ajan de seer		So.that might be 
+seus miragres mais sabudos	her miracles better known 
+da Virgen, de lles fazer	of.the Virgin, for to.them to.perform
+vai ant' omees descreudos.	she.goes before men unbelieving. 
+%% 
+E dest' avenno assi		And about.this I.arrive thus
+como vos quero contar		as to.you I.wish to.recount 
+dun mouro, com' aprendi,	about.a mouro, as I.learned,
+que con ost' en Ultramar	who with an army overseas 
+grande foi, segund' oý,		great was, accordingly I.heard,
+por crischãos guerrejar		for Christians to.make.war.upon
+      e roubar,				and to.rob,
+que non eran percebudos.	that no they.were cautious.
+%%
+Porque ajan de seer...	
+%%
+Aquel mouro astragou		That mouro despoiled
+as terras u pod' entrar,	the lands in.which he.could enter,
+e todo quanto robou		and all so.much he.robbed 
+feze-o sigo levar;		he.caused it with.him to.be.carried.off;
+e mui ledo sse tornou		and very happy gladly returned
+a ssa terra, e juntar		to his land, and to.assemble
+ foi e dar				went and to.give 
+os roubos que ouv' avudos.	the loot that he.had gotten.
+%%
+Porque ajan de seer...
+%%
+Daquel aver que partiu		Of.those possessions that he.divided
+foi en pera ssi fillar		went into for to.proceed
+huma omagen que vyu		a statue that he.saw 
+da Virgen que non á par;	of.the Virgin who has no par;
+e pois la muito cousyu,		and when it greatly he.chose,
+feze-a logo alçar		he.caused it at.once to.be.raised
+ e guardar				and protected 
+en panos d' ouro teçudos.	in cloths of woven gold.
+%%
+Porque ajan de seer...
+%%
+E ameude veer			And often to.see 
+a ya muit' e catar;		it he.would.go greatly and to.examine;
+pois fillava-ss' a dizer	then he.would.proceed for to.say 
+ontre ssi e rezõar		to himself and to.reason
+que non podia creer		that he.was not able to.believe 
+que Deus quisess' encarnar	that God would.have.wished to.incarnate 
+ nen tomar				nor to.take 
+carn' en moller. «E perdudos	flesh in woman.  "And lost 
+%%
+Porque ajan de seer...
+%%
+Son quantos lo creer van,»	Are how.much him to.believe they.go," 
+diss' el, «ca non poss' osmar	said he, "because I.would not be.able to.guess
+que quisesse tal afan		that would.have.wished such toil 
+prender Deus nen ss' abaxar,	God to.take nor himself to.abase,
+que el que éste tan gran	that he who is so great 
+se foss' en corp' ensserrar	should.have.set.out in body to.lock.up 
+ nen andar				nor to walk
+ontre poboos minnudos,		among peoples lowly,
+%%
+Porque ajan de seer...
+%%
+Como dizen que andou		As they.say that he.walked 
+pera o mundo salvar;		for the world to.save; 
+mas se de quant' el mostrou	but if by such he showed 
+foss' a mi que quer mostrar,	it.must.have.been to me that he.wants to.show,
+faria-me logo sou		I.should.make myself at.once I.am 
+crischão, sen detardar,		christian, without to.delay,
+ e crismar				and to.baptise
+con estes mouros barvudos.»	with these mouros bearded."
+%%
+Porque ajan de seer...
+%%
+Adur pod' esta razon		Scarsely is.able this argument
+toda o mour' encimar,		whole the mouro to.complete,
+quand' à omagen enton		when on.the statue then 
+viu duas tetas a par,		he.saw two breasts by pair,
+de viva carn' e d' al non,	of living flesh and of nothing else,
+que foron logo mãar		which were at.once overflowing
+ e deitar				and leting.down 
+leite come per canudos.		milk as through pipes.
+%%
+Porque ajan de seer...
+%%
+Quand' esto viu, sen mentir,	When this he.saw, without deceit,
+começou muit' a chorar,		he.started greatly for to.cry,
+e un crerigo vir		and a cleric to.come 
+fez, que o foi batiçar;		he.caused, that was to.baptize him;
+e pois desto, sen falir,	and when by.this, without fail,
+os seus crischãos tornar	her own Christians to.become 
+ fez, e ar				he.caused, and now 
+outros benes connosçudos.	other good.men illustrious.
+%%
+Porque ajan de seer...
 %%endtext
 
 
