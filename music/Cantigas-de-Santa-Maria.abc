@@ -10904,7 +10904,6 @@ Quen fiar na Madre do Salvador...
 %%endtext
 %%multicol end
 
-
 % Translation
 %%begintext skip
 Esta é como o cavaleiro que perdera seu açor	This is how the knight who had.lost his falcon
@@ -10977,6 +10976,382 @@ dizend': «Ai, Sennor, tantos son os teus	saying: "Ai, Lord, such are thy
 benes que fazes a quen ás amor!»		goodnesses that thou.does to he.whom thou loves!"
 %%
 Quen fiar na Madre do Salvador...
+%%endtext
+
+
+%%landscape 0
+X: 45
+T: Cantiga 45: A Virgen Santa Maria tant' é de gran piedade,
+N: 83 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/130small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob074small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob075small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: none
+L: 1/4
+Q: 1/4=200
+K: D dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  c c2 | d (d>e)| c (cB)| A (AG)| F   (FG)| A  D2 | F (AG)|(FED/E/)|C3|
+w:A Vir-gen San-*ta  Mar-*i  a*  tant' é*  de gran pi- e-*  da-***  de,
+   c  c2|d (d>e)| c (cB) | A (AG)| F (GA)|  D (F>G)|(A/G/) (F/E/D)|(EDC)|D3||
+w:que  a-o  pec-*ca- dor* co-lle* por fei-*to  a*    vo-*   on-**   ta-**de.
+%
+  D (CD)| F F2 | F (GF)|D C2| D   (CD)|G (AG)|(F/E/) D2|(EDC)| D3|
+w:E des-*ta gui-sa  av-*e-o  pouc' á*  a  un*  ca-*  va- lei-**ro
+   D (CD)| F  F2| F (GF)| D C2 | D (CD)|F (AG)| (F/E/) D2|(EDC)| D3|
+w:fi-dal-*g'e ri-co  so-*be-jo, mas er-*a brav'* e*    te-rrei-**ro,
+   c c2|  d  (d>e)| c  (cB)|A (AG) | F (FG)|  A   D2 |F (AG)|(FED/E/)|C3|
+w:so-ber-vios' e*  mal-cre-*en-te,* que sol* por Deus un di-*nnei-*** ro
+   c  c2| d (d>e)| c (cB)| A (AG)  |F (GA)| D (F>G)|(A/G/) (F/E/D)|(EDC)|D3||
+w:non da-va, nen* po-los* San-tos,* es-to* sa- bed'* en*    ver-**  da-**de.
+%
+W:Esta é como Santa Maria gãou de seu fillo que fosse salvo
+W:o cavaleiro malfeitor que cuidou de fazer un mõesteiro
+W:e morreu ante que o fezesse.
+W:
+W:
+W:
+W:A Virgen Santa Maria | tant' é de gran piedade,
+W:que ao peccador colle | por feito a voontade.
+W:
+W:E desta guisa aveo | pouc' á a un cavaleiro
+W:fidalg' e rico sobejo, | mas era brav' e terreiro,
+W:sobervios' e malcreente, | que sol por Deus un dinneiro
+W:non dava, nen polos Santos, | esto sabed' en verdade.
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:Aqueste de fazer dano | sempre ss' ende traballava,
+W:e a todos seus vezynnos | feria e demostava;
+W:sen esto os mõesteiros | e as igrejas britava,
+W:que vergonna non avia | do prior nen do abade.
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:E todo seu cuidad' era | de destroir los mesqynos
+W:e de roubar os que yan | seguros pelos camynos,
+W:e per ren non perdõav' a | molleres nen a menynos,
+W:que ss' en todo non metesse | por de mui gran crueldade.
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:E esta vida fazendo, | tan brava e tan esquiva,
+W:un dia meteu ben mentes | como sa alma cativa
+W:era chea de pecados | e mui mais morta ca viva,
+W:se mercee non ll' ouvesse | a comprida de bondade.
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:E, porque sempre os bõos | lle davan mui gran fazfeiro
+W:do muito mal que fazia, | penssou que un mõesteiro
+W:faria con bõa claustra, | igreja e cymiteiro,
+W:estar e enfermaria, | e todo en ssa herdade.
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:E des i ar cuidou logo | de meter y gran convento
+W:de monges, se el podesse, | ou cinquaenta ou cento;
+W:e per que mui ben vivessen | lles daria conprimento,
+W:e que por Santa Maria | servir seria y frade.
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:Tod' aquesto foi cuidando | mentre siia comendo;
+W:e poi-ll' alçaron a mesa, | foi catar logo correndo
+W:logar en que o fezesse, | e achó-o, com' aprendo,
+W:muit' apost' e mui viçoso, | u compris' ssa caridade.
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:En este coidad' estando | muit' aficad' e mui forte,
+W:ante que o começasse, | door lo chegou a morte;
+W:e os demões a alma | fillaron del en sa sorte,
+W:mais los angeos chegaron | dizendo: «Estad', estade!
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:Ca non quer Santa Maria | que a vos assi levedes.»
+W:E disseron os diabos: | «Mais vos, que razon avedes
+W:d' ave-la? Ca senpr' est' ome | fez o mal, como sabedes,
+W:por que est' alma é nossa, | e allur outra buscade.»
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:Os angeos responderon: | «Mais vos folia fezestes
+W:en fillardes aquest' alma, | mao conssell' y ouvestes
+W:e mui mal vos acharedes | de quanto a ja tevestes;
+W:mais tornad' a vosso fogo | e nossa alma leixade.»
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:Os diabos ar disseron: | «Esto per ren non faremos,
+W:ca Deus é mui justiceiro, | e por esto ben sabemos
+W:que esta alma fez obras por que a aver devemos
+W:toda ben enteiramente, | sen terç' e sen meadade.»
+W:
+W:A Virgen Santa Maria | tant é de gran piadade...
+W:
+W:E un dos angeos disse: | «O que vos dig' entendede:
+W:eu sobirei ao ceo, | e vos aqui mi atendede,
+W:e o que Deus mandar desto, | vos enton esso fazede;
+W:e oi mais non vos movades | nen faledes, mais calade.»
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:Depois aquestas palavras | o angeo logo ss' ya
+W:e contou aqueste feito | mui tost' a Santa Maria;
+W:ela log' a Jeso-Cristo | aquela alma pidia,
+W:dizend': «Ai, meu Fillo santo, | aquesta alma me dade.»
+W:
+W:A Virgen Santa Maria | tant' e de gran piadade...
+W:
+W:E ele lle respondia: | «Mia Madr', o que vos quiserdes
+W:ei eu de fazer sen falla, | pois vos en sabor ouverdes;
+W:mais torn' a alma no corpo, | se o vos por ben teverdes,
+W:e faça o mõesteyro, | u viva en omildade.»
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:E pois Deus est' ouve dito, | un pano branco tomava,
+W:feito ben come cogula, | que ao angeo dava,
+W:e sobela alma logo | o pano deitar mandava,
+W:porque a leixass' o demo | comprido de falssidade.
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:Tornou-ss' o angeo logo; | e atan toste que viron
+W:os diabos a cogula, | todos ant' ela fugiron;
+W:e os angeos correndo | pos eles mal los feriron,
+W:dizendo: «Assi perdestes | o ceo per neycidade.»
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:Pois que ss' assi os diabos | foron dali escarnidos
+W:e maltreitos feramente, | demostados e feridos,
+W:foron pera seu iferno, | dando grandes apelidos,
+W:dizendo aos diabos: | «Varões, oviad', oviade.»
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+W:
+W:Os angeos depos esto | aquela alma fillaron,
+W:e cantando «Surgat Deus» | eno corpo a tornaron
+W:daquel cavaleiro morto, | e vivo o levantaron;
+W:e fez o seu mõesteiro, | u viveu en castidade.
+W:
+W:A Virgen Santa Maria | tant' é de gran piadade...
+
+% Translation
+%%begintext skip
+Esta é como Santa Maria gãou de seu fillo 	This is how Saint Maria obtained from her son
+que fosse salvo o cavaleiro malfeitor		that might be saved the knight evildoer 
+que cuidou de fazer un mõesteiro		who decided to.build a monastery 
+e morreu ante que o fezesse.			and died before he.could.do it.
+%%
+A Virgen Santa Maria | tant' é de gran piedade,	The Virgin Saint Maria such is of great mercy,
+que ao peccador colle | por feito a voontade.	that to.the sinner collects for deed the will.
+%%
+E desta guisa aveo				And in.this way it.happened
+pouc' á a un cavaleiro				a little while ago to a knight 
+fidalg' e rico sobejo,				noble and over-rich, 
+mas era brav' e terreiro,			but he.was savage and #terreiro# 
+sobervios' e malcreente,			very.proud and unbelieving, 
+que sol por Deus un dinneiro			who for God not even one coin
+non dava, nen polos Santos,			would.give, nor for.the saints, 
+esto sabed' en verdade.				know.you this in truth.
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+Aqueste de fazer dano				This.one for to.do harm
+sempre ss' ende traballava,			ever thence was.toiling,
+e a todos seus vezynnos				and all his neighbors 
+feria e demostava;				he.would.harm and #demostava# 
+sen esto os mõesteiros				without this the monasteries 
+e as igrejas britava,				and the churches he.was.breaking,
+que vergonna non avia				that had no shame 
+do prior nen do abade.				of.the prior nor of.the abbot.
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+E todo seu cuidad' era				and all his concern was
+de destroir los mesqynos			for to.destroy the wretches
+e de roubar os que yan 				and for rob those who were.going
+seguros pelos camynos,				safely along.the roads,
+e per ren non perdõav' a 			and for nothing pardoning 
+molleres nen a menynos,				women nor the children,
+que ss' en todo non metesse			who in all would not have.put himself
+por de mui gran crueldade.			through some very great cruelty.
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+E esta vida fazendo,				And this.one life living,
+tan brava e tan esquiva,			so savage and so intractable,
+un dia meteu ben mentes				one day well he recollected
+como sa alma cativa				how his captive soul
+era chea de pecados 				was full of sin
+e mui mais morta ca viva,			and much more dead than alive, 
+se mercee non ll' ouvesse 			if mercy not to.him|her he.would.have.had
+a comprida de bondade.				the fulfillment of goodness.
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+E, porque sempre os bõos 			And, because the good always
+lle davan mui gran fazfeiro			to.her gave very great #fazfeiro# 
+do muito mal que fazia,				of.the great evil that he.was.doing, 
+penssou que un mõesteiro			he.thought that a monastery 
+faria con bõa claustra, 			he.would.build with good cloister, 
+igreja e cymiteiro,				church and cemetery,
+estar e enfermaria, 				to.be and infirmary,
+e todo en ssa herdade.				and all on his estate.
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+E des i ar cuidou logo				And from there now he.decided at.once 
+de meter y gran convento			for to.put there great monastery 
+de monges, se el podesse,			of monks, if he could,
+ou cinquaenta ou cento;				or 50 or 100;
+e per que mui ben vivessen			and for that very well they.should.live
+lles daria conprimento,				to.them he.would.give all.needed,
+e que por Santa Maria				and that for Saint Maria 
+servir seria y frade.				to.serve he.would.be there brother.
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+Tod' aquesto foi cuidando			All this he.was thinking
+mentre siia comendo;				while he.would.be eating;
+e poi-ll' alçaron a mesa,			and when to.him they.cleared the table,
+foi catar logo correndo				he.went to.seek at.once running 
+logar en que o fezesse,				place on which he.should.build it,
+e achó-o, com' aprendo,				and found it, as I.learn,
+muit' apost' e mui viçoso,			very beautiful and very luxuriant,
+ u compris' ssa caridade.			where he.might.fulfill his charity.
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+En este coidad' estando 			On this care being 
+muit' aficad' e mui forte,			very fixed and very strong,
+ante que o começasse,				before that it he.might.begin,
+door lo chegou a morte;				sorrow to.him arrived at|to|the death;
+e os demões a alma				and the demons the soul
+fillaron del en sa sorte,			took from.him in his fate,
+mais los angeos chegaron			but the angels arrived
+dizendo: «Estad', estade!			saying: "Stay, stay!
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+Ca non quer Santa Maria				Because wishes not Saint Maria
+que a vos assi levedes.»			that to you as you.would.carry." 
+E disseron os diabos:				And said the devils:
+«Mais vos, que razon avedes			"But you, what reason do you have 
+d' ave-la? Ca senpr' est' ome			for to.have it?  Because ever this man 
+fez o mal, como sabedes,			did the evil, as you.know,
+por que est' alma é nossa,			for which this soul is ours,
+e allur outra buscade.»				and in.another.place other search.you."
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+Os angeos responderon:				The angels replied:
+«Mais vos folia fezestes			"But you folly did 
+en fillardes aquest' alma,			in your.taking this soul,
+mao conssell' y ouvestes			bad advice there you.had.
+e mui mal vos acharedes				and great evil you will.find
+de quanto a ja tevestes;			of|by how.much it already you.held;
+mais tornad' a vosso fogo			but return.you to your fire
+e nossa alma leixade.»				and our soul loose."
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+Os diabos ar disseron:				The devils now said:
+«Esto per ren non faremos,			this for no thing we.will.do,
+ca Deus é mui justiceiro,			because God is very severe,
+e por esto ben sabemos				and by this well we.know
+que esta alma fez obras				that this soul did works
+por que a aver devemos				for which it to.obtain we.ought 
+toda ben enteiramente,				all well completely,
+sen terç' e sen meadade.»			not one-third and not one-half."
+%%
+A Virgen Santa Maria | tant é de gran piadade...
+%%
+E un dos angeos disse:				And one of.the angels said:
+«O que vos dig' entendede:			"What to.you I.say understand.you:
+eu sobirei ao ceo,				I will.ascend to.the heaven,
+e vos aqui mi atendede,				and you here me await,
+e o que Deus mandar desto,			and what God to.command about.this
+vos enton esso fazede;				you then this do.you;
+e oi mais non vos movades			and oy more move you not
+nen faledes, mais calade.»			nor would.you.speak, more be.you.silent." 
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+Depois aquestas palavras			After these words 
+o angeo logo ss' ya				the angel at.once set off
+e contou aqueste feito				and recounted this deed 
+mui tost' a Santa Maria;			very immediately to Saint Maria; 
+ela log' a Jeso-Cristo				she at.once to Jeso-Cristo
+aquela alma pidia,				that soul was.requesting,
+dizend': «Ai, meu Fillo santo,			saying: "Ai, my Son holy,
+aquesta alma me dade.»				this soul to.me give.you."
+%%
+A Virgen Santa Maria | tant' e de gran piadade...
+%%
+E ele lle respondia:				and he to.her was.answering:
+«Mia Madr', o que vos quiserdes			"My Mother, what you might.wish
+ei eu de fazer sen falla,			have I for to.perform without fail,
+pois vos en sabor ouverdes;			then you in pleasure might.have;
+mais torn' a alma no corpo,			but let.return the soul into.the body,
+se o vos por ben teverdes,			if him you for good might.hold, 
+e faça o mõesteyro,				and let.him.build the monastery,
+u viva en omildade.»				in.which he.might.live in humility."
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+E pois Deus est' ouve dito,			And when God this had said,
+un pano branco tomava,				a cloth white was.taking,
+feito ben come cogula,				well-made as cowl,
+que ao angeo dava,				which to.the angel he.was.giving,
+e sobela alma logo				and over.the soul at.once 
+o pano deitar mandava,				the cloth to.lay.down was.commanding,
+porque a leixass' o demo			because the devil should.abandon it
+comprido de falssidade.				long|complete from falseness.
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+Tornou-ss' o angeo logo;			Returned the angel at.once;
+e atan toste que viron				and as soon as saw 
+os diabos a cogula,				the devils the cowl,
+todos ant' ela fugiron;				all before it they.fled;
+e os angeos correndo				and the angels running 
+pos eles mal los feriron,			after them evil them they.wounded,
+dizendo: «Assi perdestes			saying: "Thus you.lost
+o ceo per neycidade.»				the heaven through folly."
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+Pois que ss' assi os diabos			Because (if) thus the devils
+foron dali escarnidos				were from.that.time mocked
+e maltreitos feramente,				and abused fiercely,
+demostados e feridos,				#demostados# and wounded,
+foron pera seu iferno,				they.were|went for their fire,
+dando grandes apelidos,				giving great calls to arms,
+dizendo aos diabos:				saying to.those devils:
+«Varões, oviad', oviade.»			"Listen up you guys." 
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
+%%
+Os angeos depos esto				The angels after this
+aquela alma fillaron,				that soul they.took, 
+e cantando «Surgat Deus»			and singing "Surgat Deus"
+eno corpo a tornaron				into.the body it they.gave.back 
+daquel cavaleiro morto,				of.that knight dead,
+e vivo o levantaron;				and alive him lifted.up;
+e fez o seu mõesteiro,				and built it his monastery
+u viveu en castidade.				where he.lived in chasity.
+%%
+A Virgen Santa Maria | tant' é de gran piadade...
 %%endtext
 
 
