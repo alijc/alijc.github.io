@@ -10784,6 +10784,203 @@ Porque é Santa Maria   leal e mui verdadeira...
 
 
 %%landscape 0
+X: 44
+T: Cantiga 44: Quen fiar na Madre do Salvador
+N: 58 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/128small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob055small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: F ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   F  (GA)|c (cB)|G2  A|(cB) (A/G/)|F3|(GFE)|
+w:Quen fi-*ar na* Ma-dre do*  Sal-* va- dor**
+   G (G>A)| F (GA)|(c/B/c) G| E2   F |(G2F)| F3 ||
+w:non per-*de- rá*  ren** de quan-to   seu*  for.
+%
+   F  (GA)|c (cB)|(G<A) F|E2  F|(G2F)| F3 |
+w:Quen fi-*ar en*  e-* la de co- ra-* çon,
+  F (GA) |c (cB) |(G<A)  F|E2 F|(G2F)| F3 |
+w:a- ve-*rrá-lle*  com'* a un i- fan-*çon
+  F (GA)|c (cB)|G2  A|(cB) (A/G/)|F3|(GFE)|
+w:a- ve-*o  e-* no rei-no*  d'A-* ra- gon,**
+   G (G>A)| F (GA)|(c/B/c) G|E2  F |(G2F)| F3 ||
+w:que per-*deu a*   ca-** ça un seu  a-*   çor,
+%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+%%
+Esta é como o cavaleiro que perdera seu açor (e) foy-o pedir
+a Santa Maria de Salas; e estando na eigreja, posou-lle na mão.
+%%endtext
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+%%
+Quen fiar na Madre do Salvador
+non perderá ren de quanto seu for.
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+%%
+Quen fiar en ela de coraçon,
+averrá-lle com' a un ifançon
+aveo eno reino d' Aragon,
+que perdeu a caça un seu açor,
+%%
+Quen fiar na Madre do Salvador...
+%%
+Que grand' e mui fremos' era, e ren
+non achava que non fillasse ben
+de qual prijon açor fillar conven,
+d' ave pequena tro ena mayor.
+%%
+Quen fiar na Madre do Salvador...
+%%
+E daquest' o ifançon gran pesar
+avia de que o non pod' achar,
+e porende o fez apregõar
+pela terra toda en derredor.
+%%
+Quen fiar na Madre do Salvador...
+%%
+E pois que por esto non o achou,
+pera Salas seu camyno fillou
+e de cera semellança levou
+de ssa av', e diss' assi: «Ai, Sennor
+%%
+Quen fiar na Madre do Salvador...
+%%
+Santa Maria, eu venno a ti
+con coita de meu açor que perdi,
+que mio cobres; e tu fas-lo assi,
+e aver-m-ás sempre por servidor.
+%%
+Quen fiar na Madre do Salvador...
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+%%
+E demais esta cera ti darei
+en sa figura, e sempr' andarei
+pregõando teu nome e direi
+como dos Santos tu es la mellor.»
+%%
+Quen fiar na Madre do Salvador...
+%%
+Pois esto disse, missa foi oyr
+mui cantada; mas ante que partir
+s' en quisesse, fez-ll' o açor viir
+Santa Maria, ond' ouv' el sabor.
+%%
+Quen fiar na Madre do Salvador...
+%%
+E que ouvess' end' el mayor prazer,
+fez-ll' o açor ena mão decer,
+come se ouvesse log' a prender
+caça con el como faz caçador.
+%%
+Quen fiar na Madre do Salvador...
+%%
+E el enton muit' a Madre de Deus
+loou, e chorando dos ollos seus,
+dizend': «Ai, Sennor, tantos son os teus
+benes que fazes a quen ás amor!»
+%%
+Quen fiar na Madre do Salvador...
+%%endtext
+%%multicol end
+
+
+% Translation
+%%begintext skip
+Esta é como o cavaleiro que perdera seu açor	This is how the knight who had.lost his falcon
+e foy-o pedir a Santa Maria de Salas;		and went to.ask.for it at Saint Maria of Salas;
+e estando na eigreja, posou-lle na mão.		and while in.the church, she.put it in.his hand 
+%%
+Quen fiar na Madre do Salvador			He who believing in.the Mother of.the Saviour 
+non perderá ren de quanto seu for.		will.lose nothing of|by how.much his way.
+%%
+Quen fiar en ela de coraçon,			He who believing in her from his heart 
+averrá-lle com' a un ifançon			will.have to.him as to a young.lad
+aveo eno reino d' Aragon,			it.happened in.the kingdom of Aragon, 
+que perdeu a caça un seu açor,			who lost in the hunt his falcon,
+%%
+Quen fiar na Madre do Salvador...
+%%
+Que grand' e mui fremos' era, e ren		Which grand and very beautiful was, and nothing 
+non achava que non fillasse ben			he.found that no he.would.have.taken well
+de qual prijon açor fillar conven,		from that prey falcon to.take it.is.meet,
+d' ave pequena tro ena mayor.			of bird small #tro# in|on.the most.
+%%
+Quen fiar na Madre do Salvador...
+%%
+E daquest' o ifançon gran pesar			And from.this the young.lad great sorrow 
+avia de que o non pod' achar,			had from that it he cannot find
+e porende o fez apregõar			and therefore it he.caused to.cry.out
+pela terra toda en derredor.			through.the whole world around. 
+%%
+Quen fiar na Madre do Salvador...
+%%
+E pois que por esto non o achou,		And when that through this he.found it not
+pera Salas seu camyno fillou			for Salas his road took
+e de cera semellança levou			and of wax semblance carried 
+de ssa av', e diss' assi: «Ai, Sennor		of his bird, and said thus: "Ai, Lord 
+%%
+Quen fiar na Madre do Salvador...
+%%
+Santa Maria, eu venno a ti			Saint Maria, I come to thee 
+con coita de meu açor que perdi,		with care of my falcon which I.lost,
+que mio cobres; e tu fas-lo assi,		which from.me.it thou.hide; and make thou it thus,
+e aver-m-ás sempre por servidor.		and thou.will.have.me ever for servant.
+%%
+Quen fiar na Madre do Salvador...
+%%
+E demais esta cera ti darei			And moreover this wax to.thee I.will.give 
+en sa figura, e sempr' andarei			in its image, and always I.will.go 
+pregõando teu nome e direi			proclaiming thy name and I.will.say 
+como dos Santos tu es la mellor.»		how of.the saints thou art the best."
+%%
+Quen fiar na Madre do Salvador...
+%%
+Pois esto disse, missa foi oyr			Then this he.said, mass he.went to.hear 
+mui cantada; mas ante que partir		well sung; but before that to.depart 
+s' en quisesse, fez-ll' o açor viir		well he.should.need, 
+							caused to.him the falcon to.come 
+Santa Maria, ond' ouv' el sabor.		Saint Maria, in.which there.was the pleasure.
+%%
+Quen fiar na Madre do Salvador...
+%%
+E que ouvess' end' el mayor prazer,	And that he.might.have thence the most to.please,
+fez-ll' o açor ena mão decer,		she.caused to.him the falcon into.his hand to.descend,
+come se ouvesse log' a prender		as if he.should.have at.once it to.take 
+caça con el como faz caçador.		hunting with him as does hunter.
+%%
+Quen fiar na Madre do Salvador...
+%%
+E el enton muit' a Madre de Deus		And he then greatly the Mother of God 
+loou, e chorando dos ollos seus,		praised, and weeping from his eyes,
+dizend': «Ai, Sennor, tantos son os teus	saying: "Ai, Lord, such are thy 
+benes que fazes a quen ás amor!»		goodnesses that thou.does to he.whom thou loves!"
+%%
+Quen fiar na Madre do Salvador...
+%%endtext
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
