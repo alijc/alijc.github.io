@@ -11607,12 +11607,212 @@ Porque ajan de seer...
 
 
 %%landscape 0
+X: 47
+T: Cantiga 47: Virgen Santa Maria
+N: 61 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/134small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob057small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob058small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian  
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   A | c2  c2|(cB) (cd)|(cB)(BA)|B3   c |d2   d2|(ed2) c|(cB2) 
+w:Vir-gen San-ta*   Ma-* ri-***  a, guar-da\- nos, se* te praz,*
+   A| c2  c2|(cB) (cd)|(cB)(BA)|(B2B/A/) A|(GF)(GA)|(B>A) (GF)| G3
+w:da gran sa- be-* do-* ri-***   a**    que e-* no*  de-*  mo* jaz.
+%
+   A|c2 c2|(cB)  (cd)|(cB)(BA)|B3  A|(GF) (GA)|(B>A) (GF) |G3
+w:Ca e- le noit'* e*  di-***   a  pu-nna*  de*  nos*  me-* ter
+   A | c2 c2|(cB) (cd)|(cB)(BA)|B3   A |(GF) (GA)|(B>A) (GF)|G3
+w:per que fa- ça-* mos* e-***  rro, por-que*  a*  Deus* per-*der
+  A|c2 c2 |(cB) (cd)|(cB)(BA)|B3    c | d2   d2|(ed2)  c|(cB2) 
+w:a-ja-mo\-, lo* teu* Fi-***  llo, que quis por  nos* so- frer*
+   A| c2  c2|(cB)(cd)|(cB) (BA)|B3   A|(GF) (GA)|(B>A) (GF)|  G4 ||
+w:na cruz pa-xon* e*   mor-***  te, que ou-* ve-* sse-* mos* paz.
+%%
+W: 
+W:Esta é como Santa Maria guardou o monge,
+W:que o demo quis espantar por lo fazer perder.
+W: 
+W:
+W:      Virgen Santa Maria,
+W: guarda-nos, se te praz,
+W: da gran sabedoria
+W: que eno demo jaz.
+W: 
+W:Ca ele noit' e dia | punna de nos meter
+W:per que façamos erro, | porque a Deus perder
+W:ajamo-, lo teu Fillo, | que quis por nos sofrer
+W:na cruz paxon e morte, | que ouvessemos paz.
+W:
+W: Virgen Santa Maria...
+W: 
+W:E desto, meus amigos, | vos quer' ora contar
+W:un miragre fremoso, | de que fix meu cantar,
+W:como Santa Maria | foi un monge guardar
+W:da tentaçon do demo, | a que do ben despraz.
+W:
+W: Virgen Santa Maria...
+W: 
+W:Este mong' ordynado | era, segund' oý,
+W:muit', e mui ben sa orden | tinia, com' aprendi;
+W:mas o demo arteiro | o contorvou assy
+W:que o fez na adega | bever do vynn' assaz.
+W:
+W: Virgen Santa Maria...
+W: 
+W:Pero beved' estava | muit', o monge quis s' ir
+W:dereit' aa eigreja; | mas o dem' a sair
+W:en figura de touro | o foi, polo ferir
+W:con seus cornos merjudos, | ben como touro faz.
+W:
+W: Virgen Santa Maria...
+W: 
+W:Quand' esto viu o monge, | feramen s' espantou
+W:e a Santa Maria | mui de rrijo chamou,
+W:que ll' appareceu logu' e | o tour' ameaçou,
+W:dizendo: «Vai ta via, | muit' es de mal solaz.»
+W:
+W: Virgen Santa Maria...
+W: 
+W:Pois en figura d' ome | pareceu-ll' outra vez,
+W:longu' e magr' e veloso | e negro come pez;
+W:mas acorreu-lle logo | a Virgen de bon prez,
+W:dizendo: «Fuge, mao, | mui peor que rapaz.»
+W:
+W: Virgen Santa Maria...
+W: 
+W:Pois entrou na eigreja, | ar pareceu-ll' enton
+W:o demo en figura | de mui bravo leon;
+W:mas a Virgen mui santa | deu-lle con un baston,
+W:dizendo: «Tol-t', astroso, | e logo te desfaz.»
+W:
+W: Virgen Santa Maria...
+W: 
+W:Pois que Santa Maria | o seu mong' acorreu,
+W:como vos ei ja dito, | e ll'o medo tolleu
+W:do demo e do vinno, | con que era sandeu,
+W:disse-ll': «Oy mais te guarda | e non sejas malvaz.»
+W:
+W: Virgen Santa Maria...
+
+% Translation
+%%begintext skip
+Esta é como Santa Maria guardou o monge,	
+que o demo quis espantar por lo fazer perder.	
+				This is how Saint Maria protected the monk 		   
+				whom the devil wished to.frighten for to cause him to.be.lost.
+%%
+ Virgen Santa Maria,		Virgin Saint Maria, 
+ guarda-nos, se te praz,	protect us, if it please thou,
+ da gran sabedoria		from.the great cunning
+ que eno demo jaz.		that in.the devil lies.
+%%
+Ca ele noit' e dia	punna de nos meter		
+per que façamos erro,	porque a Deus perder	
+ajamo-,lo teu Fillo,	que quis por nos sofrer	
+na cruz paxon e morte,	que ouvessemos paz.	
+				Because she night and day	defends us to.put
+				through which we.might err,	because to God to.lose
+				we.would.act, thy own Son,	who wished for our sake to.bear
+				on.the cross passion and death,	that we.might.have peace.
+%%
+ Virgen Santa Maria...
+%%
+E desto, meus amigos,	vos quer' ora contar	
+un miragre fremoso,	de que fix meu cantar,	
+como Santa Maria	foi un monge guardar		
+da tentaçon do demo,	a que do ben despraz.	
+				And about.this, my friends,	to.you I.wish now to.recount
+				a miracle beautiful,		about which I.made my song,
+				how Saint Maria			went a monk to.protect
+				from.the temptation of.the devil,			
+							to whom about.him much displeases.
+%%
+ Virgen Santa Maria...
+%%
+Este mong' ordynado	era, segund' oý,		
+muit', e mui ben sa orden  tinia, com' aprendi;	
+mas o demo arteiro	o contorvou assy		
+que o fez na adega	bever do vynn' assaz.		
+				This monk in.orders		was, accordingly I.heard,
+				verily, and very well his order	held, as I.learned;
+				but the cunning devil		disconcerted him thus
+				that caused him in.the cellar	to.drink of.the wine enough.
+%%
+ Virgen Santa Maria...
+%%
+Pero beved' estava	muit', o monge quis s' ir	
+dereit' aa eigreja;	mas o dem' a sair		 
+en figura de touro	o foi, polo ferir		
+con seus cornos merjudos,  ben como touro faz.	
+				Although drunk he.was	greatly, the monk wished to.depart
+				straight to.the church;	but the devil at the exit
+				in shape of bull	went.at him, for.him to.wound   
+				with his lowered horns,	just as bull does.	   
+%%
+ Virgen Santa Maria...
+%%
+Quand' esto viu o monge,   feramen s' espantou	
+e a Santa Maria		   mui de rrijo chamou,		
+que ll' appareceu logu' e  o tour' ameaçou,	
+dizendo: «Vai ta via,	   muit' es de mal solaz.»	
+				When saw the monk this,	fiercely he.was.frightened 	 
+				and to Saint Maria	with all his strength called,	 
+				that to.him she.appeared at.once  and the bull threatened,
+				saying: "Go thy way	verily thou.art of evil solace."
+%%
+ Virgen Santa Maria...
+%%
+Pois en figura d' ome	pareceu-ll' outra vez,	
+longu' e magr' e veloso  e negro come pez;	
+mas acorreu-lle logo	a Virgen de bon prez,	
+dizendo: «Fuge, mao,	mui peor que rapaz.»	
+				Then in shape of man		he.appeared to.him again,
+				long and lean and hairy		and black as pitch;
+				but she.rescued him at.once	the Virgin of good honor,
+				saying: "Flee, wretch,		far worse than greedy."
+%%
+ Virgen Santa Maria...
+%%
+Pois entrou na eigreja,	ar pareceu-ll' enton	
+o demo en figura	de mui bravo leon;		
+mas a Virgen mui santa	deu-lle con un baston,	
+dizendo: «Tol-t', astroso,  e logo te desfaz.»	
+				When he.entered into.the church, straightway appeared to.him now 
+				the devil in shape		of very savage lion;
+				but the Virgin most holy	gave.it to.him with a staff, 	 
+				saying: "Halt thee, ill-starred.one,  and at.once thyself undo."
+%%
+ Virgen Santa Maria...
+%%
+Pois que Santa Maria	o seu mong' acorreu,	
+como vos ei ja dito,	e ll'o medo tolleu	
+do demo e do vinno,	con que era sandeu,	
+disse-ll': «Oy mais te guarda  e non sejas malvaz.»
+				Because Saint Maria		her own monk rescued,
+				as to.you I.have already said,	and stopped to.him the fear
+				of.the devil and of.the wine,	with which he.was fool,
+			she.said to.him: "Oy but watch thyself	and no more be thou evil."
+%%
+ Virgen Santa Maria...
+%%
+%%endtext
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
-
 
 % Translation
 %%begintext skip
