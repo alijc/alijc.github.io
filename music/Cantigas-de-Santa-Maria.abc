@@ -11808,6 +11808,204 @@ disse-ll': «Oy mais te guarda  e non sejas malvaz.»
 
 
 %%landscape 0
+X: 48
+T: Cantiga 48: Tanto son da Groriosa
+N: 62 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/135small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob058small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob059small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   F (GA)| B  c2| d (cB)|c (B/A/G)|(A/G/) (FE) | D2  E |G (F/E/D)| E C2 |
+w:Tan-to* son da Gro-ri-*o- sa**    seus*  fei-*tos mui pi-a-**   do-sos,
+   C  (DE) | F G2|(A/G/)(FE)| G  G2| G (AB)|c (BA)| G  (FE)| F  F2||
+w:que fill'* a-os  que*  an* muy-to  e  dá* a- os* men-gua-*do-sos.
+%
+  c (cB/A/)| G   (AB)| c  (cB/A/)| G  G2|(A/G/) (FE) | F (GA)| F (GE)| F F2 |
+w:E  da-** quest' un* gran mi-**  ra-gre  fez*  pouc'* á  en* Ca- ta-*lo-nna
+  c (cB/A/)| G (AB) | c (cB/A/)| G G2|(A/G/) (FE) | F (GA)|  F (GE) | F  F2 |
+w:a  Vir-** gen San-*ta  Ma-**  ri-a,  que*   con* Je- so-*Cri- sto* po-nna
+   F (GA)| B c2| d (cB)|c (B/A/G)|(A/G/)(FE) | D2 E | G (F/E/D)| E  C2|
+w:que no* di-a  do jo-* y- zo**    po-*  ssa-*mos ir sen ver-** go-nna
+   C  (DE)|F G2 |(A/G/) (FE)| G  G2|G (AB)| c (BA)| G (FE)|  F F2||
+w:ant' el* e que  non*   va-* a-mos u  y-* rán os* so- ber-*vio-sos.
+W:
+W:Esta é como Santa Maria tolleu a agua da fonte ao cavaleiro,
+W:en cuja erdade estava, e a deu aos frades de Monssarrad
+W:a que a el queria vender.
+W: 
+W: 
+W:Tanto son da Groriosa seus feitos mui piadosos,
+W:que fill' aos que an muyto  e dá aos menguadosos.
+W:
+W:E daquest' un gran miragre  fez pouc' á en Catalonna
+W:a Virgen Santa Maria,  que con Jeso-Cristo ponna
+W:que no dia do joyzo  possamos ir sen vergonna
+W:ant' el e que non vaamos  u yrán os soberviosos.
+W:
+W:Tanto son da Groriosa  seus feitos mui piadosos...
+W:
+W:Monssarraz éste chamado  o logar u é a fonte
+W:saborosa, grand' e crara,  que naç' encima dun monte,
+W:que era dun cavaleiro;  e d'outra parte de fronte
+W:avia un mõesteyro de monges religiosos.
+W:
+W:Tanto son da Groriosa  seus feitos mui piadosos...
+W:
+W:Mas en aquel mõesteiro  ponto d'agua non avia
+W:se non quant' o cavaleiro  da fonte lles dar queria,
+W:por que os monges lle davan  sa renta da abadia;
+W:e quando lla non conprian,  eran dela perdidosos.
+W:
+W:Tanto son da Groriosa  seus feitos mui piadosos...
+W:
+W:E demais, sobre tod' esto,  el assi os pennorava,
+W:que quanto quer que achasse  do mõesteiro fillava;
+W:e porend' aquel convento  en tan gran coita estava,
+W:que non cantavan as oras e andavan mui chorosos.
+W:
+W:Tanto son da Groriosa  seus feitos mui piadosos...
+W:
+W:Os monges, porque sentian  a ssa casa mui menguada,
+W:entre ssi acord' ouveron  de lle non daren en nada,
+W:ca tinian por sobervia  de bever agua conprada;
+W:poren todos na eigreja  entraron muit' omildosos,
+W:
+W:Tanto son da Groriosa  seus feitos mui piadosos...
+W:
+W:Dizend': «Ai Santa Maria,  a nossa coyta veede,
+W:e con Deus, o vosso Fillo,  que todo pode, põede
+W:que nos dé algun consello,  que non moiramos de sede,
+W:veend' agua conos ollos  e seer en desejosos.»
+W:
+W:Tanto son da Groriosa | seus feitos mui piadosos...
+W:
+W:Pois ssa oraçon fezeron,  a Sennor de piadade
+W:fez que sse canbiou a fonte  ben dentro na sa erdade
+W:dos monges, que ant' avian da agua gran soidade,
+W:e des ali adeante  foron dela avondosos.
+W:
+W:Tanto son da Groriosa seus feitos mui piadosos...
+W:
+W:Pois que viu o cavaleiro  que ssa font' assi perdera
+W:por prazer da Groriosa,  que lla aposto tollera,
+W:deu a erdad' u estava  a fonte ond' el vendera
+W:a agu' àquele convento, onde pois foron viçosos.
+W:
+W:Tanto son da Groriosa seus feitos mui piadosos...
+
+% Translation
+%%begintext skip
+Esta é como Santa Maria tolleu		This is how Saint Maria took
+a agua da fonte ao cavaleiro,		the water of.the fountain of.the knight,
+en cuja erdade estava,			in whose estate it.was, 
+e a deu aos frades de Monssarrad	and gave it to.the brothers of Monssarrad 
+a que a el queria vender.		to whom he wanted to.sell it.
+%% 
+Tanto son da Groriosa			Such are of.the Glorious.one
+seus feitos mui piadosos,		her deeds most merciful,
+que fill' aos que an muyto		who takes from.those who have much
+e dá aos menguadosos.			and gives to.the impoverished.
+%%
+E daquest' un gran miragre		And about.this a great miracle
+fez pouc' á en Catalonna		she.performed lately in Catalonna 
+a Virgen Santa Maria,			the Virgin Saint Maria,
+que con Jeso-Cristo ponna		who with Jeso Cristo would.set
+que no dia do joyzo			that in.the day of.the judgement 
+possamos ir sen vergonna		we.would.be.able to.go without shame 
+ant' el e que non vaamos		before him and that we should not go
+u yrán os soberviosos.			where will.go the very.proud.
+%%
+Tanto son da Groriosa  seus feitos mui piadosos...
+%%
+Monssarraz éste chamado			Monssarraz is.this called
+o logar u é a fonte			the place where is the spring 
+saborosa, grand' e crara,		savorful, great and clear
+que naç' encima dun monte,		that rises up by.a mountain, 
+que era dun cavaleiro;			which was of.a knight;
+e d'outra parte de fronte		and of|by another portion of|by front
+avia un mõesteyro			there was a monastery
+de monges religiosos.			of monks religious.
+%%
+Tanto son da Groriosa  seus feitos mui piadosos...
+%%
+Mas en aquel mõesteiro			But in that monastery
+ponto d'agua non avia			drop of water there was none
+se non quant' o cavaleiro		if not the knight
+da fonte lles dar queria,		from.the spring to.them would give
+por que os monges lle davan		for which the monks to.him were.giving
+sa renta da abadia;			their income from.the abbey;
+e quando lla non conprian,		and when to.him.it they did not meet
+eran dela perdidosos.			they.were from.it cut.off.
+%%
+Tanto son da Groriosa  seus feitos mui piadosos...
+%%
+E demais, sobre tod' esto,		And moreover, above all this,
+el assi os pennorava,			as he was.distraining them,
+que quanto quer que achasse		that such he.wants what he.should.find
+do mõesteiro fillava;			from.the monastery he.was.taking;
+e porend' aquel convento		and therefore that convent
+en tan gran coita estava,		in such great care was,
+que non cantavan as oras		that they.were not singing the hours
+e andavan mui chorosos.			and they.were.going very tearful.
+%%
+Tanto son da Groriosa  seus feitos mui piadosos...
+%%
+Os monges, porque sentian		The monks, because they.thought
+a ssa casa mui menguada,		their own house very poor,
+entre ssi acord' ouveron		among themselves accord they.made
+de lle non daren en nada,		for to give him nothing,
+ca tinian por sobervia			because they.held through pride
+de bever agua conprada;			for to.drink purchased water;
+poren todos na eigreja			yet all into.the church
+entraron muit' omildosos,		they.entered very humble,
+%%
+Tanto son da Groriosa  seus feitos mui piadosos...
+%%
+Dizend': «Ai Santa Maria,		Saying: "Ai Saint Maria,
+a nossa coyta veede,			our own care see.thou,
+e con Deus, o vosso Fillo,		and with God, your own Son,
+que todo pode, põede			who all can.do, set.thou
+que nos dé algun consello,		that to.us he.should.give some advice, 
+que non moiramos de sede,		so.that we do not blacken from thirst,
+veend' agua conos ollos			seeing water with.the eyes
+e seer en desejosos.»			and being well desirous"
+%%
+Tanto son da Groriosa | seus feitos mui piadosos...
+%%
+Pois ssa oraçon fezeron,		When their prayer they.had.made,
+a Sennor de piadade			the Lady of piety 
+fez que sse canbiou a fonte		caused that was shifted the spring
+ben dentro na sa erdade			well within into the own grounds
+dos monges, que ant' avian		of.the monks, who before had.been.having
+da agua gran soidade,			of.the water great desire,
+e des ali adeante			and from then into.the.future
+foron dela avondosos.			they.were of.it abundant.
+%%
+Tanto son da Groriosa seus feitos mui piadosos...
+%%
+Pois que viu o cavaleiro		When that saw the knight
+que ssa font' assi perdera		that his spring so he.had.lost 
+por prazer da Groriosa,			for pleasure of.the Glorious.one,
+que lla aposto tollera,			who to.him|her.it|her handsome had.hindered,
+deu a erdad' u estava			gave the grounds in.which was
+a fonte ond' el vendera			the spring where he had.sold 
+a agu' àquele convento,			the water to that convent,
+onde pois foron viçosos.		where then they.were vigorous.
+%%
+Tanto son da Groriosa seus feitos mui piadosos...
+%%endtext
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
