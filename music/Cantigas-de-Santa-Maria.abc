@@ -12240,6 +12240,143 @@ Ben com' aos que van per mar...
 
 
 %%landscape 0
+X: 50
+T: Cantiga 50: Non deve null' ome
+N: 60 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/139small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob057small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=170
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   A (AG)|A2  B  |(c>d) (c/B/)|A2 (A/G/)| F2 (A/G/)|(FED/E/)|C3|
+w:Non de-*ve null' o-*   me*   de- sto*   per ren*   dul-*** tar
+   D (F>E) |D (CD)|(FG/FE/)|F3|G (A>G)|(F/E/) (D>E)| C  D2 ||
+w:que Deus* e- na*  Vir-***gen ve-nno*  car-*  ne*  fi-llar.
+%
+  D (F>E)| D (CD)|(FG/FE/)|F3|  G (A>G)|(F/E/) (D>E)| C D2 |
+w:E  dul-*tar non* de-***  ve, por quan-*to*    vos* di-rei,
+   D (F>E)|  D (CD)|(FG/FE/)| F3| G (A>G)|(F/E/) (D>E)| C  D2|
+w:por-que,* se non*  foss'*** es-to, non*  vi-*   ra-* mos Rei
+   A (AG) | A2 B|(c>d) (c/B/)| A2 (A/G/)| F2   (A/G/)|(FED/E/)|C3|
+w:que cor-*pos e  al-*  mas*  nos  jul-* gass', eu*    o***    sei,
+   D (F>E)| D (CD)|(FG/FE/)|F3| G (A>G)|(F/E/) (D>E)|C D2||
+w:co- mo*  Je- so-* Cris-***to nos ve-*  rrá*   jo-* i-gar.
+%%newpage
+W:
+W:Esta é de loor de Santa Maria, que mostra
+W:por que razon encarnou Nostro Sennor en ela.
+W: 
+W:
+W:Non deve null' ome desto per ren dultar
+W:que Deus ena Virgen veio carne fillar.
+W: 
+W:E dultar non deve, por quanto vos direi,
+W:porque, se non foss' esto, non viramos Rei
+W:que corpos e almas nos julgass', eu o sei,
+W:como Jeso-Cristo nos verrá joigar.
+W:
+W:Non deve null' ome desto per ren dultar...
+W: 
+W:Nen d' outra maneira nos non viramos Deus,
+W:nen amor con doo nunca dos feitos seus
+W:ouveramos, se el non foss', amigos meus,
+W:tal que nossos ollos o podessen catar.
+W:
+W:Non deve null' ome desto per ren dultar...
+W: 
+W:Ca Deus en ssi mesmo ele mingua non á,
+W:nen fame nen sede nen frio nunca ja,
+W:nen door nen coyta; pois quen sse doerá
+W:del, nen piadade averá nen pesar?
+W:
+W:Non deve null' ome desto per ren dultar...
+W: 
+W:E poren dos ceos quis en terra decer
+W:sen seer partido nen menguar seu poder;
+W:e quis ena Virgen por nos carne prender,
+W:e leixou-ss' encima, demais, por nos matar.
+W:
+W:Non deve null' ome desto per ren dultar...
+W: 
+W:Onde come a Deus lle devemos amor
+W:e come a Padre e nosso Criador,
+W:e come a ome del coyta e door
+W:avermos de quanto quis por nos endurar.
+W:
+W:Non deve null' ome desto per ren dultar...
+W: 
+W:E a Santa Virgen, en que ss' el ensserrou,
+W:de que prendeu carne e por madre fillou,
+W:muit' amar devemos, ca per ela mostrou
+W:todas estas cousas que vos fui ja contar.
+W:
+W:Non deve null' ome desto per ren dultar...
+
+% Translation
+%%begintext skip
+Esta é de loor de Santa Maria, que mostra	This is in praise of Saint Maria, which shows 
+por que razon encarnou Nostro Sennor en ela.	for which reason did.incarnate Our Lord in her.
+%%
+Non deve null' ome desto per ren dultar		No man ought of.this for aught to.doubt 
+que Deus ena Virgen veio carne fillar.		that God in.the Virgin came flesh to.take.on. 
+%%
+E dultar non deve, por quanto vos direi,	And to.doubt ought not, for such to.you I'll.say,
+porque, se non foss' esto, non viramos Rei	because, had he not become this, 
+									we had not seen King 
+que corpos e almas nos julgass', eu o sei,	that our bodies and souls he.should.judge,
+										I know it,
+como Jeso-Cristo nos verrá joigar.		as Jeso Cristo will.see us to.judge.
+%%
+Non deve null' ome desto per ren dultar...
+%%
+Nen d' outra maneira nos non viramos Deus,	Not by other manner we had not seen God 
+nen amor con doo nunca dos feitos seus		nor love with grief never of his own deeds 
+ouveramos, se el non foss', amigos meus,	we.had, had he not become, my friends,
+tal que nossos ollos o podessen catar.		such that our eyes him might.be.able to.observe.
+%%
+Non deve null' ome desto per ren dultar...
+%%
+Ca Deus en ssi mesmo ele mingua non á,		Because God in his very self he fault no has,
+nen fame nen sede nen frio nunca ja,		neither hunger nor thirst nor cold never he.went,
+nen door nen coyta; pois quen sse doerá		neither sorrow nor care; then who will.pity 
+del, nen piadade averá nen pesar?		him, neither piety he.will.have nor sorrow?
+%%
+Non deve null' ome desto per ren dultar...
+%%
+E poren dos ceos quis en terra decer		And yet from.the heavens he.wished to earth
+										 to.descend;
+sen seer partido nen menguar seu poder;		without being broken nor lessening his power,
+e quis ena Virgen por nos carne prender,	and he.wished in.the Virgin for us flesh to.take,
+e leixou-ss' encima, demais, por nos matar.	and yielded in.the.end, moreover, for us to.kill.
+%%
+Non deve null' ome desto per ren dultar...
+%%
+Onde come a Deus lle devemos amor		Where as to God to.him we.owe love 
+e come a Padre e nosso Criador,			and as to Father and our Creator, 
+e come a ome del coyta e door			and as to man of|by.him pain and sorrow 
+avermos de quanto quis por nos endurar.		we.have of how.much he.wished for us to.bear. 
+%%
+Non deve null' ome desto per ren dultar...
+%%
+E a Santa Virgen, en que ss' el ensserrou,	And the Saint Virgin, in whom he hid himself,
+de que prendeu carne e por madre fillou,	from whom he.took flesh and for mother took,
+muit' amar devemos, ca per ela mostrou		much to.love we.ought,
+								 because through her he.showed 
+todas estas cousas que vos fui ja contar.	all these things that to.you I.went
+										 now to.recount.
+%%
+Non deve null' ome desto per ren dultar...
+%%endtext
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
