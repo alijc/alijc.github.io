@@ -12006,6 +12006,240 @@ Tanto son da Groriosa seus feitos mui piadosos...
 
 
 %%landscape 0
+X: 49
+T: Cantiga 49: Ben com' aos que van per mar
+N: 63 in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/137small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob059small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob060small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   F   G2 |(F/E/) D2| E (F>E)| D  C2 | D2 C|(D/E/F) E |(D2E/D/)|C3|
+w:Ben com'  a-*   os que van* per mar  a  e- stre-**la  gui-**  a,
+   F  G2|(F/E/) D2|E (F>E)|  D  C2| D2   C|(D/E/F) E|(DEC) |D3||
+w:ou-tro- ssi*  a- os seus* gui-ar  vai San-ta**  Ma- ri-** a.
+   D F2|G  A2| B  c2| B  A2 |  G F2|G (A>G)|  F  E2|(FEF)|
+w:Ca e-la nos vai de-mo-strar de co-mo nos* guar-de- mos**
+   D F2| G A2| B c2 |B  A2 | G F2| E (3(F/E/D/) C|(D2E)|D3|
+w:do de-mo e  de mal o-brar, e en co- mo**     gã- e-*  mos
+  F (GA/G/)|(F/E/) D2| D (F>E)| D  C2 | D2  C |(DE/F/) E |(D2E/D/)|C3|
+w:o  seu**   rey-* no que non*  á par, que nos  ja**  per- de-**   mos
+   F (GA/G/)|(F/E/) D2|  E (F>E)|D  C2 | D2  C|(D/E/F)  E|(DEC)|D3||
+w:per don'**  E-*   va, que foi* e-rrar per sa  gran** fo- li-**a.
+%
+%%newpage
+%%multicol start
+%%leftmargin  5cm
+%%rightmargin 5cm
+%%begintext
+%%
+Esta é de como Santa Maria guiou os romeus,
+que yan a sa eigreja a Seixon e erraran o camino de noite.
+%%endtext
+%%multicol start
+%%leftmargin  7cm
+%%rightmargin 7cm
+%%begintext
+%%
+Ben com' aos que van per mar
+            a estrela guia,
+outrossi aos seus guiar
+            vai Santa Maria.
+%%endtext
+%%multicol start
+%%leftmargin  2cm
+%%rightmargin 10.5cm
+%%begintext
+%% 
+Ca ela nos vai demostrar
+         de como nos guardemos
+do demo e de mal obrar,
+         e en como gãemos
+o seu reyno que non á par,
+            que nos ja perdemos
+per don' Eva, que foi errar
+            per sa gran folia.
+%%
+Ben com' aos que van per mar...
+%% 
+E ar acorre-nos aqui
+         enas mui grandes coitas,
+segund' eu sei ben e oý,
+         quaes avemos doitas;
+ca muitos omees eu vi
+            e molleres moitas
+a que el' acorreu assi
+            de noit' e de dia.
+%%
+Ben com' aos que van per mar...
+%% 
+E, segund' eu oý dizer,
+         huma mui gran conpanna
+de romeus ar foi guarecer
+         en huma gran montanna,
+en que ss' ouveran de perder
+            con coita estranna,
+porque lles foi escurecer
+            e perderon via.
+%%
+Ben com' aos que van per mar...
+%%
+%% 
+E sen aquest' un med' atal
+         enos seus corações
+avian mui fero mortal,
+         ca andavan ladrões
+per y fazendo muito mal;
+            porend' orações
+fezeron todos y sen al,
+            quis come sabía.
+%%
+Ben com' aos que van per mar...
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 2cm
+%%begintext
+%% 
+E chamand' a Madre de Deus,
+         com' é nosso costume,
+que dos graves pecados seus
+         perdess' ela queixume;
+e logo aqueles romeus
+            viron mui gran lume
+e disseron: «Ai, Sennor, teus
+            somos todavia.»
+%%
+Ben com' aos que van per mar...
+%%
+%% 
+E en aquel gran lum' enton
+         viron huma mui bela
+moller de corp' e de faiçon,
+         e ben come donzela
+lles pareceu; e pero non
+            siia en sela,
+mas tinia na mã' un baston
+            que resprandecia.
+%%
+Ben com' aos que van per mar...
+%% 
+%% 
+E poi-la donzela chegou,
+         todas essas montannas
+do seu gran lum' alumenou,
+         e logo as compannas
+dereito a Seixon levou
+            e per muit' estrannas
+terras en salvo os guiou
+            come quen podia.
+%%
+Ben com' aos que van per mar
+            a estrela guia,
+outrossi aos seus guiar
+            vai Santa Maria.
+%%endtext
+%%multicol end
+
+% Translation
+%%begintext skip
+Esta é de como Santa Maria guiou os romeus,	This is of how Saint Maria guided the pilgrims,
+que yan a sa eigreja a Seixon			who were.going to their church at Seixon
+e erraran o camino de noite.			and missed the road by night.
+%%
+Ben com' aos que van per mar			Much as to.those who go by sea 
+	a estrela guia,					the star shows.the.way,
+outrossi aos seus guiar				in.the.same.way to her own to.show.the.way 
+	vai Santa Maria.				goes Saint Maria. 
+%%
+Ca ela nos vai demostrar			Because she to.us goes to.demonstrate 
+	de como nos guardemos				of how we should.beware
+do demo e de mal obrar,				of the devil and of doing evil,
+	e en como gãemos				and in how we.might.win
+o seu reyno que non á par,			her own kingdom that has no par,
+	que nos ja perdemos				that we already are.lost 
+per don' Eva, que foi errar			through Lady Eva, who went to.err 
+	per sa gran folia.				through her great folly.
+%%
+Ben com' aos que van per mar...
+%%
+E ar acorre-nos aqui				And now relieving us here 
+	enas mui grandes coitas,			in.the very great cares
+segund' eu sei ben e oý,			(according to what I know well and heard)
+	quaes avemos doitas;				which we.have learned;
+ca muitos omees eu vi				because many men I saw 
+	e molleres moitas				and women many
+a que el' acorreu assi				to whom she gave.aid so
+	de noit' e de dia.				by night and by day.
+%%
+Ben com' aos que van per mar...
+%%
+E, segund' eu oý dizer,				And, according to what I heard said,
+	huma mui gran conpanna				a very great company 
+de romeus ar foi guarecer			of pilgrims now went to.heal
+	en huma gran montanna,				on a great mountain,
+en que ss' ouveran de perder			on which they.had become lost
+	con coita estranna,				with care strange,
+porque lles foi escurecer			because darkness fell on them
+	e perderon via.					and they.lost their way. 
+%%
+Ben com' aos que van per mar...
+%%
+E sen aquest' un med' atal			And without this a fear such 
+	enos seus corações				on.the their hearts 
+avian mui fero mortal,				they.had very fierce mortal,
+	ca andavan ladrões				because were.wandering thieves 
+per y fazendo muito mal;			through there doing much evil;
+	porend' orações					therefore prayers 
+fezeron todos y sen al,				they.made all there without another thing,
+	quis come sabía.				I|one.wished as I|one.knew.how,
+%%
+Ben com' aos que van per mar...
+%%
+E chamand' a Madre de Deus,			And calling the Mother of God,
+	com' é nosso costume,				as is our habit,
+que dos graves pecados seus			that of.their serious sins 
+	perdess' ela queixume;				she should.forget complaint 
+e logo aqueles romeus				and at.once those pilgrims 
+	viron mui gran lume				saw very great light 
+e disseron: «Ai, Sennor, teus			and they.said: "Ai, Lady, thine
+	somos todavia.»					we.are yet."
+%%
+Ben com' aos que van per mar...
+%%
+E en aquel gran lum' enton			And in that great light then 
+	viron huma mui bela				they.saw a very beautiful 
+moller de corp' e de faiçon,			woman by form and by fashion,
+	e ben come donzela				and much as noble.woman 
+lles pareceu; e pero non			to.them appeared; and though not
+	siia en sela,					sitting in chair,
+mas tinia na mã' un baston			but she.held in.her hand a staff
+	que resprandecia.				which was.shining.
+%%
+Ben com' aos que van per mar...
+%%
+E poi-la donzela chegou,			And when the noble.woman arrived,
+	todas essas montannas				all these mountains 
+do seu gran lum' alumenou			by her great light illuminated
+	e logo as compannas				and at.once the companies 
+dereito a Seixon levou				staight to Seixon she.led 
+	e per muit' estrannas				and through many strange 
+terras en salvo os guiou			lands in safety them guided 
+	come quen podia.				as one.who could.
+%%
+Ben com' aos que van per mar...
+%%endtext
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 F:
