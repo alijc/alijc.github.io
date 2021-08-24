@@ -12375,14 +12375,222 @@ todas estas cousas que vos fui ja contar.	all these things that to.you I.went
 Non deve null' ome desto per ren dultar...
 %%endtext
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% GAP %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%landscape 0
+X: 378
+T: Cantiga 378: Muito nos faz gran merçee
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/675small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 2/4
+L: 1/4
+Q: 1/4=200
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+% 
+   A   c| B   A | A2 | G2|(A>G)|F2|(A/G/)  F| E    G| G2|(A/GF/)|A2 |
+w:Mui-to nos faz gran mer- çe-* e   Deus* Pa-dre, No-stro Se-** nnor,
+  A  c | B  A   |A2|G2|(A>G)|F2|(A/G/) F | E  F |G2|(A/G/F/E/)|F2 ||
+w:u fez sa Madr' a- vo- ga-* da  e*   seu Fi-llo Sal-va-***   dor.
+%
+  A   B  |c  c|(dc)|A2|(c/B/A/G/)|F2|(A/G/) F| E  F |G2|(A/GF/)|A2 |
+w:Ca pois e-la  a-* vo- ga-***    da  é*    e no-ssa ra- zon**  ten,
+   A   B  |c   c|(dc)| A2|(c/B/A/G/)|F2|(A/G/) F | E F|G2|(A/G/F/E/)|F2|
+w:non pod' al fa-zer* seu  Fi-***   llo  se-* non ju-y-gar-nos***   ben;
+   A  c   |B   A |A2|G2|(A>G)|F2|(A/G/) F| E F |G2|(A/GF/)|A2 |
+w:po-rend' e-stor-vo do  de-* mo  no-* no të-e-mos  en**  ren,
+   A  c | B    A |A2| G2|(A>G)|F2|(A/G/) F | E    F| G2|(A/G/F/E/)|F2 ||
+w:ma-car s'el mui-to tra- ba-*lla  de*  nos seer de-stor-va-***    dor.
+%
+W:
+W:[C]omo un ome bõo con sa moller, que morava na colaçon de San Salvador de Sevilla,	% How a good man with his wife, who was.living in.the parish of San Salvador of Sevilla, 
+W:tiin[n]a üa sa filla doente pera morte, e jouve .III. dias que non falou; e		% had one of his daughters ill to.the.point.of death, and she.lay 3 days without speaking; and 
+W:prometeron a a Santa Maria do Porto, e guareçeu.					% they.did.promise her to the Holy Maria of Porto, and she.was.cured.
+W:
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor,	% Greatly grants us great mercy God Father, Our Lord, 
+W:u fez sa Madr' avogada e seu Fillo Salvador.		% when he.did.make his Mother advocate and her Son Saviour.
+W:
+W:Ca pois ela avogada é e nossa razon ten,		% Because when she advocate is and our cause holds,
+W:non pod' al fazer seu Fillo senon juygar-nos ben;	% her Son cannot help but to.judge us well;
+W:porend' estorvo do demo nono tëemos en ren,		% therefore opposition by.the devil we.hold it as naught,
+W:macar s'el muito traballa de nos seer destorvador.	% though he greatly toils to.be our opposer.
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:Ca nos torva na saude fazendo-nos enfermar		% Because he.disturbs us in.our health causing us to.fall.ill
+W:creendo o seu consello con que nos faz el pecar,	% believing his own counsel with which he causes us to.sin 
+W:e faz mal aos meninos polo seu poder mostrar...	% and he.does evil to.the children for his own power to.show...
+W:que é de ffazer nemiga, ca dos maos é peor.		% which is for to.do wickedness, because of.the evil he.is worst.
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:Mais a nossa avogada, que ten ben nossa razon,	% But our own advocate, who holds well our cause,
+W:roga por nos a seu Fillo que nos de sa tentaçon	% prays for us to her Son who us from the temptation 
+W:daquel astroso nos guarde e nos livre d'ocajon	% of.that ill-starred.one would.guard us and deliver us from misfortune
+W:e que nos dia saude cada que nos mester for.		% and that to.us today health whenever to.us needed it.should.be.
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:Onde daquest' en Sevilla fez ela miragr' atal		% Where about.this in Sevilla she did.perform such a miracle 
+W:qual vos ora contar quero; e des que oyrdes qual	% which to.you now to.recount I.desire; and as.soon.as you.should.hear what
+W:foi, por grande o terredes, ca ela que pod' e val	% it.was, so great it you.will.hold, because she who is.be.able and aids
+W:mostrou y sa gran vertude, ca sempre fez o mellor.	% did.show there her great virtue, because always she.did the best.
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:E porend' atal miragre é d'oyr, se vos prouguer,	% And therefore such miracle is for hearing, if you I.might.please,
+W:que fezo Santa Maria do Porto, e quen quiser		% that did.perform.it Saint Maria of Porto, and who should.desire
+W:sabe-lo, que en Sevilla avëo düa moller		% to.know it, that in Sevilla happened to.a woman 
+W:que era mui ben casada con un ome mercador.		% who one.was very well married to a merchant man. 
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:Estes avian sa filla que amavan mais c'a ssi,		% These had their daughter who they.loved more than themselves,
+W:a que pres enfermidade tan grande, com' aprendi,	% she who did.take infirmity so great, as I.did.learn,
+W:que per narizes e ollos e da boca outrossi		% that through nose and eyes and from.her mouth likewise 
+W:deitava tanto de sangre, que foi perder a coor.	% she.was.shedding so.much blood, that she lost her color. 
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:[E] esteve ben tres dias e noytes que non falou;	% And it.was a.good 3 days and nights that she did not speak;
+W:e tëendo-a por morta, a mortalla lle mandou		% and holding her as dead, the shroud for.her did.order 
+W:tallar seu padr' e agynna as candeas ar comprou.	% to.be.cut her father and then the candles also he.did.buy.
+W:Mais [un] seu conpadre logo se fez seu consellador	% But her godfather at.once did.become his counselor 
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:E disse: «Se vos fezerdes o que vos quero dizer,	% And said:  "If you should.do that which to.you I.desire to.say,
+W:esta menyn' ao Porto yde logo prometer		% go.you to Porto at.once to.promise this girl 
+W:da Virgen Santa Maria, e sse sãar, offreçer		% to.the Virgin Saint Maria, and if to.be.cured, to.offer 
+W:lla yde, e mantenente perderá esta door.		% her.to.her go.you, and then she.will.destroy this sorrow.
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:Ca eu mia moller tiinna que ja queria transir,	% Because I had my wife who already desired to.die,
+W:mais pois lla ouv'outorgado, Santa Maria guarir	% but then to.her.it I.had granted Saint Maria to.cure 
+W:a fez; e poren vos rogo que me queyrades oyr,		% she.did.do it; and therefore to.you I.pray that to.me you.would.desire to.hear,
+W:e prometede-ll' a filla, e seede sabedor		% and promise.you to.her your daughter, and be.you wise
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:Que logo que offrecerdes, que a menyna guarrá.»	% That at.once that you.should.offer, that the girl she.will.cure."
+W:E eles lle prometeron que a levassen alá		% And they did.promise him that they.would.take her there 
+W:con sas offertas mui grandes; e a moça log' acá	% with their offerings very great; and the youngster at.once here 
+W:viveu e abriu os ollos e catou enderredor.		% did.live and did.open her eyes and did.look around. 
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:E pois pediu que comesse, e deron-lle manamam		% And then she.asked that she.might.eat, and they.did.give her immediately 
+W:un ov' assado mui mole, e comé-o con do pan.		% a cooked egg very soft, and she.ate it with some bread.
+W:E todos enton loaron a Sennor do bon talan,		% and all then did.praise the Lord with good will,
+W:dizendo: «Bëeyta sejas, que dos teus es guardador.»	% saying: "Blessed art.thou, who of thine own art guardian."
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+W:
+W:Enton a moça fillaron e foron-sse dessa vez		% Then the youngster they.did.take and they.set.out from.that time 
+W:dereitament' ao Porto e passaron per Xerez;		% directly to Porto and they.did.pass through Xerez; 
+W:e pois foron na ygreja da Raynna de gran prez,	% and when they.were in.the church of.the Queen of great honor, 
+W:teveron y sas noveas sempr' ant' o altar mayor.	% they.did.hold there their novenas always before the greater altar. 
+W:Muito nos faz gran merçee Deus Padre, Nostro Sennor...
+
+
+%%landscape 0
+X: 379
+T: Cantiga 379: A que defende do demo
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/677small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+  D| F2  E| F2  G| F (F>E)|D2 (F/E/)|D2  C | C2  D |(F/E/) (DC/D/)|F2 
+w:A que de-fen-de do  de-* mo  as*   al-mas dos pec- ca-*   do-** res,
+  D | F2   E | F2  G | F (F>E)|D2 (F/E/)| D2  C|C2  D|(F/E/) (DC)| D2 
+w:os seus def-fen-der ben po-* de  d'o-* mes ma-os rou-ba-*   do-*res.
+%
+   D   |F2  E|F2 G| A  (AG)| A2 (A/G/)|F (F>E)|D2 (F/E/)| D (C>D)|F2 
+w:Dest' a- ve-o no gran Por-*to  que*  el Rey* po- brar* man-da-* va,
+   D |F2 E| F2  G| A (AG)|A2 (A/G/)|F (F>E)|(DC)   D|(F/E/) (EC)|D2
+w:que é de San-ta Ma- ri-*a,  en*  que el*   mui-*to  pu-*  nna-*va
+   D|F2  E |F2 G|F (F>E)|D2 (F/E/)|D2  C |C2  D|(F/E/) (DC/D/)|F2
+w:de fa-zer y bõ-a  vi-* la; po-* ren ter-mi-no  lle*   da-**  va
+    D |F2  E | F2 G| F (F>E)|D2  (F/E/)|D2  C |C2 D|(F/E/) (DC)| D2 z||
+w:gran-de per mar e per te-*rra,  ca*   lo-gar é dos me-*  llo-*res
+%
+W:
+W:[C]omo Santa Maria do Porto se vengou dos cos[s]arios do mar que roubavan os omees
+	% How Saint Maria of Porto did.take.vengeance on.the pirates of.the sea who were.robbing the men 
+W:que viin[n]an pobrar en aquela sa vila.		% who were.coming to.settle in her own town.
+W:
+W:A que defende do demo as almas dos peccadores,	% She who defends from.the devil the souls of.the sinners,
+W:os seus deffender ben pode d'omes maos roubadores.	% her own to.defend is well able from evil robber men.
+W:
+W:Dest' aveo no gran Porto que el Rey pobrar mandava,	% About.this it.happened that the great Porto the King commanded to.be.settled,
+W:que é de Santa Maria, en que el muito punnava		% which is of Saint Maria, in whom he was mightily striving 
+W:de fazer y bõa vila; poren termino lle dava		% for to.found there a good town; therefore district to.her he.gave
+W:grande per mar e per terra, ca logar é dos mellores	% great by sea and by land, because the place is of.the best
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:Do mundo pera gran vila fazer ou mui gran çibdade.	% In.the world for to.found great town or very great city.
+W:E el Rey de veer esto avia gran soidade;		% And the King for to.see this had great desire;
+W:poren quanto lle pediam lles dava de voontade,	% therefore whatsoever of.him they.asked to.them he.gave willingly,
+W:en tal que pobrar veessen y mui ricos mercadores.	% so that to.settle should.come there very rich merchants. 
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:E por aquesto sas cartas lles mandava que vëessen	% And for this his letters to.them he.commanded that they.should.come
+W:ali salvos e seguros con quanto trager quisessen,	% there safe and secure with whatever to.bring they.might.wish,
+W:e que non ouvessen medo, enquant' ali estevessen,	% and that they should have no fear, while in.that.place they.should.be, 
+W:de perderen do seu nada nen prenderen dessabores	% of losing aught of their own, nor they.should.take unpleasantness
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:Per omëes de sa terra. Sobr' esto de muitas partes	% By men of his land.  Upon this from many sides
+W:vïinnam pera pobrarem, des Jenua te en Charthes;	% they.came for to.settle, from Jenua even to Charthes; 
+W:mais lenno[s] de Catalães, cossarios chëos d'artes,	% but ships from Catalães, pirates full of deceit,
+W:faziam danos nos portos, ca desto son sabedores.	% were.doing harm in.those ports, because by.this they.are wise.
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:E roubavan aos mouros que ali per mar querian		% And they.were.robbing the mouros who there by sea wished
+W:vïir, e muitos matavan deles e muitos prendian;	% to.come, and many they.killed of.them and many they.took;
+W:e neüa reverença aa Virgen non avian			% and not any reverence to.the Virgin they.had
+W:en cujo termino era, come omees malfeitores.		% in whose district it.was, as evildoing men.
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:Onde foi üa vegada que ali un salto deron		% Once it happened that in.that.place an assault they.did.give 
+W:a mouros que y viinnam, e a todo-los preserom,	% to mouros that there were.coming, and to all those they.did.esteem,
+W:e quiseran-s' a ssa terra tornar-se; mais non poderon,% and they.had.wished to their land to.return; but they could not,
+W:pero tiinnam navios ligeyros e corredores.		% although they.had ships agile and fast.
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:Ca a Virgen gloriosa, cujos son aqueles mares,	% Because the Virgin glorious, whose seas those are,
+W:fez-lles que sse non podessen mover daqueles logares	% did.cause them that they.shouldn't.be.able to.move from.those places 
+W:du estavan, con mal tenpo, e todo-los seus chufares	% where they.were, with bad weather, and all their own taunts 
+W:fezo que nada non fossen, macar eran chufadores.	% she.did.cause.it that nowhere they.should.go, since they.were frauds.
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:Assi que pela tormenta, que foi grand' a maravilla,	% Such that through.the storm, that was great the wonder,
+W:non souberon que fezessen, senon ir pera Sevilla	% they did not know what they.should.do, but to.go towards Sevilla 
+W:a tornar o que fillaran a pesar da Madr' e Filla	% for to.repay what they.had.taken to sorrow of.the Mother and Daughter
+W:de Deus, a que dessonraran. E daquesto fiadores	% of God, she whom they.had.dishonored.  And of.this bondsmen 
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:Deron al Rey en Sevilla; e depois que entregaron	% Did.give to.the King in Sevilla; and after that they.did.deliver 
+W:todo quant' ali fillaram, en seu serviço ficarom,	% all whatsoever in.that.place they.had.taken, in her service they.did.stay,
+W:ca ja per nulla maneyra a sas terras non ousaron	% because now for no manner to their lands did.they.dare 
+W:tornar daquela vegada. E desto deron loores		% to.return from.that time.  And from.this they.did.give praises 
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:Todos quanto-los oyron aa Virgen gloriosa,		% All those who did.hear of.the Virgin glorious,
+W:que faz ataes miragres come Sennor poderosa,		% who performs such miracles as powerful Lord,
+W:Madre do Rey justiçeyro. Ca, pero que piadosa		% Mother of.the just King.  Because, although merciful 
+W:é, non quer que mal reçeban per ren os seus pobladores% she.is, she.desires not that evil would.receive for aught her own colonists 
+W:A que deffende do demo as almas dos pecadores...
+W:
+W:Nen outros que a sa casa vennan per mar e per terra;	% Nor others who to her house might.come by sea and by land;
+W:e, empero que os mouros a vezes lle fazen guerra,	% and despite that the mouros at times against.her make war,
+W:aos que vee coitados nunca lle-la porta serra		% on.those that she.sees wretched never to.her the door shut
+W:d'acorrer con sa merçee, que é mayor das mayores.	% for to.aid with her mercy, that is greater than.the greatest.
+W:A que deffende do demo as almas dos pecadores...
+
 
 %%landscape 0
 B:Cantigas de Santa Maria
 F:
-F:
-F:
 Z:Ali Corbin <ali.corbin:gmail.com>
-
-% Translation
-%%begintext skip
-%%endtext
