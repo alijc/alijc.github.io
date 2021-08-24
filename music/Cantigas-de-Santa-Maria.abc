@@ -13024,6 +13024,118 @@ W:A que deffende do demo as almas dos pecadores...
 
 
 %%landscape 0
+X: 380
+T: Cantiga 380: Sen calar
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/679small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   C D2|(F/E/D)   C | D3| F3 | A G2|(F/E/DE)|(F/E/) (D>E)|C3 |
+w:Sen ca-lar**   nen tar-dar  de-ve  to-***   da-*   vi-* a
+   C  D2|(F/E/D)  C|D3|F3 | A  G2|(F/E/DE)|(F/E/D) C |D3 ||
+w:om' on- rrar**  e lo-ar   a San- ta***    Ma-**  ri-a.
+%
+  A  A2|(GAB)|(c/B/A) G | A3 | A   F2|(AG2)|(F/E/D) C| D3 |
+w:Ca e-  la**  non** tar-dou  quan-do nos*   a-**  co-rreu
+  A A2|(GAB) |(c/B/A) G| A3 | A F2|(AG2)|(F/E/D) E|C3 |
+w:e da  pri-** jon** sa-cou  du E-  va*   nos**  me-teu,
+  C D2|(F/E/D) C| D3| F3 | A   G2|(F/E/DE)|(F/E/) (D>E)|C3 |
+w:u pe- sar**  e cui-dar  sem-pre  nos***   cre-*  çi-* a;
+   C    D2|(F/E/D) C|D3|F3 |  A  G2|(F/E/DE)|(F/E/D) C|D3 ||
+w:mais gui- ar**   e le-var  foi u   Deus***  si-**  i-a.
+%%%
+%%newpage
+				% This is in praise of Saint Maria. 
+%%begintext center
+%%[E]sta é de loor de Santa Maria.
+%%endtext
+%%begintext center
+%%Sen calar
+%%nen tardar
+%%deve todavia
+%%om' onrrar
+%%e loar
+%%a Santa Maria.
+%%
+%%endtext
+		% Without silence
+		% nor delay 
+		% ought however
+		% man to.honor 
+		% and to.praise 
+		% Saint Maria. 
+W:Ca ela non tardou		% Because she did not delay 
+W:quando nos acorreu		% when us she.did.rescue
+W:e da prijon sacou		% and from.the prison she.did.draw
+W:du Eva nos meteu,		% from.where Eva us did.put,
+W:u pesar			% where sorrowing
+W:e cuidar			% and thinking
+W:sempre nos creçia;		% ever to.us she.increased;
+W:mais guiar			% but guiding
+W:e levar			% and leading
+W:foi u Deus siia.		% she.was where God would.be.
+W:Sen calar...
+W:
+W:E amar outrossi		% And likewise to.love 
+W:devemos mais d'al ren;	% we.ought more than all else;
+W:e, com' eu veg' e vi,		% and, as I came and saw,
+W:sempre quer nosso ben,	% ever she.desires our benefit,
+W:ca britar			% because breaking
+W:e deitar			% and casting.down 
+W:foi da sen[n]oria		% she.went of.the dominion
+W:quem mezcrar			% who to.intrigue
+W:e buscar			% and to.seek 
+W:mal con Deus queria		% evil with God she.desired 
+W:Sen calar...
+W:
+W:A nos que somos seus		% Of us that we.be hers
+W:quitamente sen al		% free from aught else
+W:dela, porque de Deus		% save.her, because of God 
+W:é Madre que nos val		% she.is Mother who us aids 
+W:quand' errar			% when erring
+W:e peccar			% and sinning 
+W:per nos[s]a folia		% by our folly 
+W:ymos, ar			% we.go, moreover 
+W:perdõar			% to.pardon 
+W:nos faz cada dia.		% us she.does each day.
+W:Sen calar...
+W:
+W:Ar en dar-lle loor		% Moreover for to.give to.her praise 
+W:avemos gran razon,		% we.have great reason,
+W:ca Deus a fez mellor		% because God her did.make better 
+W:de quantas cousas son;	% than so.many things are;
+W:que sen par,			% that without par,
+W:sen dultar,			% without doubt,
+W:ést'. E quem diria		% she.is.this.  And who might.say 
+W:en trobar			% in making.rhymes 
+W:nen cantar			% nor singing
+W:quant' i converria?		% whosoever there might.agree?
+W:Sen calar...
+W:
+W:Poren non quedarei		% Therefore I.will not leave.off
+W:de sempre lle pedir		% from always of.her asking.for 
+W:merçee, e rogar-ll-ey		% mercy and I.will.pray.to.her
+W:que se de mi servir		% that if my service
+W:quer e dar			% she.desires and to.give 
+W:me logar			% me place 
+W:u quant' eu querria		% where so.much I would.desire
+W:eixalçar			% to.exalt
+W:e poiar			% and to.raise.up 
+W:seus feitos Maria.		% her deeds Maria. 
+W:Sen calar...
+
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
+
