@@ -13334,6 +13334,116 @@ W:Verdad' éste a paravoa que disse Rey Salamon...
 
 
 %%landscape 0
+X: 383
+T: Cantiga 383: O ffondo do mar
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/684small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  d (ef)| d2  c|(dB)   c | d2 d| d  A2| B (cB)|(c/B/A)  G |F2  F |
+w:O ffon-*do do  mar* tan chã-o faz co-me  a*   te-**  rra du-ra
+  G (AB)| c2   c | A (Bc)|d2 d| d   A2   | B (cB)|(A>G)   F|G2 G ||
+w:a- os* seus San-ta  Ma-*ri-a, Se-n[n]or de  muy* gran* me-su-ra.
+%
+   d   (ef)|g2 f|(d/e/) f2 |d2  d |(d/e/)  f2|d2   c|(dB) c | d2 d |
+w:Dest' a-* e-vo  un*   mi- ra-gre grand'* e  muy ma- ra-*vi-llo-so,
+   d  (ef)|g2 f|(d/e/) f2| d2  c |(d/e/) f2|d2  c|(dB)   c|d2 d |
+w:que  fe-*zo a  San-* ta Vir-gen, Ma-* dre do Rey glo-*ri-o-so,
+  d  (ef)|d2 c|(cB)   c | d2  d |d A2| B (cB)|(c/B/A)  G|F2 F |
+w:por hü-*a mo-ller* que tii-nna o co-ra- çon* de-**  se-jo-so
+   G (AB)|c2  c | A   (Bc)|d2 d |d  A2|B (cB)|(A>G) F |G2 G ||
+w:de  a* ser-vir noit' e*  di-a. E foy en E-* stre-*ma-du-ra,
+%
+W:[C]omo Santa Maria de Seguença guardou hüa moller	% How Saint Maria of Seguença did.protect a woman 
+W:que queria entrar en hüa nave e caeu no mar,		% who wished to.board a ship and fell into.the sea, 
+W:e guareçeu e sacó-a Santa Maria.			% and Saint Maria saved her and pulled her out. 
+W:
+W:O ffondo do mar tan chão faz come a terra dura	% The deep of.the sea is as level as the hard earth 
+W:aos seus Santa Maria, Sen[n]or de muy gran mesura.	% to.those of Saint Maria, Lord of most great reverence.
+W:
+W:Dest' aveo un miragre grand' e muy maravilloso,	% About.this there.happened a miracle great and very wonderful,
+W:que fezo a Santa Virgen, Madre do Rey glorioso,	% that was performed by the Holy Virgin, Mother of.the King glorious,
+W:por hüa moller que tiinna o coraçon desejoso		% for a woman who held her heart eager 
+W:de a servir noit' e dia. E foy en Estremadura,	% for to serve her night and day.  And she.did.go to Estremadura, 
+W:O ffondo do mar tan chão faz come a terra dura...
+W:
+W:Na çibdade de Segonça que é mui rico bispado;		% Into.the city of Segonça which is very rich diocese;
+W:e cabo da grand' ygreja á un logar apartado		% and near to great church she.has a separate place
+W:que chamam Santa Maria a Vella, a que de grado	% that they.call Saint Maria the Old, to whom with goodwill 
+W:ya essa moller bõa, e en est' era sa cura.		% went this good woman, and in this she.was her cure.
+W:O ffondo do mar tan chão faz come a terra dura...
+W:
+W:Esta moller hüa filla avia que muyt' amava,		% This woman a daughter had whom she greatly loved,
+W:e a cada hüa delas ena voontad' entrava		% and to each one of.them in.the intention entered
+W:d'iren veer o Sepulcro de Jerusalem, e dava		% for to.go to.see the Tomb of Jerusalem, and she.gave 
+W:do seu a quena guiasse por poder yr mais segura.	% some of her own to she who would.guide her by power to.go more safe.
+W:O ffondo do mar tan chão faz come a terra dura...
+W:
+W:E pois aquest' ouve feyto, foy-sse logo sa carreyra	% And then this she.had done, she.set.out at.once on her way
+W:e levou sigo sa filla por que non fosse senlleyra,	% and did.take with her her daughter so that she'd not go alone,
+W:ca achar non poderia pera ssi tal companneira.	% for she wouldn't be able find for herself such a friend. 
+W:E passou per muitas terras, e atal foi sa ventura	% And she.did.pass through many lands, and such was her good.fortune 
+W:O ffondo do mar tan chão faz come a terra dura...
+W:
+W:Que passou o mar en salvo sen neun detëemento,	% That she.did.cross the sea in safety with no delay,
+W:ca enquanto per el foron sempr' ouveron muy bon vento;% because wherever over it they.sailed they always got very fair wind;
+W:e des que foron en Acre, sen outro delongamento	% and after that they.got to Acre, without further delay 
+W:foron veer o Sepulcro no tempo da caentura.		% they.went to.see the Tomb in.the hot weather.
+W:O ffondo do mar tan chão faz come a terra dura...
+W:
+W:E poi-lo ouveron visto, ar fezeron romarias		% And when they.had seen it, they also made pilgrimages 
+W:pelos logares mais santos des[s]a terra u Mes[s]ias	% through.the places most holy of.this land where Messias 
+W:Jhesu-Cristo, Deus e ome, andou; e a poucos dias	% Jhesu-Cristo, God and man, did.walk; and in a few days 
+W:foron en Acre tornadas, mais non como quen atura	% they.did.return to Acre, but not as one.who perseveres
+W:O fondo do mar tan chão faz come a terra dura...
+W:
+W:Fazendo mui gran morada en Acre; non y ficaron,	% making a very long stay in Acre; they.did not remain there,
+W:mais agyn[n]a se colleron ao porto e rogaron		% but next they.betook themselves to.the port and prayed
+W:a aquel cuja nav' era que as levass', e punnaron	% to one whose ship was there that he.should.take them, and they.did.strive
+W:d'entrar mui toste na nave. Mais foi tan grand' a presura % for to.board at once onto.the ship.  But she.was so great in haste 
+W:O ffondo do mar tan chão faz come a terra dura...
+W:
+W:D'y entrar, e en querendo sobir per hüa escaeyra	% For there to.board, and in desiring to.ascend by a gangway
+W:do batel e[n] essa nave, sobiu a filla primeyra-	% from.the small.boat onto this ship, the daughter went.up first,
+W:mente, e depois a madre cuidou a seer arteyra		% and then the mother did.think it to.be wise 
+W:de sobir tost', e na agua caeu con sa vestidura.	% for to.ascend immediately, and into.the water did.fall with her clothing.
+W:O ffondo do mar tan chão faz come a terra dura...
+W:
+W:E en caendo, chamando a grandes braados ya:		% And in falling, calling in great shouts she.went:
+W:«Acorre-me, Gloriosa, a Vella Santa Maria		% "Rescue me, Glorious.one, the Old Saint Maria 
+W:de Segonça, en que fio, e fays que mia romaria	% of Segonça, in whom I.believe, and thou.would.cause that my pilgrimage 
+W:acabe compridamente.» E tan toste da altura		% I.would.finish completely."  And at once from.the height 
+W:O ffondo do mar tan chão faz come a terra dura...
+W:
+W:Dos çeos a Virgen santa acorreu-a e passou-a		% Of.the heavens the Virgin holy did.aid her and did.pass her 
+W:bëens per fondo da agua so a nave, e sacou-a		% straight through deep of.the water under the ship, and did.pull her 
+W:mui longe da outra parte eno mar, e pois torno[u]-a	% very far to.the other side in.the sea. and then did.return her 
+W:arriba viva e sãa con fremosa catadura.		% upwards alive and well with beautiful appearence.
+W:O ffondo do mar tan chão faz come a terra dura...
+W:
+W:Todos quantos esto viron foron mui maravillados,	% All whosoever saw this were greatly astonished,
+W:e os geollos en terra ouveron logo ficados		% and their knees on earth they.had at.once fixed
+W:e aa Virgen mui santa porende loores dados,		% and to.the Virgin most holy therefore praises given,
+W:dizendo: «Bëeyta sejas, dos coytados cobertura.»	% saying: "Blessed thou.would.be, of.the wretched a covering."
+W:O ffondo do mar tan chão faz come a terra dura.
+W:
+W:E pois esta moller bõa pela Virgen foi g[u]ardada	% And then this good woman by.the Virgin was protected 
+W:assi como ja oystes, e a ssa terra tornada,		% as how already you.did.hear, and to her own land returned,
+W:teve na Vella ygleja noveas, e mui loada		% she.did.hold in.the Old church novenas, and greatly praised
+W:foi logo Santa Maria per ela, e fez cordura.		% was at.once Saint Maria through her, and she.had good.judgment.
+W:O ffondo do mar tan chão faz come a terra dura...
+
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
