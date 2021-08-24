@@ -12377,6 +12377,448 @@ Non deve null' ome desto per ren dultar...
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% GAP %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+%%landscape 0
+X: 376
+T: Cantiga 376: A Virgen, cuja merçee
+N: 
+B:Cantigas de Santa Maria
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+%  
+  D  F2| A   c2| A (BA) | G F2|(F/G/) A2|G   F2|(A/G/) (F>E)|D  F2 |
+w:A Vir-gen, cu-ja  mer-*çe-e   é*    pe-lo mun- do*  sa-* bu-da,
+  D  F2 |A  c2 | A  (BA)|G  F2|(F/G/) A2| G  F2|(A/G/) (F/E/D)|C D2 |
+w:fa-zer a-char pod' a* cou-sa  a-*   os que a   an*  per-**  du-da.
+%
+  c   d2|c  A2 | B (c/B/A) |G  F2|(F/G/) A2| G   A2|  B (c/B/A)|G A2 |
+w:Ca non é gran ma- ra-**  vi-lla  dén-*de-ren-çar, ben sa-**  bia-des,
+  c   d2| c   A2| B (c/B/A) | G F2|(F/G/) A2| G  F2| G (F/E/D)| C D2|
+w:as cou-sas mui mal pa-**   ra-das a*   que faz as vo- on-**  ta-des
+  D  F2| A   c2| A  (BA)| G  F2|(F/G/) A2| G F2|(A/G/) (F>E)| D  F2 | 
+w:en-de-ren-çar dos cul-*pa-dos. Po-* ren nun-ca vos* par-*ta-des,
+  D F2| A    c2| A (BA) | G   F2|(F/G/) A2| G  F2|(A/G/) (F/E/D)|C D2||
+w:a-mi-gos, nas vo-ssas* coi-tas  de*   de-man-dar sa*  a-**   ju-da.
+%
+W:[C]omo un ome levava un anel a Don Manuel, irmão del rey, e perdé-o na carreira, e
+W:fez-llo Santa Maria cobrar.
+W:
+W:A Virgen, cuja merçee é pelo mundo sabuda,
+W:fazer achar pod' a cousa aos que a an perduda.
+W:
+W:Ca non é gran maravilla dénderençar, ben sabiades,
+W:as cousas mui mal paradas a que faz as voontades
+W:enderençar dos culpados. Poren nunca vos partades,
+W:amigos, nas vossas coitas de demandar sa ajuda.
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:E dest' un muy gran miragre aveo a vegada
+W:na çibdade de Sevilla, u fazia sa morada
+W:el Rey por guardar a terra e que fosse ben pobrada
+W:e ouvesse per mar frota, per que fosse mais temuda.
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:El en Sevilla morando, aveo que seu irmão
+W:Don Manuel con el era, que o amava de chão;
+W:e o ben que ll' el fezera non lle sayra en vão,
+W:ca en servi-lo sa vida [el] avia despenduda.
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:Porend' el Rey o amava, e gran dereito fazia.
+W:E u estavan falando el Rey e ele un dia,
+W:un anel lle mostrou logo el Rey, que sigo tragia,
+W:que dun jaspis mui riq' era, pedra nobre connosçuda,
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:E disse que lla daria. E pois foi en sa pousada
+W:Don Manuel, el Rey logo non quis mais fazer tardada,
+W:mais enviou-ll' a sortella, en ouro engastõada,
+W:per un ome de sa casa e diz: «Muito me sauda
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:Don Manuel e dá-lle este anel que ll' ey prometudo.»
+W:E o ome foi-sse logo; mais non foi aperçebudo
+W:de o guardar com' ouvera a guarda-lo, e perdudo
+W:o ouve ena carreyra. E com' a cousa muda
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:Nemigalla non falava, mais diss' en sa voontade:
+W:«Muit' é mester que me valla, Sennor, a ta piedade,
+W:Santa Maria do Porto, e prometo-ch' en verdade
+W:seis livras de bõa çera que en ta casa arduda
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:Seja, Sennor, e tu val-me a esta coita tan fera.»
+W:El dizendo est', outr' ome que logo pos el veera
+W:achou aquela sortella e viu ben que sua era
+W:daquele que a levava; e pois que ouv' entenduda
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:Esta cousa, foi pos ele en tal que o preguntasse
+W:se aquel anel perdera, e dessi que o fillasse.
+W:E o outro tornou logo, dizendo-lle se achasse
+W:tal sortella, que lla désse e non lle foss' asconduda.
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:E o outr' o anel logo lle deu, dizendo-lle: «Amigo,
+W:non querria por mia culpa que vos valia dun figo
+W:perdessedes; mais tomade-o logo, ca ben vos digo
+W:que se outro a achasse, de vos non fora veuda
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:Esta sortella.» E logo foy-sse con ela correndo
+W:u Don Manuel pousava, que o estav' atendendo,
+W:e deu-lla; e pois lo feyto lle contou, com' eu aprendo,
+W:tornou-sse al Rei. E pois ll' ouve esta cousa retrauda,
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+W:
+W:El Rey e quantos y eram deron porende loores
+W:aa Virgen gloriosa que merçees e amores
+W:nos faz en muitas maneiras, macar somos pecadores,
+W:e d'acorrer-nos nas coitas está sempr' aperçebuda.
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+
+W:[C]omo un ome levava un anel a Don Manuel, irmão del rey, e perdé-o na carreira, e
+% I.eat|how/as a/one man I.was.carry/lift.up/lead-ing|one.was.carry/lift.up/lead-ing a/one ring to/the/it/her gift #manuel# brother of/by/from/with/to.he/him/the king and #perdé# the/it/him in/on.to/the/it/her path/track and 
+
+W:fez-llo Santa Maria cobrar.
+% one.did.make/do/become(se) to.him/her.it saint/holy #maria# to.collect 
+
+W:
+% 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda,
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:fazer achar pod' a cousa aos que a an perduda.
+% to.make/do/become(se) to.seek/to.be.found(se) one.be.able|thou.be.able!! to/the/it/her thing/afair|I.would.chose|one.would.chose|one.chose!! to/the/it/her.the/them that/which/who(m) to/the/it/her they.have/obtain lose/destroy/waste-en 
+
+W:
+% 
+
+W:Ca non é gran maravilla dénderençar, ben sabiades,
+% because no one.be great wonder|one.astonish/wonder(se)|thou.astonish/wonder(se)!! of/by/from/with/to.to.go.forward/direct/lead goodness/benefit/felicity|much/well/right/just you.was.know.how-ing 
+
+W:as cousas mui mal paradas a que faz as voontades
+% the/them thing/afair-s|thou.would.chose very/greatly/much/many evil/ill/badly parade-s|stop-en-s to/the/it/her that/which/who(m) one.make/do/become(se)|thou.make/do/become(se)!! the/them will/intention-s 
+
+W:enderençar dos culpados. Poren nunca vos partades,
+% to.go.forward/direct/lead of/by/from/with/to.the/them guilty/culprit-s|accuse/admit.guilt(se)-en-s but/yet.therefore never (to).you you.would.depart/leave 
+
+W:amigos, nas vossas coitas de demandar sa ajuda.
+% friend-s in/on.the/them your-s pain/care-s|thou.pained of/by/from/with/to to.demand one's do/act/have-en|aid/favor/protection|one.aid/help|thou.aid/help!! 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:E dest' un muy gran miragre aveo a vegada
+% and of/by/from/with/to.this|of/by/from/with/to.this|of/by/from/with/to.this a/one very/greatly/much/many great miracle it.happened to/the/it/her occassion/time 
+
+W:na çibdade de Sevilla, u fazia sa morada
+% in/on.to/the/it/her city of/by/from/with/to #sevilla# where/in.which/when I.was.make/do/become(se)-ing|one.was.make/do/become(se)-ing one's dwelling/residence/stay|live/reside-en 
+
+W:el Rey por guardar a terra e que fosse ben pobrada
+% he/him/the king for/by/through/as to.guard/protect/care.for to/the/it/her one.will.have/hold|earth and that/which/who(m) I.would.dig|one.would.dig|one.dig!!|I.would.have.go/set.out(se)-ed|one.would.have.go/set.out(se)-ed|I.would.have.be-ed|one.would.have.be-ed goodness/benefit/felicity|much/well/right/just populate-en|settle/inhabit-en 
+
+W:e ouvesse per mar frota, per que fosse mais temuda.
+% and I.would.have.have/obtain-ed|one.would.have.have/obtain-ed for/by/through/as sea fleet for/by/through/as that/which/who(m) I.would.dig|one.would.dig|one.dig!!|I.would.have.go/set.out(se)-ed|one.would.have.go/set.out(se)-ed|I.would.have.be-ed|one.would.have.be-ed more/the.rest.but fear-en|fearful 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:El en Sevilla morando, aveo que seu irmão
+% he/him/the in/on #sevilla# live/reside-ing it.happened that/which/who(m) one's brother 
+
+W:Don Manuel con el era, que o amava de chão;
+% gift #manuel# with he/him/the I.was.be-ing|one.was.be-ing that/which/who(m) the/it/him I.was.love-ing|one.was.love-ing of/by/from/with/to soil/plain 
+
+W:e o ben que ll' el fezera non lle sayra en vão,
+% and the/it/him goodness/benefit/felicity|much/well/right/just that/which/who(m) to.him/her.to/the/it/her|to.him/her|to.him/her.it he/him/the I.had.make/do/become(se)-ed|one.had.make/do/become(se)-ed no to.him/her I.had.leave-ed|one.had.leave-ed in/on futile|interval 
+
+W:ca en servi-lo sa vida [el] avia despenduda.
+% because in/on I.did.serve I.read|the/it/him one's life|come-en he/him/the I.was.have/obtain-ing|one.was.have/obtain-ing expend-en 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:Porend' el Rey o amava, e gran dereito fazia.
+% therefore he/him/the king the/it/him I.was.love-ing|one.was.love-ing and great right/justice I.was.make/do/become(se)-ing|one.was.make/do/become(se)-ing 
+
+W:E u estavan falando el Rey e ele un dia,
+% and where/in.which/when they.was.be-ing speak-ing he/him/the king and he/him a/one day/today 
+
+W:un anel lle mostrou logo el Rey, que sigo tragia,
+% a/one ring to.him/her one.did.show at.once/soon he/him/the king that/which/who(m) with.self/him/her/it I.was.bring-ing|one.was.bring-ing 
+
+W:que dun jaspis mui riq' era, pedra nobre connosçuda,
+% that/which/who(m) of/by/from/with/to.a/one #jaspis# very/greatly/much/many #riq'# I.was.be-ing|one.was.be-ing rock/stone noble know/recognize-en 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:E disse que lla daria. E pois foi en sa pousada
+% and I.did.say|one.did.say that/which/who(m) to.him/her.to/the/it/her I.might.give|one.might.give and then one.did.go/set.out(se)|one.did.be in/on one's rest/settle/place-en 
+
+W:Don Manuel, el Rey logo non quis mais fazer tardada,
+% gift #manuel# he/him/the king at.once/soon no I.did.desire/wish|one.did.desire/wish more/the.rest.but to.make/do/become(se) delay-en 
+
+W:mais enviou-ll' a sortella, en ouro engastõada,
+% more/the.rest.but one.did.send to.him/her.to/the/it/her|to.him/her|to.him/her.it to/the/it/her magic.ring in/on gold embed-en 
+
+W:per un ome de sa casa e diz: «Muito me sauda
+% for/by/through/as a/one man of/by/from/with/to one's house|one.marry|thou.marry!! and one.say very/greatly/much/many myself/to.me leave-en|one.greet|thou.greet!! 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:Don Manuel e dá-lle este anel que ll' ey prometudo.»
+% gift #manuel# and one.give|thou.give!! to.him/her this ring that/which/who(m) to.him/her.to/the/it/her|to.him/her|to.him/her.it I.have/obtain promise-en 
+
+W:E o ome foi-sse logo; mais non foi aperçebudo
+% and the/it/him man one.did.go/set.out(se)|one.did.be if/oneself at.once/soon more/the.rest.but no one.did.go/set.out(se)|one.did.be prepare/make.ready-en 
+
+W:de o guardar com' ouvera a guarda-lo, e perdudo
+% of/by/from/with/to the/it/him to.guard/protect/care.for I.would.eat|one.would.eat|one.eat!!|one.eat|thou.eat!!.I.eat|how/as|I.eat|how/as I.had.have/obtain-ed|one.had.have/obtain-ed to/the/it/her one.guard/protect/care.for|thou.guard/protect/care.for!! I.read|the/it/him and lose/destroy/waste-en 
+
+W:o ouve ena carreyra. E com' a cousa muda
+% the/it/him I.did.have/obtain|one.did.have/obtain|one.hear/listen|thou.hear/listen!! in/on.to/the/it/her path/track and I.would.eat|one.would.eat|one.eat!!|one.eat|thou.eat!!.I.eat|how/as|I.eat|how/as to/the/it/her thing/afair|I.would.chose|one.would.chose|one.chose!! one.change|thou.change!!|dumb/mute 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:Nemigalla non falava, mais diss' en sa voontade:
+% nothing no I.was.speak-ing|one.was.speak-ing more/the.rest.but I.did.say|one.did.say|of/by/from/with/to.this in/on one's will/intention 
+
+W:«Muit' é mester que me valla, Sennor, a ta piedade,
+% very/greatly/much/many|very/greatly/much/many one.be need/precision|to.need/be.needed that/which/who(m) myself/to.me I.would.help/avail/be.worth/useful|one.would.help/avail/be.worth/useful|one.help/avail/be.worth/useful!! lord to/the/it/her thy devotion/piety/mercy 
+
+W:Santa Maria do Porto, e prometo-ch' en verdade
+% saint/holy #maria# of/by/from/with/to.the/it/him I.carry|port/shelter and I.promise thou/to.thee.to/the/it/her|thou/to.thee|that/which/who(m).the/it/him in/on truth 
+
+W:seis livras de bõa çera que en ta casa arduda
+% 6 thou.set.free of/by/from/with/to good wax that/which/who(m) in/on thy house|one.marry|thou.marry!! glow/burn-en 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:Seja, Sennor, e tu val-me a esta coita tan fera.»
+% I.would.be|one.would.be|one.be!! lord and thou valley|one.help/avail/be.worth/useful|thou.help/avail/be.worth/useful!! myself/to.me to/the/it/her this pain/care|one.pained|thou.pained!! so/as I.had.make/do-ed|one.had.make/do-ed|I.would.wound/strike|one.would.wound/strike|one.wound/strike!!|fierce/enormous/cruel 
+
+W:El dizendo est', outr' ome que logo pos el veera
+% he/him/the say-ing this|this|this other|other man that/which/who(m) at.once/soon thou.put|one.did.put|after he/him/the I.had.see-ed|one.had.see-ed 
+
+W:achou aquela sortella e viu ben que sua era
+% one.did.seek/be.found(se) that magic.ring and one.did.see goodness/benefit/felicity|much/well/right/just that/which/who(m) one's I.was.be-ing|one.was.be-ing 
+
+W:daquele que a levava; e pois que ouv' entenduda
+% of/by/from/with/to.that that/which/who(m) to/the/it/her I.was.carry/lift.up/lead-ing|one.was.carry/lift.up/lead-ing and then that/which/who(m) I.would.hear/listen|one.would.hear/listen|one.hear/listen!!|I.did.have/obtain|one.did.have/obtain|one.hear/listen|thou.hear/listen!!|I.hear/listen|had understand-en 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:Esta cousa, foi pos ele en tal que o preguntasse
+% this thing/afair|I.would.chose|one.would.chose|one.chose!! one.did.go/set.out(se)|one.did.be thou.put|one.did.put|after he/him in/on such that/which/who(m) the/it/him I.would.have.ask-ed|one.would.have.ask-ed 
+
+W:se aquel anel perdera, e dessi que o fillasse.
+% if/oneself that ring I.had.lose/destroy/waste-ed|one.had.lose/destroy/waste-ed and from/since.there that/which/who(m) the/it/him I.would.have.adopt/take/proceed(se)-ed|one.would.have.adopt/take/proceed(se)-ed 
+
+W:E o outro tornou logo, dizendo-lle se achasse
+% and the/it/him other one.did.become/(re)turn/repay at.once/soon say-ing to.him/her if/oneself I.would.have.seek/be.found(se)-ed|one.would.have.seek/be.found(se)-ed 
+
+W:tal sortella, que lla désse e non lle foss' asconduda.
+% such magic.ring that/which/who(m) to.him/her.to/the/it/her of/by/from/with/to.this and no to.him/her cave|one.dig|thou.dig!!|I.would.dig|one.would.dig|one.dig!!|I.would.have.go/set.out(se)-ed|one.would.have.go/set.out(se)-ed|I.would.have.be-ed|one.would.have.be-ed|I.dig hide-en 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:E o outr' o anel logo lle deu, dizendo-lle: «Amigo,
+% and the/it/him other|other the/it/him ring at.once/soon to.him/her one.did.give say-ing to.him/her friend 
+
+W:non querria por mia culpa que vos valia dun figo
+% no I.would.desire/wish|one.would.desire/wish|one.desire/wish!! for/by/through/as my guilt|one.accuse/admit.guilt(se)|thou.accuse/admit.guilt(se)!! that/which/who(m) (to).you I.was.help/avail/be.worth/useful-ing|one.was.help/avail/be.worth/useful-ing|value of/by/from/with/to.a/one fig 
+
+W:perdessedes; mais tomade-o logo, ca ben vos digo
+% you.would.have.lose/destroy/waste-ed more/the.rest.but you.take!! the/it/him at.once/soon because goodness/benefit/felicity|much/well/right/just (to).you I.say 
+
+W:que se outro a achasse, de vos non fora veuda
+% that/which/who(m) if/oneself other to/the/it/her I.would.have.seek/be.found(se)-ed|one.would.have.seek/be.found(se)-ed of/by/from/with/to (to).you no outside/shame|I.had.go/set.out(se)-ed|one.had.go/set.out(se)-ed|I.had.be-ed|one.had.be-ed see-en|come-en 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:Esta sortella.» E logo foy-sse con ela correndo
+% this magic.ring and at.once/soon one.did.go/set.out(se)|one.did.be if/oneself with she/her run/pursue-ing 
+
+W:u Don Manuel pousava, que o estav' atendendo,
+% where/in.which/when gift #manuel# I.was.rest/settle/place-ing|one.was.rest/settle/place-ing that/which/who(m) the/it/him I.was.be-ing|one.was.be-ing wait/tend.to-ing 
+
+W:e deu-lla; e pois lo feyto lle contou, com' eu aprendo,
+% and one.did.give to.him/her.to/the/it/her and then I.read|the/it/him make/do/become(se)-en|deed to.him/her one.did.(re)count I.would.eat|one.would.eat|one.eat!!|one.eat|thou.eat!!.I.eat|how/as|I.eat|how/as I I.learn 
+
+W:tornou-sse al Rei. E pois ll' ouve esta cousa retrauda,
+% one.did.become/(re)turn/repay if/oneself another thing.to/the/it/her.the/it/him king and then to.him/her.to/the/it/her|to.him/her|to.him/her.it I.did.have/obtain|one.did.have/obtain|one.hear/listen|thou.hear/listen!! this thing/afair|I.would.chose|one.would.chose|one.chose!! recite-en 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+W:
+% 
+
+W:El Rey e quantos y eram deron porende loores
+% he/him/the king and how.much/as.many/whosoever-s there they.was.be-ing they.did.give therefore praise-s 
+
+W:aa Virgen gloriosa que merçees e amores
+% to/the/it/her.to/the/it/her virgin glorious that/which/who(m) mercy/favor/grace-s and love-s 
+
+W:nos faz en muitas maneiras, macar somos pecadores,
+% we/us/in.those one.make/do/become(se)|thou.make/do/become(se)!! in/on very/greatly/much/many-s manner-s|handy/portable-s that/since/though we.be sinner-s 
+
+W:e d'acorrer-nos nas coitas está sempr' aperçebuda.
+% and of/by/from/with/to.to/the/it/her|of/by/from/with/to|of/by/from/with/to.the/it/him to.rescue/aid we/us/in.those in/on.the/them pain/care-s|thou.pained one.be|thou.be!! always/ever prepare/make.ready-en 
+
+W:A Virgen, cuja merçee é pelo mundo sabuda...
+% to/the/it/her virgin whose|whose mercy/favor/grace one.be for/by/through/as.I.read|the/it/him world know.how-en 
+
+
+
+%%landscape 0
+B:Cantigas de Santa Maria
+F:
+Z:Ali Corbin <ali.corbin:gmail.com>
+X: 377
+T: Cantiga 377: Sempr' a Virgen groriosa
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   C3/2  D3/2| F2  F|(F>E)  D|(F2E)|C3|C3/2 D3/2|(F>E)  D  |E2 F|G3|G3 |
+w:Sempr' a    Vir-gen gro-*ri- o-*  sa a-    o    que* s'en e-la fi-a
+  G3/2 A3/2|c2 c|(c>B)  A|(c2B)|G3| F3/2 G3/2|(A>G) F|(E>D) C |D3|D3||
+w:a-   ju-  da-o  per* que ven-*ça gran  bra-  ve-*za  e*  per-fi-a.
+%
+  G3/2 A3/2| c2  c|(c>B)  A  |c3|c3| G (AB)|(c>B) A   |G2 F |G3|G3|
+w:E    de   tal ra- zon* com' e-sta fez un*  mi-*ragr' a  Re-y-nna
+   G3/2 A3/2|c2 c|(c>B) A| c3|G3| F (F/G/)A|(A>G) F|(E>D) C|D3|D3|
+w:San-  ta   Ma-ri-a*  do Por-to por un*  o- me* que se* ti-i-nna
+  C3/2 D3/2|F2 F|(F>E) D |(F2E)|C3|C3/2 D3/2|(F>E) D |E2 F|G3|G3 |
+w:con  e-   la e  os* seus liv-*ros pin- ta-   va* ben e  a-gi-nna,
+  G3/2 A3/2|c  c2|(c>B)  A|(c2B)|G3 | F (F>G)|(A>G)  F|(E>D)  C |D3|D3||
+w:a-   ssi que a   mui-*tos ou-*tros de  sa-*  ber* pin-tar* ven-çi-a.
+%
+W:
+W:[C]omo un [Rey] deu üa escrivania düa vila a un seu criado, e avia muitos contrarios
+% How a King did.give a town office to one of his servants, and he.had many adversaries 
+W:que o estorvavan contra el Rey, e prometeo algo a Santa Maria do Porto, e fez-ll' aver.
+% who opposed him against the king, and he.promised something to Saint Maria of Porto, and she.did.cause him to.obtain it.
+W:
+W:Sempr' a Virgen groriosa ao que s'en ela fia	% Ever the Virgin glorious to.him who one's|oneself|alone in her believes
+W:ajuda-o per que vença gran braveza e perfia.	% she.aids him so that he.would.overcome great ferocity and perfidity.
+W:
+W:E de tal razon com' esta fez un miragr' a Reynna	% And from such reason as this did.perform a miracle the Queen 
+W:Santa Maria do Porto por un ome que se tiinna		% Saint Maria of Porto for a man who held himself
+W:con ela e os seus livros pintava ben e agin[n]a,	% with her and her own books painted well and quickly,
+W:assi que [a] muitos outros de saber pintar vençia.	% such that to many others for knowing.how to.paint he.was.successful.
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+W:
+W:E porend' hüa vegada hüa obra mui fremosa		% And therefore one time a work most beautiful 
+W:pintava da Santa Virgen, Madre de Deus groriosa;	% he.was.painting of.the Holy Virgin, Mother of God glorious; 
+W:e el Rey, cuj' om' el era, por amor da preçiosa	% and the King, whose man he was, for love of.the precious 
+W:Sennor, que el muit' amava, prometeu que lle daria	% Lady, who he greatly loved, did.promise that he.would.give him
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+W:
+W:Herdade ou outra cousa que ele dar-lle podesse,	% Estate or some other thing that he to.give him might.be.able,
+W:en tal que aquesta obra sempre a mui ben fezesse;	% in such that this work always her very well he.might.do;
+W:mais o ome por merçee lle pediu que lle desse		% but the man for favor did.ask of.him that he.might.give him
+W:en Vila-Real a meya düa sa escrivania.		% in Vila-Real the half of one of his offices.
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+W:
+W:El Rey enton outorgou-lla e mandou que sen tardada	% The King then did.grant it.to.him and did.command that without delay
+W:a carta desta merçee aberta lle fosse dada;		% the charter of.this favor open to.him should.be given;
+W:mays o que tiinna os seelos lla ouve mui mal parada	% but he who held his seals it had very mistreated
+W:ben preto de quinze dias; mais el Rey nono sabia.	% just nearly 15 days; but the King did not know it.
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+W:
+W:Mais depois que a verdade deste feyt' ouve sabuda,	% But after that the truth of.this deed he.had known 
+W:mandou logo que a carta non lle fosse detëuda		% he.did.command at.once that the charter not be.held.back from.him
+W:e que lle dess'outra toste, se non, pëa connosçuda	% and that to.him the.other should.give.it immediately, else, penalty known 
+W:lle faria que peytasse, en que al non averia.
+% to.him he.would.make/do that he.would.have.suborn/bribe-ed, in/on which/who(m) another thing no he.might.have/obtain 
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+W:
+W:Mais aquele, por meaças que el Rey ll'ameaçasse,	% But that.one, through threats that the King to.him would.have.threatened,
+W:sol fazer nono queria, mais dizia que leyxasse	% not even to.do it he.wished, but said that he.would.have.abandon/leave/allow-ed 
+W:aquel[e] outro a carta e que dela se quitasse,	% that other the charter and that of/from.it he.would.have.quit-ed,
+W:ca seu amig' o outr' era que a meadade avia.		% because his friend the other was who the half had.
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+W:
+W:Sobr' esto muitas vegadas mandou el Rey que lla dessen % On/over this many times did.command the King that to.him.it they.should.give
+W:e que per nulla maneyra de dar non lla detevessen,	% and that in no manner for to.give no to.him.it they.would.have.stopped/detained 
+W:e se non, que a sa ira averian, se fezessen		% and if not, then his own ire they.might.obtain, if they.would.have.make/do
+W:contra esto; mais aqueles alongavan cada dia.		% against this; but those were.delaying each day.
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+W:
+W:Mais aquel Pedro Lourenço que a carta demandava	% But that Pedro Lourenço who the charter was.demand-ing 
+W:rogou, a Santa Maria do Port', en que se fiava,	% did.pray to Saint Maria of Porto, in whom he put his faith,
+W:que se el a cart' ouvesse e per ela a gãava,		% that if he the charter should.obtain and through her it he.won,
+W:que maravedis duzentos lle desse, ou a valia.		% that 200 maravedis to.her he.would.give, or the value.
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+W:
+W:Tanto que esta promessa el ouv' assi prometuda,	% As soon as this promise he had so promised,
+W:logo foi Santa Maria de tod[o] en sa ajuda		% at.once one.went|was Saint Maria of/by/from/with/to all in his aid/favor
+W:e fez contra o notario que el Rey cara san[n]uda	% and one.did.cause against the notary that the King face grim
+W:lle mostro[u], e log' a carta ouv' aquel que a pedia. % to.him did.show, and at.once the charter he.had.gotten that which to/the/it/her he.asked.for.
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+W:
+W:Quand' esto Pedro Lourenço viu, loores deu porende	% When this Pedro Lourenço did.see, praises he.did.give therefore 
+W:aa Virgen groriosa que aos seus [ben] deffende,	% to.the Virgin glorious who to her own well defends, 
+W:e teve por de mal siso quen contra ela contende;
+			% and one.did.have/hold for/by/through/as of/by/from/with/to poor judgement who against her one.contend
+W:e fillou logo sa carta e foi ela sa via.		% and he.did.take at.once his charter and did.go she/her one's way.
+W:Sempr' a Virgen groriosa ao que s'en ela fia...
+
+
 %%landscape 0
 X: 378
 T: Cantiga 378: Muito nos faz gran merçee
