@@ -13135,6 +13135,86 @@ W:Sen calar...
 
 
 %%landscape 0
+X: 381
+T: Cantiga 381: Como a voz de Jesu-Cristo
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/680small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+  c2   B | A2 G |A2  F| G2  A | c2 e|d2  e | g2 (f/e/)|d3 |
+w:Co-mo~a voz de Je-su-Cri-sto faz a-os mor-tos  vi-* ver,
+  c2 B | A2 G|A2  F|G2  A |c2  d |B2 c|(BAG)| F   G2 ||
+w:a-ssi fez a de sa Ma-dre un mor-to vi-vo**  er-ger.
+%
+  c2  e |d2  e |g2 (f/e/)|d2  B | d2  e| c2 d|(cBA)|  c  d2 |
+w:De-sto di-rei un  mi-*  ra-gre que no Por-to con-**te-çeu
+   c2 e|d2  e |g2 (f/e/)|d2 B | d2  e|c2  d|(cBA) | B  G2 |
+w:que é de San-ta  Ma-*  ri-a, dum me-ni-no  que** mo-rreu,
+  c2  B| A2   G | A2 F |G2  A |c2  e |d2   e |g2 (f/e/)| d3 |
+w:de Xe-rez, por que sa ma-dre po-ren tal coi-ta  pren-*deu
+   c2 B| A2  G |A2 F | G2  A |c2 d |B2  c |(BAG) | F  G2 ||
+w:que a pou-cas a mes-qui-nna ou-ve-ra d'en-san-**de-çer.
+%
+%%newpage
+W:[C]omo Santa Maria do Porto resuscitou un menino que morrera, fillo dun ome bõo que morava en Xerez.
+% How Saint Maria of Porto did.revive a boy that had.died, son of.a good man who lived in Xerez. 
+W:
+W:Como a voz de Jesu-Cristo faz aos mortos viver,	% As the voice of Jesu Cristo causes the dead to.live,
+W:assi fez a de sa Madre un morto vivo erger.		% so he.did.cause by his Mother one dead alive to.be.raised.
+W:
+W:Desto direi un miragre que no Porto conteçeu		% About.this I.will.tell a miracle that in Porto did.befall 
+W:que é de Santa Maria, dum menino que morreu,		% that is of Saint Maria, about.a boy that did.die,
+W:de Xerez, por que sa madre poren tal coita prendeu	% of Xerez, for which his mother therefore such pain did.take
+W:que a poucas a mesquinna ouvera d'ensandeçer.		% that the wretched.woman nearly went mad.
+W:Como a voz de Jhesu-Cristo faz aos mortos viver...
+W:
+W:Seu padre deste meninno morava na colaçon		% The father of.this boy lived in.the parish 
+W:de San Marcos, e Johane avia nom'; e enton		% of Saint Marcos, and Johane was his name; and then 
+W:de sa moller Deus lle dera aquele fillo baron,	% by his wife God to.him had.given that boy child,
+W:con que muito ss' alegrava e prendia gran prazer.	% with which greatly he.rejoiced and took great pleasure.
+W:Como a voz de Jhesu-Cristo faz aos mortos viver...
+W:
+W:Sancha sa madre chamavan per nome, com' aprendi,	% Sancha his mother they.called by name, as I.did.learn,
+W:e amava aquel fillo atanto, segund' oý,		% and she.loved that son as.much, according.to.what I.did.hear,
+W:que mais amar non podia outra ren; e foi assi		% that to.love more she could not do; and she.was such
+W:que ben como llo Deus dera, assi llo ar foi moller.	% that well/just how/as to.her.him God had.given,
+							% so/as to.him/her.him moreover she.was woman/wife.
+W:Como a voz de Jhesu-Cristo faz aos mortos viver...
+W:
+W:Ca enfermou o meninno düa gran fever mortal,		% But the boy did.get.sick of.a great fever mortal,
+W:e o padre e a madre con coita del, non por al,	% and the father and the mother with pain for.him, for naught else,
+W:leváron o ao Porto da Raynna espirital;		% did.carry him to Porto of.the Queen spiritual;
+W:e tëendo-o a madre nos braços, lle foi morrer.	% and holding him the mother in.her arms, to.him it.came to.die.
+W:Como a voz de Jhesu-Cristo faz aos mortos viver...
+W:
+W:Sa madre, pois viu que morto era, üa gran voz deu	% His mother, when she.saw that dead he.was, a great cry did.give 
+W:dizend': «Ay, Santa Maria, dá-m' aqueste fillo meu;	% saying: "Ai, Saint Maria, give me this my son; 
+W:se non, leva-me con ele, ca mais non viverei eu	% else, take me along with him, because no more will I live
+W:eno mundo.» E con coyta foi logo esmoreçer.		% in.the world."  And with pain she.was at.once fainting.
+W:Como a voz de Jhesu-Cristo faz aos mortos viver...
+W:
+W:Da gran voz que deu a madre quando a Virgen chamou,	% From.the great cry that gave the mother when the Virgin she.did.call,
+W:Jhesu-Cristo, o seu Fillo, aquel que resusçitou	% Jhesu-Cristo, her own Son, that who did.revive 
+W:Lazaro de quatro dias e per nome o chamou,		% Lazaro after four days and by name him did.call,
+W:fez levantar o menino tan tost' e vivo seer		% did.cause to.be.raised the boy at once and alive to.be 
+W:Como a voz de Jhesu-Cristo faz aos mortos viver...
+W:
+W:Mui são e muyt' alegre. E quantos eno logar		% Very well and very joyful.  And whosoever was in.the place 
+W:estavan e esto viron, começaron de chorar,		% and this they.did.see, they.did.start for to.weep,
+W:e en chorando a Virgen ar fillaron-ss' a loar		% and in weeping the Virgin moreover they.did.proceed to.praise her
+W:por tan fremoso miragre que fora ali fazer.		% for so beautiful miracle that had.been in.that.place to.perform.
+W:Como a voz de Jhesu-Cristo faz aos mortos viver...
+
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
