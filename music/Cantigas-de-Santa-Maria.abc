@@ -14104,6 +14104,91 @@ W:e do fogo do inferno mortal		% and from.the fire of.the hell mortal
 W:queymador.				% burning.
 W:Sempre faz o mellor...
 
+%%%%%%%%%%%%%%%%%  another gap %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%landscape 0
+X: 410
+T: Cantiga 410: Quem Santa Maria servir
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/002small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+    F |(FEF)| G (F/E/D)| F/ (A/G2)|(AFG)| A3|  B (cB)|(A/G/) (A/G/F)|(F/G/AG)|(F/E/DC)|(D/E/FE)| D3||
+w:Quem San-**ta  Ma-**   ri- a*   ser-**vir, non po-* de*    no**    seu***   ben***   fa-***  lir.
+%
+  A  F2| G (F/E/D)|  E  F2|(GFE) |F3 | A  F2|G (F/E/D)| E  F2|(GFE)|F3 |
+w:E por-que eu**   gran sa- bor** ey   de a ser-vir,** ser-vi- la-**ey,
+  A  F2 | G (F/E/D)| F/ (A/G2)|(AFG)| A3 | B   (cB)|(A/G/) (A/G/F)|(F/G/AG)|(F/E/DC)|(D/E/FE)|D3 ||
+w:e quan-to  po-**  der  pu-*  nna-**rey  d'os seus* mi-*   ra-**   gres***  de-***   sco-***brir.
+%
+%%begintext center
+%%
+%%Prologo das cantigas das cinco festas de Santa Maria.
+%%
+%%Quem Santa Maria servir,
+%%non pode no seu ben falir.
+%%
+%%endtext
+%Prolog of.the songs of.the 5 feasts of Saint Maria. 
+%
+%					% He.who Saint Maria would.serve,
+%					% cannot in her own goodness fail.
+%
+W:E porque eu gran sabor ey		% And because I great pleasure have
+W:de a servir, servi-la-ey,		% in serving her, I will serve her,
+W:e quanto poder punnarey		% and such to.be.able I.will.strive
+W:d'os seus miragres descobrir.		% of her own miracles to.discover.
+W:Quem Santa Maria servir...
+W:
+W:Pero direi ant' en bon son		% But I.will.tell first in good voice
+W:das sas çinque festas, que son	% about her own 5 feasts, which are
+W:mui nobres, e direi razon		% very noble, and I.will.say reason 
+W:que praza a quena oyr.		% which it.would.be.pleasing to one to.hear it.
+W:Quem Santa Maria servir...
+W:
+W:Santa Egreja ordin[n]ou		% Holy Church did.order
+W:çinque festas, porque achou		% 5 feasts, because she.did.find 
+W:çinque letras no nome sou,		% 5 letters in.her own name,
+W:como vos quero depa[r]tir.		% as to.you I.wish to.explain.
+W:Quem Santa Maria servir...
+W:
+W:A primeira, que M é,			% The first, which 'M' is,
+W:mostra de com' a nossa ffe,		% shows about how our own faith,
+W:naçend' ela, naçeu e sé		% bearing her, was.born and see
+W:y firm' a queno comedir.		% there confirms her to.consider it.
+W:Quem Santa Maria servir...
+W:
+W:A mostra a saudaçion			% 'A' shows the greeting/salutation 
+W:d' Ave que Gabriel enton		% of 'Ave' that Gabriel then
+W:lle disse que fillo baron,		% to.her did.tell that male son,
+W:Deus e om', iria parir.		% God and man, she.would.go to.bear.
+W:Quem Santa Maria servir...
+W:
+W:R mostra como reynou			% 'R' shows how she.did.reign 
+W:ontr' as virgenes, u amou		% among the virgins, when she.did.love
+W:sa virgïidad' e guardou		% her virginity and did.protect
+W:por toda bondade comprir.		% for all goodness to.fulfill.
+W:Quem Santa Maria servir...
+W:
+W:I, indo de ben en mellor		% 'I', going from goodness in better
+W:foi offreçer o Salvador,		% she.did.go to.offer the Saviour, 
+W:seu Fill', a Deus con gran sabor	% her Son, to God with great pleasure 
+W:de fazer-nos a çeo ir.		% for to.cause us to heaven to.go.
+W:Quem Santa Maria servir...
+W:
+W:A ar mostrou carreira tal		% 'A' now did.show path such 
+W:u desta vida temporal			% when from.this life temporal 
+W:sobiu aa celestial			% she.did.ascend to.the celestial 
+W:por nos fazer alá sobir.		% for to.cause us there to.ascend.
+W:Quem Santa Maria servir...
+
 
 %%landscape 0
 B:Cantigas de Santa Maria
