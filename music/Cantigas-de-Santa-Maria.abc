@@ -14034,6 +14034,78 @@ W:A que pera parayso irmos nos mostra caminnos...
 
 
 %%landscape 0
+X: 390
+T: Cantiga 390: Sempre faz o mellor
+N: 
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/697small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+   G3/2  A/  B |c2 B| A3 |A3/2  B/  c |d2  B|(G2A)|(B/A/G) F|G2 
+w:Sem-  pre faz o me-llor  a    Ma-dre do Se-nnor*  Sal-**va-dor. 
+%
+  B| B (B>A)| G2  A | B  c2|(c>B) A| B2
+w:A nos faz* que non po-ssa- mos* e-rrar,
+  B|B (B>A)| G2  A |  B  c2|(c>B)  A|B2
+w:e a Deus* que nos quey-ra  per-*dõ-ar
+  d|d d2| B2  c| d (d/e/f/e/)|d (cB)|(B2A)|
+w:e e-no seu pa-ra- y-***    so  nos* dar*
+  (G>A)  F| G3 ||
+w:gran* sa-bor.
+%
+%%begintext center
+%%
+%%Esta [é] de loor de Santa Maria.
+%%endtext
+					% This is in praise of Saint Maria. 
+%%begintext center
+%%Sempre faz o mellor
+%%a Madre do Sennor
+%%Salvador.
+%%
+%%endtext
+					% Always does the best 
+					% the Mother of.the Lord 
+					% Saviour. 
+%
+W:A nos faz que non possamos errar,	% She bids us that we.cannot err,
+W:e a Deus que nos queyra perdõar	% and God that he.should.desire to.pardon us
+W:e eno seu parayso nos dar		% and in his own paradise to.give us
+W:gran sabor.				% great pleasure.
+W:Sempre faz o mellor...
+W:
+W:A nos faz que queyramos Deus servir,	% She bids us that we.should.desire to.serve God,
+W:e a el que nos faça repentir		% and him that he.should.cause us to.repent 
+W:dos erros e a emenda vïir		% of.the errors and the punishment to.come 
+W:con amor.				% with love.
+W:Sempre faz o mellor...
+W:
+W:A nos faz que sabiamos Deus temer,	% She bids us that we.knew God to.fear,
+W:e a ele que queyra reçeber		% and him that he.should.desire to.receive 
+W:nosso serviço, por nos pois meter	% our service, for us then to.put 
+W:u el for.				% where he should.go.
+W:Sempre faz o mellor...
+W:
+W:A nos faz que connosramos a Deus,	% She bids us that we.had.recognized God,
+W:e a ele que nos tenna por seus,	% and him that he.should.have us for his own,
+W:pois por nos pres morte pelos judeus	% when for us he.siezed death by.the judeus
+W:con door.				% with sorrow.
+W:Sempre faz o mellor...
+W:
+W:A nos faz que o amemos mais d'al,	% She bids us that him we.would.love above all else,
+W:e a ele que nos guarde de mal		% and him that us he.would.protect from evil 
+W:e do fogo do inferno mortal		% and from.the fire of.the hell mortal 
+W:queymador.				% burning.
+W:Sempre faz o mellor...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
