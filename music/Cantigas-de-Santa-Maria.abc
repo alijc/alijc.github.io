@@ -13133,7 +13133,6 @@ W:seus feitos Maria.		% her deeds Maria.
 W:Sen calar...
 
 
-
 %%landscape 0
 X: 381
 T: Cantiga 381: Como a voz de Jesu-Cristo
@@ -13211,7 +13210,6 @@ W:estavan e esto viron, começaron de chorar,		% and this they.did.see, they.did.
 W:e en chorando a Virgen ar fillaron-ss' a loar		% and in weeping the Virgin moreover they.did.proceed to.praise her
 W:por tan fremoso miragre que fora ali fazer.		% for so beautiful miracle that had.been in.that.place to.perform.
 W:Como a voz de Jhesu-Cristo faz aos mortos viver...
-
 
 
 %%landscape 0
@@ -13332,7 +13330,6 @@ W:de çera, fez-llo dar logo, chorando con devoçon.	% of wax, he.did.cause to.her
 W:Verdad' éste a paravoa que disse Rey Salamon...
 
 
-
 %%landscape 0
 X: 383
 T: Cantiga 383: O ffondo do mar
@@ -13440,7 +13437,6 @@ W:assi como ja oystes, e a ssa terra tornada,		% as how already you.did.hear, an
 W:teve na Vella ygleja noveas, e mui loada		% she.did.hold in.the Old church novenas, and greatly praised
 W:foi logo Santa Maria per ela, e fez cordura.		% was at.once Saint Maria through her, and she.had good.judgment.
 W:O ffondo do mar tan chão faz come a terra dura...
-
 
 
 %%landscape 0
@@ -13557,6 +13553,93 @@ W:e se en algunna cousa ll' erraran per neçidade,			% and if in some thing to.he
 W:pun[n]aron de sse g[u]ardaren que non fossen peccadores.		% they.did.strove from they.should.take.care that no they.should not be sinners.
 W:A que por mui gran fremosura é chamada Fror das frores...
 
+
+%%landscape 0
+X: 385
+T: Cantiga 385: De toda enfermidade
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/688small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+  G2  A|B2 B|(B>A)  G|c2 c |c2 d|c2 B| A2   c|(BAB)|G3 |
+w:De to-da en-fer-*mi-da-de ma-a e de gran fe- ri-**da
+  G2  A| G2  F|E2 F| D2  D  | F2  D| E2  F  |A2 G|(FEF) |G3 ||
+w:po-de ben sã-ar a Vir-gen, que de ver-tud' é com-pri-**da.
+% 
+  G2   A|G2 F|E2  F|D2  D | F2  D |E2  F|A2  G|(FEF)|G3 |
+w:Est' a-vë-o en Se-vi-lla per ver-tu-de da Ra- y-**nna
+   G2  A|G2   F| E2  F|D2 D|F2  D |E2  F| A2   G|(FEF)| G3 |
+w:dos çe-os, San-ta Ma-ri-a do Por-to, u muit' a- gi-**n[n]a
+  G2 A| B2  B|(B>A)  G|c2  c | c2  d  | c2 B|A2  c|(BAB)| G3 |
+w:y-gre-ja, u  mui* lo-a- da   fo-sse, fez y na ma- ri-**nna
+  G2  A| G2   F| E2  F | D2  D | F2  D | E2 F| A2  G|(FEF)| G3 ||
+w:pe-ra guar-dar os cre-schã-os dos mou-ros e ser ba- sti-**da
+W:
+%%begintext fill
+%%[C]omo Santa Maria do Porto guareçeu un ome düa pedrada mui grande de que nunca cuidara a guareçer, 
+%%ca tiinna a tela sedada e tornou-se paralitico, e guareçé-o Santa Maria
+%%endtext
+%
+% How Saint Maria of Porto did.heal a man of.a wound very great from which never one.had.thought to.heal it, 
+% because he.had the membrane cut and did.become paralyzed, and Saint Maria cured him.
+W:
+W:De toda enfermidade maa e de gran ferida		% From all infirmity wretched and from great injury 
+W:pode ben sãar a Virgen, que de vertud' é comprida.	% well able to.cure is the Virgin, who with virtue is fulfilled.
+W:
+W:Est' aveo en Sevilla per vertude da Raynna		% This happened in Sevilla through virtue of.the Queen 
+W:dos çeos, Santa Maria do Porto, u muit' agin[n]a	% of heaven, Saint Maria of Porto, where much afterwards 
+W:ygreja, u mui loada fosse, fez y na marinna		% church, where greatly praised she.should.be, one.did.build there on.the coast 
+W:pera guardar os creschãos dos mouros e ser bastida	% for to.protect the creschãos from.the mouros and to.be bastion 
+W:De toda enfermidade maa e de gran ferida...
+W:
+W:Pera guerrejar os mouros d'Espann' e os africãos.	% For to.make.war.on the mouros of Espanna and the africãos.
+W:E porende en aquel logo mostrou miragres çertãos	% And therefore in that at.once she.did.show miracles sure
+W:de muitos que y vëeron enfermos e foron sãos,		% of many who there did.come sick and did.go whole,
+W:ca os que a ssa merçee mester an nunca oblida.	% because those who to her mercy have need never forget.
+W:De toda enfermidade maa e de gran ferida...
+W:
+W:E tan gran sabor aviam os omes de que sãava		% And such great satisfaction had the men among whom she.cured
+W:os enfermos, que quen coita avia logo chamava:	% the sick, that whosoever had pain at.once called:
+W:«Santa Maria do Porto, val-me» e s'acomendava		% "Saint Maria of Porto, help me" and entrusted himself
+W:a ela; e pois guarian, fazian alá sa yda.		% to her; and after they.were.cured, they.took there their departure. 
+W:De toda enfermidade maa e de gran ferida...
+W:
+W:Ond' aveo en Sevilla que deron üa pedrada		% In.which it.happened in Sevilla that they.did throw a rock
+W:a un ome na cabeça mui grand', assi que britada	% at a man in.the head very great, such that broken
+W:ll'ouveron toda a fronte e a tea assedada,		% they.had.gotten all his forehead and the (brain) membrane cut,
+W:assi que nunca cuidava da chaga aver guarida.		% such that he never thought from.the wound to.have been.cured.
+W:De toda enfermidade maa e de gran ferida...
+W:
+W:E pois viu que non sãava, prometeu que ao Porto	% And then he.saw that it was not healing, he.did.promise that to Porto
+W:da Virgen Santa Maria fosse, que éste conorto		% of.the Virgin Saint Maria he.should.go, who is.this comfort 
+W:dos coitados, se daquela ferida non fosse morto,	% of.the unfortunate, if of.that wound he should not be dead,
+W:e que de çera levasse un estadal sen falida.		% and that of wax he.should.carry a taper without fail. 
+W:De toda enfermidade maa e de gran ferida...
+W:
+W:Mais ante çelorgiãos mostrou com' era maltreito,	% But before surgeons he.did.show how he.was ill-treated,
+W:dizendo que o sãassen; mais esto non foi en preito	% saying that they.should.cure him; but this was not possible
+W:que consello lle posessen. Porend' o ome contreyto	% that advice to.him they.should.set. Therefore the crippled man
+W:ouv[e] a sseer dun lado, e foi daquela partida	% had for to.be to.one side, and one.went|was from.that departure
+W:De toda enfermidade maa e de gran ferida...
+W:
+W:En que a chaga avia, u foi da pedra ferido.		% In which the wound he.had, when he.was by.the rock struck.
+W:E el, quando viu aquesto, teve-sse por escamido;	% And he, when he.saw this, did.hold himself as mocked;
+W:mais acomendou-sse logo ao Port', e foi guarido	% but he.did.entrust himself at.once to Porto, and was healed 
+W:e são, ben com' aqueles que tornam de mort' a vida.	% and whole, much as those who return from death to life.
+W:De toda enfermidade maa e de gran ferida...
+W:
+W:E porende deu loores aa Virgen e noveas		% And therefore he.did.give praises to.the Virgin and novenas
+W:foi tëer [en]a sa casa e levou y sas candeas		% he.went to.hold in his own house and did.carry there his candles 
+W:de çera, ca non de sevo nen d'azeyte nen de teas	% of wax, because neither of tallow nor of oil nor of fabric
+W:nen como d'outras que arden en algüa pobr' ermida.	% nor as from others that burn in any poor hermitage.
+W:De toda enfermidade maa e de gran ferida...
 
 
 %%landscape 0
