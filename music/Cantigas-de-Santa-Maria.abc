@@ -13643,6 +13643,121 @@ W:De toda enfermidade maa e de gran ferida...
 
 
 %%landscape 0
+X: 386
+T: Cantiga 386: A que avondou do vinno
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/690small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+  B (AB)|c2 B | A (AG)|B2  A |G (GF)|G2  A| B (cB)|(B>A) G |
+w:A que* a-von-dou do* vi-nno a- a*  do-na de Bre-* ta-*nna,
+  B (AB)|c2  B | A (AG)| B2  A|G (GF) | G2  A |  B  (cB)|(B>A)G-|G3 |
+w:ar a-*von-dou de  pe-*sca-do un rey* com mui gran com-* pa-*nna.*
+%
+   B (Bc)|d2  d |d  B2|(B>A) G |(B/A/) (GF)|G2 A|B (B/A/G)|B2 B |
+w:De-sto* di-rei un mi- ra-*gre  que*   a-* ve-o en Se-**  vi-lla,
+  B (Bc)|d2  d| d  B2|(B>A) G | (B/A/) (GF)| G2   A | B (B/A/G)|B2  B |
+w:e- na* çi-da-de mui  no-*bre   que*  fez* Deus por ma- ra-**  vi-lla,
+  B (AB) |c2 B | A (AG) |B2  A| G (GF) |G2  A| B (cB)|(B>A) G |
+w:ca non* á  ou-tra çid-*da-de que non* se-me-lla-sse* fi-*lla,
+   B (AB) | c2  B | A  (AG) | B2   A | G (GF)| G2  A|B (cB)|(B>A) G-|G3 |
+w:da- que-*las que son mais* gran-des no  se-*nnor-i-o d'E-* spa-*nna.*
+%
+%%newpage
+W:[C]omo Santa Maria avondou de pescado al Rey Don Affonso  	% How Saint Maria did.give.plenty of fish to.the King Don Affonso
+W:con mui gran gente que convidara en Sevilla.			% with very many people whom he.had.invited to Sevilla. 
+W:
+W:A que avondou do vin[n]o a[a] dona de Bretanna,		% She who did.give.plenty of.the wine to.the lady of Bretanna, 
+W:ar avondou de pescado un rey com mui gran companna.		% now did.give.plenty of fish a king with very great company.
+W:
+W:Desto direi un miragre que aveo en Sevilla,			% About.this I.will.tell a miracle that happened in Sevilla, 
+W:ena çidade mui nobre que fez Deus por maravilla,		% in.the city most noble that God made for a marvel,
+W:ca non á o[u]tra çiddade que non semellasse filla,		% because there is no other city that no would.have.resembled daughter
+W:daquelas que son mais grandes no sennorio d'Espanna.		% of.those that are more grand in.the dominion of Espanna. 
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:Ali el Rey Don Affonso, fillo del Rey Don Fernando,		% In.that.place the King Don Affonso, son of.the King Don Fernando, 
+W:fez ajuntar mui gran corte; esto foi no tempo quando		% did.cause to.gather very great court; this was in.the time when 
+W:tornou da oste da Veyga de Grãada, e tallando			% he.did.return from.the army of.the Veyga of Granada, and dividing
+W:a andou en redor toda, o chão e a montanna.			% it he.did.progress in circuit all the plain and the mountain.
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:E pois que se partiu ende, vëo a Sevilla çedo,		% And when that he.departed thence he.came to Sevilla shortly,
+W:en que fazia sas cortes ajuntar, que des Toledo		% in which he.was.causing his courts to.gather, that from Toledo 
+W:ben ata en Santiago e depois dalen d'Arnedo			% right up to Santiago and then from.the.other.side of Arnedo 
+W:non ouv' y quen non vëesse por non caer en sa sanna.		% he did not have there who would not come so.as not to.fall in his rancor.
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:Des que todos y chegaron e el Rey lles ouve dito		% After all there arrived and the king to.them had said 
+W:por que os vir fezera por paravr' e por escrito,		% why he.had.made them come through word and through writing,
+W:todos mui ben llo couberon, dizendo: «Seja maldito		% all very well to.him.it they.were.fitting, saying: "Cursed be he 
+W:o que pas[s]ar contra esto que mandades; ca tamanna		% who would.cross against this which you.command; because so.great 
+W:A que avondou do vinno aa dona de Bretanna...	
+W:
+W:Prol sua nunca fezeron omes como nos faremos			% Their offspring never did.make men as we will.make
+W:en fazer vosso mandado, e demais que seeremos			% in doing your command, and above that we.will.be 
+W:vosqu' en assessegamento, por que pois non temeremos		% with.you in peace, because then we will not fear 
+W:enquisas de mascarade, que contra todos reganna.»		% inquests of treason, which against all shows."
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:E pois aquest' outorgaron, foi deles el Rey pagado		% And when this they.did.grant, did.go from.them the king satisfied
+W:e ar outorgou-lles logo quant' ouveron demandado		% and moreover he.did.grant to.them at.once whatsoever they.had demanded
+W:en todas sas petições nas que pedian guisado;			% in all their petitions in.those that they.asked.for prepared;
+W:ca quen a sennor demanda sen guisa, é cousa estrãya.		% because who of lord demands without guise, is thing extraordinary.
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:Enquant' as cartas faziam desto, foron convidados		% While.such the letters they.were.writing about.this, they.were invited
+W:todos del Rey que comes[s]en con el, e que avondados		% all by.the king that they.might.eat with him, and that abundant
+W:serian de quant' ouvessen mester; e dest' acordados		% they.might.be of how.much they.might.have need; and of.this agreed
+W:foron quantos que y eran des Tui ata Ocanna.			% they.did.go such that there they.were from Tui up.to Ocanna.
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:Mais sabbado aquel dia era, e muitos cuidavan			% But sabbath that day it.was, and many were.thinking 
+W:que pescado non ouvessen, ca per rrem nono achavan		% that no fish they.would.have, because for nothing it they.found
+W:a vende-lo en Sevilla; e porende se queyxavam			% for to.sell it in Sevilla; and therefore were.complaining 
+W:al Rey os seus despenseyros dizen[do]: «Obra d'aranna		% to.the king his own pantrymen saying:  "Spider web 
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:E, Sennor, sse Deus nos valla, aquesto que vos fazedes	% And, Lord, if God us avail, that you do
+W:en convidar tan gran gente, e pescado non tedes.		% in inviting so many people and fish you.have not.
+W:E respos-lles el Rey logo: «Asperad' e veeredes		% And replied to.them the king at.once: "Wait and you.will.see 
+W:que fará Santa Maria, u jaz merçee quamanna			% what will.do Saint Maria, where lies mercy so.great 
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:Non poderia contada seer per ren nen escrita.			% It could not recounted to.be through anything nor writing.
+W:E por aquesto vos mando que vaades tod' a fita		% and for this I.command you that you.might all go immediately
+W:logo catar os canales meus que son mia renda quita;		% at.once search my own canals that are my revenue free.and.clear;
+W:e se algo y achardes, nono paredes per manna,			% and if anything there you.should.find, it you.would not rest through habit,
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:Mais aduzede-mio logo; ca eu ey grand' asperança		% But you.bring it.to.me at.once; because I have great hope 
+W:na Virgen Santa Maria, que ést[e] mia amparança,		% in.the Virgin Saint Maria, who is this my shelter,
+W:que nos dará tal avondo de pescado que en França		% that to.us she.might.give such abundance of fish that in França
+W:non achariamos tanto nen en toda Alemanna.»			% we might not find such nor in all Alemanna." 
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:Eles foron mantenente a un canal, e acharon			% They did.go then to a canal, and they.did.find
+W:de pescado carregadas quatro barcas, e chegaron		% four boat-loads of fish, and they.did.arrive 
+W:con elas log' a Sevilla e a todos avondaron,			% with them at.once to Sevilla and to all they.did.give.plenty,
+W:que sol non lles mi[n]g[u]ou dele que valves [s]' uma castanna. % that not even to.them lessened from.him who thou.be.worth only a chestnut.
+W:A que avondou do vinno aa dona de Bretanna...
+W:
+W:E quand' el Rey viu aquesto, ouve mui grand' alegria		% And when the king saw this, he.had very great joy 
+W:e chorando loou muyto a Virgen Santa Maria			% and weeping did.praise greatly the Virgin Saint Maria 
+W:que o assi de pescado avondara aquel dia;			% who him as of fish had.given.plenty that day;
+W:ca o que a muy ben serve sempre con ela gaanna.		% because he who her very well one.serves ever with her earns.
+W:A que avondou do vinno aa dona de Bretanna...
+
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
