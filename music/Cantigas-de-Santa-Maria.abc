@@ -13444,6 +13444,122 @@ W:O ffondo do mar tan chão faz come a terra dura...
 
 
 %%landscape 0
+X: 384
+T: Cantiga 384: A que por muy gran fremosura
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/686small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  G> A  F  |G2   A  |B (cB)| B A2 | A> AG  |F2  G| A2   F | D2  D |
+w:A que por muy gran fre-mo-*su-ra  é cha-* ma-da Fror das fro-res,
+   G > A    F | G2    A | B (cB)| B A2 | A >A  G | F2   G |(B/A/G) F|G2 G ||
+w:mui mais lle praz quan-do lle* lo-am  seu no-me que d'ou-tras** lo-o-res.
+%
+ (d/c/B) A|(B/c/B) A|(G/F/G) A|B2  B |(d/c/B)  A|(B/c/B) A|(G/F/G) A |G2  G |
+w:De-** sto di-** rei un**  mi-ra-gre, se-**  gun-do**  me  foi** con-ta-do,
+ (d/c/B) A|(B/c/B) A|(G/F/G) A | B2  B|(d/c/B) A|(B/c/B) A|(G/F/G) A|  G2   G|
+w:que**  a- ve-**  o  a**    un mon-ge  bõ-**  o  e**   ben or-** di-n[n]a-do
+  G> A  F |G2 A | B (cB)| B   A2| A (AG)|F2 G|(A/B/A) F | D2  D|
+w:e que as o-ras de-sta* Vir-gen di- zi-*a de  mui** bon gra-do,
+  G>A   F |G2  A | B  (cB)|B A2| A> A   G | F2   G |(B/A/G) F|G2 G ||
+w:e ma-yor sa-bor end' a-*vi-a  da-que-sto que d'ou-tras** sa-bo-res.
+%
+%%newpage
+W:Como Santa Maria levou a alma dun frade que pintou o seu nome de tres coores.
+% How Saint Maria did.carry/lift.up/lead the soul of.a monk who did.paint her own name in 3 colors.
+W:
+W:A que por muy gran fremosura é chamada Fror das frores,		% She who for very great beauty is called Flower of.the flowers,
+W:mui mais lle praz quando lle loam seu nome que d'outras loores.	% much more it.pleases her when to.her they.praise her name than of other praises.
+W:
+W:Desto direi un miragre, segundo me foi contado,			% Of.this I.will.tell a miracle, according to what was recounted to me,
+W:que aveo a un monge bõo e ben ordin[n]ado				% that happened to a monk good and well ordered
+W:e que as oras desta Virgen dizia de mui bon grado,			% and who the prayers to.this virgin said with great good will,
+W:e mayor sabor end' avia daquesto que d'outras sabores.		% and greater pleasure therefore had from.this than from other pleasures.
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:Este mui bon clerigo era e mui de grado liia				% This cleric was very good and much of will read
+W:nas Vidas dos Santos Padres e ar mui ben escrivia;			% in.the Lives of Holy Fathers and also wrote very well;
+W:may[s] u quer que el achava nome de Santa Maria			% but wherever that he found name of Saint Maria 
+W:fazia-o mui fremoso escrito con tres colores.				% he.made it very beautiful writing with 3 colors.
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:A primeyra era ouro, coor rrica e fremosa				% The first was gold, color rich and beautiful 
+W:a semellante da Virgen nobre e mui preçiosa;				% similar to.the Virgin noble and very precious 
+W:e a outra d'azur era, coor mui maravillosa				% and the other of azure was, color very wonderful 
+W:que ao çeo semella quand' é con sas [e]splandores.			% that resembles the sky when she.is with her splendors.
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:A terçeyra chamam rosa, porque é coor vermella;			% The third they.call rose, because it.is color red;
+W:onde cada üa destas coores mui ben semella				% in.which each one of.these colors very well resembles
+W:aa Virgen que é rica, mui santa, e que parella			% the Virgin who is rich, very holy, and who parellel
+W:nunca ouv' en fremosura, ar é mellor das mellores.			% never had in beauty, moreover she.is best of.the best.
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:Ond' aqueste nome santo o monge tragia sigo				% Where this holy name the monk brought with.him 
+W:da Virgen Santa Maria, de que era muit' amigo,			% of.the Virgin Saint Maria, that was great friend,
+W:beyjando-o ameude por vençer o ëemigo					% kissing it often for to.overcome the enemy 
+W:diabo que sempre punna de nos meter en errores.			% devil who ever strives for to.put us into error. 
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:Onde foi üa vegada que jazia mui doente				% Where it.was one time that he.lay very ill 
+W:düa grand' enfermidade, de que era en possente;			% of.a great infirmity, that was mighty;
+W:e pero assi jazia, viinna-lle sempre a mente				% and yet as he.was.lying, it.was.coming to.him ever to mind
+W:de seer da Virgen santa un dos seus mais loadores.			% for to.be of.the Virgin holy one of her best praisers.
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:O abade e os monges todos veer-o vëeron,				% The abbot and the monks all to.see him they.did.come,
+W:e poi-lo viron maltreito, un frade con el poseron			% and when him they.saw ill-used, one brother with him they.did.put 
+W:que lle tevesse companna; e pois ali esteveron			% that with.him he.should.have company; and after they.stayed there
+W:un pouco, foron-se logo. Mais a Sennor das sennores			% a little, they.went.out again.  But the Lord of.the lords 
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:Apareçeu ao frade que o guardav', en dormindo,			% Did.appear to.the brother who was.caring.for him, in sleep,
+W:e viu que ao leyto se chegava passo yndo,				% and he.saw that to.the bed she.came going slowly,
+W:e dizia-lle: «Non temas, ca te farey ir sobindo			% and said to.him: "Fear not, because I.will.cause thee to.go ascending 
+W:mig' ora a parayso, u veerás os mayores.				% with.myself now to paradise, where thou.will.see the greatest.
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:Ca por quanto tu pintavas meu nome de tres pinturas,			% Because for how.much thou painted my name with 3 paintings,
+W:leva[r]-t-ey susso ao çeo, u verás as aposturas,			% I.will.carry thee above to.the sky, where thou.will.see the apostles,
+W:e eno Livro da Vida escrit' ontr' as escrituras			% and in.the Book of Life writen among the scriptures 
+W:serás ontr' os que non morren, nen an coitas nen doores.»		% thou.will.be among those who die not, nor have cares nor sorrows."
+W:A que por mui gran fremosura e chamada Fror das frores...
+W:
+W:Enton levou del a alma sigo a Santa Reynna.				% Then did.lift.up from.him the soul with.her the Holy Queen. 
+W:E o frade espertou logo e foy ao leyt' agynna;			% And the brother did.awake at.once and did.go to.the bed again;
+W:e pois que o achou morto, fez sõar a campaynna			% and when that he.found him dead, he.did.cause to.sound the bell 
+W:segund' estableçud' era polos seus santos doctores.			% according.to what was established by their own holy doctors.
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:Mantenente o abade chegou y cono convento,				% Then the abbot did.arrive there with.the monastery,
+W:que eram y de companna ben oyteenta ou çento;				% who were there of company a.good 80 or 100;
+W:e aquel monge lles disse: «Sennores, por cousimento			% and that monk to.them did.say: "Lords, for contemplation
+W:o que vi vos direy todo, se m' en fordes oydores.»			% what I.saw to.you I.will.tell all, if to.me well you.should.be hearers."
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:Enton contou o que vira, segundo vos ey ja dito;			% Then he.recounted what he.had.seen. according.to.what to.you I.have already said;
+W:e o abade tan toste o fez meter en escrito				% and the abbot so immediately did.cause it put into writing 
+W:pera destruyr as obras do ëemigo maldito,				% for to.destroy the works of.the enemy cursed,
+W:que nos quer levar a logo u sempr' ajamos pavores.			% who desires to.lead us to soon where we.would ever have terrors.
+W:A que por mui gran fremosura é chamada Fror das frores...
+W:
+W:E pois souberon o feyto, loaron de voontade				% And when they.did.know the deed, they.did.praise with freewill
+W:a Virgen Santa Maria, a Sennor de piedade;				% the Virgin Saint Maria, the Lord of mercy;
+W:e se en algunna cousa ll' erraran per neçidade,			% and if in some thing to.her they.had.erred through need,
+W:pun[n]aron de sse g[u]ardaren que non fossen peccadores.		% they.did.strove from they.should.take.care that no they.should not be sinners.
+W:A que por mui gran fremosura é chamada Fror das frores...
+
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
