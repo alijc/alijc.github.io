@@ -13949,6 +13949,91 @@ W:Que por al non devess' om' a Santa Maria servir...
 
 
 %%landscape 0
+X: 389
+T: Cantiga 389: A que pera parayso
+N: not in To
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/696small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=320
+K: D Dorian 
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  A2 B |c2  B|A2  B|A2  G|A2  B | A2  G| F2  G|(F2G)|A3 |
+w:A que pe-ra pa-ra-y- so ir-mos nos mo-stra ca-mi-*nos,
+  A2  B |c2 B|A2 B |A2   G |A2 B |A2  G |F2 E|(DC2)| D3 ||
+w:po-der á de sã-ar ve-llos e man-ce-bos e me- ni-* nos.
+%
+  F2  G |A2 G|F2 E |D2  E |C2 D| F2  G |F2 E|(DC2)|D3|
+w:Po-der á de sã-ar ve-llo se é tal que o me- re-* çe,
+  F2 G| A2  G |F2 E |D2  E|C2  D |F2 G|F2  E|(DC2)| D3 |
+w:e ou-tro tal o man-çe-bo se faz bõ-a man-çe-be-*  çe,
+  F2  G |A2 G|A2 B|c2  B |A2 B | A2  G |F2   G|(F2G)|A3|
+w:ou-tro-si a-o me-ni-nno se al-gun mal lle con-te-* çe,
+    F2   G | A2 G | A2  B|c2  B |A2 B |A2  G |F2  E|(DC2)|D3||
+w:quand' an sas em-fer-mi-da-des se-en-do muy pe-que-ni-*nos.
+%
+%%newpage
+W:[C]omo Santa Maria do Porto guareçeu un fillo de Maestre Pedro de Marsella.
+							% How Saint Maria of Porto did.cure a son of Master Pedro of Marsella. 
+W:
+W:A que pera parayso irmos nos mostra camin[n]os,	% She who towards paradise for us to.go shows roads,
+W:poder á de sãar vellos e mancebos e menin[n]os.	% has power for to.cure old.men and youths and children. 
+W:
+W:Poder á de sãar vello se é tal que o mereçe,		% She has power for to.cure old.man if he.is deserving,
+W:e outro tal o mançebo se faz bõa mançebeçe,		% and also the youth if he.practices good young manliness,
+W:outrosi ao meninno se algun mal lle conteçe,		% likewise to.the child if some evil befalls him.
+W:quand' an sas emfermidades seendo muy pequenin[n]os.	% when they.have their infirmities being very small.
+W:A que pera parayso irmos nos mostra caminnos...
+W:
+W:E daquesto en Sevilla mostrou miragre mui grande	% And of.this in Sevilla did.perform miracle very great 
+W:a Virgen Santa Maria, que rog' a seu Fill' e mande	% the Virgin Saint Maria, who prays to her son and would.command
+W:que polos nos[sos] peccados mui sannudo non nos ande,	% that for our own sins he should not being very grim with us,
+W:mas que do seu parayso nos queyra fazer vezin[n]os.	% but that in his own paradise would.desire to.make us neighbors.
+W:A que pera parayso irmos nos mostra caminnos...
+W:
+W:Este miragre foi feito en Sevilla na çibdade		% This miracle she.did.make manifest in Sevilla in.the city 
+W:por un meninno que era mui mal doente en verdade,	% through a boy who was very vilely ill in truth,
+W:fillo de Maestre Pedro de Marsella, que abbade	% son of Master Pedro of Marsella, who abbot 
+W:foi ja e tornou-se leygo; e dous fillos fremosinnos	% had been and did.turn layman; and two little handsome sons
+W:A que pera parayso irmos nos mostra caminnos...
+W:
+W:De ssa moller el avia, que mui mais ca si amava.	% By his wife he had, whom he.loved much more than himself.
+W:E o meor foi enfermo; ond' a el muito pesava,		% And the elder was sick; which saddened him greatly,
+W:de tan grand' enfe[r]midade que por morto o juygava	% from such great infirmity that for dead him judged 
+W:el e sa madr', e con coyta del chamavan-se mesquin[n]os. % he and his mother, and with pain of.it they.called themselves wretched.
+W:A que pera parayso irmos nos mostra caminnos...
+W:
+W:E con gran coita sobeja que a madre del avia		% And with excessively great care that his own the mother had
+W:comendó-o ao Porto que é de Santa Maria,		% he.commended him to Porto which is of Saint Maria, 
+W:dizendo que se vivesse, que logo en romaria		% saying that if he.should.live, that at.once on pilgrimage 
+W:a ssa casa o levasse, e especias e cominnos		% to her house he.would.take him, and spices and cumin 
+W:A que pera parayso irmos nos mostra caminnos...
+W:
+W:Con el atá offreçessen; ca non tiinnam dinneyros	% With him such they.would.offer; because they had no coins
+W:que partir de ssi podessem, nen ovellas nen carneiros	% that they might leave, neither ewes nor muttons 
+W:dos seus dar non y queriam, ca os santos son arteiros,% of their own to.give there they.wished, because the saints are artful,
+W:mais dar-ll-ia dous capões ou ben leu dous ansarin[n]os. % but he.would.give her two capons or possibly two geese.
+W:A que pera parayso irmos nos mostra caminnos...
+W:
+W:E tal promessa com' esta, como quer que pequeninna	% And such promise as this, howsoever small 
+W:foss', assi proug' aa Virgen, que dos çeos é Reynna;	% it.might.be, was so pleasing to.the Virgin, who of.the heavens is Queen; 
+W:fez que o moço pedisse de comer, e foi aginna		% she.did.cause that the boy should.ask for to.eat, and was therewith
+W:guarid' e trebellou logo conos outros moçelinnos.	% cured and he.did.play at.once with.the other little.boys. 
+W:A que pera parayso irmos nos mostra caminnos...
+W:
+W:Quand' esto Maestre Pedro viu, desta guisa loores	% When this Master Pedro did.see, of.this quality praises 
+W:deu log' a[a] Groriosa; ca fez fillar dos mayores	% he.gave at.once to.the Glorious.one; then he.did.cause to.take of.the biggest
+W:dous capões que criava, que fez assar, e sabores	% two capons that he.was.rearing, which he.had roasted, and pleasures 
+W:fillou mui grand' en come-los e en bever bõos vinnos.	% he.took very great in eating them and in drinking good wines.
+W:A que pera parayso irmos nos mostra caminnos...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
