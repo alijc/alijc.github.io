@@ -14191,7 +14191,228 @@ W:Quem Santa Maria servir...
 
 
 %%landscape 0
+X: 411
+T: Cantiga 411: Bëeyto foi o dia e benaventurada
+N: FSM 1
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/003small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob091small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=200
+%K: D Aeolian
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+  D (F/E/) (DC)| C3 D|(F2G/FE/)|F3 (F/G/)|A2 (Bc)|(dc3/2B/) A|(_B/A/G/A/) F2|
+w:Bë-ey-*   to* foi o  di-***   a   e*   ben- a-*  ven-**  tu-  ra-***    da
+ (F/G/) A (A>B)|(AG) F2|(G/F/E/D/) C2| D  E  C2|(A,>B,) C2|(D/C/D/E/) D2 |
+w:a*    o- ra*  que* a   Vir-***  gen Ma-dre de  Deus,* foi na-***    da.
+%
+  D E   C2|(A,>B,) C2|(D/C/D/E/)  C2| D  E   C2 |(A,>B,) C2|(D/C/D/E/) C2 |
+w:E da-que- sta*   na- çen-***    ça fa-lou muit' Y-*    sa- ý-***     a,
+  D  E   C2|(A,>B,) C2|(D/C/D/E/)  C2| D  E  C2|(A,>B,) C2|(D/C/D/E/) D2 |
+w:e pro-phe- tan-*  do  di-***    sse que ar-vor sa-*   y-  ri-***a
+   D (F/E/) (DC)|C3 (C/D/)|(F2G/FE/)|F2 (FG)|A2 (Bc)|(dc3/2B/) A|(_B/A/G/A/) F2|
+w:ben de*    ra-*yz  de*    Je-***  sse, e* que tal*  fror**  fa- ri-***     a
+  (F/G/)  A (A>B)|(AG) F2|(G/F/E/D/) C2| D  E   C2|(A,>B,) C2|(D/C/D/E/) D2 |
+w:que*   do Sant'* E-*spi- ri-***    to de Deus fo- sse*   mo- ra-***    da.
+%%begintext center
+%%
+%%Esta é a primeyra, da nacença de Santa Maria, que cae no mes de setembro; e começa assi:
+%%
+%%Bëeyto foi o dia e benaventurada	
+%%a ora que a Virgen Madre de Deus, foi nada.
+%%endtext
+% This is the first, about.the birth of Saint Maria, which falls in.the month of September; and starts like this:
+%
+% Blessed was the day and blessed 
+% the hour that the Virgin Mother of God was born.
+W:
+W:E daquesta naçença falou muit' Ysaýa,			% And about.this birth Isaýa spoke much,
+W:e prophetando disse que arvor sayria			% and prophesying said that tree might.come
+W:ben de rayz de Jesse, e que tal fror faria		% straight from root of Jesse, and that might.make such flower
+W:que do Sant' Espirito de Deus fosse morada.		% that with.the Holy Spirit of God should dwell.
+W:Bëeyto foi o dia e benaventurada...
+W:
+W:Outros prophetas muitos daquesto profetaron,		% Other prophets much of.this did.prophesy,
+W:e os Evangelistas desta Sennor falaron		% and the Evangelists of.this Lord did.speak 
+W:com' era de gran guisa, e dos Reys ar contaron	% how she.was of great quality, and from.the kings now they.recounted
+W:do linag' onde viynna esta Sennor onrrada.		% of.the lineage whence came this Lady honorable.
+W:Bëeyto foi o dia e benaventurada...
+W:
+W:Mas pero de seu padre, que Joachin chamado		% But of her father, who Joachin was called
+W:foi, e sa madre Anna, direi-vos seu estado:		% and her mother Anna, I'll.tell you their estate:
+W:quanto no mund' ouveron partiron per recado		% such in.the world they.had they.left for necessities
+W:que de quanto avian non lles ficava nada.		% that of such they didn't have to.them was nothing.
+W:Bëeyto foi o dia e benaventurada...
+W:
+W:Ca Joachin e Anna tal acordo preseron,		% Because Joachin and Anna such accord did.honor,
+W:que fezeron tres partes de quant' aver ouveron;	% that they.made 3 portions of such possessions they.had;
+W:a hüa pera pobres, a outra reteveron			% the one for the.poor, the other they.retained 
+W:pera ssi, a terçeyra ao templ' era dada.		% for themselves, the third to.the temple was given.
+W:Bëeyto foi o dia e benaventurada...
+W:
+W:Enquant' esta companna santa assi obrava,		% While this holy company was so doing,
+W:Deus toda-las sas cousas dous tant' acreçentava;	% God all their own things two was so augmenting;
+W:mais non lles dava fillo, por que coitad' andava	% but gave them no son, for which most wretched went 
+W:muit' end' ele; mas ela era en mais coitada,		% therefore he; but she was more wretched, 
+W:Bëeyto foi o dia e benaventurada...
+W:
+W:Porque os rezõavan por malditos as gentes.		% Because the people reasoned them as cursed.
+W:E poren fillou ele offertas e presentes		% And nonetheless he did.take offerings and presents
+W:que levass' ao templo con outros seus parentes;	% that he.would.carry to.the temple with his other kin;
+W:mas Ruben e Symeon vedaron-ll' a entrada,		% but Ruben and Simeon did.forbid him entry,
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Que lle disseron logo: «D' aqui entrar es quito,	% Who to.him presently said: "From now.on to.enter thou.art quit,
+W:Joachin; poren vay-te, pois de Deus es maldito,	% Joachin; but go thee, when by God thou.art cursed,
+W:que te non quis dar fillo, ca assi é escrito;		% who wished not to.give thee son because so is written;
+W:porend' entrar non deves en casa tan sagrada.»	% therefore to.enter thou.ought not in house so sacred."
+W:Bëeito foi o dia e benaventurada...
+W:
+W:El ouve dest' enbargo e vergonna tamanna,		% He had from.this embarrassment and shame so.great 
+W:que non foi a ssa casa, neno viu sa companna;		% that he.went not to his house, nor did his company see him;
+W:mais fillou seus gãados e foi-ss' aa montanna,	% but took his flocks and set.off to.the mountain,
+W:assi que por gran tenpo non fez ali tornada.		% so that for long time he came not back there.
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Anna, quando esto viu, ouvo tan gran despeito		% Anna, when this she saw, had such great spite 
+W:que con coita chorando se deitou en seu leito		% that with pain, weeping, she.cast herself down in her bed
+W:e de grado morrera; mas non ll'ouve proveito,		% and willingly had.died; but it profited her not,
+W:ca Deus pera gran cousa xa tiinna guardada.		% for God for greatness was.keeping her protected.
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E ali u jazia gemend' e sospirando			% And there where she.lay, moaning and sighing,
+W:e sa desaventura a Deus muit' ementando		% and her misfortune to God well noting,
+W:de que era sen fillos de Joachin, chorando,		% in which she.was without sons by Joachin, weeping,
+W:quis Deus que do seu angeo foss' ela confortada.	% God desired that by his own angel she should.be comforted.
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E disse-lle: «Non temas, Anna, ca Deus oyda		% And he.told her: "Fear not, Anna, for God 
+W:a ta oraçon ouve; e poren sen falida			% thy own prayer has heard; and yet without fail 
+W:de teu marido filla averás, que comprida		% by thy husband daughter thou.will.have, who fulfillment
+W:será de todos bëes mais d'outra e preçada.»		% will.be of all goodness more than another and esteemed." 
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E pois ll' est' ouve dito, foi-ss' o angeo logo	% And when to.her this he.had said, the angel set.out at.once
+W:a Joachin, que era metudo no meogo			% to Joachin, who was set in.the middle
+W:das grandes montannas, e disse-l[l]': «Eu te rogo	% of.the great mountains, and told him: "I pray thee
+W:que tornes a ta casa logo sen alongada.		% that thou.would.return to thy house at.once without delay.
+W:Bëeito foi o dia e benaventurada...
+W:
+W:El, cuidando que era ome, respos-ll' atanto:		% He, thinking that it.was man, responded to.him thus:
+W:«Com' irei a mia terra u reçebi quebranto		% "How shall I go to my land where I.received discouragement 
+W:grand' entre meus vezinnos, que eu, palo Deus santo,	% great among my neighbors, that I, by God's holy staff,
+W:quisera que a testa me foss' ante tallada?		% desired that my own head should rather be cut.off?
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Ca à porta do templo disseron-mi os porteiros,	% For at.the door of.the temple did.tell me the doormen,
+W:pois non avia fillos como meus conpanneiros,		% since I had no sons as my companions,
+W:non entraria dentro, nen aves nen cordeiros		% I might not enter inside, neither birds nor lambs 
+W:nen ren de mia offerta non seria fillada.		% nor any of my offering might be taken.
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E por esta vergonna e por este dëosto			% And for this shame and for this offence
+W:fogi a esta terra, e ei ja assi posto			% I.did.flee to this land, and I.have already so settled
+W:que nunca atá torne; e eno mes d'agosto		% that never so I.would.return; and in.the month of August 
+W:averá ben seis meses que fiz aqui estada		% it.will.be a good 6 months that I.have.made here estate
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Entr' aquestas montannas, que é terra esquiva,	% Among these mountains, which is land intractable,
+W:con estes meus gãados; ca mais me val que viva	% with these my flocks; because it avails me more that I.should.live
+W:en logar apartado, que vida mui cativa		% in place separate, than life greatly of.slavery
+W:fazer entre mias gentes, vergonnos' e viltada.»	% to.live among my people, shameful and vilified."
+W:Bëeito foi o dia e benaventurada...
+W:
+W:O angeo lle disse: «Eu soon mandadeiro		% The angel to.him did.say: "I am messenger 
+W:a ti de Deus do çeo por te fazer certeiro		% to thee from God of heaven for thee to.make certain 
+W:que de ta moller Anna averás tal erdeiro		% that of thy wife Anna thou.will.get such heir 
+W:e toda a terra será enlumada.				% and all the land will.be illuminated.
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E se esto que digo tes por maravilla,			% And if this which I.say thou.hold as marvel,
+W:certãamente cree que te dará Deus filla,		% certainly believe.thou that God will.give thee daughter,
+W:que o que perdeu Eva per ssa gran pecadilla		% that what Eva did.lose through her great quarrel
+W:cobrar-ss-á per aquesta, que será avogada		% will.be.retored through this.one, who will.be advocate 
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Entre Deus e as gentes que foren pecadores.		% Between God and the people who would.be sinners.
+W:Poren vay-te ta via e leixa teus pastores		% But go thee thy way and leave.thou thy shepherds 
+W:que guarden teus gãados; ca muito son mayores		% that they.might.protect thy flocks; for much greater are
+W:de Deus as sas merçees ca ren que foss' osmada.»	% God's own mercies for anything that might.have.been figured."
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Quanto Joachin esto oyu, log' esmorido		% As.soon.as Joachin this heard, at.once fainting
+W:caeu e jouv' en terra fora de seu sentido,		% he.fell and would.lie on ground out of his senses, 
+W:atanes que o angeo foi dali partido,			% until that the angel was from.that.place departed,
+W:que seus omens o foron erger sen detardada		% that his men went to.raise him without delay 
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E que lle preguntaron logo o que ouvera,		% And who asked him at.once what had.happened,
+W:que tal peça en terra esmorido jouvera.		% that such portion on ground fainting he.had.lain.
+W:E el contou-lles quant' o angeo lle dissera;		% and he did.recount to.them such the angel to.him had.said;
+W:e eles lle disseron: «De vos ir é guisada		% and they to.him did.say: "For you to.go is prepared
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Cousa, e non passedes de Deus seu mandamento,		% Thing, and you.should not cross God's commandment,
+W:e id' a vossa casa logo sen tardamento;		% and go.you to your house at.once without delay;
+W:ca se o non fezerdes, quiçay por escarmento		% for if you.should not do it, perhaps as warning 
+W:vos dará Deus tal morte que será mui sõada.»		% to.you God will.give such death that it.will.be greatly renowned."
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Tanto ll'esto mostraron e per tantas razões,		% Such to.him this they.did.show and for such reasons,
+W:que lles respos chorando: «Pois que vos praz, varões,	% that to.them he.returned weeping: "Since that it.pleases you, fellows,
+W:farei vosso consello; mais, por Deus, compannões,	% I.will.take your council; but by God, companions,
+W:guardade-mi os gãados en aquesta mallada.»		% protect for.me the flocks in this fold."
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E pois lles esto disse, meteu-ss' aa carreira		% And when to.them this he.said, he.set himself to.the path
+W:por s'ir pera sa casa veer sa compan[n]eyra,		% for to.set.out for his house to.see his wife,
+W:que o bëeyto angeo fezera [ja] certeira		% whom the blessed angel had.made already certain 
+W:que Joachin verria pela porta dourada,		% that Joachin would.come through.the gilded door, 
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E que a el saysse reçebe-lo aginna;			% And that to him she.should.go to.receive him quickly;
+W:ca Deus enas sas coitas porria meezinna		% because God on her own cares might.place remedy 
+W:e lle daria filla dele tal que Reynna			% and to.her might.give daughter by.him such that Queen 
+W:seria deste mundo e dos çeos chamada.			% might.be of.this world and of.the heavens called.
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Quand' aquest' oyu Anna, que jazia gemendo		% When this did.hear Anna, who was.lying moaning 
+W:e sospirand', ergeu-sse e foi alá correndo,		% and sighing, she.raised herself and went there running,
+W:e levou seus parentes sigo, com' eu aprendo,		% and did.take her kin with.her, as I learn,
+W:ben como se ouvess' a casar outra vegada.		% just as if he.should.get her to.marry another time.
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E pois viu seu marido, obridou seus pesares		% And when she.saw her husband, she.did.oblige her sorrows
+W:e con muitas saudes e muitos abraçares		% and with many greetings and many embraces
+W:o acolleu mui leda, e pois muitos manjares		% received him very gladly, and then many delicacies
+W:lle guisou, e sa casa muy ben encortynnada,		% for.him did.prepare, and her house very well encurtained,
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Na qual aquela noite, est' é cousa sabuda,		% In that very night, this is thing known,
+W:foi na bëeita Anna, a Virgen conçebuda,		% he.went to the blessed Anna, the Virgin conceived,
+W:a que pelos prophetas nos fora prometuda		% she who by.the prophets we had.been promised
+W:ante que esto fosse mui gran sazon passada.		% before that this should.have very great season passed.
+W:Bëeito foi o dia e benaventurada...
+W:
+W:E logo que foi viva no corpo de sa madre,		% And as.soon as she.was alive in.the body of her mother,
+W:foi quita do pecado que Adan, nosso padre,		% she.was discharged of.the sin that Adan, our father,
+W:fezera per consello daquel que, pero ladre		% had.done by advice of.that who, but thief
+W:por nos levar consigo, a porta ll' é serrada		% for to.take us with.him, the door to.him is shut 
+W:Bëeito foi o dia e benaventurada...
+W:
+W:Do inferno. Ca esta lle pos a serradura		% Of Hell.  Because this to.her he.did.put the enclosure
+W:e abriu parayso, que per malaventura			% and did.open paradise, that through misfortune 
+W:serrou nossa madr' Eva, que con mui gran loucura	% did.shut our mother Eva, who with very great madness 
+W:comeu daquela fruita que Deus ll'ouve vedada.		% did.eat of.that fruit which God her had forbidden.
+W:Bëeito foi o dia e benaventurada...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
-
