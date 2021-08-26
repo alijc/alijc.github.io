@@ -14415,9 +14415,11 @@ W:Bëeito foi o dia e benaventurada...
 %%landscape 0
 X: 412
 T: Cantiga 412: Virgen Madre groriosa
-N: 
+N: duplicate of 340
+N: FSM 2
 B:Cantigas de Santa Maria
-F:
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/606small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/007small.html
 Z:Ali Corbin <ali.corbin:gmail.com>
 M: 3/4
 L: 1/4
@@ -14531,7 +14533,7 @@ W:e metudo na folgura		% and put in.the repose
 W:u es con Deus, u es alva.	% where thou.art with God, where thou.art dawn.
 W:Virgen Madre groriosa...
 
-X: 2
+X: 9992
 T: Cantiga 412: Virgen Madre groriosa
 N: 
 M: 3/4
@@ -14570,7 +14572,7 @@ w:     non vi-ra-mos sa  fi-***       gu-** ra**
 w:     se-non por ti, que fust' al-*  ****     ****    va.
 [V:2]  (c/B/AB/c/)|(dB/AG/)|(A/cB/A)|A3|(GAG/F/)|(FD2)|E3|F3|G3|A3|
 
-X: 3
+X: 9993
 T: Cantiga 412: Virgen Madre groriosa
 N: 
 M: 3/4
