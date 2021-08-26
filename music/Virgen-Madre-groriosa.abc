@@ -1,0 +1,217 @@
+%%abc-version 2.1
+%%oneperpage 1
+%%titletrim true
+%%titleformat A-1 T C1, S-1 N
+%%writefields QP 0
+
+%%landscape 0
+X: 1
+T: Cantiga 412: Virgen Madre groriosa
+N: duplicate of 340
+N: FSM 2
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/606small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/007small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 1       71 clarinet
+%%leftmargin 2cm
+   D3|(A3/2B/c/B/)|(BAG) |A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)|
+w:Vir- gen***       Ma-**dre gro-ri- o-***    sa,*****
+  D3|(A3/2B/c/B/)|(BAG)|A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)| 
+w:de  Deus***      fi-**lla e  e-  spo-***  sa,*****
+ (AGA/B/)|(AG2)|(G/FE/D)|E3 | F3|(GFG/A/)|(G/F/ED)|(EDC) |
+w:san-***  ta,*  no-***  bre, pre- ci-***   o-***    sa,**
+   C3 |D3|E3|F3|G3|F3|(E/D/E2)|D3 |
+w:quen te lo-ar sa-be- ri-**   a
+%%leftmargin 10cm
+  c3|d3|(c/B/AB/c/)|(d/BA/G)|
+w:ou po- di-****     a?***
+%%leftmargin 2cm
+  B3| G3|(B2c/d/)|d2 c  |A3|F3|(G/F/E/D/C)|
+w:Ca Deus que**   é lum' e  di- a,****
+  C3| D3  |E3|F3| G3|F3|(E/D/E2)|D3|
+w:se-gund' a  no-ssa na- tu-**   ra
+   E  G2| E  G2|A3|(c/B/A3/2G/)|(FED)|(EDC)|
+w:non vi-ra-mos sa  fi-***       gu-** ra**
+  C3| D3|C3 |D3 | E3| F3 |(AG2)|(G/F/ED)|(EF/ED/)|D3|
+w:se-non por ti, que fust' al-*  ****     ****    va.
+%
+%%newpage
+%%begintext center
+%%Esta é de loor de Santa Maria.
+
+%%endtext
+				% This is of praise of Saint Maria. 
+W:Virgen Madre groriosa,	% Virgin Mother glorious,
+W:de Deus filla e esposa,	% God's daughter and spouse,
+W:santa, nobre, preciosa,	% holy, noble, precious,
+W:quen te loar saberia		% who would.know.how to.praise thee 
+W:ou podia?			% or would.be.able.to?
+W:Ca Deus que é lum' e dia,	% Because God who is light and day,
+W:segund' a nossa natura	% according.to our own nature 
+W:non viramos sa figura		% we.had not seen his aspect
+W:senon por ti, que fust' alva.	% if.not for thee, who were dawn.
+W:Virgen Madre groriosa...
+W:
+W:Tu es alva per que visto	% Thou art dawn because seen 
+W:foi o sol, que éste Cristo,	% was the sun, which is Cristo, 
+W:que o mund' ouve conquisto	% who the world had conquered
+W:e sacado du jazia		% and dragged from.where it.lay
+W:e jaria,			% and dust,
+W:e de que non sairya;		% and from which one.might not leave;
+W:mais Deus por ti da altura	% but God for thee from on high
+W:quis de ti, sa creatura,	% did.desire of thee, his creation,
+W:nacer, e fez de ti alva.	% to.be.born, and did.make of thee dawn.
+W:Virgen Madre groriosa...
+W:
+W:Tu es alva dos alvores,	% Thou art dawn of.the dawns
+W:que faze-los peccadores	% who do.cause those sinners 
+W:que vejan os seus errores	% who would.see their own faults 
+W:e conoscan sa folia,		% and would.know their folly,
+W:que desvia			% which leads.astray
+W:d'aver om' o que devia,	% by possessions man what he.ought,
+W:que perdeu por sa loucura	% that did.lose through her madness 
+W:Eva, que tu, Virgen pura,	% Eva, which thou, virgin pure,
+W:cobraste porque es alva.	% did.restore because thou.art dawn.
+W:Virgen Madre groriosa...
+W:
+W:Tu es alva dos mesqinos,	% Thou art dawn of.the wretched.ones,
+W:que non erren os caminos,	% that they would not miss their road,
+W:a grandes, a pequeninos;	% to great.ones, to small.ones,
+W:ca tu lles mostras a via	% because thou to.them do.show the way
+W:per que ya			% along which went
+W:o teu Fillo todavia,		% thy own Son still,
+W:que nos sacou da escura	% who did.drag us from.the dark 
+W:carreira maa e dura		% path wretched and hard 
+W:per ti que es nossa alva.	% for thee who art our dawn.
+W:Virgen Madre groriosa...
+W:
+W:Tu es alva dos culpados,	% Thou art dawn of.the guilty,
+W:que cegos por seus pecados	% who blind for their sins
+W:eran; mais alumeados		% were; but given.light
+W:son per ti, Santa Maria.	% they.are through thee, Saint Maria. 
+W:Quen diria,			% Who might.say 
+W:nen quen osmar poderia	% or who could calculate
+W:teu ben e ta gran mesura?	% thy goodness and thy great reverence?
+W:Ca sempre en ty atura		% Because ever in thee endures
+W:Deus a luz ond' es tu alva.	% God the light in.which art thou dawn.
+W:Virgen Madre groriosa...
+W:
+W:Tu es alva dos que creen	% Thou art dawn of.those who believe 
+W:e lume dos que non veen	% and light of.those who see not
+W:a Deus, e que por mal ten	% God, and who for evil hold
+W:o ben per sa bavequia		% the goodness through their foolishness 
+W:d'eresia,			% of heresy,
+W:que é maa ousadia,		% which is wretched audacity,
+W:e Deus non á destes cura;	% and God has not by.these cure;
+W:mais pela ta gran cordura	% but through thy own great discretion 
+W:lles dás lume come alva.	% to.them thou.give light as dawn.
+W:Virgen Madre groriosa...
+W:
+W:Tu es alva que pareces	% Thou art dawn who appears
+W:ante Deus e escrareces	% before God and illuminate
+W:os ceos, e que mereces	% the skies, and who deserves
+W:d'averes sa conpania.		% for thou.to.have/obtain thy company.
+W:E querria			% And I would.desire/wish
+W:t' eu ver con el, ca seria	% to.see thee with him, so.that I.might.be
+W:quito de maa ventura		% quit of ill fortune 
+W:e metudo na folgura		% and put in.the repose 
+W:u es con Deus, u es alva.	% where thou.art with God, where thou.art dawn.
+W:Virgen Madre groriosa...
+
+X: 2
+T: Cantiga 412: Virgen Madre groriosa
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+%%MIDI program 1       71 clarinet
+%%MIDI program 2       74 flute
+%%%MIDI program 3       72 piccolo
+V:1 clef=treble
+V:2 clef=treble
+%V:3 clef=treble
+%%leftmargin 2cm
+[V:1]  D3|(A3/2B/c/B/)|(BAG) |A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)|
+w:     Vir- gen***       Ma-**dre gro-ri- o-***    sa,*****
+[V:2]  (AGF)|F3|G3|(G/FE/D)|(EDE/F/)|F3|E3|D3|
+[V:1]  D3|(A3/2B/c/B/)|(BAG)|A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)| 
+w:     de  Deus***      fi-**lla e  e-  spo-***  sa,*****
+[V:2] (AGF)|F3|G3|(G/FE/D)|(EDE/F/)|F3|E3|D3|
+[V:1] (AGA/B/)|(AG2)|(G/FE/D)|E3 | F3|(GFG/A/)|(G/F/ED)|(EDC) |
+w:     san-***  ta,*  no-***  bre, pre- ci-***   o-***    sa,**
+[V:2]  D3|E3|F3|(EF/GA/)| (AGA/B/)|c3|B3|A3|
+[V:1]   C3|D3|E3|F3|G3|F3|(E/D/E2)|D3 | c3|d3|(c/B/AB/c/)|(d/BA/G)|
+w:    quen te lo-ar sa-be- ri-**   a  ou po- di-****     a?***
+[V:2]   c3|(BAG)|(GF/ED/)|(D/E/DC)|E3|F3|(A3/2B/c/B/)|A3| (G/F/ED)|(E/DC/D)|E3|G3|
+[V:1]  B3| G3|(B2c/d/)|d2 c  |A3|F3|(G/F/E/D/C)|
+w:     Ca Deus que**   é lum' e  di- a,****
+[V:2]  (G/F/E2)|(F/E/DE)|E3|D3|(EFG)|(A3/2B/c/B/)|G3|
+[V:1]  C3| D3  |E3|F3| G3|F3|(E/D/E2)|D3|
+w:     se-gund' a  no-ssa na- tu-**   ra
+[V:2]  c3|(BAG)|(GF/ED/)|(D/E/DC)|E3|F3|(A3/2B/c/B/)|A3|
+[V:1]   E  G2| E  G2|A3|(c/B/A3/2G/)|(FED)|(EDC)|
+w:     non vi-ra-mos sa  fi-***       gu-** ra**
+[V:2]  (B3/2B/A/G/)|(G3/2G/F/E/)|(FEF)|G3|A3|c3|
+[V:1]  C3| D3|C3 |D3 | E3| F3 |(AG2)|(G/F/ED)|(EF/ED/)|D3|
+w:     se-non por ti, que fust' al-*  ****     ****    va.
+[V:2]  (c/B/AB/c/)|(dB/AG/)|(A/cB/A)|A3|(GAG/F/)|(FD2)|E3|F3|G3|A3|
+
+X: 3
+T: Cantiga 412: Virgen Madre groriosa
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+%%MIDI program 1       71 clarinet
+%%MIDI program 2       74 flute
+%%%%MIDI program 3       70 bassoon
+%%MIDI program 3       68
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble
+[V:1]  D3|(A3/2B/c/B/)|(BAG) |A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)|
+w:    Vir- gen***       Ma-**dre gro-ri- o-***    sa,*****
+[V:2]  (AG/FE/)|D3|E3|(FG/AF/)|(E3/2F/G/A/)|A3|B3|d3|
+[V:3]  d3|c3|B3|A3|G3|F3|E3|D3|
+%
+[V:1]  D3|(A3/2B/c/B/)|(BAG)|A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)| 
+w:     de  Deus***      fi-**lla e  e-  spo-***  sa,*****
+[V:2]  d3|c3|B3|A3|G3|F3|E3|D3|
+[V:3]  (AG/FE/)|D3|E3|(FG/AF/)|(E3/2F/G/A/)|A3|B3|d3|
+[V:1] (AGA/B/)|(AG2)|(G/FE/D)|E3 | F3|(GFG/A/)|(G/F/ED)|(EDC) |
+w:     san-***  ta,*  no-***  bre, pre- ci-***   o-***    sa,**
+[V:2]  D3|(E3/2F/G/A/)|A3|B3|(c3/2d/e/d/)|c3|d3|c3|
+[V:3]  d3|(c2B)|(AG3/2F/)|(F/ED/C)|C3|C3|(D/E/F/G/A/B/)|A3|
+[V:1]   C3 |D3|E3|F3|G3|F3|(E/D/E2)|D3 |
+w:     quen te lo-ar sa-be- ri-**   a	
+[V:2]   (c/B/A>G)|(A3/2B/c/B/)|(B3/2c/d/c/)|c3|d3|c3|B3|(BAG)|
+[V:3]   G3|F3|E3|C3|(D/EF/G)|(AB/cd/)|e3|d3|
+[V:1]  c3|d3|(c/B/AB/c/)|(d/BA/G)|
+w:     ou po- di-****     a?***   
+[V:2]  (A/GF/E)|D3|A3|B3|
+[V:3]  c3|(BAG)|F3|E3|
+[V:1]  B3| G3|(B2c/d/)|d2 c  |A3|F3|(G/F/E/D/C)|
+w:     Ca Deus que**   é lum' e  di- a,****	 
+[V:2]  B3|d3|e3| A3|(B/AG/F)|(G/FE/D)|C3|
+[V:3] (ED/EF/)|(G/F/ED)|(EDC)|D3|E3|F3|(GA/B/c)|
+[V:1]  C3| D3  |E3|F3| G3|F3|(E/D/E2)|D3|
+w:     se-gund' a  no-ssa na- tu-**   ra
+[V:2] (G3/2A/B/c/)|(dc/B/A)|(B3/2c/d/c/)|c3|(dcB)|(cBA)|B3|d3|
+[V:3]   c3|A3|G3|(FG/FE/)|D3|(CD/EF/)|(G3/2A/B/A/)|A3|
+[V:1]   E  G2| E  G2|A3|(c/B/A3/2G/)|(FED)|(EDC)|
+w:     non vi-ra-mos sa  fi-***       gu-** ra**
+[V:2]  (c/BA/G)|(A/GF/E)|D3|C3|D3|(EFG)|
+[V:3]  (G2E)|(C2E)|(FG/AB/)|c3|A3|c3|
+[V:1]  C3| D3|C3 |D3 | E3| F3 |(AG2)|(G/F/ED)|(EF/ED/)|D3|
+w:     se-non por ti, que fust' al-*  ****     ****    va.
+[V:2]  G3|(FG/AB/)|c3|(cB/cd/)|e3|c3|(c3/2d/e/d/)|c2d|e3|d3|
+[V:3]  (d/cB/A)|A3|(G3/2A/B/A/)|A3|(B2A)|(G/FE/D)|C3|(DEF/G/)|(A2B)|A3|
