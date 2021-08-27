@@ -14535,6 +14535,88 @@ W:Virgen Madre groriosa...
 
 
 %%landscape 0
+X: 413
+T: Cantiga 413: Tod' aqueste mund' a loar deveria
+N: FSM 3
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/008small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob092small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob093small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+   G  (AB)|B  B2 | c   (BA)|A (B/A/G)| F (GA)| B B2|
+w:Tod' a-*que-ste mund' a*  lo-ar**    de- ve-*ri-a
+  B  d2| d (c/B/A)|(B/c/) (B/A/G)| F (GA)| B (cB)|(B/A/) G2 ||
+w:a vir-gï- i-**    da-*   de**   de San-*ta  Ma-* ri-*  a.
+%
+  G  d2|d (de)| f  (ed)|B (cB)|A (B/A/G)| d d2 |
+w:Ca e-la foi* vir-gen* e- na* vo-on-**  ta-de,
+  B  d2|(e/d/) (c/B/A)|(B/c/) (B/A/G)| F  (GA)|  B  (cB)|(B/A/) G2|
+w:e foi- o*     na**    car-*  ne**   con tan* gran bon-* da-*  de,
+   G  (AB)|  B  B2|c (BA)|A (B/A/G)| F (GA)|B B2|
+w:por que* Deus do ce-o* con sa**   de- i-*da-de
+  B  d2|d (c/B/A)|(B/c/) (B/A/G)| F (GA)| B (cB)|(B/A/) G2 ||
+w:en e-la pres**   car-*  ne**   que el* non a-*  vi-*  a,
+%
+%%begintext center
+%%
+%%Esta terceira é da virgidade de Santa Maria, e esta festa é no mes de dezenbro,
+%%e feze-a Sant' Alifonsso; e começa assi:
+%%endtext
+% This third is of.the virginity of Saint Maria, and this feast is in.the month of December,
+% and Saint Alifonsso created it; and it.starts thus:
+%%begintext center
+%%
+%%Tod' aqueste mund' a loar deveria
+%%a virgïidade de Santa Maria.
+%%
+%%endtext
+% All this world ought for to.praise
+% the virginity of Saint Maria.     
+W:Ca ela foi virgen ena voontade,	% Because she was virgin in.her intention,
+W:e foi-o na carne con tan gran bondade,% and was so in.the flesh with such great goodwill,
+W:por que Deus do ceo con sa deidade	% for that God from.the sky with his godhead
+W:en ela pres carne que el non avia,	% in her took flesh that he did not have,
+W:Tod' aqueste mund' a loar deveria...
+W:
+W:Ond' ela foi prenne. Mas como x'ant' era % When she was pregnant.  But as she.was before
+W:ficou virgen, que foi maravilla fera;	   % she.did.remain virgin, that was wonder enormous;
+W:ca tant' ouve door com[o] ant' ouvera	   % for she.had such sorrow as she.had.had before
+W:que ouvesse fillo. Queno cuidaria	   % who should.have son.  Who would.think it 
+W:Tod' aqueste mund' a loar deveria...
+W:
+W:Que aquestas cousas de süu juntadas	  % That these things from on.high joined 
+W:fossen e en corpo de moller achadas,	  % should.have.been and in body of woman found, 
+W:que ouvess' as tetas de leit' avondadas % that she.should.have the breasts with milk abundant
+W:e pariss', e fosse virgen todavia?	  % and should.give.birth, and be virgin still?
+W:Tod' aqueste mund' a loar deveria...
+W:
+W:Mas aquesta Virgen amou Deus atanto	 % But this virgin did.love God so.much
+W:que a enprennou do Espirito Santo,	 % that he.inpregnated her with.the Holy Spirit,
+W:sen prender end' ela dano nen espanto; % without her taking thence harm nor fear;
+W:e ben semella de Deus tal drudaria.	 % and well seems of God such gallantry.
+W:Tod' aqueste mund' a loar deveria...
+W:
+W:E desto vos mostro prova verdadeira	 % And about.this to.you I.show true proof 
+W:do sol quando fer dentro ena vidreira, % of.the sun when making inside in.the window,
+W:que pero a passa, en nulla maneira	 % that yet it passes.through it, in no manner
+W:non fica britada de como siya.	 % is it broken from how it.would.be.
+W:Tod' aqueste mund' a loar deveria...
+W:
+W:Que macar o vidro do sol filla lume,	 % That though the glass from.the sun takes light,
+W:nulla ren a luz do vidro non consume;	 % nothing the light of.the glass consumes;
+W:outrossi foi esto que contra costume	 % likewise this was that against usage
+W:foi madre e virgen, ca Deus xo queria. % she.was mother and virgin, because God desired it.
+W:Tod' aqueste mund' a loar deveria...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
