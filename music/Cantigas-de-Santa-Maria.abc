@@ -14718,24 +14718,6 @@ B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/011small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob092small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
-M: 3/4
-L: 1/4
-Q: 1/4=200
-K: F Ionian
-V:1
-%Staff 1
-%%MIDI program 74
-   F2 G |A (AG)| A  B2|A3|(GAB)| A  G2| G2  A | G  F2|G2 (F/E/)|F (GF)|E  F2 ||
-w:Tan bë-ey-ta* foi a  sa- u-** da-çon per que nos vë-e- mos*   a  sal-*va-çon.
-%
-  c2 c |  B    G2|(A/B/) c2|A2 (B/A/)| G  F2| c2  c | B (G>A)|B c2|A2 (B/A/)|G F2 |
-w:E-sta troux' o   an-*  ge-o   Ga-*  bri-el   a San-ta  Ma-*ri-a  co- me*   fi-el
-   F2  G| A (AG) | A   B2|A3|(GAB)| A G2 | G2  A| G  F2|(G/F/) (FE) |F  (GF)| E  F2 ||
-w:man-da-dei-ro,* por que E-  ma-**nu-el  foi lo-go Deus e*    pres* en-car-*na-çon.
-
-X: 4152
-T: Cantiga 415: Tan bëeyta foi a saudaçon
-N: 
 M: 4/4
 L: 1/4
 Q: 1/4=200
@@ -14750,46 +14732,9 @@ w:Tan bë-ey-ta*  foi a  sa- u-**   da-çon per que nos vë-e-  mos* a  sal-* va-ço
 w:E-sta troux' o   an-*ge-o   Ga-*  bri-el   a San-ta  Ma-*ri-a  co- me*  fi-el
    F2  G  A|(A/G/) A   B2|A2 (G/A/B)| A G3 | G2  A G | F2 (GF)|(FE)  F (G/F/)| E  F3 ||
 w:man-da-dei-ro,* por que E-  ma-**  nu-el  foi lo-go Deus e*  pres* en-car-* na-çon.
-
-
-X: 4153
-T: Cantiga 415: Tan bëeyta foi a saudaçon
-N: 
-M: 5/4
-L: 1/4
-Q: 1/4=200
-K: F Ionian
-V:1
-%Staff 1
-%%MIDI program 74
-   F2 G  A2|(AG)  A  B2|A2 (G/A/B) A|G2-G3|G2  A   G2|F2 G2 (F/E/)|F (GF) E2|F2-F3||
-w:Tan bë-ey-ta*  foi a  sa- u-**  da-çon*  per que nos vë-e- mos*  a sal-*va-çon.*
-%
-  c2 c    B2  |G2 (A/B/) c2|A2 (BA)  G |F2-F3|c2  c  B2|(G>A) B c2|A2 (BA) G|F2-F3|
-w:E-sta troux' o   an-*ge-o   Ga-*  bri-el*   a San-ta  Ma-*ri-a  co- me* fi-el*
-   F2  G  A2|(AG)   A   B2|A2 (G/A/B) A|G2-G3| G2  A G2| F2 (G/F/) (FE) |F  (GF) E2|F2-F3 ||
-w:man-da-dei-ro,* por que E-  ma-**  nu-el*   foi lo-go Deus e*    pres* en-car-*na-çon.*
-
-X: 4154
-T: Cantiga 415: Tan bëeyta foi a saudaçon
-N: 
-M: 6/4
-L: 1/4
-Q: 1/4=250
-K: F Ionian
-V:1
-%Staff 1
-%%MIDI program 74
-   F3 G  A2|(AG)  A  B3|A3 (G/A/B) A|G6 |G3  A   G2|F3 G3|(F/E/) F (GF) E2|F6||
-w:Tan bë-ey-ta*  foi a  sa- u-**  da-çon per que nos vë-e- mos*  a sal-*va-çon.
-%
-  c3 c    B2  |G2 (A/B/) c3|A3 (BA)  G |F6   |c3  c  B2|(G>A) B c3|A3 (BA) G|F6   |
-w:E-sta troux' o   an-*ge-o   Ga-*  bri-el    a San-ta  Ma-*ri-a  co- me* fi-el 
-   F3  G  A2|(AG)   A   B3|A3 (G/A/B) A|G6   | G3  A G2| F3 (G/F/) (FE) |F2 (GF) E2|F6    ||
-w:man-da-dei-ro,* por que E-  ma-**  nu-el    foi lo-go Deus e*    pres* en-car-*na-çon. 
 %
 %%begintext justify
-
+%%
 %%Esta quinta é de como o angeo Gabriel vëo saudar a Santa Maria,		
 %%e esta festa [é] no mes de março.	
 %%endtext
@@ -14799,7 +14744,7 @@ w:man-da-dei-ro,* por que E-  ma-**  nu-el    foi lo-go Deus e*    pres* en-car-
 %%begintext center
 %%Tan bëeyta foi a saudaçon
 %%per que nos vëemos a salvaçon.
-
+%%
 %%endtext
 			% So blessed was the salutation 	 
 			% through which we did.come to salvation.
