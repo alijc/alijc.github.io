@@ -14795,66 +14795,6 @@ B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/383small.html
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/012small.html
 Z:Ali Corbin <ali.corbin:gmail.com>
-M: 3/4	
-L: 1/4
-Q: 1/4=200
-K: D Aeolian
-%%leftmargin 2cm
-%%rightmargin 2cm
-V:1
-%Staff 1
-%%MIDI program 74
-%%rightmargin 10cm
-   F|(F/E/) (DC)| C2  (C/D/)|(FG/FE/)|F2 
-w:Mui-to*   foi* noss' a-*    mi-***  go 
-%%rightmargin 2cm
-  (F/G/)|A2 (A/G/)|(F>G) (F/E/)|(F>G) (A/B/)|(AGA)|(F>E) (D/C/)| D  F2|(F3/2E/D/C/)|D2
-w: Ga-* bri- el,*  quan-* do*    di-*  sse:* «Ma-** ri-*  a,*   Deus é  ti-***        go.»
-%
-   F|(F/E/) (DC)| C2  (C/D/)|(FG/FE/)|F2 (A/G/)|(F/E/)   (DC)|D F2|(F3/2/E/D/C/)|D2 
-w:Mui-to*   foi* noss' a-*    mi-***  go  u*     diss':* «A-* e Ma- ri-***       a»
-  F|(F/E/) (DC)|C2 (C/D/)|(FG/FE/)|F2 (A/G/)|(F/E/) (DC) |  D  F2|(F3/2E/D/C/)|D2 
-w:a- a*    Vir-*gen bë-*   ey-***  ta, e*     que*  Deus* pren-de- ri-***      a
-%%rightmargin 10cm
-  F|(F/E/) (DC)| C2 (C/D/)|(FG/FE/)|F2  
-w:en e-*    la*  no- ssa*   car-*** ne  
-%%rightmargin 2cm
-  (F/G/)|A2 (A/G/)|(F>G) (F/E/)|(F>G) (A/B/)|(AGA)|(F/E/) (DC)| D  F2|(F3/2E/D/C/)|D3||
-w: con* que  pois*  bri-* ta-*   ri-*  a*     o**   in-*   fer-*no an- ti-***      go. 
-
-X: 4162
-T: Cantiga 416: Muito foi noss' amigo
-N: 
-M: 4/4	
-L: 1/4
-Q: 1/4=200
-K: D Aeolian
-%%leftmargin 2cm
-%%rightmargin 2cm
-V:1
-%Staff 1
-%%MIDI program 74
-%%rightmargin 10cm
-   F (F/E/) (DC)| C3  (C/D/)|(F2G/FE/)|[M:3/4] F3|
-w:Mui-to*   foi* noss' a-*    mi-***           go  
-%%rightmargin 2cm
-  (F/G/) A2|(A/G/) (F>G)|(F/E/) (F>G)|[M:4/4](A/B/) (AGA)|(F>E) (D/C/)  D |F2 (F/E/D/C/)|D4||
-w: Ga-* bri- el,*  quan-* do*    di-*         sse:* «Ma-** ri-*  a,* Deus é  ti-***    go.»
-%
-   F (F/E/) (DC)| C3  (C/D/)|(F2G/FE/)|F3 (A/G/)|(F/E/)   (DC) D|F2 (F/E/D/C/)|D4 |
-w:Mui-to*   foi* noss' a-*    mi-***   go  u*     diss':* «A-* e Ma- ri-***    a»
-  F (F/E/) (DC)|C3 (C/D/)|(F2G/FE/)|F3 (A/G/)|(F/E/) (DC)    D |F2 (F/E/D/C/)|D4 |
-w:a- a*    Vir-*gen bë-*   ey-***   ta, e*     que*  Deus* pren-de- ri-***    a
-%%rightmargin 10cm
-  F (F/E/) (DC)| C3 (C/D/)|(F2G/FE/)|[M:3/4] F3|
-w:en e-*    la*  no- ssa*   car-***          ne  
-%%rightmargin 2cm
-  (F/G/) A2|(A/G/) (F>G)|(F/E/) (F>G)|[M:4/4] (A/B/) (AGA)|(F/E/) (DC)  D |F2 (F/E/D/C/)|D4||
-w: con* que  pois*  bri-* ta-*   ri-*          a*     o**   in-*   fer-*no an- ti-***    go. 
-
-X: 4163
-T: Cantiga 416: Muito foi noss' amigo
-N: 
 M: 4/4	
 L: 1/4
 Q: 1/4=200
