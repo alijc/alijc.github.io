@@ -15289,6 +15289,135 @@ W:Des quando Deus sa Madre aos çeos levou...
 
 
 %%landscape 0
+X: 420
+T: Cantiga 420: Bëeita es Maria
+N: FSM 10
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/020small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: none
+L: 1/4
+Q: 1/4=300
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  D  F2 G3 A3  A3 A3 A z2|A3  c3   A3  _B3 (A/G2F/) F3 F z2 |
+w:Bë-ei-ta es, Ma-ri-a,   Fi-lla, Madr' e   cri-**  a-da
+  F3  G3    A3 (A2_B)  A3 (A/G/-G2) A3 |(GF>ED) C2  D3 F3 (G/F/ED) D3 D z2|
+w:de Deus, teu  Padr'* e   Fi-**   llo, est'*** é cou-sa  pro-***  va-da.
+  E3 G3 G3  G3 G3 G3 G z2|(A2G) (G/F2E/) D3 C3 (D2F) F3 F z2 |
+w:Bë-ey-ta foi a  o-ra     en*   que**   tu gë- e-*  ra-da
+  F3 F3 |F3 E3 F3 (G/F/ED) D3 | E3  C3   D3 F3 (G/F/ED) D3 D z2 |
+w:fu-ste e  a  ta  al-***  ma   de Deus san-ti- vi-*** ga-da,
+  E3 G3 G3 G3  G3 G3 G z2 |(A2G) (G/F2E/) D3  C3 (D2F) F3 F z2|
+w:e  bë-ey-to, o  di-a      en*   que**  pois fu- ste* na-da
+  F3 G3  A3 A3 A3 A3 A z2 | A3 A3 F3 G3 (A/G2F/) F3 F z2  |
+w:e d'A-dam o pec-ca-do     qui-ta e  per-dõ-** a- da,
+  F3 G3 A3 (A2_B) A3 (A/G/-G2) A3 |(G/FE/D) C3   D3 F3 (G/F/ED) D3 D z2 |
+w:e  bë-ey- tos* los  pa-**   nos   u***   fust' en-vu- ru=*** lla-da
+  E3 G3  G3  G3 G3 G3 G z2| A3 (G/F2E/) D3  C3 (D2F) F3 F z2 |
+w:e  ou-tro-ssi a  te-ta   que  ou-**   vi-ste  ma-* ma-da,
+  F3 F3 F3 E3 F3 (G/F/ED) D3 | E3  C3 D3 F3 (G/F/ED)  D3  D z2 |
+w:e  bë-ey-ta a   a-***  gua   en que fu-ste ba-***  nna-da
+  E3 G3 G3  G3 G3 G3 G  z2|A3 (G/F2E/) D3   C3 (D2F) F3  F z2 |
+w:e   a san-ta vi-an-da    de  que**  fust' a-  von-*da-da,
+  F3 G3 A3 A3 A3 A3  A z2 |(ABc)  A3 F3 G3 (A/G2F/) F3  F z2 |
+w:e  bë-ey-ta a  fa-la      que** ou-vi-ste fa-**   la-da
+ (F3G/A2_B/) A3  A3  G3 A3 (G/FE/D) C3 | D3  C3  D3   F3 (GFGA2G) (F/E/DC) D3 ||
+w:e***       ou-tro-ssi a   le-***  tra  de que fust' en- si-****  na-***   da.
+W:
+W:Esta decima é no dia aa proçession,	% This tenth is on.the day to.the procession,
+W:como as proçessiões do çeo reçeberon	% how the processions of.the heaven did.receive
+W:a Santa Maria quando sobiu aos çeos.	% the Saint Maria when she.did.ascend to.the heavens.
+W:
+W:Bëeita es, Maria, Filla, Madr' e criada		% Blessed thou.art, Maria, Daughter, Mother and servant 
+W:de Deus, teu Padr' e Fillo, est' é cousa provada.	% of God, thy Father and Son, this is thing proven.
+W:Bëeyta foi a ora en que tu gëerada			% Blessed was the hour in which thou conceived
+W:fuste e a ta alma de Deus santivigada,		% were and thy own soul by God venerated, 
+W:e bëeyto, [o dia] en que pois fuste nada		% and blessed, the day on which thou.was born
+W:e d'Adam o peccado quita e perdõada,			% and of Adam the sin discharged and pardoned,
+W:e bëeytos los panos u fust' envurullada		% and blessed the cloths in.which thou.was wrapped
+W:e outrossi a teta que ouviste mamada,			% and likewise the breast which thou.did suckle,
+W:e bëeyta a agua en que fuste bannada			% and blessed the water in which thou.was bathed
+W:e a santa vianda de que fust' avondada,		% and the holy meat by which thou.was abundant,
+W:e bëeyta a fala que ouviste falada			% and blessed the speech that thou.did.hear spoken
+W:e outrossi a letra de que fust' ensinada.		% and likewise the writing from which thou.was taught.
+W:
+W:E bëeyta a casa u feziste morada			% And blessed the house in.which thou.did live
+W:e outrossi o tenpro u fuste presentada,		% and likewise the temple in.which thou.was presented, 
+W:e bëeyta a seda que ouviste fiada			% and blessed the silk that thou.did spin
+W:e outrossi a obra que end' ouv[i]ste obrada,		% and likewise the work that thence thou.did execute,
+W:e bëeyta u fuste con Joseph esposada,			% and blessed when thou.was with Joseph espoused,
+W:non que tigo casasse, mas que fos[s]es guardada;	% who would not have.married thee, but that thou.should.be protected;
+W:e bëeyta a ora u fuste saudada			% and blessed the hour in.which thou.was greeted
+W:pelo angeo santo, e ar de Deus pren[n]ada,		% by the holy angel, and now by God pregnant,
+W:e bëeyta a culpa de que fust' acusada,		% and blessed the guilt of which thou.was accused,
+W:onde ficaste quita e santa e salvada,			% in.which thou.remained discharged and holy and saved,
+W:e bëeyta a ta carne en que jouv' enserrada		% and blessed thy own flesh in which would.lie hidden 
+W:a de teu Fillo Christo e feita e formada.		% (to of) thy Son Christo both made and formed.
+W:
+W:E bëeyta u fust[e] a Beleem chegada			% And blessed when thou.were at Beleem arrived
+W:e por parir teu Fillo ena cova entrada,		% and for to.give.birth.to thy Son into.the cave entered,
+W:bëeyta u pariste om' e Deus sen tardada,		% blessed when thou.gave.birth.to man and God without delay, 
+W:sen door que ouvesses del, nen fosses coitada,
+					% without pain that thou.might.have from.him, nor might thou.be unhappy,
+W:e bëeyta a tua virgidade sagrada			% and blessed thy own sacred virginity 
+W:que ficou como x'era ant' e non foi danada;		% that did.remain as it.was before and was not damaged;
+W:bëeyta a ta leite onde foi governada			% blessed thy own milk in.which he.was fed
+W:a carne de teu Fillo e creçud' e uviada,		% the flesh of thy Son both developed and safeguarded
+W:bëeytas las tas mãos con que foi faagada		% blessed thy own hands with which he.was nutured
+W:a ssa pes[s]õa santa e benaventurada,			% his own holy person and blessed woman,
+W:bëeyta foi a vida que pois con el usada		% blessed was the life that when with him thou used to have,
+W:ouviste, macar fuste mui pobr' e lazerada.		% though thou.were very poor and destitute.
+W:
+W:E bëeyta, bëeyta, u ouvist' acabada			% And blessed, blessed, when thou.had finished
+W:a vida deste mundo e del fuste passada,		% the life of.this world and from.it thou passed,
+W:e bëeyta u vëo a ti a ta pousada			% and blessed when came to thee thy own rest
+W:teu Fillo Jhesu-Christo, e per el foi tomada		% thy Son Jhesu-Christo, and by him was taken 
+W:a ta alma bëeyta e do corpo tirada,			% thy own blessed soul and from.the body pulled.off.
+W:que a San Miguel ouve tan tost' acomendada;		% that by Saint Miguel it.was at once entrusted;
+W:bëeyta a conpanna que t' ouv' aconpan[n]ada,		% blessed the company that thee did accompany,
+W:d'angeos mui fremosos preçis[s]on ordinada,		% of angels very beautiful procession ordered,
+W:e bëeyta a outra d'archangeos onrrada			% and blessed the other by archangels honored
+W:que te reçeber vëo, de que fuste loada,		% that to.receive thee came, by which thou.was praised,
+W:e bëeyta a oste que Tronos é chamada			% and blessed the host that Tronos is called
+W:e Dominationes, que te foi enviada.			% and Dominationes, that to.thee was sent.
+W:
+W:Bëeyta u ouviste en sobind', encontrada		% Blessed when thou, in ascending, met
+W:Princepes, Podestades deles grand' az parada,		% Princepes, Podestades of.them great parade in troops,
+W:bëeyta u Cherubin e Seraphin achada			% blessed when Cherubin and Seraphin had found 
+W:t'ouveron, ca tan toste deles fust' aorada,		% thee, because at once by.them thou.was adored,
+W:e bëeyta u fuste das vertudes çercada			% and blessed when thou.was by.the virtues surrounded
+W:dos çeos, e per eles a ta loor cantada;		% of.the heavens, and by them thy own praise sung;
+W:bëeyta u teu Fillo vëo apressurada-			% blessed when thy Son came hurriedly -
+W:ment' a ti muit', agyn[n]a con toda sa masnada,	% he.noted thee well, again with all his company,
+W:bëeyta u el disse aos santos: «Leixada		% blessed when he did.say to.the saints: "Left 
+W:logo seja mia Madr[e] a mi, ca ven cansada.»		% at.once might.be my Mother to me, because she.comes tired."
+W:Bëeyta u t' el ouve dos braços abraçada,		% Blessed when thee he did by.the arms embrace,
+W:e tu con piedade sobr' el fuste acostada.		% and thou with devotion on him did lean.
+W:
+W:Bëeyta u os santos en mui gran voz alçada		% Blessed when the saints in very great voice raised
+W:disseron: «Ben vennades, Sennor mui desejada.»	% did.say: "Well that you.came, Lady greatly desired."
+W:Bëeyta u teu Fillo a Deus t'ouve mostrada		% Blessed when thy Son to God thee did show
+W:dizendo: «Padr', aquesta madre m'ouviste dada.»	% saying: "Father, this mother to.me thou.did give." 
+W:Bëeyta u Deus quis[o] que ta carne juntada		% Blessed when God did.desire.he who thy flesh joined
+W:fosse cona ta alma e per el corõada.			% should.be with thy own soul and by him crowned. 
+W:Bëeyta es por esto, amiga e amada			% Blessed thou.art for this, friend and beloved
+W:de Deus e ar dos santos, e nossa avogada.		% of God and now of.the saints, and our advocate.
+W:E porende, Bëeyta, te rog' eu, aficada-		% And therefore, Blessed.one, I pray thee, tormented.one -
+W:ment[e] que a ta graça me seja outorgada,		% let.him.note that thy own grace to.me might.be granted,
+W:por que a ta merçee bëeita mui grãada			% so that thy own blessed mercy most noble
+W:aja en este mundo, e me dés por soldada.		% I.might.have in this world, and to.me thou.should.give for payment.
+W:
+W:Que quando a mi' alma daqui fezer jornada,		% That when my own soul from.here should.make journey,
+W:que a porta do çeo non lle seja vedada.		% that the door of.the heaven to.it might not be barred.
+
+
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
