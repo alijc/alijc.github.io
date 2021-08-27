@@ -14617,6 +14617,100 @@ W:Tod' aqueste mund' a loar deveria...
 
 
 %%landscape 0
+X: 414
+T: Cantiga 414: Como Deus é comprida Trïidade
+N: FSM 4
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/010small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=240
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+  A |c3   c |c3 d |B3 (c/B/)|(AG2) F|(G2A/G/B)|c3  
+w:Co-mo Deus é com-pri-da*   Trï-* i- da-***   de  
+   c |(cB2) (c/B/)|A3 (B/A/)|G3 (A/G/)|(GF2) (c/B/)|(AGG>A)|G3
+w:sen e-*   na-* der  nen* min-guar*   de*   ssi*   na-*** da,
+  A| c3   c |c3  d |B3 (c/B/)|(AG2)   F|(G2AB)|c3
+w:é-ste, cou-sa çer-ta  e*     mui* pro- va-**da, 
+    c|(cB2) (c/B/)|A3 (B/A/)|G3 (A/G/)|(GF2) (c/B/)|(AGG>A)|G3
+w:tres pe-*  sso-* as  e*    ü-  a*     De-*  i-*    da-*** de. 
+%
+   A| c3   c| c3  d |e3  d|(c/B/c2)  d| c3
+w:Se-gund' e-sto que-ro mo- strar** ra-zon  
+   c | e3  f| g3    e|(e/f/gf)  d|(c/B/c2) d|(cB2) 
+w:per que sá-bian quan-tos***  no  mun-** do  son*
+   A|c3 c | c3  d | B3 (c/B/)|(AG2) F|(G2AB)|c3
+w:de co-mo foi vir-gen  San-*  ta* Ma- ri-** a   
+  c |(cB2) (c/B/)| A3 (B/A/)|G3 (A/G/)|(GF2) (c/B/)|(AGG>A)|G4 ||
+w:en tres* gui-* sas  dü-*  a   vir-*  gï-*  i-*    da-*** de.  
+%
+%%newpage
+%%begintext center
+%%Esta quarta é da trïidade de Santa Maria.
+%%
+%%endtext
+					%% This fourth is of.the trinity of Saint Maria. 
+%
+W:Como Deus é comprida Trïidade		% How God is complete Trinity 
+W:sen enader nen minguar de ssi nada,	% neither increasing nor lessening ought from himself,
+W:éste, cousa çerta e mui provada,	% he.is, thing certain and greatly proven,
+W:tres pessoas e üa Deidade.		% 3 persons and one Deity. 
+W:Segund' esto quero mostrar razon	% According.to this I.wish to.show reason 
+W:per que sábian quantos no mundo son	% by which so.many in.the whole world knew 
+W:de como foi virgen Santa Maria	% of how was virgin Saint Maria 
+W:en tres guisas düa virgïidade.	% in 3 guises of.one virginity.
+W:
+W:Ca ela foi virgen na voontade		% Because she was virgin in.her intention 
+W:e ena carn' ante que fosse dada	% and in.her flesh before she.had.been given
+W:a Joseph, con que foi esposada,	% to Joseph, with whom she was espoused,
+W:e foi virgen tendo castidade,		% and she.was virgin keeping chasity,
+W:e ar foy-o en aquela sazon		% and now it came to pass in that season 
+W:que foi prenn' e pariu fillo baron,	% that she.was pregnant and gave.birth.to male son,
+W:e ficou virgen como xe soya;		% and she.remained virgin as she was before 
+W:e assi foron tres en unidade.		% and as they.were 3 in unity.
+W:
+W:E porend', amigos, mentes parade	% And therefore, friends, stop a while,
+W:e veredes obra muit' ordin[n]ada	% and you.will.see workmanship most ordered
+W:de como Deus buscou carne sagrada	% of how God did.seek flesh sacred 
+W:en que nos mostrasse humanidade	% in which he.might.show us humanity 
+W:comprida de todo ben, e d'al non,	% completed of all goodness, and of nothing else,
+W:con que podesse poys soffrer paxon	% with which he.could then bear passion 
+W:e morrer, e viver a terçer dia	% and die and live on the third day 
+W:e destruir o dem' e sa maldade.	% and destroy the devil and his evil.
+W:
+W:E macar é Sennor, quis ygualdade	% And though he.is Lord, he.did.desire equality 
+W:con sa Madre, a benaventurada;	% with his Mother, the blessed woman;
+W:ca seendo sa filla e criada,		% because being his daughter and servant,
+W:non catou grandeza nen quantidade	% he found neither greatness nor quantity 
+W:de ssi a ela, mais fillou fayçon	% of himself in her, but he.did.take form
+W:d'ome na carne dela, e enton		% of man in.her flesh, and then 
+W:foi fillo da que el criad' avia,	% he.was son of.she whom he had created, 
+W:e da filla fez madr', est' é verdade.	% and of.the daughter he.did.make mother, this is truth.
+W:
+W:E tant' ouv' ela en si omildade	% And such humility did she have in herself
+W:que dos çeos, u era sa morada,	% that from.the heavens, in.which was her residence,
+W:o fez deçer na sa santivigada		% she.did.cause him to.descend into her venerated
+W:carne comprida de toda bondade,	% flesh fulfilled of all goodness,
+W:en que el pose tan gran bëeçion	% in which he would.pose so great blessing 
+W:e deu sa graça e dema[i]s tal don,	% and he.gave his grace and moreover such gift,
+W:que quantos o dem' enfermar fazia	% that whosoever the devil to.ail was.causing
+W:reçebes[s]en per ela sãydade.		% they.should.receive through her health.
+W:
+W:Poren lle roguemos por piadade	% Therefore to.her let.us.pray for mercy 
+W:que rog' a Deus, de que ficou prennada % who prays to God, with whom she.was pregnant 
+W:quando foi do angeo saudada,		% when she.was by.the angel greeted,
+W:que nos guarde de toda tempestade	% who should.protect us from all trouble 
+W:que nos non nuza, e ar d'ocajon	% who would not harm us, and from misfortune
+W:e do demo chëo de trahyçion,		% and from.the devil full of treason 
+W:que nos non enarte con arlotia	% that he not deceive us with villainy
+W:que nos enarta, e con falsidade.	% who deceives us and with falseness.
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
