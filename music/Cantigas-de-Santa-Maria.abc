@@ -14711,6 +14711,137 @@ W:que nos enarta, e con falsidade.	% who deceives us and with falseness.
 
 
 %%landscape 0
+X: 415
+T: Cantiga 415: Tan bëeyta foi a saudaçon
+N: FSM 5 (FSM 2 in To)
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/011small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob092small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+   F2 G |A (AG)| A  B2|A3|(GAB)| A  G2| G2  A | G  F2|G2 (F/E/)|F (GF)|E  F2 ||
+w:Tan bë-ey-ta* foi a  sa- u-** da-çon per que nos vë-e- mos*   a  sal-*va-çon.
+%
+  c2 c |  B    G2|(A/B/) c2|A2 (B/A/)| G  F2| c2  c | B (G>A)|B c2|A2 (B/A/)|G F2 |
+w:E-sta troux' o   an-*  ge-o   Ga-*  bri-el   a San-ta  Ma-*ri-a  co- me*   fi-el
+   F2  G| A (AG) | A   B2|A3|(GAB)| A G2 | G2  A| G  F2|(G/F/) (FE) |F  (GF)| E  F2 ||
+w:man-da-dei-ro,* por que E-  ma-**nu-el  foi lo-go Deus e*    pres* en-car-*na-çon.
+
+X: 4152
+T: Cantiga 415: Tan bëeyta foi a saudaçon
+N: 
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+   F2 G  A|(A/G/) A  B2|A2 (G/A/B)| A  G3| G2  A   G|(F2G2)|(FE)  F (G/F/)|E  F3 ||
+w:Tan bë-ey-ta*  foi a  sa- u-**   da-çon per que nos vë-e-  mos* a  sal-* va-çon.
+%
+  c2 c    B   |G2 (AB)|c2 A2|(B/A/)  G  F2| c2  c   B|(G2A) B|c2 A2|(B/A/) G F2 |
+w:E-sta troux' o   an-*ge-o   Ga-*  bri-el   a San-ta  Ma-*ri-a  co- me*  fi-el
+   F2  G  A|(A/G/) A   B2|A2 (G/A/B)| A G3 | G2  A G | F2 (GF)|(FE)  F (G/F/)| E  F3 ||
+w:man-da-dei-ro,* por que E-  ma-**  nu-el  foi lo-go Deus e*  pres* en-car-* na-çon.
+
+
+X: 4153
+T: Cantiga 415: Tan bëeyta foi a saudaçon
+N: 
+M: 5/4
+L: 1/4
+Q: 1/4=200
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+   F2 G  A2|(AG)  A  B2|A2 (G/A/B) A|G2-G3|G2  A   G2|F2 G2 (F/E/)|F (GF) E2|F2-F3||
+w:Tan bë-ey-ta*  foi a  sa- u-**  da-çon*  per que nos vë-e- mos*  a sal-*va-çon.*
+%
+  c2 c    B2  |G2 (A/B/) c2|A2 (BA)  G |F2-F3|c2  c  B2|(G>A) B c2|A2 (BA) G|F2-F3|
+w:E-sta troux' o   an-*ge-o   Ga-*  bri-el*   a San-ta  Ma-*ri-a  co- me* fi-el*
+   F2  G  A2|(AG)   A   B2|A2 (G/A/B) A|G2-G3| G2  A G2| F2 (G/F/) (FE) |F  (GF) E2|F2-F3 ||
+w:man-da-dei-ro,* por que E-  ma-**  nu-el*   foi lo-go Deus e*    pres* en-car-*na-çon.*
+
+X: 4154
+T: Cantiga 415: Tan bëeyta foi a saudaçon
+N: 
+M: 6/4
+L: 1/4
+Q: 1/4=250
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+   F3 G  A2|(AG)  A  B3|A3 (G/A/B) A|G6 |G3  A   G2|F3 G3|(F/E/) F (GF) E2|F6||
+w:Tan bë-ey-ta*  foi a  sa- u-**  da-çon per que nos vë-e- mos*  a sal-*va-çon.
+%
+  c3 c    B2  |G2 (A/B/) c3|A3 (BA)  G |F6   |c3  c  B2|(G>A) B c3|A3 (BA) G|F6   |
+w:E-sta troux' o   an-*ge-o   Ga-*  bri-el    a San-ta  Ma-*ri-a  co- me* fi-el 
+   F3  G  A2|(AG)   A   B3|A3 (G/A/B) A|G6   | G3  A G2| F3 (G/F/) (FE) |F2 (GF) E2|F6    ||
+w:man-da-dei-ro,* por que E-  ma-**  nu-el    foi lo-go Deus e*    pres* en-car-*na-çon. 
+%
+%%begintext justify
+
+%%Esta quinta é de como o angeo Gabriel vëo saudar a Santa Maria,		
+%%e esta festa [é] no mes de março.	
+%%endtext
+% This fifth is of how the angel Gabriel came to.salute Saint Maria, 		  
+% and this feast is in.the month of March.
+%
+%%begintext center
+%%Tan bëeyta foi a saudaçon
+%%per que nos vëemos a salvaçon.
+
+%%endtext
+			% So blessed was the salutation 	 
+			% through which we did.come to salvation.
+%
+W:Esta tro[u]x' o angeo Gabriel		% This the angel Gabriel brought
+W:a Santa Maria come fiel		% to Saint Maria as faithful 
+W:mandadeiro, por que Emanuel		% messenger, through whom Emanuel
+W:foi logo Deus e pres encarnaçon.	% became at.once God and took encarnation.
+W:Tan bëeyta foi a saudaçon...
+W:
+W:Ca ben ali u lle diss' el «Ave»	% Because just there when he said to.her "Ave"
+W:foi logo Deus ome feit', a la ffe;	% at.once God was made man, by her faith;
+W:e macar el atan poderos' é,		% and though he so powerful is,
+W:ena Virgen foi enserrad' enton.	% in.the Virgin he.was hidden then.
+W:Tan bëeyta foi a saudaçon...
+W:
+W:E u «Graçia plena» lle dizer		% And when "Gracia plena" to.her to.say 
+W:foi o angeo, nos fez connosçer	% went the angel, us he.did.make known
+W:a Deus, que non podiamos veer		% to God, whom we could not see 
+W:ante; mais pois vimos ben sa fayçon.	% before; but then we.saw well his aspect.
+W:Tan bëeyta foi a saudaçon...
+W:
+W:E u lle disse «Contig[o] é Deus»,	% And when to.her he.said "With.thee is God",
+W:enton foi prenne do que polos seus	% then she.was pregnant with he.who for his own people
+W:salvar quis morte prender per judeus,	% to.save did.desire death to.take by judeus,
+W:por nos tirar da infernal prijon.	% for to.drag us out of.the infernal prison.
+W:Tan bëeyta foi a saudaçon...
+W:
+W:E u lle disse «Bëeyta es tu		% And when to.her he.did.say "Blessed art thou 
+W:entr' as molleres», logo de Jhesu	% among the women", at.once with Jhesu
+W:Cristo foi prenne, que naçeu pois u	% Cristo she.was pregnant, who was.born then when 
+W:tres Reys lle deron cada un seu don.	% 3 kings to.him did each give his gift.
+W:Tan bëeyta foi a saudaçon...
+W:
+W:E u lle disse: «Bëeyto será		% And when to.her he.did.say "Blessed will.be 
+W:aquel fruito que de ti naçerá»,	% that fruit that of thee will.be.born",
+W:ali nos deu carreira por que ja	% there she.gave us path by which indeed
+W:ouvessemos sempre de Deus perdon.	% we.might ever obtain from God pardon.
+W:Tan bëeyta foi a saudaçon...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
