@@ -15041,6 +15041,254 @@ W:Os sete dões que dá...
 
 
 %%landscape 0
+X: 419
+T: Cantiga 419: Des quando Deus sa Madre
+N: FSM 9 (FSM 5 in To)
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/016small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob094small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+ (A/G/) (F>G)|  A (c>d)|  B c2| c3 |(d/e/) (f>g)|(f/e/) (d/e/f)|(e/d/) c2 |
+w:Des*   quan-*do  Deus* sa Ma-dre   a-*    os*   çe-*   os**    le-* vou,    
+  c2  d |c2 (B/A/)|(B/A/) (GA)|F3 |(A/G/) (FE)|(G/A/) (BA) |(A/G/) (A/G/F)||
+w:de nos le- var*   con-* si-*go   ca-*   rei-*ra*    nos*  mo-*   strou.**
+%
+   A (c>d)|(c/B/) G2|(A/G/) (FG)|(FE2)|(E/F/)  G2|(G/A/) (BA)|(A/G/) F2 |
+w:Ca  pois* le-*vou  a-*    que-*la*   que*   nos deu*   por*  se-* nnor 
+  A (c>d)|(c/B/) G2 |(A/G/) (FG)|(FE2)|(E/F/)  G2|(G/A/) (BA)|(A/G/) F2 |
+w:e  el*   fi-* llou  por*   ma-*   dre,* mo-*strou nos*  que* a-*   mor 
+ (A/G/) (F>G)|  A (c>d)|B c2|c3|(d/e/) (f>g)|(f/e/) (d/e/f)|(e/d/) c2|
+w:muy*   gran-*de  nos* a-vi-a, non*    po-*  di-*   a**     ma-*  yor,	      
+  c2  d|c2 (BA)|(B/A/) (GA)  |F3|(A/G/) (FE)|(G/A/) (BA)|(A/G/) (A/G/F)||
+w:ca pe-ra  o*   seu*   rey-* no  lo-*   go*  nos*   con-*vi-*   dou.**      
+%
+W:
+W:Esta .IX. é da vigilia de Santa Maria d'Agosto,
+W:como ela passou deste mundo e foi levada ao çeo.
+				% This ninth is of.the vigil of Saint Maria in August,
+				% how she did.pass from.this world and was lifted.up to.the sky.
+W:
+W:Des quando Deus sa Madre aos çeos levou,	% Since God his Mother to.the heavens did.raise, 
+W:de nos levar consigo carreira nos mostrou.	% for to lift us up with.him path he.did.show us.
+W:
+W:Ca pois levou aquela que nos deu por sennor	% For when he.raised she who he.gave us for lord 
+W:e el fillou por madre, mostrou-nos que amor	% and he took for mother, he.showed us that love 
+W:muy grande nos avia, non podia mayor,		% very great for us he.had, he.could do no more,
+W:ca pera o seu reyno logo nos convidou.	% for into his own kingdom then us he.did.invite.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Mais como passou ela deste mundo contar	% But how she did.pass from.this world to.recount
+W:vos quer', e en qual guisa a vëo Deus levar	% to.you I.wish, and how came God to.carry her
+W:consigo ao çeo, u a foi corõar		% with.him into heaven, when her he.did crown 
+W:por Reyn[n]a dos santos, tan muito a onrrou.	% as Queen of.the saints, so much he.honored her.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Assi foi que o dia que Deus morte prendeu,	% As it.was on the day that God death did.take,
+W:a ssa bëeyta Madre viu quanto padeçeu		% his own blessed Mother saw how.much he.suffered
+W:na cruz por nos; e logo tal pesar reçebeu	% on.the cross for us; and then such sorrow got
+W:que a fillou quartãa, que nunca en sãou.	% as if she.took fever, that never was cured.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E depois morou sempre dentr' en Jerusalem,	% And ever after she.did.live within Jerusalem, 
+W:e non vinna a ela enfermo que logu' en	% and no.one came to her sick that soon in
+W:são se non partisse; mais a ela per ren	% health did not depart; but for her for aught
+W:non leixou. a quartãa atëes que finou.	% no.one did.quit the fever till he.did.die.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Mas no templ' u estava a comprida de ffe,	% But in.the temple where 
+						% she.was in the fulfillment of faith,
+W:un angeo lle disse: «Madre de Deus, ave:	% an angel to.her did.say: "Mother of God, hail:
+W:o teu Fillo te manda dizer que ja temp' é	% thy own Son commands to.tell thee
+						% that the time is now
+W:que leixes este mundo mao u t'e[l] leixou.»	% for thou.to.leave this wretched world
+						% where he did.leave thee."
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E un ramo de palma lle deu log' en sinal	% And a palm-branch he.gave her then in signal 
+W:que dend' a tercer dia, non averia al,	% that after the third day, there'd.be no more,
+W:que verria por ela o Rey espirital,		% that would.come for her the King spiritual,
+W:seu Fillo Jhesu-Christo, que en ela encarnou.	% her Son Jhesu-Christo, who in her took.flesh.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Disso-ll' a Santa Virgen: «Sennor, e qual nom' ás?»	% Said to.him the Holy Virgin:
+							% "Lord, and what name have.thou?"
+W:O angeo respos-lle: «Esto non saberás,      % The angel replied to.her: "This thou'll not know,
+W:ca meu nom' é mui grande; mas çedo veerás   % for my name is very great; but soon thou.will.see
+W:os apostolos tigo, que Deus vïir mandou     % the apostles with.thee, whom God ordered to.come
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Por onrrar-t' en ta morte.» E foi-sse logu' enton	% For to.honor thee in thy death."
+							% And did.set.out at.once then 
+W:o angeo. E ela foi fazer oraçon		% the angel.  And she went to.offer prayer 
+W:ben a Mont' Olivete, u aquela sazon		% just at Mount Olivete, where that season 
+W:morava, e tan toste en seu banno entrou.	% she.was.living, and then into her bath entered.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E vestiu os mellores panos que pod' aver,	% And she.put.on the best clothes that she had,
+W:e San Johan fez logo chamar, e a dizer	% and Saint Johan she then called, and to.tell
+W:lle começou seu feito de como a veer		% him she.did.start her deed of how for to.see
+W:o angeo vëera que lle Deus enviou.		% the angel had.come that to.her God did.send.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E disse-lle, chorando: «Nenbre-te, San Johan,	% And told him, weeping: "Remember, Saint Johan, 
+W:de com' en ta comenda o do mui bon talan	% of how to thy command he of.the best talent
+W:me leixou, o meu Fillo; poren guardar de pran	% did.leave me, my own Son;
+						% therefore to.protect me plainly 
+W:me deves en mia morte, pois te mi acomendou.	% thou.ought in my death, 
+						% when to.thee he.did.entrust me.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E com' eu ei oydo, estes maos judeus,		% And as I have heard, these wretched judeus,
+W:que mataron meu Fillo como falsos encreus,	% who did.kill my Son as false heathens,
+W:meaçan de queimaren a carn' e estes meus	% threaten to.burn the flesh and these my 
+W:ossos, pois for passada; un deles mio contou.»	% bones, when I.have passed;
+							% one of.them to.me.it did.recount."
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Enquant' eles en esto falavan entre ssi,	% While they in this were.speaking together,
+W:hüas nuves mui craras adusseron log' y	% some clouds very bright had.brought then there 
+W:os Apostolos onze; e non vëo ali		% the 11 apostles; and came not to.that.place 
+W:Santo Thomas con eles, ca chegar non oviou.	% Saint Thomas with them, for to.come he.didn't hear.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E logo que chegaron, com' a escritura diz,	% And soon as they.arrived, as the scripture says,
+W:os reçebeu mui leda a Sant' Anperadriz	% them received quite content the Holy Empress
+W:e disso-lles: «Amigos, este dia fiiz		% and said to.them: "Friends, this happy day 
+W:foi que Deus vos adusse aqui e vos juntou.	% it.was that God conducted you here
+						% and did.gather you.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E pois juntados sodes, esto vos rogarei	% And when gathered you.are, this I.pray you
+W:que vigiedes migo; ca eu de certo sei		% that you.would.keep.vigil with.me;
+						% because I for certain know
+W:que cras en aquel dia deste mundo m'irei,	% that tomorrow on that day
+						% from.this world I.will.set.out,
+W:ca un angeo santo comig' esto falou.»		% because a holy angel with.me this did.speak."
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Eles, quand' est' oyron, choraron log' assaz;	% They, when this they.heard, wept soon enough;
+W:pois disseron: «Faremos, Sennor, o que vos praz.	% then they.did.say:
+							% "We.will.do, Lord, what pleases you.
+W:E rezaron seus psalmos com' ena lee jaz,	% And they.prayed their psalms as in.the law is,
+W:e ela en seu leito ant' eles se deitou.	% and she on her bed before them did.lie down.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Outro dia San Pedro a voz de Deus oyu		% The.next day Saint Pedro the voice of God heard
+W:que lles diss': «Aqui sõo vosqu'.» E logo sentiu	% that to.them did.say:
+						% "Here I.am with.you." And at.once did.sense 
+W:tod' aquela companna mui bon odor e viu	% all that company very good aroma and did.see 
+W:claridade que todo o log' enlumeou.		% clarity that all it at.once did.illuminate.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Mais a ora da sesta, direi-vo-lo que fez	% But at hour of sext, I.will.tell you what did
+W:Deus, que foi Padr' e Fillo desta Virgen de prez:	% God, who was Father and Son
+							% of.this Virgin of honor. 
+W:vëo levar-ll' a alma, que el ja outra vez	% he.did.come to.lift.up to.him her soul,
+						% that he already another time 
+W:lle metera no corpo u a santivigou.		% had.put into her body when her he.did.venerate.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E disso a San Pedro: «Direi-ch' o que farás:	% And he.said to Saint Pedro:
+						% "I.tell thee what thou.will.do:
+W:pois mia Madr' é finada, non esperes a cras,	% when my Mother is dead, wait not til tomorrow, 
+W:mas enterra seu corpo no Val de Josaphas,	% but inter her body in.the valley of Josaphas 
+W:en atal sepultura com' ela t'ensinou.»	% in such tomb as she did.show thee."
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Esto foi en agosto, en meyante do mes,	% This was in August, in middle of.the month,
+W:que Jhesu-Christ' a alma de sua Madre pres;	% that Jhesu-Christ' the soul of his Mother took;
+W:e o corpo San Pedro fillou con set' e tres	% and the body Saint Pedro did.take with 7 and 3 
+W:Apostolos e en Josafas lo enterrou.		% Apostles and in Josafas it did.inter.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E pois la enterraron en sepulcro mui bel,	% And when they.hed.interred her in tomb
+						% most beautiful,
+W:foron-ss' aa cidade; mais logo San Miguel	% they.set.out to.the city; but then Saint Miguel
+W:levou o corpo dela con outro gran tropel	% did.lift.up her body with another great troop
+W:d'angeo que vëeron, e cada un cantou.		% of angels who did.come, and each one did.sing.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Eles indo cantando, Santo Thomas sobir	% They going singing, Saint Thomas ascending
+W:os viu, que Deus fezera ena nuve vïir;	% them saw, who God had.had in.the cloud to.come;
+W:e viu Santa Maria entr' eles todos yr,	% and he.saw Saint Maria among them all going,
+W:e por saber quem era, logo lles preguntou.	% and for to.know who it.was, then asked them.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E ela respondeu-lle: «Tomas, amigo meu,	% And she did.answer him: "Tomos, my friend, 
+W:a mia alma meu Fillo levou, ben ti dig' eu,	% my own soul my Son raised, well I'd tell thee,
+W:e meu corp' ora levan pera o reyno seu	% and my body now carry to his own kingdom
+W:estes angeos santos, e con eles me vou.»	% these holy angels, and with them I.set.out."
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E San Tomas lle disse: «Sennor, mui m' é mester,	% And Saint Tomas to.her did.say:
+							% "Lord, great is my need,
+W:por que creudo seja desto, se vos prouguer,	% so that believed I.might.be about.this,
+						% if it might please you, 
+W:que algun sinal aja, que quando o disser	% that some sign I.might.have,
+						% that when it I.should.tell
+W:que eu amostrar possa.» E ela lle lançou	% that I to.show would.be.able." 
+						% and she to.him one.did.cast 
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:A cinta que çingia, que vos non foi don vil,	% The sash which girded, which was not gift vile,
+W:ant' era mui ben feita e d'obra mui sotil.	% before was very well made and finely worked.
+W:E el deu end' a ela poren loores mil,		% And he gave to her therefore praises thousand,
+W:e sa cinta na mão, aa vila chegou.		% and her sash in.his hand, at.the villa arrived.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Os onze, poi-lo viron, disseron: «Tol-t' alá,	% The 11, when they.saw him, said: "Hold off,
+W:e que te Deus non ama gran mostra ch' en feit' á,	% and that God loves thee not 
+							% shows well in what he has done;
+W:que non viste sa Madre morrer, nen fust' acá	% that thou saw not his Mother die, nor were here
+W:u a nos soterramos; tanto te despreçou.»	% when her we interred; such thee he.disdained."
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Santo Thomas, chorando, respondeu-lles adur:	% Saint Thomas, weeping, did.answer them shortly
+W:«Dized' u a metestes; mais sei eu que nenllur	% "Say where you.put her, but I know that nowhere
+W:achar nona podedes quant' o Breton Artur,	% to.find her you.can like the Breton Artur,
+W:ca eu a vi na nuve sobir, e me chamou.	% for I saw her in.the cloud rising,
+						% and to.me she.did.call.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:E por que me creades esta çinta me quis	% And so that you.might.believe me
+						% this sash to.me she.desired
+W:dar, e que de seu feito sejades todos fis;	% to.give, and that of her deed 
+						% you.might all be faithful;
+W:que eu vi o seu corpo mui mais branco ca lis	% that I saw her own body much whiter than lily 
+W:ir sobind' aos çeos, e mui pouc' y tardou.»	% going to.rise to.the heavens, 
+						% and very little there it.did.delay."
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Enton disse San Pedro: «Tenno que será prol	% Then said Saint Pedro: 
+						% "I.hold that it.will profit
+W:d'irmos provar aquesto que nos diz este fol;	% us.to.go to.try this that this fool tells us'
+W:e se non for verdade, hüa folla de col	% and if it not be truth, a folly of cauliflower 
+W:non demos mais por ele, ca sempr' este dultou.% let.us.give not more by him,
+						% because always this he.did.doubt.
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:Enton foron dizendo: «Mentira nos aduz.»	% Then they.did.go saying: "Lie to.us he.brings."
+W:E cataron a fossa daquela que na cruz		% And they.searched the cave 
+						% from.which on.the cross 
+W:viu morrer o seu Fillo; mais pero, se non luz,% she.saw her own Son die; but, without light,
+W:nulla ren non acharon. E muito se sinou	% nothing they.found. And much did.sign himself
+W:Des quando Deus sa Madre aos çeos levou...
+W:
+W:San Pedr[o], e os outros todos a hüa voz	% Saint Pedro, and all the others with one voice
+W:en terra se deitaron, pedindo per Ayoz	% on earth did.cast themselve, asking by Ayoz 
+W:perdon a Santo Thomas; e diss' el: «Hüa noz	% pardon of Saint Thomas; and he said: "A nut 
+W:non daria por esto, pois con verdad' estou.»	% I'd not give for this when with truth I.am."
+W:Des quando Deus sa Madre aos çeos levou...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
