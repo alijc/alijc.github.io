@@ -14865,7 +14865,6 @@ W:pelo demo un figo.				% for.the devil even a fig.
 W:Muito foi noss' amigo...
 
 
-
 %%landscape 0
 X: 417
 T: Cantiga 417: Nobre don e muy preçado
@@ -14935,6 +14934,110 @@ W:e que Deus comprid' e ome es e do mundo Sennor,	% and that God complete and ma
 W:te rogo que me non queiras oi mais no mundo leixar.	% I.pray thee that thou.would.desire no more in.the world to.leave me.
 W:Nobre don e mui preçado foi Santa Maria dar...
 
+
+%%landscape 0
+X: 418
+T: Cantiga 418: Os sete dões que dá
+N: FSM 8
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/014small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+  F2 (G/F/G/A/)|D2 (F>G)|(F>E) (D>E)|(D2C2)|  C    D F2|(A/G/F/E/) D2|(F/E/DC2)|D4||
+w:Os  se-***    te  dõ-*  es*   que*  dá*    Deus, a sa  Madr'***  os  deu***   ja.
+%
+  A2 (A>_B)|A2 (A/G/F/E/)|F2 (GA)|G2 (F/E/D)|(F>E) (DC)  |D2 (EF)|(AG) (F/E/D/C/)|D4 |
+w:E   da-* que- stes***   se- te* dõ- es**    vos* quer'* o-  ra*  de-* par-***  tir
+  A2 (A>_B)|A2 (A/G/F/E/)|F2 (GA)|G2 (F/E/D)|(F>E) (DC)| D2 (EF)|(AG) (F/E/D/C/)|D4 |
+w:co- mo*   os  deu***    a   sa* Ma- dre,**  por* que* quan-tos* lo*  o-***     yr
+  F2 (F>G)|A2  A2|(A>G) (A>_B)|(AG) F2|G2 (AB)| c2 (B/A/G)|F2 (FG)|A4 |
+w:fo- ren* pu-nnen en*   ser-*  vi-*la e   se* guar-den**  de  fa-*lir,
+   A2  (A>_B)|A2 (A/G/E/D/)|F2 (GA)|G2 (F/E/D)|(F>E) (DC)|D2  (EF)|(AG) (F/E/D/C/)|D4 ||
+w:por   que*  sa  mer-***   çe- e*  a-  jam;**  ca*   bë-*eyt' é*   que-*na***     á.
+%
+W: 
+W:Os sete dões que dá				% The seven gifts that gives
+W:Deus, a sa Madr' os deu ja.			% God, to his Mother them he.did already give.
+W:
+W:E daquestes sete dões vos quer' ora departir	% And of.these 7 gifts I.wish now to.teach you
+W:como os deu a sa Madre, por que quantos lo oyr  % how he.gave them to his Mother,
+						% so that how.many it to.hear 
+W:foren punnen en servi-la e se guarden de falir, % they.should.be they.would.strive in serving
+						% her and they.would.keep from failure,
+W:por que sa merçee ajam; ca bëeyt' é quena á.	% that for his mercy they.might.have;
+						% because blessed is he.who.it obtains.
+W:Os sete dões que dá...
+W:
+W:O primeyro destes sete dões é pera saber	% The first of.these seven gifts is for to.know
+W:todo ben compridamente, por fazer a Deus prazer;% all well completely, to.do pleasing to God;
+W:aqueste Santa Maria ouv' en si, por que prender % this Saint Maria had in self, so that to.take
+W:vëo Deus en ela carne, con que nos pois julgará.	% flesh in her did.come God,
+							% so that us then he.will.judge.
+W:Os sete dões que dá...
+W:
+W:D'entendemento mui grande, este o segundo é;	% Of.understanding very great, this the 2nd is;
+W:aqueste Santa Maria ouv' en si, per bõa ffe,	% this Saint Maria had herself, by good faith,
+W:por que fez dela sa Madre Deus, e cabo dele ssé   % so that God did.make of.her his Mother,
+						    % and near to.him himself
+W:nos çeos, onde sa graça envia a nos acá.	% in heaven, where his grace he.sends to us here.
+W:Os sete dões que dá...
+W:
+W:O terceyro de consello ést', e con mui gran razon	% The third of counsel is,
+							% and with very great reason 
+W:o ouve Santa Maria; porque quantas ora son	% Saint Maria had it; for how.many now are
+W:molleres nen foron ante non ouveron bëeycion	% women neither were before nor had.gotten blessing
+W:de Deus com' aquesta ouve, nen outra non averá.  % from God as this.one got, nor will another.
+W:Os sete dões que dá...
+W:
+W:O quarto é fortaleza; e aquesta ouv' en ssi	% The 4th is strength; and this she.had in self
+W:tan grande, per que o demo perdeu seu poder dali
+					% so great, by which the devil lost his power from.then
+W:u Deus en ela pres carne e foi ome, ca des i	% when God in her took flesh and was man,
+							% because from then
+W:foi britad' e mal apreso, e ja mais non cobrará.	% he.was broken and ill advised,
+							% and never will.gather more.
+W:Os sete dões que dá...
+W:
+W:O quinto don é çiente, que ouve grand' e bon sen	% The fifth gift is knowledge,
+							% that had great and good lineage
+W:a Virgen Santa Maria, que a fez responder ben		% the Virgin Saint Maria, 
+							% who did answer well
+W:quando ll' o angeo disse que do que todo mantem	% when the angel told her
+							% that by.what all they.maintain 
+W:seria Madr', e diss' ela: «Por serva m[e] achará.»	% she.might.be Mother, and she.did.say:
+							% "As I.would.serve he.will.find me." 
+W:Os sete dões que dá...
+W:
+W:O sesto don piadade é que ouv' e á de pran		% The sixth gift piety is
+							% that she.had and plainly has 
+W:a quantos nas grandes coitas a chamam e chamarán;	% to how.many in.the great cares
+							% her call and will.call;
+W:e poren Santa Maria os peccadores la an	% and therefore Saint Maria the sinners have
+W:ante Deus por avogada, e por sempr' assi será.	% before God as advocate,
+							% and forever thus she.will.be.
+W:Os sete dões que dá...
+W:
+W:O septimo destes dões é aver de Deus temor;	% The 7th of.these gifts is to.have fear of God;
+W:aquest' ouv' a Groriosa, pero sempre con amor;% this had the Glorious.one, but ever with love;
+W:e por aquesto foi ela Madre de Nostro Sennor	% and for this she.was Mother of Our Lord 
+W:Jhesu-Christo, Deus e ome, que por sempre regnará.	% Jhesu-Christo, God and man,
+							% who forever will.reign.
+W:Os sete dões que dá...
+W:
+W:Onde por aquestes sete dões lle devemos dar	% Because of these 7 gifts we.ought to.give her
+W:loores e ar rogar-lle que nos faça perdõar		% praises and now praying to.her
+							% that us she.might.cause pardon 
+W:a seu Fillo os pecados, e que nos guarde d'errar,	% by her Son the sins,
+							% and that us he.would.keep from error,
+W:de guisa que no seu regno vivamos con el alá.		% so that in his own kingdom 
+							% we.might.live with him there.
+W:Os sete dões que dá...
 
 
 %%landscape 0
