@@ -14787,6 +14787,146 @@ W:Tan bëeyta foi a saudaçon...
 
 
 %%landscape 0
+X: 416
+T: Cantiga 416: Muito foi noss' amigo
+N: duplicate of 210
+N: FSM 6
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/383small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/012small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4	
+L: 1/4
+Q: 1/4=200
+K: D Aeolian
+%%leftmargin 2cm
+%%rightmargin 2cm
+V:1
+%Staff 1
+%%MIDI program 74
+%%rightmargin 10cm
+   F|(F/E/) (DC)| C2  (C/D/)|(FG/FE/)|F2 
+w:Mui-to*   foi* noss' a-*    mi-***  go 
+%%rightmargin 2cm
+  (F/G/)|A2 (A/G/)|(F>G) (F/E/)|(F>G) (A/B/)|(AGA)|(F>E) (D/C/)| D  F2|(F3/2E/D/C/)|D2
+w: Ga-* bri- el,*  quan-* do*    di-*  sse:* «Ma-** ri-*  a,*   Deus é  ti-***        go.»
+%
+   F|(F/E/) (DC)| C2  (C/D/)|(FG/FE/)|F2 (A/G/)|(F/E/)   (DC)|D F2|(F3/2/E/D/C/)|D2 
+w:Mui-to*   foi* noss' a-*    mi-***  go  u*     diss':* «A-* e Ma- ri-***       a»
+  F|(F/E/) (DC)|C2 (C/D/)|(FG/FE/)|F2 (A/G/)|(F/E/) (DC) |  D  F2|(F3/2E/D/C/)|D2 
+w:a- a*    Vir-*gen bë-*   ey-***  ta, e*     que*  Deus* pren-de- ri-***      a
+%%rightmargin 10cm
+  F|(F/E/) (DC)| C2 (C/D/)|(FG/FE/)|F2  
+w:en e-*    la*  no- ssa*   car-*** ne  
+%%rightmargin 2cm
+  (F/G/)|A2 (A/G/)|(F>G) (F/E/)|(F>G) (A/B/)|(AGA)|(F/E/) (DC)| D  F2|(F3/2E/D/C/)|D3||
+w: con* que  pois*  bri-* ta-*   ri-*  a*     o**   in-*   fer-*no an- ti-***      go. 
+
+X: 4162
+T: Cantiga 416: Muito foi noss' amigo
+N: 
+M: 4/4	
+L: 1/4
+Q: 1/4=200
+K: D Aeolian
+%%leftmargin 2cm
+%%rightmargin 2cm
+V:1
+%Staff 1
+%%MIDI program 74
+%%rightmargin 10cm
+   F (F/E/) (DC)| C3  (C/D/)|(F2G/FE/)|[M:3/4] F3|
+w:Mui-to*   foi* noss' a-*    mi-***           go  
+%%rightmargin 2cm
+  (F/G/) A2|(A/G/) (F>G)|(F/E/) (F>G)|[M:4/4](A/B/) (AGA)|(F>E) (D/C/)  D |F2 (F/E/D/C/)|D4||
+w: Ga-* bri- el,*  quan-* do*    di-*         sse:* «Ma-** ri-*  a,* Deus é  ti-***    go.»
+%
+   F (F/E/) (DC)| C3  (C/D/)|(F2G/FE/)|F3 (A/G/)|(F/E/)   (DC) D|F2 (F/E/D/C/)|D4 |
+w:Mui-to*   foi* noss' a-*    mi-***   go  u*     diss':* «A-* e Ma- ri-***    a»
+  F (F/E/) (DC)|C3 (C/D/)|(F2G/FE/)|F3 (A/G/)|(F/E/) (DC)    D |F2 (F/E/D/C/)|D4 |
+w:a- a*    Vir-*gen bë-*   ey-***   ta, e*     que*  Deus* pren-de- ri-***    a
+%%rightmargin 10cm
+  F (F/E/) (DC)| C3 (C/D/)|(F2G/FE/)|[M:3/4] F3|
+w:en e-*    la*  no- ssa*   car-***          ne  
+%%rightmargin 2cm
+  (F/G/) A2|(A/G/) (F>G)|(F/E/) (F>G)|[M:4/4] (A/B/) (AGA)|(F/E/) (DC)  D |F2 (F/E/D/C/)|D4||
+w: con* que  pois*  bri-* ta-*   ri-*          a*     o**   in-*   fer-*no an- ti-***    go. 
+
+X: 4163
+T: Cantiga 416: Muito foi noss' amigo
+N: 
+M: 4/4	
+L: 1/4
+Q: 1/4=200
+K: D Aeolian
+%%leftmargin 2cm
+%%rightmargin 2cm
+V:1
+%Staff 1
+%%MIDI program 74
+%%rightmargin 10cm
+   F (F/E/) (DC)| C3  (C/D/)|(F2G/FE/)| F4|
+w:Mui-to*   foi* noss' a-*    mi-***    go  
+%%rightmargin 2cm
+  (F/G/) A3|(A/G/) (F2G)|(F/E/) (F2G)|(A/B/) (AGA)|(F>E) (D/C/)  D |F2 (F/E/D/C/)|D4||
+w: Ga-* bri- el,*  quan-* do*    di-*  sse:* «Ma-** ri-*  a,* Deus é  ti-***    go.»
+%
+   F (F/E/) (DC)| C3  (C/D/)|(F2G/FE/)|F3 (A/G/)|(F/E/)   (DC) D|F2 (F/E/D/C/)|D4 |
+w:Mui-to*   foi* noss' a-*    mi-***   go  u*     diss':* «A-* e Ma- ri-***    a»
+  F (F/E/) (DC)|C3 (C/D/)|(F2G/FE/)|F3 (A/G/)|(F/E/) (DC)    D |F2 (F/E/D/C/)|D4 |
+w:a- a*    Vir-*gen bë-*   ey-***   ta, e*     que*  Deus* pren-de- ri-***    a
+%%rightmargin 10cm
+  F (F/E/) (DC)| C3 (C/D/)|(F2G/FE/)|F4|
+w:en e-*    la*  no- ssa*   car-***  ne  
+%%rightmargin 2cm
+  (F/G/) A3|(A/G/) (F2G)|(F/E/) (F2G)|(A/B/) (AGA)|(F/E/) (DC)  D |F2 (F/E/D/C/)|D4||
+w: con* que  pois*  bri-* ta-*   ri-*  a*     o**   in-*   fer-*no an- ti-***    go. 
+%
+%%newpage
+W:
+W:De loor de Santa Maria.			% Of praise of Saint Maria. 
+W:
+W:Muito foi noss' amigo				% Great was our friend 
+W:Gabriel, quando disse:			% Gabriel, when he.did.say 
+W:«Maria, Deus é tigo.»				% "Maria, God is with.thee."
+W:
+W:Muito foi noss' amigo u diss': «Ave Maria»	% Great was our friend when he.did.say: "Hail Maria" 
+W:aa Virgen bëeyta, e que Deus prenderia	% to.the Virgin blessed, and that God would.take
+W:en ela nossa carne con que pois britaria	% in her our flesh with which then he.would.break
+W:o inferno antigo.				% the ancient hell.
+W:Muito foi noss' amigo...
+W:
+W:E nunca nos podia ja mayor amizade		% And never could he us indeed greater friendship 
+W:mostrar que quand' adusse mandado, con verdade, % show than when he.brought mandate, in truth,
+W:que Deus ome seria pola grand' omildade	% that God might.be man through.the great humility 
+W:que ouv' a Virgen sigo.			% that had the Virgin with.him. 
+W:Muito foi noss' amigo...
+W:
+W:Quen viu nunc' amizade que esta semellasse	% Who ever saw friendship like this
+W:en dizer tal mandado per que Deus s'ensserrasse  % in giving such mandate by which God should.hide
+W:eno corpo da Virgen e que nos amparasse	% in.the body of.the Virgin and that us he'd.shelter
+W:do mortal ëemigo?				% from.the mortal enemy?
+W:Muito foi noss' amigo...
+W:
+W:E esto non fezera Deus, se ante non visse	% And had not done God this, had not come instead
+W:a bondade da Virgen, que per ela comprisse	% the goodness of.the Virgin,
+						% that through her should.be.fulfilled 
+W:quanto nos prometera, segund' el ante disse;	% such he.had.promised us,
+						% according.to what he before did.say;
+W:gran verdade vos digo.			% great truth I.tell you.
+W:Muito foi noss' amigo...
+W:
+W:E Gabriel por esto, o angeo, devemos		% And Gabriel for this, the angel, we.ought 
+W:amar e onrrar muito, ca per que nos salvemos	% to.love and honor highly,
+						% because for whom we would.salute
+W:este troux' o mandado, e por que sol non demos  % he.who brought the mandate,
+						% and for which we.would not give
+W:pelo demo un figo.				% for.the devil even a fig.
+W:Muito foi noss' amigo...
+
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
