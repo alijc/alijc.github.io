@@ -14867,6 +14867,77 @@ W:Muito foi noss' amigo...
 
 
 %%landscape 0
+X: 417
+T: Cantiga 417: Nobre don e muy preçado
+N: FSM 7 (FSM 4 in To)
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/013small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob093small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob094small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+   c (c>d)|(c/B/) (AG)|F2 (F/G/|A3)|(FED)|C3|(DC)   D |F2 (F/G/)|(AGF)|(F3/2G3/2)|A3 |
+w:No- bre*  don*   e*  muy pre-**   ça-**do  foi* San-ta  Ma-*   ri-** a*        dar
+  c (c>d)|(c/B/) (AG)| F2 (F/G/|A3)|(FED)|C3 |(DC)   D| F2 (F/G/|A3/2G3/2)|(FED)|(F/E/) (F/E/D) |
+w:a  Deus* quan-* do* ll'o seu**     Fi-**llo  foi* no tem- plo***   pre-**sen-*  tar.**
+%
+    D (CD) |F2 (F/G/|A3/2G3/2)|(FED)|(F3/2E3/2)|(FED) |C3| D (CD)|F2 (F/G/|A3/2G3/2)|(FED)|(F3/2E3/2)|(FED)|
+w:Quem viu* nun-ca***           tam** pre-*      ça-** da cou-sa* nen tam***          ri-** co*        don**
+   D (CD)| F2 (F/G/|A3/2G3/2)|(FED)|(F3/2E3/2)|(FED)|C3| D (CD) |F2 (F/G/|A3/2G3/2)|(FED)|(F3/2E3/2)|(FED)|
+w:co- mo* deu  San-***         ta**  Ma-*       ri-**a   no tem-*pl'a San***         Sy-** me-*       on**
+   c  (c>d)|(c/B/) (AG)| F2 (F/G/|A3)|(FED)| C3 |(DC)  D    |F2 F |(AGF)|(F3/2G3/2)|A3 |
+w:quan-do*   lle*  deu* Jhe- su-**   Chri-**sto, seu* Fill', en of- fe-** re-*      çon,
+   c (c>d)|(c/B/) (AG)|F2 (F/G/|A3)|(FED)| C3 |(DC)  D|F2 (F/G/|A3)|(FED)|(F/E/) (F/E/D)|
+w:que fi-*  llou*  el* nos seus**    bra-**ços  le-*do so- be-**     lo**  al-*  tar?**
+%
+%%newpage
+W:Esta .VII. é como Santa Maria levou seu fillo ao templo
+W:e o offereçeu a San Symeon; e esta festa é no mes de febreyro.
+					% This 7th is how Saint Maria took her son to.the temple 
+					% and offered him to Saint Simeon; and this feast is in the month of February.
+W:
+W:Nobre don e muy preçado foi Santa Maria dar		% Noble gift and very precious Saint Maria went to.give 
+W:a Deus quando ll' o seu Fillo foi no templo presentar.% to God when to.him her own son she.went to.the temple to.present.
+W:
+W:Quem viu nunca tam preçada cousa nen tam rico don	% Who ever saw as precious a thing or as rich a gift 
+W:como deu Santa Maria no templ' a San Symeon		% as gave Saint Maria in.the temple to Saint Simeon
+W:quando lle deu Jhesu-Christo, seu Fill', en offereçon,% when she.gave him Jhesu-Christo, her Son in offering,
+W:que fillou el nos seus braços ledo sobelo altar?	% whom he took in his own arms joyful over.the altar?
+W:Nobre don e mui preçado foi Santa Maria dar...
+W:
+W:Esto fez a Santa Virgen, pois que o tempo compriu,	% This did the Holy Virgin, when the time was.fulfilled,
+W:que foron quaranta dias des que seu Fillo pariu,	% that passed 40 days since her son she.bore,
+W:e poren segund' a lee no templo o offeriu		% and so according to law in.the temple offered him 
+W:con duas tortores mansas e de paonbas un par.		% with two turtledoves and of pigeons a pair.
+W:Nobre don e mui preçado foi Santa Maria dar...
+W:
+W:Symeon, aquel sant' ome a que o foi offerer,		% Simeon, that holy man to whom she.went to.offer him,
+W:sempr' a Deus esto pidia que ante que a morrer	% always of God this was.asking that before that to.die 
+W:ouvesse, que lle leixasse el o seu Fillo veer,	% he.should, that he should.allow him his own Son to.see,
+W:que a enviar avia pera [o] mundo salvar.		% who for to.send he.was.having for the world to.save.
+W:Nobre don e mui preçado foi Santa Maria dar...
+W:
+W:Logo que viu o menynno, enos braços o fillou,		% At.soon as he.saw the boy, into.his arms he.took him,
+W:e beijando-lle os pees, con alegria chorou		% and kissing his feet, with joy did.weep 
+W:dizendo: «Pois este vejo, Deus, que viver-me leixou	% saying: "When this did.pass, God, who let me live
+W:trões aqui, ben me pode des oy mais en paz levar.	% through now, well I.began since I.heard more in peace to.take.
+W:Nobre don e mui preçado foi Santa Maria dar...
+W:
+W:Pois que veen os meus ollos a ti, que es Salvador	% Since my own eyes see thee, who art Saviour 
+W:daqueles que t'asperamos e d'Irrael guardador,	% of.we who await thee and of Irrael guardian,
+W:e que Deus comprid' e ome es e do mundo Sennor,	% and that God complete and man thou.art and of.the world Lord, 
+W:te rogo que me non queiras oi mais no mundo leixar.	% I.pray thee that thou.would.desire no more in.the world to.leave me.
+W:Nobre don e mui preçado foi Santa Maria dar...
+
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
