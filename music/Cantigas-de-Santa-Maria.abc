@@ -15591,6 +15591,104 @@ W:seu, u alegria ajamos por senpr' e riso.	 % to his own paradise, where joy we.
 W:Madre de Deus, ora por nos teu Fill' essa ora. % for ever and laughter.
 
 
+%%landscape 1
+X: 423
+T: Cantiga 423: Como podemos a Deus gradeçer
+N: CJC 1
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob095small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+   A c2|(c/B/) A2| G (F/E/D)|F2 (G/F/)|G  A2|  A    c2|(c/B/) A2|G (F/E/D)| F (G/F/) (F/E/)|D3||
+w:Co-mo  po-*  de-mos a**   Deus gra-*de-çer  quan-tos  bë-*  es el por**  nos foi*   fa-* zer. 
+%
+   A  c2|(c/B/) A2|G (F/E/D)|F (G>F)| G  A2 | A  c2|(c/B/) A2| G (F/E/D)|F (G/F/) (F/E/)| D3 |
+w:Por nos fez*  el ce-o,**   te-rra*  e mar,  ea pe- ra*  ssi non a-**   vi-a*     mes-*ter; 
+  A  c2 |(c/B/) A2 |G (F/E/D)|F (G>F)| G  A2 | A c2|(c/B/) A2|G (F/E/D)| F  (G/F/) (F/E/)| D3 ||
+w:e quen  a-*  ques-to cre-** er non* qui-ser, a pi- e-*   da-de de**   Deus quer*  ne-*  gar.  
+%
+W:
+%%begintext justify
+%%Esta primeira é de com' el fez o çeo e a terra e o mar e o sol e a lüa e as estrelas e
+%%toda-las outras cousas que son, e como fez o ome a sa semellança.
+%%endtext
+% This first.one is of how he.did.make the heaven and the earth and the sea 
+% and the sun and the moon and the stars and all the other things that are,
+% and how he.did.make the man to his semblance.
+%%begintext center
+%%Como podemos a Deus gradeçer
+%%quantos bëes el por nos foi fazer.
+%%
+%%endtext
+% As we.are.able by God to.grow 	 
+% such kindesses he for us did.go to.do. 
+W:Por nos fez el ceo, terra e mar,	% For us he.did.make the heaven, earth and sea,
+W:ea pera ssi non avia mester;		% now, for if he.had not skill;
+W:e quen aquesto creer non quiser,	% and he.who would not desire this to.believe 
+W:a piedade de Deus quer negar.		% the mercy of God wishes to.deny 
+W:Como podemos a Deus gradeçer...
+W:
+W:De com' el fez a luz e a criou,	% About how he did.make the light and it did.create,
+W:ben semella seu feit', amigos meus;	% well matches his deed, my friends;
+W:pero mas foi u por salva-los seus	% but greater it.was when for to.save his own
+W:o seu lume na Virgen ensserou.	% his own light in.the Virgin did.hide.
+W:Como podemos a Deus gradeçer...
+W:
+W:[E] u os ceos fez e estendeu,		% And when the heavens he.did.make and did.extend 
+W:ben semella obra de mui gran sen;	% well matches workmanship of very great lineage;
+W:mas mayor foi, a queno catar ben,	% but greater it.was, on which seeking it well,
+W:u por seer ome deles deçendeu.	% when for to.become man from.the.heavens he.came.down.
+W:Como podemos a Deus gradeçer...
+W:
+W:E u a terra fez, mostrou ben qual	% And when the earth he.did.make, he.did.show well what
+W:poder avia; mas quen comidir,		% power he.had; but who moderating,
+W:por mais terrá u por nos reimiir	% for greater it.would.hold when for us to.redeem 
+W:andou en ela e sofreu gran mal.	% he.did go into her and did.bear great evil 
+W:Como podemos a Deus gradeçer...
+W:
+W:E u a lüa e o sol qu' é luz		% And when the moon and the sun which are light 
+W:criou, grand' obra e mui nobre fez;	% he.did.create, great workmanship and very noble he.did
+W:pero mais foi u chus negros ca pez	% but greater it.was when more blacks than pitch 
+W:tornaron u por nos pres mort' en cruz.% they.turned when for us he.seized death on cross.
+W:Como podemos a Deus gradeçer...
+W:
+W:E u as estrelas fez, de certo sei	% And when the stars he.did.make, for certain I.know 
+W:que en faze-las non fillou afan;	% that in making them he.did not take toil 
+W:pero mais foi u per elas a pran	% but greater it.was when by them plainly 
+W:dos Reis foi aorado por Rey.		% by.the Kings he.was adored as King. 
+W:Como podemos a Deus gradeçer...
+W:
+W:E u os peixes, per com aprendi,	% And when the fish, by how I.did.learn,
+W:criou das aguas, com' escrito jaz,	% he.did.create of.the waters, as was written,
+W:gran cousa foi; mas mui mayor assaz	% great thing it.was; but far greater still
+W:u sobr' elas andou por nos aqui.	% when on the.waters he.did.to.walk for us here.
+W:Como podemos a Deus gradeçer...
+W:
+W:E u as aves, com' el por ben vyu,	% And when the birds, as he for good did.see, 
+W:que voassen no aire fazer quis,	% that should.fly in.the air he.did.desire to.make 
+W:muito foi; mas desto vos faço fis	% great it.was; but of.this to.you I bear witness
+W:que mais fez por nos u per el subiu.	% that greater it.was for us when through it he.rose.
+W:Como podemos a Deus gradeçer...
+W:
+W:E u bestias, per com' o escrito diz,	% And when beasts; for as the writing says,
+W:fez de naturas muitas mais ca mil,	% he.did.make of natures many more than thousand 
+W:muito foi; pero mais u eno vil	% much it.was; but more when upon.the vile.man
+W:presev' ontr' elas jouv' o mui fiiz.	% preserves? among them would.be the great faith.
+W:Como podemos a Deus gradeçer...
+W:
+W:E u fez ome apost' e mui bel		% And when he.did.make man well-made and very handsome
+W:a que deu entendiment' e razon,	% to whom he.did.give understanding and reason 
+W:muito foi; pero mais u pres paxon	% great it.was; but greater when he.seized passion 
+W:polo salvar e morte mui cruel.	% through.it to.save and death most cruel.
+W:Como podemos a Deus gradeçer...
+
+
 %%landscape 0
 B:Cantigas de Santa Maria
 F:
