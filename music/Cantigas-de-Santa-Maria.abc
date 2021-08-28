@@ -16005,29 +16005,6 @@ B:Cantigas de Santa Maria
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob097small.gif
 F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob098small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
-M: 4/4
-L: 1/4
-Q: 1/4=200
-K: D Dorian
-%%stretchstaff false
-V:1
-%Staff 1
-%%MIDI program 74
-%
-   c2 A  B |c2 (c/B/)  A| B   c3 | c2   B  c |d2 (c/B/) A| G2  E2 |
-w:To-do-los bë- nes* que nos Deus quis fa-zer po- lo*  fi-llo seu  
-   G2  A   _B|  _B2 (A/G/) A| _B2 _B2 |A2 A   B | (c/d/c) A (B/A/)| F D3 | C2  E   F| D4 ||
-w:nos con-priu quan- do*   a- os seus  o seu Sant' Es-** pi- ri*   to deu que per-me-teu   
-  A3  G|(FG) (F/E/D)|F2 (AG)|(FG) (F/E/D)|C D3 |A3 G|(FG) (F/E/D)|F2 (AG)|(FG) (F/E/D)|C D3 |
-w:Ca per el*  o**    sa- be-* mos* co-** no-cer e co- no-* cen-** do  a-*  mar* e**   te-mer,
-  c2 A   B |c2  c/   B/   c | d2 (c/B/) A | G   E3 | G2   A _B| _B2  A    B |(c/d/c) A (B/A/)| F   D3 |
-w:e de-mais dá-nos grand' es-for- ço*   de pren-der  mor-te por  el nen-bran-do**   nos de*   com' el  
-  C2  E   F| D4 ||
-w:por nos mo-rreu  
-
-X: 4272
-T: Cantiga 427: Todo-los bëes, que nos Deus
-N: 
 M: 6/4
 L: 1/4
 Q: 1/4=250
