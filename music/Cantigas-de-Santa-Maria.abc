@@ -15810,6 +15810,105 @@ W:Pois que dos Reys Nostro Sennor...
 
 
 %%landscape 0
+X: 425
+T: Cantiga 425: Alegria, alegria
+N: CJC 3
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob096small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: F
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  A2 G2|(G/F/E) D2|E3 G|(E>D) C2|C3  F| F2 A2| B  A (AG/F/)|F4||
+w:A- le- gri-** a, a-le- gri-*a	 fa-ça-mos ja to-da- vi-**  a.	 
+   A3   c   |A2 c2|(dc) (BA)|(A>G) F2| A3  c| A2  c2|(dc)  (BA)|(A>G) F2|
+w:Mui grand' a- le- gri-*a*   fa-* zer de-ve-mos, ca Deus* quis* mo-*rrer
+   A2  G2|(G/F/E) D2| E   G (E>D)|C4| C3   F |F2   A2| B   A (AG/F/)| F4 ||
+w:por nos  e**    a  mor-te  ven-*çer mo-rren-do, que nos ven-çi-**   a.   
+%
+%%newpage
+%%center Esta terceira é como Nostro Sennor resurgiu e como se mostrou aos apostolos e aas tres Marias.
+% This third.one is how Our Lord did.revive and how he.did.show himself to.the apostles and to.the 3 Marias. 
+%%begintext center
+%%Alegria, alegria
+%%façamos ja todavia.
+%%
+%%endtext
+% Joy, joy, let us make now moreover.
+%
+W:Mui grand' alegria fazer	% Very great joy to.make
+W:devemos, ca Deus quis morrer	% we.ought, because God did.desire to.die 
+W:por nos e a morte vencer	% for us and by death to.overcome
+W:morrendo, que nos vencia.	% dying, which was.overcoming us.
+W:Alegria, alegria...
+W:
+W:Quen tan grand' alegria viu	% Who such great joy did.see 
+W:com' esta? Ca nos reemiu	% as this?  Because us did.redeem 
+W:Deus por sa mort' e resurgiu	% God through his death and did.revive 
+W:do sepulcr' a tercer dia.	% from.the tomb on the third day.
+W:Alegria, alegria...
+W:
+W:Grand' alegria nos creceu	% Great joy in.us did.swell 
+W:quando do ceo decendeu	% when from.the sky did.descend 
+W:o angeo, e que tremeu		% the angel, and that did.tremble
+W:a terra u el decia.		% the earth when he came.down.
+W:Alegria, alegria...
+W:
+W:Grand' alegria nos deu Deus	% Great joy to.us did.give God 
+W:quando con pavor os judeus	% when with terror the judeus
+W:do angeo, esses encreus,	% of.the angel, those heathens,
+W:cada un deles caya.		% each one of.them fell.down.
+W:Alegria, alegria...
+W:
+W:Grand' alegria, a la fe,	% Great joy, to the faith,
+W:foi pois Maria Salome		% when went Maria Salome 
+W:e Jacobe con aloe		% and Jacobe with aloe
+W:e Madalena Maria,		% and Madalena Maria, 
+W:Alegria, alegria...
+W:
+W:Mui grand' alegria nos dar	% Very great joy did God give us
+W:foi Deus u o foron buscar	% when they.did.go to.seek him
+W:ao mõyment', e achar		% at.the tomb, and to.find him
+W:nihüa delas podia.		% not.one of.them was.able.
+W:Alegria, alegria...
+W:
+W:Grand' alegria ouv' ali	% Great joy there.was in.that.place 
+W:enton quando lles diss' assi	% then when to.them did.say thus
+W:o angeo:  «Non ést' aqui.»	% the angel: "He is not here."
+W:que sobr' a pedra seya.	% that on the stone was.sitting.
+W:Alegria, alegria...
+W:
+W:Grand' alegria, sen mentir,	% Great joy, without deceit,
+W:foi u lles disse: «Resurgir	% he.did.go where to.them he.did.say: "To.revive 
+W:quis Jeso-Crist', e se vos yr	% did.desire Jeso-Cristo, and if you desire to.go
+W:queredes u el dizia,		% to.where he was.saying,
+W:Alegria, alegria...
+W:
+W:Grand' alegria vos será;	% Great joy to.you will.be 
+W:ca o veeredes alá		% because him you.will.see there 
+W:en Galilea, u está		% in Galilea, where he.is
+W:segund' vos el dit' avia.»	% according.to what I.have said to you."
+W:Alegria, alegria...
+W:
+W:Alegria de coraçon		% Joy from the heart 
+W:ouveron elas; e enton		% had they, and then 
+W:foron alá, e Simeon		% they.did.go from.there, and Simeon 
+W:Pedr' y foi, a que prazia.	% Pedro there did.go, to that.which was.pleasing 
+W:Alegria, alegria...
+W:
+W:Mai-la alegria mayor		% More the greater joy 
+W:foi a da Madre do Sennor,	% went to the Mother of.the Lord, 
+W:que resurgiu, e gran sabor,	% who did.revive, and great pleasure,
+W:porque viu o que creya.	% because she.did.see that which she.believed.
+W:Alegria, alegria...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
