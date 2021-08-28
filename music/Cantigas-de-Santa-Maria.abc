@@ -15482,6 +15482,116 @@ W:a nos.				% us.
 
 
 %%landscape 0
+X: 422
+T: Cantiga 422: Madre de Deus, ora por nos
+N: FSM 12 (100 in To)
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/023small.html
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob089small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: D Aeolion 
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  D2  E2|F2  G2 |(G>F) (E/DE/)|F2   E2| D2 (DE) | C2(CD)| D2 D2 ||
+w:Ma-dre de Deus, o-*   ra**   por nos teu Fill'* e-ssa*  o- ra.
+ (DA) A2| A2 A2|(GA)  G2| G2  G2 |G2 (A/G/F)|G2 (GA)|(3(ABA) A2 |
+w:U*  ve-rrá na  car-*ne que quis fi-llar**  de ty,*  Ma-** dre,
+  (GF) F2|(F/G/A/G/) F2|E2 D2 | D2 (DE)|E2 (E/F/E/D/)|C2 (CD) |D2  D2 ||
+w:jo-* y-  ga-***    lo mun-do  co- no* po- der***    de  seu* Pa-dre.
+%
+W:
+W:Esta .XII. é de como Santa Maria rogue por nos a seu Fillo eno dia do juyzio.
+% This 12th is about how Saint Maria would.pray for us to her Son on.the day of.the judgement.
+W:
+W:Madre de Deus, ora por nos teu Fill' essa ora. % Mother of God, pray for us thy Son that hour.
+W:
+W:U verrá na carne que quis fillar de ty, Madre, % When he.comes in.the flesh that he.did.desire
+W:joyga-lo mundo cono poder de seu Padre.	 % to.adopt of thee, Mother, to.judge the world 
+W:Madre de Deus, ora por nos teu Fill'essa ora.	 % with.the power of his Father. 
+W:
+W:E u el a todos pareçerá mui sannudo,		 % And when he to all appears inspiring awe,
+W:enton fas-ll' enmente de como foi conçebudo.	 % then make note to.him of how he.was conceived.
+W:Madre de Deus, ora por nos teu Fill' essa ora.
+W:
+W:E en aquel dia, quand' ele for mais irado,	 % And on that day, when he should.be angier,
+W:fais-lle tu emente com' en ti foi enserrado.	 % make thou note to.him  
+W:Madre de Deus, ora por nos teu Fill' essa ora. % how in thee he.was hidden.
+W:
+W:U verás dos santos as compannas espantadas,		% When thou.see the companies of.the 
+W:mostra-ll' as tas tetas santas que ouv' el mamadas.	% Saints afraid, show him thy own holy 
+W:Madre de Deus, ora por nos teu Fill' essa ora.	% breasts which have him suckled. 
+W:
+W:U ao juyzio todos, per com' é escrito,	 % When to.the judgement, for such is written,
+W:verrán, di-lli como con el fugisti a Egito.	 % all come, tell him how with him thou.did.flee
+W:Madre de Deus, ora por nos teu Fill'essa ora.	 % to Egito. 
+W:
+W:U leixarán todos os viços e as requezas,	 % When all abandon the luxuries and the riches 
+W:di-lle que sofriste con el[e] muitas pobrezas. % tell him that thou.did.suffer with him
+W:Madre de Deus, ora por nos teu Fill' essa ora. % great poverty
+W:
+W:U queimará fogo serras [e] vales e montes,	 % When fire burns ranges and valleys and
+W:di com' en Egipto non achast' aguas nen fontes.% mountains, say how in Egipto thou.found
+W:Madre de Deus, ora por nos teu Fill'essa ora.  % neither water nor springs.
+W:
+W:U verás os angeos estar ant' ele tremendo,	 % When thou.see the angels before him trembling,
+W:di-lle quantas vezes o tu andast' ascondendo.	 % tell him how.many times thou hid him.
+W:Madre de Deus, ora por nos teu Fill' essa ora.
+W:
+W:U dirán as tronpas: Mortos, levade-vos logo»,	 % When the trumpets say: "Dead, arise at.once", 
+W:di-ll' u o perdiste que ta coita non foy jogo. % tell him when thou.lost him that thy pain
+W:Madre de Deus, ora por nos teu Fill' essa ora. % was no game.
+W:
+W:U será o ayre de fog' e de suffr' aceso,	 % When the wind is by fire and by suffering
+W:di-ll' a mui gran coita que ouviste pois foi preso.	% ignited, tell him the very great pain 
+W:Madre de Deus, ora por nos teu Fill' essa ora.	% that thou.did.have when he.was taken.
+W:
+W:U verrá do çeo sõo mui fort' e rogido,	 % When sound comes from.the sky very loud and
+W:di-ll' o que soffriste u d'açoutes foi ferido. % roaring, tell him what thou.suffered when
+W:Madre de Deus, ora por nos teu Fill' essa ora. % with scourges he.was wounded.
+W:
+W:U terrán escrito nas frontes quanto fezeron,	 % When they.have writen on.their foreheads
+W:di-ll' o que soffriste quand' o ena cruz poseron.	% how.much they.did, tell him what 
+W:Madre de Deus, ora por nos teu Fill' essa ora. % thou.suffered when on.the cross they.put him.
+W:
+W:E quando ss' iguaren montes [e] vales e chãos, % And when are leveled mountains and valleys
+W:di-ll' o que sentiste u lle pregaron as mãos.	 % and plains, tell him what thou.felt
+W:Madre de Deus, ora por nos teu Fill' essa ora. % when they.did.nail his hands.
+W:
+W:E u o sol craro tornar mui negro de medo,	 % And when the bright sun turns jet black with
+W:di-ll' o que sentiste u beveu fel e azedo.	 % fear, tell him what thou.felt when he.drank
+W:Madre de Deus, ora por nos teu Fill' essa ora. % bile and vinegar.
+W:
+W:E du o mar grande perderá sa semellança,	 % And when the great sea loses its semblance,
+W:di-ll' o que soffriste u lle deron cona lança. % tell him what thou.suffered when they.struck
+W:Madre de Deus, ora por nos teu Fill' essa ora. % him with.the lance 
+W:
+W:E u as estrelas caeren do firmamento,		 % And when the stars fall from the firmament,
+W:di-ll' o que sentiste u [foi] posto no monumento.	% tell him what thou.felt
+W:Madre de Deus, ora por nos teu Fill' essa ora.	% when he.was put in.the tomb.
+W:
+W:E du o inferno levar' os que mal obraron,	 % And when the hell carries.off those who did
+W:di-ll' o que sentiste u o sepulc[r]o guardaron.	% evil, tell him what thou.felt when
+W:Madre de Deus, ora por nos teu Fill' essa ora.	% the sepulchre they.guarded. 
+W:
+W:E u todo-los reys foren ant' el omildosos,	 % And when all the kings are before him humbled,
+W:di-lle como vëes deles dos mais poderosos.	 % tell him how thou.came from.those of.the most
+W:Madre de Deus, ora por nos teu Fill' essa ora. % powerful.
+W:
+W:E u mostrar' ele tod' estes grandes pavores,	 % And when he shows all these great terrors,
+W:fas com' avogada, ten voz de nos pecadores,	 % do.thou as advocate, hold.thou voice by us
+W:Madre de Deus, ora por nos teu Fill' essa ora. % sinners,
+W:
+W:Que polos teus rogos nos lev' ao parayso	 % That through thy own prayers thou.lift us up
+W:seu, u alegria ajamos por senpr' e riso.	 % to his own paradise, where joy we.would.have
+W:Madre de Deus, ora por nos teu Fill' essa ora. % for ever and laughter.
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
