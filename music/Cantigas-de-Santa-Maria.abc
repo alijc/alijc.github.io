@@ -15998,6 +15998,154 @@ W:Subiu ao ceo o Fillo de Deus...
 
 
 %%landscape 0
+X: 427
+T: Cantiga 427: Todo-los bëes, que nos Deus
+N: CJC 5
 B:Cantigas de Santa Maria
-F:
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob097small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob098small.gif
 Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+%%stretchstaff false
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   c2 A  B |c2 (c/B/)  A| B   c3 | c2   B  c |d2 (c/B/) A| G2  E2 |
+w:To-do-los bë- nes* que nos Deus quis fa-zer po- lo*  fi-llo seu  
+   G2  A   _B|  _B2 (A/G/) A| _B2 _B2 |A2 A   B | (c/d/c) A (B/A/)| F D3 | C2  E   F| D4 ||
+w:nos con-priu quan- do*   a- os seus  o seu Sant' Es-** pi- ri*   to deu que per-me-teu   
+  A3  G|(FG) (F/E/D)|F2 (AG)|(FG) (F/E/D)|C D3 |A3 G|(FG) (F/E/D)|F2 (AG)|(FG) (F/E/D)|C D3 |
+w:Ca per el*  o**    sa- be-* mos* co-** no-cer e co- no-* cen-** do  a-*  mar* e**   te-mer,
+  c2 A   B |c2  c/   B/   c | d2 (c/B/) A | G   E3 | G2   A _B| _B2  A    B |(c/d/c) A (B/A/)| F   D3 |
+w:e de-mais dá-nos grand' es-for- ço*   de pren-der  mor-te por  el nen-bran-do**   nos de*   com' el  
+  C2  E   F| D4 ||
+w:por nos mo-rreu  
+
+X: 4272
+T: Cantiga 427: Todo-los bëes, que nos Deus
+N: 
+M: 6/4
+L: 1/4
+Q: 1/4=250
+K: D Dorian
+%%stretchstaff false
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   c3 A  B2|c3 (c/B/) A2| B3  c3 | c3   B  c2|d3 (c/B/) A2| G3 E3 |
+w:To-do-los bë- nes* que nos Deus quis fa-zer po- lo*   fi-llo seu  
+   G3  A   _B2| _B3 (A/G/) A2|_B3 _B3 |A3 A   B2| (cdc)   A (BA)| F3 D3 | C3  E  F2| D6 ||
+w:nos con-priu quan- do*   a- os seus  o seu Sant' Es-** pi- ri*  to deu que per-me-teu   
+  A3  G (FG)|(FED) F3|(AG2) (FG2)|(FED)   C D2 |A3 G (FG)|(FED)  F3|(AG2)(FG2)|(FED)  C D2 |
+w:Ca per el*  o**  sa- be-* mos*   co-** no-cer e co- no-* cen-**do  a-*  mar*  e**  te-mer,
+  c3 A   B2|c3  c    B    c | d3 (c/B/) A2| G3  E3 | G3   A _B2|_B3  A    B2|(cdc) A (BA)| F3  D3 |
+w:e de-mais dá-nos grand' es-for- ço*   de pren-der  mor-te por  el nen-bran-do** nos de*  com' el  
+  C3  E   F2| D6 ||
+w:por nos mo-rreu  
+%
+%%newpage
+%%center Esta quinta é como Nostro Sennor enviou o seu Santi Spirito sobre los seus dicipolos.
+% This fifth.one is how Our Lord did.send his own Holy Spirit onto his own disciples.
+W:
+%%begintext center
+%%Todo-los bëes que nos Deus
+%%quis fazer polo Fillo seu,
+%%nos conpriu, quando aos seus
+%%o seu Sant' Espirito deu,
+%%   que permeteu.
+%%
+%%endtext
+%						 All those goodnesses that for.us God 
+%						 did.desire to.perform through his own Son,
+%						 for.us he.did.fulfill, when to his own people
+%						 his own Holy Spirit he.did.give,
+%						   which he.did.permit.
+%
+W:Ca per el o sabemos connocer			% So.that through it we.might know him
+W:e connocendo amar e temer,			% and knowing.how to.love and to.fear,
+W:e demais dá-nos grand' esforço de prender	% and also he.gives us great strength for to.take
+W:morte por el, nenbrando nos de com' el	% death for him, reminding us of how he 
+W:  por nos morreu.				%  for us did.die.
+W:Todo-los bëes que nos Deus...
+W:
+W:E porende vos quer' ora dizer			% And therefore to.you I.wish now to.tell
+W:com' este Spirito fezo decer			% how this Spirit God did.cause to.descend
+W:Deus sobre los seus dicipolos, que seer	% onto his own disciples, who to.be
+W:de ssüu fez, por que cada un gran sen		% together he.did.cause, because each a great understanding
+W:  del recebeu.				%  from.him did.receive.
+W:Todo-los bëes que nos Deus...
+W:
+W:Muitas vezes lles fora prometer		% Many times had God gone to.promise them
+W:Deus que per seu Espirito saber		% that through knowing his Spirit
+W:lles faria todas las cousas entender		% he.would.cause them all things to.understand 
+W:mellor que nunca sage en todo o		% better then any wiseman in the whole
+W:   mund' aprendeu.				%  world did.learn.
+W:Todo-los bëes que nos Deus...
+W:
+W:E porend' os dicipolos meter			% And therefore the disciples considering
+W:se foran de süu e atender			% had.set.out together and to.wait
+W:en huma casa por aquel don receber;		% in a house for that gift to.receive;
+W:e estand' ali, direi-vos eu o que		% and staying in.that.place, I will.tell you what
+W:  lles conteceu:				%  to.them did.befall:
+W:Todo-los bëes que nos Deus...
+W:
+W:A terça começou muit' a tremer		% At the third.hour started greatly for to.shake
+W:a terra, e son come de caer			% the earth, and sound as of falling
+W:o ayre fez; e enton viron decender		% the wind did.make; and then they.saw descending
+W:linguas de fogo sobre ssi,			% tongues of fire onto themselves,
+W:  que os todos encendeu			%  which did.light them all up
+W:Todo-los bëes que nos Deus...
+W:
+W:De Spirito. E dali sen lezer			% Of Spirit.  And from.there without rest 
+W:se sayron sen ren se detëer,			% they.did.leave with nothing to.prevent them,
+W:e pela vila se fillaron a correr;		% and through.the village they.proceeded to.run;
+W:e dizian por eles:				% and they.were.saying about them:
+W: «Aquesta gent' enssandeceu;			%  "These people have.gone.mad; 
+W:Todo-los bëes que nos Deus...
+W:
+W:Ca sabemos que non saben leer			% Because we.know that they.know not how to.read 
+W:nen ar ouveron tenpo d' aprender,		% nor have.they.had time for to.learn.
+W:e falan todos lenguages, e responder		% and they.speak all languages, and to.answer 
+W:saben mellor a toda ren que aquel		% they.know.how better the whole thing than he
+W: que mais leeu.				%  who more did.read.
+W:Todo-los bëes que nos Deus...
+W:
+W:E por esto non devemos creer			% And for this we.ought not to.believe 
+W:que o vÿo lles faz esto fazer,		% that the wine makes them do this,
+W:mai-la vertude daquel Deus que á poder	% more the virtue of.that God who has power
+W:de fazer que os lenguages entendan,		% for to.cause that the languages they.should.understand,
+W: que cofondeu					%  which he.did.confound 
+W:Todo-los bëes que nos Deus...
+W:
+W:En Babilonna, u foron erger			% In Babilonna, where they.went to.raise 
+W:a torre que podessen atanger			% the tower that they.should.be.able to.touch
+W:ben so aos ceos; mas foi-lles Deus toller	% nigh unto.the heavens; but God went to.hinder
+W:os lenguages, assi que un a outro		% their languages, such that one to another 
+W: non entendeu.»				%  one.understood not."
+W:Todo-los bëes que nos Deus...
+W:
+W:E dali adeante sen temer			% And from.then on to.the.future without to.fear 
+W:souberon preegar e retraer			% did.know.how to.preach and to.recite 
+W:os dicipolos e as gentes converter		% the disciples and the peoples to.convert 
+W:a Jesu-Crist', e cada un deles		% to Jesu-Crist, and each one of.them 
+W: muitos converteu.				%  many did.convert.
+W:Todo-los bëes que nos Deus...
+W:
+W:E muitas coitas ar foron soffrer		% And many cares now they.were to.bear 
+W:por el e encima morte padecer;		% for him and in.the.end death to.suffer 
+W:e en tal guysa quis Nostro Sennor vencer	% and in such guise had.desired Our Lord to.overcome
+W:o demo pelos seus, e aqueste			% the devil through his people, and this 
+W: mundo conquereu.				%  world he.did.conquer.
+W:Todo-los bëes que nos Deus...
+W:
+W:E nos roguemos a que gran prazer		% And we should.pray to.her who great pleasure
+W:viu de seu Fillo quando a põer		% did.see of her Son when for to.join
+W:foi enos ceos a par de ssi, que aver		% she.went into heaven herself, that for.us
+W:nos faça del o Sant' Espirito,		% to.have she.would.do of.him the Holy Spirit, 
+W: pois dela naceu.				%   when from.her he.was.born.
+W:Todo-los bëes que nos Deus...
