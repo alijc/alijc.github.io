@@ -15415,6 +15415,70 @@ W:Que quando a mi' alma daqui fezer jornada,		% That when my own soul from.here 
 W:que a porta do çeo non lle seja vedada.		% that the door of.the heaven to.it might not be barred.
 
 
+%%landscape 0
+X: 421
+T: Cantiga 421: Nenbre-sse-te Madre
+N: FSM 11
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/E/022small.html
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: none
+L: 1/4
+Q: 1/4=200
+K: D Dorian 
+V:1
+%Staff 1
+%%MIDI program 74
+   D2 F2  G2  G2  G4  F4|(GA)  F2  (GF>ED) (C2D2) D4 |
+w:Nen-bre-sse-te, Ma-dre  de* Deus, Ma-***  ri-*  a,
+   D2 F2 G2  G2  G4  F4| G2  A2  F2 (GF>ED) (C2D2) D4 |
+w:que a  el, teu Pa-dre, ro-gues to- da-***  vi-*a,
+   F2  G2 A2 (AG) F2 (GF>ED) C2 (D2F2) F4| F2 G2 A2 (AG)  F2 (GF>ED)  C2 (D2F2) F4|
+w:pois e-stás en* sa  com-***pa- ni-*  a   e  es a-  que-*la  que*** nos  gui-*a,
+   F2   A2   c2 (cB) (G>A) F2  G2  A4 |  F2  E2  G2  (AG) (F/E/DC2) D4|
+w:que, pois nos  e-*  le*  fa-zer quis, sem-pre noit' e*   di-***    a
+   F2  A2  c2 (cB) (G>A) (G>A) F2  G2   A4 | F2 E2 G2 (AG) (F/E/DC2) D4|
+w:nos guar-de, per* que*  se-* ja- mos fis  que sa fe- lo-* ni-***    a
+   F2  F2 G2 (AG)  (F/E/D2F) F4 | F2  F2 G2 (AG) (F/E/D2F) F4 |
+w:non nos mo-strar* quei-*** ra, mais dé-nos en-* tei-** ra
+  F2 A2   c2 c2 d2 B2  c4 A4 | F2  A2 c2   c2  d2 B2 c4 A4 |
+w:a  ssa grã-a- da mer-çe-e,  pois no-ssa fra-que-za ve-e
+ D2 F2  F2 G2 G4 F4| G2 A2 D2 F4 F4 | D2 F2  G2  G4 F4|G2 A2 D2 F4 F4|
+w:e  no-ssa fo-li-a, con ou-sa-di-a   que nos des-vi-a  da bõ-a  vi-a
+  F2 A2 c2 c4 B4 |(G>A) F2 G2 A4 A4 |F2 A2 c2 c4 B4 |(G>A)  F2   G2  A4 A4 |
+w:que le-va-ri-a    nos* u  de-vi-a,  u  os da-ri-a    sem-*pr'~a-le-gri-a	 
+  A2  c2  d2  d4 c4 | d2 e2   A2 c4 c4 | A2  c2 d2 d4 c4 | d2 e2 A2 c4 c4 |
+w:que non fal-rri-a   nen men-gua-ri-a,  mas cre-çe-ri-a    e  po-ia ri-a
+  c2 B2 (G>A) G4 (F2GA) | c2  B2 (G>A) G4 (F2GA) | (D2EG) (F/E/DC2) D4 ||
+w:e com- pri-*ri- a**    e~'n-çi- ma-* ri- a**      a**    nos.****
+%
+%%newpage
+W:Esta .XI., en outro dia de Santa Maria, é de como lle venna emente de nos 
+W:ao dia do juyzio e rogue a seu Fillo que nos aja merçee.
+% This 11th, on another day of Saint Maria, is of how to.her would.come note of us
+% at.the day of.the judgement and she.would.pray to her Son that us he.might.show mercy.
+W:
+W:Nenbre-sse-te, Madre de Deus, Maria,	% Remember thou, Mother of God, Maria, 
+W:que a el, teu Padre, rogues todavia,	% that to him, thy Father, thou.would yet pray,
+W:pois estás en sa compania		% then thou.art in his company 
+W:e es aquela que nos guia,		% and thou.art the.one who guides us,
+W:que, pois nos ele fazer quis,		% who, then he did.desire to make us,
+W:sempre noit' e dia			% ever, night and day,
+W:nos guarde, per que sejamos fis	% would.protect us, so that we.would.be faithful
+W:que sa felonia			% who our treachery 
+W:non nos mostrar queira,		% would not desire to show us,
+W:mais dé-nos enteira			% but would.give us enlightenment
+W:a ssa grãada merçee,			% by her noble mercy 
+W:pois nossa fraqueza vee		% when our weakness she.sees
+W:e nossa folia, con ousadia		% and our folly with audacity/courage 
+W:que nos desvia da bõa via		% that diverts us from.the good way
+W:que levaria nos u devia,		% who might.lead us when we go astray,
+W:u nos daria sempr' alegria		% and might.give us joy forever
+W:que non falrria nen menguaria,	% who would neither fail nor impoverish 
+W:mas creçeria e poiaria		% but augment and support 
+W:e compriria				% and fulfill 
+W:e 'nçimaria				% and uplift
+W:a nos.				% us. 
 
 
 %%landscape 0
