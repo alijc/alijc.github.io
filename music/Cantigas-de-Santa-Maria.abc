@@ -15909,6 +15909,95 @@ W:Alegria, alegria...
 
 
 %%landscape 0
+X: 426
+T: Cantiga 426: Subiu ao ceo o Fillo de Deus
+N: CJC 4
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob097small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+   F (GA) |c2 (c/B/)|A G2|A (c/B/) (A/G/)|F3| E3 |
+w:Su- biu* a-  o*    ce-o o  Fi-*   llo*  de Deus
+   F (GA) | c (c>B)|A   G2 |A (c/B/) (A/G/)|(FE2)| F3||
+w:por dar* Pa- ra-* ys' a-  os a-*    mi-*   gos*  seus.
+%
+  F (GA) |B c2| c c2|d  e2| c  (c>B)|(AGA)|
+w:Su-biu* a-o  ce-o, on-de quis de-*  cer**
+  F (GA) | B   c2| c  c2| d e2 | c (c>B)|(AGA)|
+w:en te-* rra por nos e  da Vir-gen na-*  cer,**
+  F (GA)| c  (c>B)| A  G2| A (c/B/) (A/G/)| F3 | E3|
+w:e  de-*pois pai-*xon e  mor-te*    quis* pren-der
+   F (GA)|  c (c>B)| A   G2| A (c/B/) (A/G/)|(FE2)|F3||
+w:mui for-*te  na* cruz per mã- o*     dos*   ju-*deus.
+%
+%%newpage
+%%center Esta quarta é como Nostro Sennor subiu aos ceos ante seus dicipolos.	
+% This fourth.one is how Our Lord did.rise to.the skies before his disciples.
+W:
+%%begintext center
+%%Subiu ao ceo o Fillo de Deus
+%%por dar Parays' aos amigos seus.
+%%
+%%endtext
+% Did.rise to.the sky the Son of God 
+% for to.give Paradise to his own friends.
+W:Subiu ao ceo, onde quis decer		% He.rose into.the sky, whence he.did.desire to.descend
+W:en terra por nos e da Virgen nacer,	% to earth for us and of.the Virgin to.be.born,
+W:e depois paixon e morte quis prender	% and afterwards passion and death he.did.wish to.take 
+W:mui forte na cruz per mão dos judeus.	% very bravely on.the cross through hand of.the judeus.
+W:Subiu ao ceo o Fillo de Deus...
+W:
+W:Onde foi assi que en Jerussalen	% Where he.did.go so that in Jerussalen 
+W:teve sa gran festa, como Sennor ten,	% he.did.hold his great feast, as Lord has,
+W:con sa conmpanna; e pois comeron ben,	% with his company; and then they.did.eat well,
+W:trouxe-os mui mal porque eran encreus;% he.brought them great ill since they.were unbelievers;
+W:Subiu ao ceo o Fillo de Deus...
+W:
+W:Porque non quiseron creer nen oyr	% Because they.wished not to.believe nor to.hear 
+W:os que o viran de morte resurgir.	% those who had.seen him from death revived.
+W:Porend' ant' eles aos ceos subir	% Therefore before them to.the skys to.rise 
+W:quis, segundo conta Marcos e Mateos.	% he.did.desire, by the account of Marcos and Mateos. 
+W:Subiu ao ceo o Fillo de Deus...
+W:
+W:Mas ant' eles disse: «Ide preegar	% But before them he.did.say; "Go.ye to.preach
+W:o meu Evangeo per cada logar,		% my own Gospel through each place,
+W:e quantos creveren e se batiçar	% and such that believe and if to.be.baptized
+W:quiseren de grado, logo serán meus.	% they.should freely desire, at.once they.will.be mine.
+W:Subiu ao ceo o Fillo de Deus...
+W:
+W:Os que non creveren, perdudos serán;	% Those who should not believe, lost they.will.be;
+W:mai-los outros os diabres deitarán	% but the others will.cast.out the devils
+W:dos omes e lenguages falarán		% from.the men and languages they.will.speak 
+W:mais que aqueles que albergan romeus,	% better than those who lodge pilgrims,
+W:Subiu ao ceo o Fillo de Deus...
+W:
+W:Nen lles nuzirá se beveren poçon,	% Nor will it cause them harm were.they.to.drink potion
+W:e guarrán de todo mal e de lijon	% and they.will.heal from all evil and lesions
+W:aos enfermos.» E aqueste sermon	% of.the sick."  And this sermon 
+W:fez en Mont' Olivete ant' os ebreus.	% he.made on Mount Olivete before the ebreus.
+W:Subiu ao ceo o Fillo de Deus...
+W:
+W:Pois est' ouve dito, nas nuves subiu,	% When this he.had said, into.the clouds he.did.rise 
+W:e a gent' aos ceos subi-lo viu,	% and the people saw him rising to.the skies,
+W:que a voz dos angeos logo oyu		% that the voice of.the angels at.once they.did.hear 
+W:que lles diss' assi: «Varões Galileus,% that to.them did.say thus: "Fellow Galileus,
+W:Subiu ao ceo o Fillo de Deus...
+W:
+W:Ena maneira que o veedes dacá		% In.the manner that you.see him from.this.place
+W:subir ao ceo, ben assi verrá		% to.rise into.the sky, so well will.he.see 
+W:joyga-lo mund' e os mortos fará	% to.judge the world and the dead he.will.cause
+W:resurgir, que non creen os Fariseus.»	% to.be.revived, which believe not the Fariseus."
+W:Subiu ao ceo o Fillo de Deus...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
