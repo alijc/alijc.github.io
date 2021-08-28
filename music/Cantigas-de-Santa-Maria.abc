@@ -15691,6 +15691,175 @@ W:Como podemos a Deus gradeçer...
 
 
 %%landscape 0
+X: 424
+T: Cantiga 424: Pois que dos Reys Nostro Sennor
+N: CJC 2
+B:Cantigas de Santa Maria
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob095small.gif
+F:http://www.pbm.com/~lindahl/cantigas/facsimiles/To/bob096small.gif
+Z:Ali Corbin <ali.corbin:gmail.com>
+M: 4/4
+L: 1/4
+Q: 1/4=200
+K: G Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+   d2   d   d | c2 (d/c/) (B/A/)|G2 (A/G/F)|  F2   G  A |c2 (B/A/G)|F2 G2 | A4|
+w:Pois que dos Reys Nos-*  tro*  Se- nnor**  quis de seu li- na-**  ge de- cer,
+   d2  d  d | c2 (d/c/) (B/A/)|G2 (A/G/F)|F2  G    A | c2 (B/A/G)| F2 (G/A/B/A/)| G4 ||
+w:con ra-zon lles fez*   est'* a-  mor**  en que lles foi  a-**    pa- re-***   çer.  
+%
+  G3  A| B2   c2 |(B/A/G) F2|G2 A2 |G3  A |B2 c2|(B/A/G) F2|(G/A/B/A/) G2 |
+w:Es-to foi quand' en**   Be-le-en  de San-ta Ma- ri-**  a   na-***   çeu
+  G3 A| B2 c2|(B/A/G) F2| G2 A2 |G3 A | B2   c2 |(B/A/G) F2|(G/A/B/A/) G2 |
+w:e  a tre-ze  di-**  as des en  a- os tres Reys  a-**   pa- re-***   çeu,
+   d2  d  d|c2 (d/c/) (B/A/)| G2 (A/G/F) |F2 G A | c2 (B/A/G)|F2  G2| A4|
+w:que ca-da ü-  u*     per*   seu sen**   e-na es-tre- la**   co-nno-çeu
+   d2  d  d| c2 (d/c/) (B/A/)|G2 (A/G/F)|F2  G   A|c2 (B/A/G)| F2 (G/A/B/A/)|G4||
+w:com' e-ra Deus Rey;*  e*    po- ren**  de lon-ge o   fo-**  ron  ve-***    er,
+
+%%newpage
+X:4242
+T: Cantiga 424: Pois que dos Reys Nostro Sennor
+N: 
+M: 5/4
+L: 1/4
+Q: 1/4=250
+K: G Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+   d2   d   d2| c2 (d/c/) (BA) |G2 (AGF)  |  F2   G  A2|c2 (BAG)  |F3 G2 | A2-A3|
+w:Pois que dos Reys Nos-*  tro* Se- nnor**  quis de seu li- na-**  ge de- cer,*
+   d2  d  d2| c2 (d/c/) (BA)  |G2 (AGF)  |F2  G    A2| c2 (BAG)| F2 (G/A/BA)| G2-G3 ||
+w:con ra-zon lles fez*   est'* a-  mor**  en que lles foi  a-**  pa- re-***   çer.*
+%
+  G2  A  B2|  c2  (BAG)|F3 G2|A2-A3|G2  A  B2|c2 (BAG) |F2 (G/A/BA)|G2-G3 |
+w:Es-to foi quand' en** Be-le-en*   de San-ta Ma- ri-**  a  na-***  çeu*
+  G2 A  B2|c2 (BAG)  |F3  G2|A2-A3 |G2 A   B2 | c2  (BAG)|F2 (G/A/BA)|G2-G3 |
+w:e  a tre-ze  di-**  as des en*    a- os tres Reys  a-** pa- re-***  çeu,*
+   d2  d d2|c2 (d/c/) (BA)  | G2 (AGF) |F2 G A2| c2 (BAG)|F3  G2| A2-A3|
+w:que ca-da ü-  u*     per*   seu sen** e-na es-tre- la** co-nno-çeu*
+   d2  d d2| c2 (d/c/) (BA)|G2 (AGF)  |F2  G  A2|c2 (BAG) | F2 (G/A/BA)|G2-G3||
+w:com' e-ra Deus Rey;*  e*  po- ren**  de lon-ge o   fo-**  ron  ve-*** er,*
+
+%%newpage
+X: 4243
+T: Cantiga 424: Pois que dos Reys Nostro Sennor
+N: 
+M: 6/4
+L: 1/4
+Q: 1/4=300
+K: G Dorian
+V:1
+%Staff 1
+%%MIDI program 74
+   d3   d   d2| c3 (d/c/) (BA) |G3 (AGF)  |  F3   G  A2|c3 (BAG)  |F3 G3 | A6|
+w:Pois que dos Reys Nos-*  tro* Se- nnor**  quis de seu li- na-**  ge de- cer,
+   d3  d  d2| c3 (d/c/) (BA)  |G3 (AGF)  |F3  G    A2| c3 (BAG)| F3 (G/A/BA)| G6 ||
+w:con ra-zon lles fez*   est'* a-  mor**  en que lles foi  a-**  pa- re-***   çer.  
+%
+  G3  A  B2|  c3  (BAG)|F3 G3|A6 |G3  A  B2|c3 (BAG) |F3 (G/A/BA)|G6 |
+w:Es-to foi quand' en** Be-le-en  de San-ta Ma- ri-**  a  na-*** çeu
+  G3 A  B2|c3 (BAG)  |F3  G3|A6 |G3 A   B2 | c3  (BAG)|F3 (G/A/BA)|G6 |
+w:e  a tre-ze  di-**  as des en  a- os tres Reys  a-** pa- re-***  çeu,
+   d3  d d2|c3 (d/c/) (BA)  | G3 (AGF) |F3 G A2| c3 (BAG)|F3  G3| A6|
+w:que ca-da ü-  u*     per*   seu sen** e-na es-tre- la** co-nno-çeu
+   d3  d d2| c3 (d/c/) (BA)|G3 (AGF)  |F3  G  A2|c3 (BAG) | F3 (G/A/BA)|G6||
+w:com' e-ra Deus Rey;*  e*  po- ren**  de lon-ge o   fo-**  ron  ve-*** er,
+%
+%%newpage
+%%begintext justify
+%%Esta segunda é de como os tres Reis Magos veeron a Beleen a orar a Nostro Sennor
+%%Jesu-Cristo e lle ofereron seus dões.
+%%endtext
+% This second.one is about how the 3 Magi Kings did.come to Beleen for to.pray to Our Lord 
+% Jesu-Cristo and to.him they.did.offer their gifts.
+%%begintext center
+%%Pois que dos Reys Nostro Sennor
+%%quis de seu linage decer,
+%%con razon lles fez est' amor
+%%en que lles foi apareçer
+%%
+%%endtext
+% When that of.the Kings Our Lord		
+% did.desire from his lineage to.descend,	
+% with reason to.them he.did.make this love 	
+% in which to.them he.did.go to.appear 		
+%
+W:Esto foi quand' en Beleen		% This did.happen in Beleen 
+W:de Santa Maria naçeu			% of Saint Maria he.was.born 
+W:e a treze dias des en			% and 3 days after that
+W:aos tres Reys apareçeu,		% to.the 3 kings he.did.appear,
+W:que cada üu per seu sen		% that each together by his judgment
+W:ena estrela connoçeu			% in.the star did.recognize 
+W:com' era Deus Rey; e poren		% how he.was God King, and therefore
+W:de longe o foron veer,		% from far.away they.did.go to.see him,
+W:Pois que dos Reys Nostro Sennor...
+W:
+W:Ben das insoas de Sabá		% Right by.the isles of Sabá 
+W:e de Tarsso, que son no mar,		% and of Tarsso, which are in.the sea,
+W:e d'Arabia, u gran gent' á		% and of Arabia, where great people have
+W:e muitas terras de passar.		% and many lands for to.cross.
+W:Mas pero eran lonj' alá		% But despite they.were far from.there 
+W:mui toste os fezo chegar		% very soon he.did.cause them to.arrive 
+W:a Beleen aquel que á			% to Beleen that which has
+W:sobre todas cousas poder.		% over all things power.
+W:Pois que dos Reys Nostro Sennor...
+W:
+W:Ena estrela lles mostrou		% In.the star to.them he.did.show 
+W:com' era om' e Rey e Deus;		% how he.was man and King and God;
+W:poren cada u lle levou...		% therefore each one to.him did.carry
+W:oferta dos tesouros seus.		% gift from his own treasures.
+W:E a estrela os guyou			% And the star them did.guide 
+W:ate ena terra dos judeus,		% up into the land of.the judeus,
+W:u Erodes lles demandou:		% where Erodes of.them did.demand:
+W:«Que vëestes aqui fazer?»		% "What you.have.come here to.do?"
+W:Pois que dos Reys Nostro Sennor...
+W:
+W:Eles responderon-ll' assi:		% They did.answer him thus: 
+W:«Na estrela vimos que Rey		% "In.the star we.did.see that King 
+W:mui nobre naçera aqui,		% very noble was.born here,
+W:Sennor dos judeus e da lei.»		% Lord of.the Judeus and of.the law."
+W:Diss' Erodes: «Creed' a mi,		% Said Erodes: "Believe you me,
+W:ca bon conssello vos darei:		% because good advice to.you I.will.give:
+W:id', e pois tornardes des i,		% go.ye, and when you.should.return from there,
+W:ar y-lo-ei eu connoçer.»		% then I will go to.recognize him."
+W:Pois que dos Reys Nostro Sennor...
+W:
+W:Eles foron-sse logu' enton		% They set.out at.once then 
+W:e viron a estrela yr			% and they.did.see the star going
+W:ante ssi de mui gran randon,		% before them in a very great circle,
+W:e começáron a seguyr;			% and they.did.commence to.follow it;
+W:mas quand' en Beleen foi, non		% but when into Beleen it.did.go, 
+W:se quis de sobr' ela partir,		% as if it.did not wish from over it to.depart,
+W:ata que entraron u Don		% until that they.did.enter where Don 
+W:Jesu-Cristo viron seer		% Jesu-Cristo they.did.see to.be 
+W:Pois que dos Reys Nostro Sennor...
+W:
+W:Nos braços da que muit' afan		% In.the arms of.she who great toil 
+W:sofreu con el e muito mal.		% did.suffer with him and much evil.
+W:E eles logo manaman			% And they at.once immediately
+W:deron-lle sa oferta tal:		% did.give to.him their gift thus:
+W:ouro de que aos reis dan,		% gold of which to.the kings they.give,
+W:encensso por espirital,		% incense for spiritual,
+W:mirra de que os mortos van		% myrrh by which the dead do.go
+W:ungir por nunca podreçer.		% to.annoint for never to.decay.
+W:Pois que dos Reys Nostro Sennor...
+W:
+W:Esto, ca non maravidis,		% This, because no currency,
+W:ofereron a Deus los Reys;		% did.offer to God those kings;
+W:porend' assi os guardar quis		% therefore as to.protect them he.did.desire
+W:aquele que juntou as leis,		% he who did.assemble the laws,
+W:que per sonnos os fez ben fis,	% that through dreams them he.did.tesitify well,
+W:que sonnaron vel cinc' ou seis	% that they.did.dream at.least 5 or 6 
+W:vezes que fossen a Tarssis		% times that they.should.go to Tarssis 
+W:passa-lo mar por guareçer.		% to.cross the sea for to.save.
+W:Pois que dos Reys Nostro Sennor...
+
+
+%%landscape 0
 B:Cantigas de Santa Maria
 F:
 Z:Ali Corbin <ali.corbin:gmail.com>
