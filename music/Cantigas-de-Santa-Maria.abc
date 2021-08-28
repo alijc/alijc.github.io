@@ -14106,7 +14106,7 @@ W:Sempre faz o mellor...
 
 %%%%%%%%%%%%%%%%%  another gap %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%landscape 0
+%%landscape 1
 X: 410
 T: Cantiga 410: Quem Santa Maria servir
 N: not in To
@@ -14128,6 +14128,7 @@ w:E por-que eu**   gran sa- bor** ey   de a ser-vir,** ser-vi- la-**ey,
   A  F2 | G (F/E/D)| F/ (A/G2)|(AFG)| A3 | B   (cB)|(A/G/) (A/G/F)|(F/G/AG)|(F/E/DC)|(D/E/FE)|D3 ||
 w:e quan-to  po-**  der  pu-*  nna-**rey  d'os seus* mi-*   ra-**   gres***  de-***   sco-***brir.
 %
+%%newpage
 %%begintext center
 %%
 %%Prologo das cantigas das cinco festas de Santa Maria.
