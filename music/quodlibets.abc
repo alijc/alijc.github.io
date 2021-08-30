@@ -4,6 +4,8 @@
 %%writefields QP 0
 
 F:https://en.wikipedia.org/wiki/Quodlibet
+F:http://back.numachi.com:8000/dtrad/abc_dtrad.tar.gz
+F:https://github.com/alijc/quodlibet
 
 %%begintext justify
 %%A quodlibet is a piece of music combining several different melodies, usually popular tunes, in counterpoint and often a light-hearted, humorous manner. The term is Latin, meaning "whatever" or literally, "what pleases."  (shamelessly ripped out of Wikipedia)
