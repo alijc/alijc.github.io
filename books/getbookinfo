@@ -9,7 +9,6 @@ use strict;
 #use LWP::Debug qw(+);
 use WWW::Mechanize;
 
-
 my $infile = "./fodder";
 my $if;
 my $outfile = "./output";
@@ -48,6 +47,11 @@ sub tbabs {
     $mech->field( "q", $bookinfo );       # Search on title and author
     $mech->click();
     #print $mech->content;
+
+    if (index( $mech->content, "/title/summary.jsf" ) == -1 ) {
+	print "not found\n";
+	return;
+    }
 
     # Find first link to title
     $mech->follow_link( url_regex => qr|/title/summary.jsf|i );
