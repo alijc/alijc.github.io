@@ -1,0 +1,131 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+
+X:11
+T:Week 1
+T:Part I: Outer Voice Counterpoint
+M:4/4
+L:1/2
+Q:1/4=120
+K:G
+V:1
+Bc|BB|dc|"^HC"A2|GG|FA|BA|"^AC"G2||
+w:...C ...C ...O ...C ...C ...C ...C ...O ...C ...C ...C ...C ...C .
+V:2
+G,F,|G,E,|B,,C,|D,2|E,C,|D,C,|B,,D,|G,2 ||
+w:G:~I V6/4 I vi I6 ii6 V vi IV V V4/2 I6 V7 I
+
+X:12
+M:4/4
+L:1/2
+Q:1/4=120
+K:Gmin
+V:1
+BG|^FA|GG|"^HC"^F2|GA|BA|BA|"^AC"G2||
+w:...C ...P ...C ...C ...O ...C ...C ...C ...C ...C ...P ...O ...S      .
+V:2
+G,,B,,|A,,^F,,|G,,C,|D,2|B,,A,,|G,,C,|D,D,|G,,2||
+w:g:~i i6 V4/3 V6/5 i iv V i6 viid6 i iid6/5 cad6/4 V7 i
+
+X:13
+M:4/4
+L:1/2
+Q:1/4=120
+K:F
+V:1
+fe|ff|dd|"^HC"c2|Bc|cd|fe|"^AC"c2||
+w:...C ...P ...O ...C ...O ...S ...O ...C ...O ...C ...S ...O ...C      .
+V:2
+F,G,|A,F,|B,G,|C,2|C,B,,|A,,G,,|C,C,|F,2||
+w:F:~I V4/3 I6 I IV ii V V7 V4/2 I6 ii cad6/4 V I
+
+%%newpage
+X:14
+T:Part II: Realizing Progressions in Keyboard Style
+M:4/4
+L:1/2
+Q:1/4=120
+K:G
+V:1
+[DGB][DAc]|[DGB][EGB]|[GBd][EAc]|[DFA]2|[B,EG][CEG]|[A,DF][DFA]|[DGB][CFA]|[B,DG]2||
+V:2
+G,F,|G,E,|B,,C,|D,2|E,C,|D,C,|B,,D,|G,2 ||
+w:G:~I V6/4 I vi I6 ii6 V vi IV V V4/2 I6 V7 I
+
+X:15
+M:4/4
+L:1/2
+Q:1/4=120
+K:Gmin
+V:1
+[DGB][B,DG]|[CD^F][CDA]|[B,DG][CEG]|[A,D^F]2|[B,DG][C^FA]|[DGB][EGA]|[DGB][C^FA]|[B,DG]2||
+V:2
+G,,B,,|A,,^F,,|G,,C,|D,2|B,,A,,|G,,C,|D,D,|G,,2||
+w:g:~i i6 V4/3 V6/5 i iv V i6 viid6 i iid6/5 cad6/4 V7 i
+
+X:16
+M:4/4
+L:1/2
+Q:1/4=120
+K:F
+V:1
+[Acf][Bce]|[Acf][Acf]|[FBd][GBd]|[EGc]2|[EGB][EGc]|[FAc][GBd]|[Acf][Gce]|[FAc]2||
+V:2
+F,G,|A,F,|B,G,|C,2|C,B,,|A,,G,,|C,C,|F,2||
+w:F:~I V4/3 I6 I IV ii V V7 V4/2 I6 ii cad6/4 V I
+
+%%newpage
+
+
+X:21
+T:Week 2
+T:Part I: Writing
+M:4/4
+L:1/1
+K:Bb
+V:1
+"^Gm"[GBd]|"^Cm"[Gce]|"^F"[Acf]|"^Bb"[Bdf]||[K:E]\
+"^C#m"[CEG]|"^F#m"[CFA]|"^B"[DFB]|"^E"[EGB]||
+V:2
+G,|C,|F,|B,,||[K:E]C,|F,,|B,,|E,,||
+w:Bb:~vi ii V I
+%
+W: Realize the descending fifths progression in simple keyboard style and add Roman numerals.
+W:Then transpose to E major, adding roman numerals and chord symbols.
+
+X:22
+M:4/4
+L:1/1
+K:Eb
+V:1
+[Beg]|[cea]|[Beg]||[K:G][dgb]|[dfa]|[Bdg]||
+V:2
+E,|E,|E,||[K:G]G,|A,|B,||
+w:I N6/4 I  I P6/4 I6
+%
+W:Realize the progressions in simple keyboard style.
+W:For the passing 6/4 chord, use a voice exchange in the melody (top voice).
+
+%%newpage
+
+X:23
+M:4/4
+L:1/4
+K:A
+V:1
+ABcd/c/|defg/f/|edcB/A/|BAGF/G/|ABcd/c/|defg/f/|edc/B/A/c/|B/A/G/F/G>A|A4||
+V:2
+A2c2|d2f2|e2c2|B2G2|A2c2|d2f2|e2c2|B2G2|A4||
+V:3
+[EAc]4|[FAd]4|[EAc]4|[EGB]4|[CEA]4|[DFA]4|[EAc]4|[EGB]4|[EAc]4||
+V:4
+A,,4|A,,4|A,,4|B,,4|C,4|D,4|E,4|E,4|A,,4||
+w:I N6/4 I P6/4 I6 IV cad6/4 V I
+%
+W:1. Complete the keyboard realization on the grand staff.
+W:2. Compose a melody skeleton on the middle treble clef staff using only chord tones,
+W:   with a rhythm of two half notes per bar and a whole note in m. 8.
+W:3. Use the top staff to turn your skeleton into a real melody by adding non-chord tones.
+
