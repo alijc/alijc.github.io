@@ -129,3 +129,139 @@ W:2. Compose a melody skeleton on the middle treble clef staff using only chord 
 W:   with a rhythm of two half notes per bar and a whole note in m. 8.
 W:3. Use the top staff to turn your skeleton into a real melody by adding non-chord tones.
 
+X:24
+T:Aus meines Herzens Grunde (bass line)
+C:J. S. Bach
+M:3/4
+L:1/4
+%%MIDI program 43 % Contrabass
+K:G
+G,,|G,E,F,|G,D,E,|C,B,,/A,,/G,,|HD,2 G,,|F,,G,,A,,|B,,C,D,|HG,,2:||G,,|G,,A,,B,,|B,,>A,,G,,|
+HD,2 E,-|E, D,C,|B,,>C,D,|G,,/A,,/B,,G,,|HC,2 G,,|F,,G,,A,,|B,,G,,D,|E,/D,/C,/B,,/A,,/G,,/|HD,2 G,-|G,F,E,-|E,/D,/C,D,|HG,,2||
+
+%%newpage
+
+X:30
+T:Jazz II-V-I progression
+M:4/4
+L:1/1
+%%MIDI program 1 40 % Violin
+%%MIDI program 2 41
+%%MIDI program 3 42
+K:Eb
+%%score (S A) B
+V:S lyrics=up
+   c  | B-|B  |  A||   f- | f |e-  |e||
+w: 8    7  7     6     44   4  3    3
+w:Dmin7 G7 CMaj7 C6  Dmin7 G7 CMaj7 C6
+V:A
+   F- | F |E- |E ||   c  | B-|B  |  A||
+V:B
+   D, | G,|C,-|C,||   D, | G,|C,-|C,||
+w: ii7  V7 Imaj7     ii7  V7 Imaj7
+w: PD   D  T	     PD   D  T
+
+X:31
+M:4/4
+L:1/4
+K:C
+%%MIDI program 1 56 % Trumpet
+%%MIDI program 2 40 % Violin
+%%MIDI program 3 41
+%%MIDI program 4 42
+V:M lyrics=up
+G2 F3/2 _B/-|_B4|B2 A3/2d/-|d4|
+w:Fm7 Bb7* Ebmaj7 Am7 D7* Gmaj7
+^d2 d3/2 ^f/-|^f4|g2 g3/2 _b/-|_b4||
+w:C#m7 F#7* Bmaj7 Fm7 Bb7* Ebmaj7
+V:T
+[_A_e]2 [_Ad]2|[Gd]4|[Gc]2[^Fc]2|[^FB]4|
+[EB]2 [E^A]2|[^D^A]4| [_E_A]2 [D_A]2| [DG]4||
+V:B
+F,2 _B,2|_E,4|A,2D,2|G,,4|
+^C,2 ^F,2| B,4| F,2 _B,,2| _E,4||
+
+X:51
+T:week 5 homework - parallel period
+M:3/4
+L:1/4
+K:D
+D>E F|ABA|G F/E/ F/G/|A3|
+D>E F|ABA|G F/E/ D/C/|D3||
+
+
+X:52
+T:week 5 homework - sentence
+M:4/4
+L:1/4
+K:Dm
+f2 e d|e ^c A2|B2 A G| A ^F D2|
+f g/f/ e d/^c/|B c/B/ A G/^F/|D E/F/ G A/B/ | A4 ||
+
+X:61
+T:Blues scales
+L:1/1
+K:C
+C _E F ^F G _B c | C D ^D E G A c ||
+
+
+X:62
+T:Minor pentatonic and blues scales
+L:1/4
+K:C
+G _B c d e f|G _B c ^c d e f|
+w:Gminor
+D F G A c d |D F G ^G A c d |
+w:Dminor
+^C E ^F ^G B ^c|^C E ^F =G ^G B ^c|
+w:C#minor
+
+
+X:63
+T:Major pentatonic and blues scales
+L:1/4
+K:C
+G A B d e g |G A ^A B d e g |
+w:Gmajor
+_B, C D F G _B |_B, C ^C D F G _B |
+w:Bbmajor
+E ^F ^G B ^c e |E ^F =G ^G B ^c e |
+w:Emajor
+
+
+X:71
+T:Week 7 homework
+L:1/1
+M:4/4
+K:Bbminor
+V:Treble
+[Ad]|[Ad]|[Ad]|[A=d]|
+[Gd]|[Gd]|[Ad]|[Ad]|
+[Be]|[Ae]|[Ad]|[Ae]||
+V:Bass
+B,,|B,,|B,,|B,,| E,|E,|B,,|B,,| C,|F,|B,,|F,||
+
+X:72
+T:Blues Composition scale
+L:1/4
+K:Bb
+B, _D E =E F _A B2|E>B, _D F|
+
+
+X:73
+T:Blues Composition 
+L:1/4
+M:4/4
+K:Bb
+V:Melody
+z B,/>_D/ E/>F/ E/>_D/|z _D F B|z B,/>_D/ E/>F/ E/>_D/|z _D F B|
+z B,/>_D/ E/>F/ E/>_D/|z _D F B|z B,/>_D/ E/>F/ E/>_D/|z _D F B|
+z B<_A B|z _A<F _A|z F<E F|z _A E B,||
+V:Right
+[D4_A4]|[D4_A4]|[D4_A4]|[D4_A4]|
+[_D4G4]|[_D4G4]|[D4_A4]|[D4_A4]|
+[E4A4]|[_D4G4]|[D4_A4]|[D4_A4]||
+V:Left
+B,,4|B,,4|B,,4|B,,4|
+E,4|E,4|B,,4|B,,4|
+F,4|E,4|B,,4|B,,4||
