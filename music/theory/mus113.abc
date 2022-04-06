@@ -1,0 +1,98 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+
+X:11
+T:Week 1
+T:Standard Bell Rhythm
+M:12/8
+L:1/8
+Q:1/4=120
+K:C
+V:1
+|: c z c z c c z c z c z c| c z c z c c z c z c z c :|]
+V:2
+|: G3 G3 G3 G3| G3 G3 G3 G3 :|]
+
+X:12
+T:Son Clave
+M:4/4
+L:1/16
+Q:1/16=180
+K:C
+V:1
+|: c3 c z2 c2 z2 c2 c4 | c3 c3 c4 c2 c4  :|
+
+X:13
+T:Son Clave in cut time
+M:2/2
+L:1/8
+Q:1/8=200
+K:C
+V:1
+|: c3 c z2 c2| z2 c2 c4 | c3 c3 c2-|c2 c2 c4  :|
+
+
+X:14
+T:Son Clave in three part counterpoint
+M:4/4
+L:1/16
+Q:1/16=180
+K:C
+V:1
+|: c3 c z2 c2 z2 c2 c4 | c3 c3 c4 c2 c4  :|
+V:2
+|: G3 G z2 G2 G3 G z2 G2 |  G3 G3 G2 G3 G3 G2 :|
+V:3
+|: C4 C4 C4 C4 |  C4 C4 C4 C4  :|
+
+X:15
+T:Rumba Clave
+M:4/4
+L:1/16
+Q:1/16=180
+K:C
+V:1
+|: c3 c z3 c z2 c2 c4 | c3 c4 c3 c2 c4  :|
+
+X:16
+T:Son Clave - handout
+M:4/4
+L:1/16
+K:C
+V:1
+|:c3 c z2 c2 z2 c2 c4 :||: c3 c3 c4 c2 c4  :|
+|:c z2 c z2 c z3 c z c z3:||:c2 z4 c2 z4 c2 z2|z4 c2 z2 c2 z2z2z2:|
+|:c6 c6 c8 c4 c8 :|[M:2/2]|:c3 c3 c2-|c2 c2 c4:|
+
+X:17
+T: Week 1 homework
+M:6/8
+L:1/8
+K:Gminor
+%%MIDI program 1 65 % Alto Sax
+%%MIDI program 2 113 % Agogo
+%%MIDI program 3 115 % Woodblock
+%%MIDI program 4 116 % Taiko Drum
+V:1
+z2 G2 B2| d2 d3 c|B2 G2 d B| A2 G4||
+V:2 perc
+z z D z D D|z D z D z D |z z D z D D|z D z D z D ||
+V:3 perc
+B z z z B z|B z B z B z|B z z z B z|B z B z B z||
+V:4 perc
+G3 G3 |z3 G3 |G3 G3 |z3 G3 ||
+
+%%newpage
+X:21
+T: Week 2 - How to identify Secondary Dominant
+T: Step 1: Find the altered chord (with accidental).
+T: Step 2: It needs to be either a major triad or major-minor seventh chord
+T: Step 3: Find the note a P5 below the root of the altered chord
+T: Step 4: Could a diatonic major or minor triad built on this note in this key? If so, it is a secondary dominant chord. 
+T: Step 5: The P5 below the root of the secondary dominant chord determines the V of ? in the given key. 
+L:1/1
+K:G
+[^GBe][Ace]||[K:Cmin][Ac^f]||[K:Ab][_G,,A,,C,E,][D,,F,,A,,D,]||[K:F][B=dfg][ceg]||[K:Emin][D,=F,G,B,][C,E,G,]||
+w:G:~V/ii ii    c:~not~major    Ab:~V42/vi?      vi           F:~V65/V V              e:~V43/VI   VI
