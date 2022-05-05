@@ -1,0 +1,29 @@
+X:1
+T:MUS 113: HW 6
+T:Simple Progression
+C:Alice Corbin
+%%score 1 { 2 | 3 }
+L:1/4
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin" snm="Vln."
+L:1/8
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+ B3 A G2| x6 | x6 | B6 |$ x6 | x6 | e4 ^c2 | d6 ::$ x6 | x6 | x6 | F6 |$ x6 | x6 | A3 G F2 | G6 :| %16
+V:2
+ [DGB]3|[AEG]3|[DFA]3|[GBD]3|[GBD]3|[DFA]3|[EGB]2 [A^cE]|[dFA]3::$[Bd^F]3|[eGB]3|[A^ce]3|[dfA]2 [cfA]|$[GBd]3|[GBd]3|[AcE]2 [DFA]|[GBD]3:|
+V:3
+   G,,3| C,3  | D,3  | G,3  | G,3  | F,3  | E,2    A,   | D,3  ::$ B,3   | E,3  | A,3   |  D,3       |$ G,3  | B,3  | A,2    D,  | G,3  :|
+w: G:~I| ii65 | V    | I    | G:~I |      |             |       | D:V/ii | ii   | V     |  I	     |  G:I  | I6   | ii     V   | I     |
+w:     |      |      |      |D:~~IV| I6   | ii     V    | I     |        |      |       |G:~~~V8~~~~~~~7|
+
+
+
+
+"I" |"ii65" x3 |"V" x3 |"I" x3 |$"_G maj:\nD maj:""CI""CIV" x3 |"CI6" x3 | %6
+"Cii" x2"CV" x |"CI" x3 ::$"CV/ii""_D maj:" x3 |"Cii" x3 |"CV" x3 | %11
+"CI""_G maj:""CV8-------------------7" D,3 |$"CI""_G maj:" G,3 |"CI6" x3 |"Cii" x2"CV" x | %15
+"CI" x3 :| %16
