@@ -94,5 +94,5 @@ T: Step 4: Could a diatonic major or minor triad built on this note in this key?
 T: Step 5: The P5 below the root of the secondary dominant chord determines the V of ? in the given key. 
 L:1/1
 K:G
-[^GBe][Ace]||[K:Cmin][Ac^f]||[K:Ab][_G,,A,,C,E,][D,,F,,A,,D,]||[K:F][B=dfg][ceg]||[K:Emin][D,=F,G,B,][C,E,G,]||
-w:G:~V/ii ii    c:~not~major    Ab:~V42/vi?      vi           F:~V65/V V              e:~V43/VI   VI
+[^GBe][Ace]||[K:Cmin][Ac^f]||[K:Ab][_G,,A,,C,E,][D,,F,,A,,D,]||[K:F][B_dfg]||[K:Emin][D,=F,G,B,][C,E,G,]||
+w:G:~V/ii ii    c:~not~major    Ab:~V42/vi?      vi           F:~not~major            e:~V43/VI   VI
