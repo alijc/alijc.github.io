@@ -163,3 +163,41 @@ V:2
 V:3
       A,2      D,2 |        G,,4|      G,2        C,2  |        F,,4|       F,2       _B,,2 |        _E,,4|      A,2      D,2 |        G,,4|]
 
+
+X:71
+T:Week 7 Homework
+T:Part 1: Writing Sequences
+T:Part 1a
+L:1/4
+M:4/4
+K:A
+V:1
+"with all chords in root position"[Ace][Adf][Bdg][ceg]|[cfa][Bdf][Beg][cea]||\
+"with alternating 5/3 and 6/5 chords"[Ace][Acd][GBd][GBc]|[FAc][FAB][EGB][CEA]||
+V:2
+    A, D G, C| F, B, E, A, ||A, F, G, E,| F, D, E, A, ||
+w:A:~I IV viio iii|vi ii V I| I IV65 viio iii65| vi ii65 V I|
+%
+W:1. Each example provides a sequence model and brackets to show where the copies go.
+W:Because this is a descending fifths sequence, the model will be transposed down a step each time.
+W:Fill in the rest of the sequence by writing out the keyboard style chords and analyzing with roman numerals.
+W:Use only diatonic chords.
+
+X:72
+T:Week 7 Homework
+T:Part 1: Writing Sequences
+T:Anna Bon, Flute Sonata, op. 1 no. 2, mvt. III, mm. 87-93
+L:1/8
+M:3.8
+K:Dm
+V:1
+b/d'/g/b/f/b/|e/b/d/b/c/g/|"sequence down by step 2 times"a/c'/f/a/e/a/|d/a/c/a/B/f/|f/b/e/f/d/g/|^c/g/=B/g/A/e/|[Adf]3||
+V:2
+G,G,G,|C,C,C,|F,F,F,|B,,B,,B,,|E,E,E,|A,,A,,A,,|D,3||
+w:Dm:~iv7|VII7|III7|VI7|iio7|V7|i||
+w:chord~root:~G|C|F|Bb|E|A|D
+%
+W:2. Complete the sequence by transposing the bracketed segment down by step three times.
+W:Use diatonic notes in the first copy and la and ti in the second copy, and end on a tonic chord.
+W:Identify each chord both by roman numeral and by chord root.
+W:Check your work by listening to the recording of the original (on Canvas).
