@@ -96,3 +96,70 @@ L:1/1
 K:G
 [^GBe][Ace]||[K:Cmin][Ac^f]||[K:Ab][_G,,A,,C,E,][D,,F,,A,,D,]||[K:F][B_dfg]||[K:Emin][D,=F,G,B,][C,E,G,]||
 w:G:~V/ii ii    c:~not~major    Ab:~V42/vi?      vi           F:~not~major            e:~V43/VI   VI
+
+%%newpage
+X:61
+T:MUS 113: HW 6
+T:Simple Progression
+C:Alice Corbin
+%%score 1 { 2 | 3 }
+L:1/4
+M:3/4
+I:linebreak $
+K:G
+%%MIDI program 40 % Violin
+V:1 treble nm="Violin" snm="Vln."
+%%%L:1/8
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+ B>A G|  GFG  | A2 c | B3   |$B>c d| d e f| e2 ^c       | d3   ::$ B2 A  | G3   | A2 G  | F3         |$G2  A |B>A G | A>G    F   | G3   :|
+V:2
+ [DGB]3|[AEG]3|[DFA]3|[GBD]3|[GBD]3|[DFA]3|[EGB]2 [A^cE]|[dFA]3::$[Bd^F]3|[eGB]3|[A^ce]3|[dfA]2 [cfA]|$[GBd]3|[GBd]3|[AcE]2 [DFA]|[GBD]3:|
+V:3
+   G,,3| C,3  | D,3  | G,3  | G,3  | F,3  | E,2    A,   | D,3  ::$ B,3   | E,3  | A,3   |  D,3       |$ G,3  | B,3  | A,2    D,  | G,3  :|
+w: G:~I| ii65 | V    | I    | G:~I |      |             |       | D:V/ii | ii   | V     |  I	     |  G:I  | I6   | ii     V   | I     |
+w:     |      |      |      |D:~~IV| I6   | ii     V    | I     |        |      |       |G:~~~V8~~~~~~~7|
+
+X:62
+T:Lead Sheet Progression: Realization and Sentence Composition
+C:Alice Corbin
+%%score 1 { 2 | 3 }
+L:1/4
+M:4/4
+I:linebreak $
+K:C
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+%%MIDI program 56 % Trumpet
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+[K:D]"^Swing" \
+ z G-G B/e/|d/ c3/ z2| z =F-F A/d/ |=c/ B3/ z2|$z _E-E G/=c/|  d/ =f3/ z2|       z e-e z/_e/  |        d4   |]
+V:2
+%%MIDI chordvol 0
+"Dm7"[cf]4 |"G7"[Bf]4|"Cm7"[_e_B]4|"F7" [A_e]4|$"Bbm7"[d_A]4|"Eb7"[_G_d]4|"Dm7"[Fc]2 "G7"[BF]2|"Cmaj7"[E_B]4|]
+V:3
+      D4   |     G,4 |       C,4  |     F,4   |$        _B,4|       _E,4 |      D,2       G,2 |        C,4  |]
+
+X:63
+T:Melody Composition Exercise
+%%score 1 { 2 | 3 }
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble transpose=-2 nm="B♭ Trumpet" snm="B♭ Tpt."
+%%V:1 treble  nm="B♭ Trumpet" snm="B♭ Tpt."
+%%MIDI program 56 % Trumpet
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+%%d>c A_B|B4|c>_B G_A|A4|$_B>_A =F_G|G4|c2 A2|G4||
+[K:A]e>d B=c|c4|d>=c A_B|B4|$=c>_B =G_A|A4|d2 B2|A4||
+V:2
+%%MIDI chordvol 0
+"Am7"[cg]2"D7"[fc]2|"Gmaj7"[Bf]4|"Gm7"[_B=f]2"C7"[e_B]2|"Fmaj7"[AE]4|$"Fm7"[A_e]2"Bb7"[d_A]2|"Ebmaj7"[Gd]4|"Am7"[cG]2"D7"[Fc]2|"Gmaj7"[BF]4|] 
+V:3
+      A,2      D,2 |        G,,4|      G,2        C,2  |        F,,4|       F,2       _B,,2 |        _E,,4|      A,2      D,2 |        G,,4|]
+
