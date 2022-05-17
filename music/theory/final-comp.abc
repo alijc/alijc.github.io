@@ -1,0 +1,68 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+
+X:99
+T:Final Composition
+T:Classical rounded binary
+C:Alice Corbin
+L:1/4
+M:3/4
+%%staves (Right Chords) Left  %% positions the invisible chord voice
+K:G
+V:Right
+[gBd]3|[dfA]3|[gBd]3|[Bdf]3|[eGB]3|[ceG]3|[GBd]3|[dFA]3|
+[GBd]3|[dFA]3|[GBd]3|[dFA]3|[EGB]3|[^cEG]3|[A^cE]3|[dFA]3:|
+z3|z3|z3|z3|z3|z3|z3|z3|
+z3|z3|z3|z3|z3|z3|z3|z3|]
+V:Left
+  G,,3|A,,3|B,,3|D,3|E,3|C,3|D,3|D,3|
+w:G:~I V6/4 I6  V6/vi vi IV cad6/4 V
+  G,,3|A,,3|B,,3|F,3|E,3|^C,3|A,,3|D,3:|
+w: I   V6/4  I6  V6  vi
+w: ~    ~    ~   ~   D:~ii   viio  V   I   
+z3|z3|z3|z3|z3|z3|z3|z3|
+z3|z3|z3|z3|z3|z3|z3|z3|]
+V:Chords
+%%MIDI chordprog 1 octave=2
+%%MIDI bassprog 1 octave=2
+"G"x3|"D/A"x3|"G/B"x3|"B/D"x3|"Em"x3|"C"x3|"G/D"x3|"D"x3|
+"G"x3|"D/A"x3|"G/B"x3|"D/F#"x3|"Em"x3|"C#dim"x3|"A"x3|"D"x3:|
+x3|x3|x3|x3|x3|x3|x3|x3|
+x3|x3|x3|x3|x3|x3|x3|x3|]
+
+%%begintext
+
+3. Compose the harmony for the A section:
+  a. Aim to write at least fourteen chords.
+     If your phrase is sixteen bars long, you may use one chord per bar.
+     You may wish to speed up the harmonic rhythm before the cadence.
+  b. Indicate chords with roman numerals/inversion below staff and
+     realize chords in four voices, simple keyboard style.
+     Aim for good outer-voice counterpoint.
+  c. The first phrase should stay in the tonic key and end on a HC.
+  d. The second phrase should modulate to a closely related key.
+     Work backwards from the cadence and choose a pivot chord that will work.
+     If you are stuck, look at examples from class and imitate one of them.
+     If you want the A section to be a parallel period,
+     the second phrase should start the same as the first phrase.
+     (A contrasting period is also fine.)
+     If you can, include another applied chord
+     (you need at least two in the composition).
+%%endtext
+     
+4. Compose the harmony for the B section:
+a. Include at least seven chords in this section,
+   continuing the prevailing harmonic rhythm.
+   Try to include another applied chord in this section
+   (you need at least two in the composition).
+b. Continue to label chords with roman numerals and realize in four voices,
+   keyboard style.
+c. You want to end on V in the home key.
+   You have several options for how to get there.
+   You may begin in the key that the first reprise ended in or an a new closely
+   related key, and write a full modulating phrase.
+   Or, you may write a transitional/unstable phrase such as a sequence
+   using applied chords. You could end either of these with a dominant
+   prolongation. Study class examples for ideas.
