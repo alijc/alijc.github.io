@@ -237,7 +237,44 @@ w: 3.~Fish and chips and vin-e-gar, vin-e-gar, vin-e-gar,
  F3G AB| cd c4| BB GG EE | F6 |]
 w: Fish and chips and vin-e-gar, pep-per, pep-per, pep-per, Pop!
 
+
 X:14
+T:Chairs to Mend
+M:4/4
+L:1/4
+%Q:1/4=70
+K:D
+%
+%%MIDI program 1       71 bassoon
+%%MIDI program 2       74 flute
+%%MIDI program 3       73 piccolo
+%%systemsep      45.0pt
+%%[V:1]
+"^1" A  > G   F    B|   A   > G  F2|
+w:Chairs to mend, old chairs to mend!
+%%[V:2]
+"^2"  F >E  D     G  | F  >E  D   A,/A,/|
+w:  Mack-er-el, fresh mack-er-el! An-y
+%%[V:3]
+"^3" D2   D   A,/A,/| D2  D2 ||
+w:  old rags, An-y   old rags?
+
+
+X:15
+T:Sure as the Wind
+M:4/4
+L:1/4
+%Q:1/4=70
+K:Eb
+%%MIDI program 1       71 bassoon
+%
+"^1"z C    G  F |"^2"C  >B,  B,/C/    D |"^3"z C   E   F | G4 |
+w:   Sure as the    wind my sis-ters and      sure as the rain,
+ z  G    c  B |(G/F/) (E/D/)  C     C/D/  | E   > F  (D/E/) (D/B,/)|C4||
+w: Sure as the  sun*  does* shine, we will raise our song*   a*   -gain.
+
+
+X:20
 T:Summer is a-coming in
 L:1/8
 M:6/8
