@@ -12,35 +12,18 @@ M:3/4
 %%%%staves (Right Chords) Left  %% positions the invisible chord voice
 K:G
 V:Right
-"^A"[gBd]3|[dfA]3|[gBd]3|[Bdf]3|[eGB]3|[ceG]3|[GBd]3|[dFA]3|
-    [GBd]3|[dFA]3|[GBd]3|[dFA]3|[EGB]3|[^cEG]3|[A^cE]3|[dFA]3:|:
-"^B"[DFA]3|[GBD]3|[EGB]3|[A^cE]3|[GBD]3|[cEG]3|[AcE]3|[dFA]3|
-"^A'"[gBd]3|[dfA]3|[gBd]3|[Bdf]3|[eGB]3|[ceG]3|[dfA]3|[gBd]3:|]
-%%%
-%"^B"[DFA]3|[GBD]3|[EGB]3|[A^cE]3|[GBD]3|[cEG]3|[AcE]3|[dFA]3|
-%"^A'"[gBd]3|[dfA]3|[gBd]3|[Bdf]3|[eGB]3|[ceG]3|[dfA]3|[gBd]3|]
+"^A"[gBd]3|[dfA]3|[gBd]3|[B^df]3|[eGB]3|[ceG]3|[GBd]3|[dFA]3|
+    [GBd]3|[dFA]3|[GBd]3|[dFA]3|[EGB]3|[^cEG]3|[A^cE]3|"^PAC in V"[dFA]3:|
+"^B"[DFA]3|[GBD]3|[EGB]3|[A^cE]3|[FA^c]3|[BDF]3|[GBD]3|[cEG]3|[AcE]3|[dFA]3|
+"^A'"[gBd]3|[dfA]3|[gBd]3|[B^df]3|[eGB]3|[ceG]3|[dfA]3|"^PAC in I"[gBd]3:|]
 V:Left
-  G,,3|A,,3|B,,3|D,3|E,3|C,3|D,3|D,3|
-w:G:~I V6/4 I6  V6/vi vi IV cad6/4 V
-  G,,3|A,,3|B,,3|F,3|E,3|^C,3|A,,3|D,3:|:
-w: I   V6/4  I6  V6  vi
-w: ~    ~    ~   ~   D:~ii   viio  V   I   
-   D,3|G,,3|E,3|A,,3|G,3|C,3|A,3|D,3|
-w:D:~I IV   ii  V
-w:  ~  ~    ~   ~ G:~I IV ii V
-  G,,3|A,,3|B,,3|D,3|E,3|C,3|D,3|G,3:|]
-w:G:~I V6/4 I6  V6/vi vi IV   V   I
-%%%
-%   D,3|G,,3|E,3|A,,3|G,3|C,3|A,3|D,3|
-%w:D:~I IV   ii  V
-%w:  ~  ~    ~   ~ G:~I IV ii V
-%  G,,3|A,,3|B,,3|D,3|E,3|C,3|D,3|G,3|]
-%w:G:~I V6/4 I6  V6/vi vi IV   V   I
-
-V:Chords
-%%MIDI chordprog 1 octave=2
-%%MIDI bassprog 1 octave=2
-"G"x3|"D/A"x3|"G/B"x3|"B/D"x3|"Em"x3|"C"x3|"G/D"x3|"D"x3|
-"G"x3|"D/A"x3|"G/B"x3|"D/F#"x3|"Em"x3|"C#dim"x3|"A"x3|"D"x3:|
-"D"x3|"G"x3|"Em"x3|"A"x3|"G"x3|"C"x3|"Am"x3|"D"x3|
-"G"x3|"D/A"x3|"G/B"x3|"B/D"x3|"Em"x3|"C"x3|"D"x3|"G"x3:|]
+  G,,3| A,,3 |B,,3|B,,3|C,3|C,3|D,3|D,3|
+w:G:~I (V6/4) I6  V/vi vi6 IV cad6/4 V
+  G,,3|A,,3 |B,,3|D,3|E,3|E,3|A,,3|D,3:|
+w: I  (V6/4)  I6   V  vi
+w: ~    ~    ~   ~ (V)D:~ii   viio6  V   I   
+   D,3|G,,3|E,3|A,,3|F,3|B,,3|G,3|C,3|A,3|D,3|
+w:D:~I IV   ii  V    iii  vi
+w:  ~  ~    ~   ~    ~ G:~iii  I  IV  ii   V
+  G,,3| A,,3 |B,,3|B,3|E,3|C,3|D,3|G,3:|]
+w:G:~I (V6/4)  I6  V/vi vi IV   V   I
