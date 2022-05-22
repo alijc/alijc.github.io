@@ -3,9 +3,10 @@
 %%titleformat A-1 T C1, Z-1, S-1
 %%writefields QP 0
 
-X:90
+X:91
 T:Final Composition
 T:Classical rounded binary
+T:Step 1
 C:Alice Corbin
 L:1/4
 M:3/4
@@ -14,16 +15,43 @@ K:G
 V:Right
 "^A"[gBd]3|[dfA]3|[gBd]3|[B^df]3|[eGB]3|[ceG]3|[GBd]3|[dFA]3|
     [GBd]3|[dFA]3|[GBd]3|[dFA]3|[EGB]3|[^cEG]3|[A^cE]3|"^PAC in V"[dFA]3:|
-"^B"[DFA]3|[GBD]3|[EGB]3|[A^cE]3|[FA^c]3|[BDF]3|[GBD]3|[cEG]3|[AcE]3|[dFA]3|
+"^B"[DFA]3|[GBD]3|[EGB]3|[AcE]3|[F^A^c]3|[BDF]3|[GBD]3|[cEG]3|[AcE]3|[dFA]3|
 "^A'"[gBd]3|[dfA]3|[gBd]3|[B^df]3|[eGB]3|[ceG]3|[dfA]3|"^PAC in I"[gBd]3:|]
 V:Left
-  G,,3| A,,3 |B,,3|B,,3|C,3|C,3|D,3|D,3|
-w:G:~I (V6/4) I6  V/vi vi6 IV cad6/4 V
+  G,,3| A,,3 |B,,3|B,,3|E,3|C,3|D,3|D,3|
+w:G:~I (V6/4) I6  V/vi  vi  IV cad6/4 V
   G,,3|A,,3 |B,,3|D,3|E,3|E,3|A,,3|D,3:|
 w: I  (V6/4)  I6   V  vi
 w: ~    ~    ~   ~ (V)D:~ii   viio6  V   I   
    D,3|G,,3|E,3|A,,3|F,3|B,,3|G,3|C,3|A,3|D,3|
-w:D:~I IV   ii  V    iii  vi
-w:  ~  ~    ~   ~    ~ G:~iii  I  IV  ii   V
-  G,,3| A,,3 |B,,3|B,3|E,3|C,3|D,3|G,3:|]
+w:D:~I IV   ii   
+w:  ~  ~ G:~vi  ii  V/iii iii  I  IV  ii   V
+  G,,3| A,,3 |B,,3|B,,3|E,3|C,3|D,3|G,3:|]
+w:G:~I (V6/4)  I6  V/vi vi IV   V   I
+
+
+X:92
+T:Final Composition
+T:Classical rounded binary
+T:Step 2
+C:Alice Corbin
+L:1/4
+M:4/4
+K:G
+%%MIDI program 6 % Harpsichord
+V:Right
+"^A" d d/d/ d c/B/ | B/c/A/B/ FB| EG CG |G/A/B/c/ d/c/B/A/|
+     [GBd]2[dFA]2|[GBd]2[dFA]2 |[EGB]2 [^cEG]2|[A^cE]2"^PAC in V"[dFA]2:|
+"^B" [DFA]2[GBD]2|[EGB]2[AcE]2 |[F^A^c]2[BDF]2 |[GBD]2 [cEG]2|[AcE]2[dFA]2|
+"^A'"[gBd]2[dfA]2|[gBd]2[B^df]2|[eGB]2 [ceG]2 |[dfA]2 "^PAC in I"[gBd]2:|]
+V:Left
+ [G,,B,,D,]2[D,F,A,,]2|[G,B,,D,]2[B,,^D,F,]2|[E,G,B,]2[C,E,G,]2|[G,B,D,]2[D,F,A,]2|
+w:G:~I        (V6/4)       I6         V/vi       vi       IV      cad6/4    V
+ [G,,B,,D,]2[D,F,A,,]2|[G,B,,D,]2[D,F,A,]2|[E,G,B,]2[^CE,G,]2|[A,^CE,]2[D,F,A,]2:|
+w:  I         (V6/4)      I6         V         vi
+w:  ~            ~        ~          ~      (V)D:~ii    viio6       V        I   
+   D,2G,,2|E,2A,,2|F,2B,,2|G,2C,2|A,2D,2|
+w:D:~I IV   ii   
+w:  ~  ~ G:~vi  ii  V/iii iii  I  IV  ii   V
+  G,,2 A,,2 |B,,2B,,2|E,2C,2|D,2G,2:|]
 w:G:~I (V6/4)  I6  V/vi vi IV   V   I
