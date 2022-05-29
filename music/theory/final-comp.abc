@@ -33,59 +33,71 @@ w:G:~I (V6/4)  I6  V/vi vi IV   V   I
 X:92
 T:Final Composition
 T:Classical rounded binary
-T:Step 3
-T:Model at https://musescore.com/user/22846/scores/73654
+T:Final revision
+%%T:Model at https://musescore.com/user/22846/scores/73654
 C:Alice Corbin
+%%score Flute Guitar Bass
 L:1/4
 M:4/4
-Q:160
+I:linebreak $	%% to keep line breaks when importing into musescore
+Q:1/4=130
 K:G
-V:Flute nm="Flute" snm="Fl."
-%%MIDI program 40 % Violin
-"^A" d d/d/ d c/B/ | B/c/A/B/ FB| EB CG |G/A/B/c/ d/c/B/A/|
-     G d d/e/f/e/|B/A/G/A/ A/B/c/d/ |e/f/g/f/ g/f/e/f/|e/^c/B/c/ "^PAC in V"d d:|:
-"^B" (D>F G>F)|(E>G A>G)|(F>^A B>A)|(G>B c>B)|(A>c d2)|
-"^A'"d d/d/ d c/B/ | B/c/A/B/ FB| EB CG |A/G/F "^PAC in I"G2:|]
+V:Flute nm="Flute" snm="Fl." dyn=up
+%%MIDI program %%MIDI program 73 % Flute
+"^A" +p+"^(second time)".d .d/.d/ .d c/B/ | B/c/A/B/ FB| EB CG |G/A/B/c/ d/c/B/A/|$
+     G d d/e/f/e/|B/A/G/A/ A/B/c/d/ |e/f/g/f/ g/f/e/f/|e/^c/B/c/ "^PAC in V"d d::$
+"^B" +p+!crescendo(! (D>F G>F)|(E>G A>G)|(F>^A B>=A)|(G>B c>B)|(A>c d2)!crescendo)!+f+|$
+"^A'".d .d/.d/ .d c/B/ | B/c/A/B/ FB| EB CG |A/G/F "^PAC in I"G2:|
 V:Guitar nm="Guitar" snm="Gu."
-%%MIDI program 6 % Harpsichord
+%%MIDI program %%MIDI program 24 % Acoustic Guitar (nylon)
 %%MIDI chordvol 0
-"G"[gBd]2"D"[dfA]2|"G" [gBd]2"B" [B^df]2|"Em"[eGB]2  "C"[ceG]2|"G"[GBd]2"D"[dFA]2|
-"G"[GBd]2"D"[dFA]2|"G" [GBd]2"D" [dFA]2 |"Em"[EGB]2  "C#dim"[^cEG]2|"A"[A^cE]2"D"[dFA]2:|
-"D"D/F/A/F/ "G"D/G/B/G/|"Em"E/G/B/G/ "Am"E/A/c/A/|"F#"F/^A/^c/A/ "Bm"D/F/B/F/|"G"D/G/B/G/ "C"E/G/c/G/|"Am"E/A/c "D"[dFA]2|
-"G"[gBd]2"D"[dfA]2|"G" [gBd]2"B" [B^df]2|"Em"[eGB]2  "C"[ceG]2|"D"[dfA]2"G"[gBd]2:|]
-V:Bass nm="Bass" snm="Ba."
+"G"[gBd]2"D"[dfA]2|"G" [gBd]2"B" [B^df]2|"Em"[eGB]2  "C"[ceG]2|"G"[GBd]2"D"[dFA]2|$
+"G"[GBd]2"D"[dFA]2|"G" [GBd]2"D" [dFA]2 |"Em"[EGB]2  "C#dim"[^cEG]2|"A"[A^cE]2"D"[dFA]2::$
+"D"D/F/A/F/ "G"D/G/B/G/|"Em"E/G/B/G/ "Am"E/A/c/A/|"F#"F/^A/^c/A/ "Bm"D/F/B/F/|"G"D/G/B/G/ "C"E/G/c/G/|"Am"E/A/c "D"[dFA]2|$
+"G"[gBd]2"D"[dfA]2|"G" [gBd]2"B" [B^df]2|"Em"[eGB]2  "C"[ceG]2|"D"[dfA]2"G"[gBd]2:|
+V:Bass clef=bass nm="Bass" snm="Ba."
 %%MIDI program 32 % Acoustic Bass
-  G,,2 A,,2 | B,,2 B,,2| E,2   C,2 | D,2   D,2|
+  G,,2 A,,2 | B,,2 B,,2| E,2   C,2 | D,2   D,2|$
 w:G:~I (V6/4)  I6  V/vi  vi    IV   cad6/4  V
-  G,,2 A,,2 | B,,2 D,2 | E,2   E,2 | A,,2  D,2:|
+  G,,2 A,,2 | B,,2 D,2 | E,2   E,2 | A,,2  D,2::$
 w:  I  (V6/4)  I6   V    vi
-w:  ~   ~      ~    ~ (V)D:~ii viio6 V      I   
-   D,2G,,2|E,2A,,2|F,2B,,2|G,2C,2|A,2D,2|
+w:  ~   ~      ~    ~ (V)D:~ii viio6 V      I   $
+   D,2G,,2|E,2A,,2|F,2B,,2|G,2C,2|A,2D,2|$
 w:D:~I IV   ii   
 w:  ~  ~ G:~vi  ii  V/iii iii  I  IV  ii   V
-  G,,2 A,,2 |B,,2B,,2|E,2C,2|D,2G,2:|]
+  G,,2 A,,2 |B,,2B,,2|E,2C,2|D,2G,2:|
 w:G:~I (V6/4)  I6  V/vi vi IV   V   I
-
 
 
 X:93
 T:Final Composition
 T:Classical rounded binary
-T:B part
 C:Alice Corbin
+C:Attribution 2.0 Generic (CC BY 2.0)
+%%score Flute Guitar Bass
 L:1/4
 M:4/4
-Q:100
+I:linebreak $	%% to keep line breaks when importing into musescore
+Q:1/4=130
 K:G
-V:Flute nm="Flute" snm="Fl."
-%%MIDI program 40 % Violin
-"^B" (D>F G>F)|(E>G A>G)|(F>^A B>A)|(G>B c>B)|(A>c d2)|
+V:Flute nm="Flute" snm="Fl." dyn=up
+%%MIDI program %%MIDI program 73 % Flute
++p+"^(second time)".d .d/.d/ .d c/B/ | B/c/A/B/ FB| EB CG |G/A/B/c/ d/c/B/A/|$
+G d d/e/f/e/|B/A/G/A/ A/B/c/d/ |e/f/g/f/ g/f/e/f/|e/^c/B/c/ "^PAC in V"d d::$
++p+!crescendo(! (D>F G>F)|(E>G A>G)|(F>^A B>=A)|(G>B c>B)|(A>c d2)!crescendo)!+f+|$
+.d .d/.d/ .d c/B/ | B/c/A/B/ FB| EB CG |A/G/F "^PAC in I"G2:|
 V:Guitar nm="Guitar" snm="Gu."
-%%MIDI program 6 % Harpsichord
+%%MIDI program %%MIDI program 24 % Acoustic Guitar (nylon)
 %%MIDI chordvol 0
-"D"D/F/A/F/ "G"D/G/B/G/|"Em"E/G/B/G/ "Am"E/A/c/A/|"F#"F/^A/^c/A/ "Bm"D/F/B/F/|"G"D/G/B/G/ "C"E/G/c/G/|"Am"E/A/c "D"[dFA]2|
-V:Bass nm="Bass" snm="Ba."
+"G"[gBd]2"D"[dfA]2|"G" [gBd]2"B" [B^df]2|"Em"[eGB]2  "C"[ceG]2|"G"[GBd]2"D"[dFA]2|$
+"G"[GBd]2"D"[dFA]2|"G" [GBd]2"D" [dFA]2 |"Em"[EGB]2  "C#dim"[^cEG]2|"A"[A^cE]2"D"[dFA]2::$
+"D"D/F/A/F/ "G"D/G/B/G/|"Em"E/G/B/G/ "Am"E/A/c/A/|"F#"F/^A/^c/A/ "Bm"D/F/B/F/|"G"D/G/B/G/ "C"E/G/c/G/|"Am"E/A/c "D"[dFA]2|$
+"G"[gBd]2"D"[dfA]2|"G" [gBd]2"B" [B^df]2|"Em"[eGB]2  "C"[ceG]2|"D"[dfA]2"G"[gBd]2:|
+V:Bass clef=bass nm="Bass" snm="Ba."
 %%MIDI program 32 % Acoustic Bass
-   D,2G,,2|E,2A,,2|F,2B,,2|G,2C,2|A,2D,2|
-w:D:~I IV   ii   
-w:  ~  ~ G:~vi  ii  V/iii iii  I  IV  ii   V
+  G,,2 A,,2 | B,,2 B,,2| E,2   C,2 | D,2   D,2|$
+  G,,2 A,,2 | B,,2 D,2 | E,2   E,2 | A,,2  D,2::$
+   D,2G,,2|E,2A,,2|F,2B,,2|G,2C,2|A,2D,2|$
+  G,,2 A,,2 |B,,2B,,2|E,2C,2|D,2G,2:|
+
+
