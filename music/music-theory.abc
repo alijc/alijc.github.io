@@ -1,0 +1,35 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+
+X:11100
+T:Music Theory 111
+
+X:11110
+T:Week 1
+
+X:11111
+T:Note Identification, abc and ASPN labels
+M:none
+L:1/1
+K:C
+V:1
+  C   D   E   F   G   A   B   c  d  e  f  g  a  b  c'|
+w:C   D   E   F   G   A   B   c  d  e  f  g  a  b  c'|
+w:C4  D4  E4  F4  G4  A4  B4  C5 D5 E5 F5 G5 A5 B5 C6|
+V:2
+  C,, D,, E,, F,, G,, A,, B,, C, D, E, F, G, A, B, C |
+w:C,, D,, E,, F,, G,, A,, B,, C, D, E, F, G, A, B, C |
+w:C2  D2  E2  F2  G2  A2  B2  C3 D3 E3 F3 G3 A3 B3 C4|
+
+X:11113
+T:Accidentals
+M:none
+L:1/1
+K:C
+V:1
+     __A  _A =A ^A ^^A |
+w: \_\_A \_A =A ^A ^^A |
+
+
