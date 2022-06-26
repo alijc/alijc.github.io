@@ -13,6 +13,7 @@ X:11111
 T:Note Identification, abc and ASPN labels
 M:none
 L:1/1
+%%staves {1 2}	%% adds a { to the grand staff.
 K:C
 V:1
   C   D   E   F   G   A   B   c  d  e  f  g  a  b  c'|
@@ -33,3 +34,14 @@ V:1
 w: \_\_A \_A =A ^A ^^A |
 
 
+X:11120
+T:Week 2
+
+X:11121
+T:Intervals
+M:none
+L:1/1
+K:C
+V:1
+   [FF]|[F_G]|[FG]|[F_A]|[FA]|[F_B]|[FB]|[Fc]|[F_d]|[Fd]|[F_e]|[Fe]|[Ff]||
+w:Unison  m2   M2   m3    M3   P4 Tritone P5    m6   M6   m7    M7  Octave
