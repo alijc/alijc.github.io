@@ -45,3 +45,63 @@ K:C
 V:1
    [FF]|[F_G]|[FG]|[F_A]|[FA]|[F_B]|[FB]|[Fc]|[F_d]|[Fd]|[F_e]|[Fe]|[Ff]||
 w:Unison  m2   M2   m3    M3   P4 Tritone P5    m6   M6   m7    M7  Octave
+
+%%newpage
+X:11130
+T:Week 3
+T:Scales
+
+X:11131
+T:Major Scale
+M:none
+L:1/1
+%%staves (notes steps)
+K:C
+V:steps
+x/ "^1"x "^1"x "^1/2"x "^1"x "^1"x "^1"x "^1/2"x/  ||
+V:notes
+C      D      E        F      G      A      B     c||
+
+X:11132
+T:Minor Scale
+M:none
+L:1/1
+%%staves (notes steps)
+K:C
+V:steps
+x/ "^1"x "^1/2"x "^1"x "^1"x "^1/2"x "^1"x "^1"x
+V:notes
+A,     B,     C        D      E      F      G        A||
+W:Starts a third down from its relative major
+W:AKA, starts on the La
+
+X:11133
+T:Harmonic Minor Scale
+M:none
+L:1/1
+%%staves (notes steps)
+K:C
+V:steps
+x/ "^1"x "^1/2"x "^1"x "^1"x "^1/2"x "^1-1/2"x "^1/2"x
+V:notes
+A,     B,     C        D      E      F      ^G       A||
+W:Raises the 7th to be a leading tone like in a major scale
+W:Contains an extra big step because of this
+
+
+X:11134
+T:Melodic Minor Scale
+M:none
+L:1/1
+%%staves (notes steps)
+K:C
+V:steps
+x/ "^1"x "^1/2"x "^1"x "^1"x "^1"x "^1"x "^1/2"x "^1"x "^1"x "^1/2"x "^1"x "^1"x "^1/2"x "^1"x
+V:notes
+A,  B, C  D  E  ^F  ^G  A =G =F E D C B, A, ||
+W:Raises the sixth as well as the 7th to make a smoother line.
+W:But only ascending.
+
+
+
+
