@@ -1,0 +1,52 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+
+X:11
+T:Diatonic Thirds Sequential
+T: Version 1 (Beginner)
+M:4/4
+L:1/4
+Q:1/4=80
+K:C
+   C/D/  E  C  E| D/E/  F  D  F| E/F/  G   E  G | F/G/   A  F  A|
+w:do re mi do mi|re mi fa re fa|mi fa sol mi sol|fa sol la fa la|
+    G/A/  B  G   B| A/B/  c  A  c| B/c/  d  B  d| c4 ||
+w:sol la ti sol ti|la ti do la do|ti do re ti re| do ||
+
+X:12
+T:Diatonic Thirds Sequential
+T: Version 2 (Advanced)
+M:4/4
+L:1/4
+Q:1/4=80
+K:C
+   C  E  C/C/    E  | D  F  D/D/    F  | E  G   E/E/    G  | F  A  F/F/    A  |
+w:do mi ma-jor third|re fa mi-nor third|mi sol mi-nor third|fa la ma-jor third|
+    G  B  G/G/    B  | A  c  A/A/    c  | B  d  B/B/    d  | c4 ||
+w:sol ti ma-jor third|la do mi-nor third|ti re mi-nor third| do ||
+
+X:13
+T:Triad Sequential
+T: Version 1
+M:4/4
+L:1/4
+Q:1/4=80
+K:C
+   C/E/G/E/    C2| D/F/A/F/   D2| E/G/B/G/     E2| F/A/c/A/ F2 |
+w:do mi sol me do|re fa la fa re|mi sol ti sol mi|fa la do la fa|
+    G/B/d/B/    G2| A/c/e/c/   A2|  B/d/f/d/  B2| c4 ||
+w:sol ti re ti sol|la do mi do la|ti re fa re ti| do ||
+
+X:14
+T:Triad Sequential
+T: Version 2
+M:4/4
+L:1/4
+Q:1/4=80
+K:C
+   C/E/G/E/     C2  | D/F/A/F/    D2  | E/G/B/G/     E2   | F/A/c/A/   F2 |
+w:do mi sol me major|re fa la fa minor|mi sol ti sol minor|fa la do la major|
+    G/B/d/B/    G2  | A/c/e/c/    A2  |  B/d/f/d/      B2    | c4 ||
+w:sol ti re ti major|la do mi do minor|ti re fa re diminished| do ||
