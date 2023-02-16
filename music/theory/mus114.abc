@@ -3,6 +3,28 @@
 %%titleformat A-1 T C1, Z-1, S-1
 %%writefields QP 0
 
+X:1
+T:Musical Intervals: Mnemonics
+M:4/4
+L:1/4
+Q:1/4=80
+K:C
+   B,    C   B, z| C D C z	|A,  C   A, z| C  E    C z | C   F    C z  | C   G    C z |
+w:mi-nor second  |Ma-jor second	|mi-nor third|Ma-jor third |Per-fect fourth|Per-fect fifth|
+w: ti   do  ti   |do re do	|la  do la   |do  mi   do  |do  fa  do     |do  sol  do
+w:ochi cher-nye  |Happy Birth-day|To dream the|	       	   |Here Comes	   |Star Wars
+w:Jaws theme	 |		|( impossible dream)|	   |(the bride)	   |
+
+X:2
+T:Major and minor chords
+M:4/4
+L:1/4
+Q:1/4=80
+K:C
+   C  E  G   E|[CEG]4| C _E  G   E|[C_EG]4|
+w:do mi sol mi|Major |do me sol me|minor|
+
+
 X:11
 T:Diatonic Thirds Sequential
 T: Version 1 (Beginner)
