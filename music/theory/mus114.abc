@@ -8,12 +8,13 @@ T:Musical Intervals: Mnemonics
 M:4/4
 L:1/4
 Q:1/4=80
+%%MIDI program 41 % Viola
 K:C
-   B,    C   B, z| C D C z	|A,  C   A, z| C  E    C z | C   F    C z  | C   G    C z |
-w:mi-nor second  |Ma-jor second	|mi-nor third|Ma-jor third |Per-fect fourth|Per-fect fifth|
-w: ti   do  ti   |do re do	|la  do la   |do  mi   do  |do  fa  do     |do  sol  do
-w:ochi cher-nye  |Happy Birth-day|To dream the|	       	   |Here Comes	   |Star Wars
-w:Jaws theme	 |		|( impossible dream)|	   |(the bride)	   |
+   B,    C   B, z| C D C z	 |A,  C   A, z| C  E    C z | C   F    C z  | F2  B2 | C   G    C z | c       E       c z | C  A   C z | D  c   D z   | C  B     C  z| C c C z ||
+w:mi-nor second  |Ma-jor second	 |mi-nor third|Ma-jor third |Per-fect fourth|Tri-tone|Per-fect fifth|mi-     nor     sixth|Ma-jor sixth|mi-nor seventh|Ma-jor seventh|Oc-tave  ||
+w: ti   do  ti   |do re do	 |la  do la   |do  mi   do  |do  fa  do     |fa  to  |do  sol  do   |do       mi      di  |do  la  do  |re do   re    | do ti   do   |do do do ||
+w:ochi cher-nye  |Happy Birth-day|To dream the|Doe(a) deer a|Here Comes	    |Ma-ri(a)|Star Wars	    |Where does~love begin| N  B(C)    |Star Trek     |Ba(li) Hai    |Some-where||
+w:Jaws theme	 |		 |( impossible dream)|	    |(the bride)    |	     |Twinkle, twinkle|	   	     	  |    	       |     	      |	     |(over the rainbow)||
 
 X:2
 T:Major and minor chords
