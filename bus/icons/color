@@ -1,0 +1,1 @@
+convert $1 -alpha off -fill $2 -colorize 100% -alpha on $2-$1
