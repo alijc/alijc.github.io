@@ -1,0 +1,18 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%%%writefields QP 0
+
+
+X:1
+T:MUS240 Sketch #?
+T:M2/m7 P4/P5 (for Bb Clarinet)
+C:Ali Corbin
+M:3/4
+L:1/4
+Q:1/4=80
+%%MIDI program 71 % Clarinet
+K:C clef=treble %%%transpose=-2
+C2 F/G/|c>_B F/_E/|_D3| B,2 E/^F/ | B>A   E/D/ |C2 z|
+C/D/E/^F/^G/^A/| c/f/^dG|D/E/^F/^G/^A/c/|^d/g/f^A|C2G|c2 z|
+c2 G/F/|C>D  G/A/ | B3|^c2  ^G/^F/|^C>^D ^G/^A/|c3||
