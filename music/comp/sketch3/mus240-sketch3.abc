@@ -2,6 +2,7 @@
 %%titletrim true
 %%titleformat A-1 T C1, Z-1, S-1
 %%%%writefields QP 0
+%%measurenb 0
 
 
 X:1
