@@ -1,0 +1,40 @@
+MUS240
+Atonal Melody, Sketch #3
+Due Wednesday, Class VI
+
+Working with Intervallic Consistency
+
+Compose a short piece (16-30 measures long) for one melodic instrument using two
+intervals only and their inversions (ex. M2/m7 and m3/M6). Do not choose two
+intervals which will limit pitches you can move to, such as two whole-tone
+intervals (ex. M2/m7 and m6/M3). Simply put, choose one set of intervals from
+the non-whole-tone category and one set from the whole-tone category or choose
+two sets from the non-whole-tone category.
+
+Non-whole-tone intervals:    Whole-tone intervals:
+m2/M7				M2/m7
+m3/M6				M3/m6
+P4/P5				TT/(TT)
+
+The object of this assignment is to experiment with composing music focusing on
+intervallic consistency to establish your musical language. By sticking to only
+two interval choices, you can create a new harmonic context that relies on
+consistency in lieu of a tonal center. As the melody moves from one note to the
+next, you should find that it is quite simple to move freely among all twelve
+pitches.
+
+Continue to focus on melodic shaping tactics of flow, melodic direction,
+balance, rhythmic interest, repetition, point of arrival, etc. Include dynamics,
+phrase markings and articulations to create coherent musical statements-focusing
+on a single melodic line to create a compelling musical shape. Create a short
+ABA form incorporating a strongly contrasting B idea. With the return of A,
+employ some musical variance with the opening. A programmatic inspiration could
+be helpful to lend coherence as you grapple with a potentially unfamiliar
+musical language. Write your melody with a particular woodwind instrument in
+mind- using what you know about their ranges, general strengths and character.
+
+Submit your work to your work folders as pdf and mp3 files; also, bring a print
+out of your work to class, if possible.
+
+Name your files with your first and last name followed by an underscore and the
+assignment name-i.e. BenSmith_AtonalMelody_Sketch3.pdf
