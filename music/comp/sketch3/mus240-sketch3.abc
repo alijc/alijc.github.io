@@ -6,14 +6,14 @@
 
 
 X:1
-T:MUS240 Sketch #?
+T:MUS240 Sketch #3
 T:M2/m7 P4/P5 (for Bb Clarinet)
 C:Ali Corbin
 M:3/4
 L:1/4
-Q:1/4=80
+Q:1/4=90
 %%MIDI program 71 % Clarinet
-K:C clef=treble %%%transpose=-2
-(C2 F/G/|c>_B F/_E/|_D3)|(B,2 E/^F/ | B>A   E/D/ |C2) z|
-.C/.D/.E/.^F/.^G/.^A/| .c/.f/^dG|.D/.E/.^F/.^G/.^A/.c/|.^d/.g/f^A|C2G|c2 z|
-(c2 G/F/|C>D  G/A/ | B3)|(^c2  ^G/^F/|^C>^D ^G/^A/|c3)||
+K:C clef=treble transpose=-2
+!pp!!<(! (C2 F/G/| !<)!!mf!!>(! c>_B F/_E/|_D3) !>)!!p!|!<(! (B,2 E/^F/ !<)!|!ff!!>(! B>A E/D/| !>)!!mf! C2) z|
+.C/.D/.E/.^F/.^G/.^A/| .c/.f/ !accent!^d!accent!G|.D/.E/.^F/.^G/.^A/.c/|.^d/.g/!accent!f!accent!^A|(C2G|c2) z|
+!mf!!<(!(c2 G/F/|C>D  G/A/ |!<)!!ff!!>(! B3)|(^c2  ^G/^F/|^C>^D ^G/^A/| !>)!!ppp! c3)||
