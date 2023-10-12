@@ -1,0 +1,32 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%%%writefields QP 0
+
+X:1
+T:Scales, Octatonic vs 'normal'
+M:none
+L:1/1
+Q:1/1=80
+%%MIDI program 71 % Clarinet
+K:C
+"^Octatonic Major" CD_EF_G_A=A=Bc|"^Lower Tetrachord" CD_EF|"^Upper Tetrachord"_G_A=AB|CD_EF|
+"^Octatonic Minor" C_D_E=E^FGA_Bc| C_D_E=E|^FGA_B|C_D_E=E|
+"^Ionian" 	   CDEFGABc	 | CDEF   |
+"^Dorian" 	   CD_EFGA_Bc	 | CD_EF  |
+"^Phrygian" 	   C_D_EFG_A_Bc	 | C_D_EF |
+"^Lydian" 	   CDE^FGABc	 | CDE^F  |
+"^Mixolydian" 	   CDEFGA_Bc	 | CDEF	  |
+"^Aeolian" 	   CD_EFG_A_Bc	 | CD_EF  |
+
+
+X:2
+T:Octatonic Major intervals
+M:none
+L:1/1
+Q:1/1=80
+%%MIDI program 71 % Clarinet
+K:C
+CD_EF_G_A=A=Bc|[C_G][C_A][C=A][C=B]|[D_G][D_A][D=A][D=B]|[_E_G][_E_A][_E=A][_E=B]|[F_G][F_A][F=A][F=B]|
+w:	      | TT   m6   M6   M7  | M3   TT   P5   M6  |  m3    P4    TT    m6  | m2   m3   M3   P4  |m
+
