@@ -12,8 +12,8 @@ Q:1/1=80
 K:C
 "^Ionian" CDEFGABc|"^Dorian" CD_EFGA_Bc|"^Phrygian" C_D_EFG_A_Bc|"^Lydian" CDE^FGABc|
 "^Mixolydian" CDEFGA_Bc|"^Aeolian" CD_EFG_A_Bc|"^Locrian" C_D_EF_G_A_Bc|"^Harmonic Major"CDEFG_A=Bc|
-"^Whole Tone" CDE^F^G^Ac|"^Chromatic" C^CD^DEF^FG^GA^ABc|"^Octanic Major" CD_EF_G_A=A=Bc|
-"^Octanic Minor" C_D_E=E^FGA_Bc|"^Pentatonic" CDEGAc|"^Synthetic Minor"C^DE^F^GABc|
+"^Whole Tone" CDE^F^G^Ac|"^Chromatic" C^CD^DEF^FG^GA^ABc|"^Octatonic Major" CD_EF_G_A=A=Bc|
+"^Octatonic Minor" C_D_E=E^FGA_Bc|"^Pentatonic" CDEGAc|"^Synthetic Minor"C^DE^F^GABc|
 "^Major Bitonal" C^CE^FG^Ac|"^Minor Bitonal" C^C^D^FGAc|"^Polytonal" CD^DEFG^GA^ABc|
 "^Ditone" C_DEF^GAc|"^Prometheus" CDE^FA_Bc|"^Trans-Pentatonic" C_EF_G_Ac|"^Pelog" C_D_EG_Ac|
 "^Slendro" CDFG_Bc|"^Hungarian-Bartok"CDE^FGA_Bc|"^Bulgarian-Bartok" C^C^DFGA_Bc|
