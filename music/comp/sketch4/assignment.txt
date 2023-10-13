@@ -1,0 +1,124 @@
+Mus240
+
+Counterpoint, Sketch #4
+Due Monday, Class VII
+
+Using the Barték’s “Song of Harvest” as a model:
+
+     Compose a two-voice composition 20-30 bars in length with clearly defined
+     sections, using the Variation Form (ABA'B'A!). Each section will be able
+     4-5 measures in length.
+
+     Write for two woodwind instruments (can be two of the same or different).
+
+     Write using the octatonic scale (Bartok model) or another mode from the
+     Sketch 1 compendium that is less familiar to you. Transposition to a
+     different pitch level (at section shifts) is permitted and desirable.
+
+     Label your score with the tonic pitch and chosen mode (for octatonic
+     specify which form: beginning with M2 or m2). Note where you transpose the
+     mode and the new tonic.
+
+     Use the tactics that Barték employs to define form: contrast of tempo,
+     dynamic, articulation, melodic variation, inverted melodies, register
+     contrast, silence, etc.
+     
+     Use at least two of the following contrapuntal techniques and label on your
+     score:  canon; exact imitation (the first 4-5 notes); rhythmic imitation
+     with inexact pitch imitation.
+
+     Use traditional contrapuntal strategies—contrary motion; predominance of
+     imperfect consonances; thoughtful voice-leading, especially with
+     dissonance; and balance of rhythmic density trading off between the
+     voices—in order to achieve independence between the voices and a clear
+     musical statement. Take care to avoid an extended melody/accomp texture.
+
+     End each small section with a clear resting point (cadence can be resolved
+     or unresolved—e.g. half cadence-esque).
+
+     Post pdf & mp3 files to your work folders on the due date. Name your files
+     with your last name followed by and underscore and the assignment
+     name—1.e. FavandSee_Counterpoint_Sketch4.paf
+
+
+Preparatory steps:
+   Compose a single melodic idea for A and B. Take care to incorporate a:
+
+      o balance of stillness and movement into your melody to allow space for
+      another voice to respond  
+
+      o distinctive rhythmic/melodic hook at the start of your melody—e.g. a
+      repeated note, a leap, a dotted/syncopated rhythm.
+
+      o contrasting character between A and B.
+
+   Once your have two melodic ideas you are pleased with, write your A/B ideas
+   in the score and map the rhythm of the second voice: choose the entrance
+   point; select a contrapuntal technique such as imitation or canon and follow
+   the rhythm accordingly from your initial melodic idea; factor
+   balance/exchange of rhythmic density between voices into your sketch, as well
+   a rhythmic interaction between the two voices. 
+ 
+   Select a pitch relationship for your second voice, i.e. unison, P5
+   up/down. etc. Fill in your second voice pitch material accordingly. Then
+   solve the problems that may arise through pitch/rhythmic alterations to the
+   2nd or original voice. Potential tactics to solve “problems” that may arise: oe
+
+       © holding on to a pitch a little longer or moving a little earlier (in
+       either voice)
+
+       © altering the transposition relationship
+
+       © altering the initial rhythmic entrance
+
+Counterpoint/ Polyphony Overview:
+
+    Two or more independent melodic lines, often combined to achieve a
+    harmonious cumulative texture. 
+
+Strategies to cultivate an effective contrapuntal texture:
+
+    Keep spacing generally smaller than an octave between voices (for texture
+    cohesion) 
+
+    Consider intervals between voices as factor affecting fullness and harmonic
+    clarity 
+
+      © Imperfect consonance (3/6) predominates
+         = Inversions in the course of phrase, and root position at cadences
+
+      o Perfect consonance (4%, 5, 8ve, unison)
+      o Dissonance (7th, 2nd, tritones)
+
+    Treat dissonance mindfully
+      o Approach/resolve by step
+      © Leap balanced by step in opposite direction (appoggiatura)
+
+    Tend to voice-leading in support of independent lines
+      o Contrary predominates (esp. at cadences)
+      o Oblique
+      © Parallel/Similar (less desirable)
+
+    Cultivate varied rhythmic density between voices to support melodic
+    independence and conversational exchange of prominence 
+      1st species, 1:1
+      2nd species, 1:2
+      3rd species, 1:3
+      4th species, 1:4
+      Varied rhythmic density between the lines
+      Exchange density between voices
+
+    A good subject has a balance of stillness and movement to allow space for
+    the other voice(s) to speak
+
+    A silence before a new contrapuntal entrance can help draw attention to that
+    voice and inject fresh energy into a phrase
+
+    A distinctive rhythmic/melodic hook at the start of a theme can help
+    highlight the entrances in a contrapuntal section
+
+These musical strategies have evolved out of the common practice of composers
+historically, and are still relevant now, even in a more chromatic musical
+context. They need no longer be strictly adhered to, however, they are a
+valuable reference point, a set of useful tools to employ, if your musical
+objective is to create a strong contrapuntal texture. 
