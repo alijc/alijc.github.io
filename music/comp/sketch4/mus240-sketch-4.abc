@@ -1,0 +1,35 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%%%writefields QP 0
+
+X:1
+T:MUS240 Sketch #4
+T:(for Bb Clarinet)
+C:Ali Corbin
+M:3/4
+L:1/4
+Q:1/4=100
+K:C
+%%MIDI program 1 71 % Clarinet  %%transpose=-2
+%%MIDI program 2 71 % Clarinet  %%transpose=-2
+V:Top
+[K:Ebmin]"^Major Octatonic in A"z3|E>FG/A/|G3|A>GF/E/|G3|
+V:Bottom
+[K:Amin]"^Canon"A,>B,C/D/|C3|D>CB,/A,/|C3|B,3|
+
+
+X:2
+T:Octatonic Major intervals
+M:none
+L:1/1
+Q:1/1=80
+%%MIDI program 71 % Clarinet
+K:Amin
+A,B,CD _EF_G_A =A|
+w:
+[A,_E][A,=F][A,_G][A,_A]|[B,_E][B,=F][B,_G][B,_A]|[=C_E][=C=F][=C_G][=C_A]|[D_E][D=F][D_G][D_A]|
+w:TT    m6    M6    M7  |  M3    TT    P5    M6  |  m3    P4    TT     m6 | m2   m3   M3   P4  |
+A,B,CD _EF_G_A =A|
+[K:Amin]A,B,CD|[K:Ebmin]EFGA|=A|
+[K:Amin]A,B,CD|[K:Emin]EFGA|=A|
