@@ -29,7 +29,13 @@ V:Top
 [Q:1/4=80]
 [K:Bmin]"^Major Octatonic in F"z3/2 B3/2 |c/2d/2e/2 d3/2-|d3/2 e3/2|d/2c/2B/2d3/2-|d2 z|
 V:Bottom
-[K:Fmin]"^Streeto Canon at TT" F>GA/2B/2|A3 |B>AG/2F/2|A3 |G2 z|
+[K:Fmin]"^Streeto of A" F>GA/2B/2|A3 |B>AG/2F/2|A3 |G2 z|
+%
+V:Top
+[Q:1/4=120]
+[K:G#min]"^Major Octatonic in D"C/2D/2E/2F/2E|D>CD |E2D/2E/2|F>ED |E2 z|
+V:Bottom
+[K:Dmin]"^Inversion of B" z3 |G,/2A,/2B,/2C/2A,|G,>A,B, |C2A,/2B,/2|G,2 z|
 %
 V:Top
 [Q:1/4=100]
@@ -39,7 +45,7 @@ V:Bottom
 
 
 X:2
-T:A stretto
+T:B inversion
 M:3/4
 L:1/4
 Q:1/4=70
@@ -47,9 +53,10 @@ K:C
 %%MIDI program 1 71 % Clarinet  %%transpose=-2
 %%MIDI program 2 71 % Clarinet  %%transpose=-2
 V:Top
-[K:Ebmin]"^Major Octatonic in A"z3/ E3/ |F/G/A/ G3/-|G3/ A3/|G/F/E/G3/-|G2 z|
+[Q:1/4=120]
+[K:Ebmin]"^Major Octatonic in D"A/B/c/d/c|B>AB     |c2B/c/|d>cB  |c2 z|
 V:Bottom
-[K:Amin]"^Canon at TT"		A,>B,C/D/|C3     |D>CB,/A,/|C3     |B,2 z|
+[K:Amin]"^Inversion of B"      z3       |D/E/F/G/E|D>EF  |G2E/F/|D2 z|
 
 
 
