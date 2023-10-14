@@ -14,9 +14,17 @@ K:C
 %%MIDI program 1 71 % Clarinet  %%transpose=-2
 %%MIDI program 2 71 % Clarinet  %%transpose=-2
 V:Top
-[K:Ebmin]"^Major Octatonic in A"z3|E>FG/A/|G3|A>GF/E/|G3|
+[K:Ebmin]"^Major Octatonic in A"z3       |E>FG/A/|G3       |A>GF/E/|G2  z|
 V:Bottom
-[K:Amin]"^Canon"A,>B,C/D/|C3|D>CB,/A,/|C3|B,3|
+[K:Amin]"^Canon at TT"		A,>B,C/D/|C3     |D>CB,/A,/|C3     |B,2 z|
+V:Top
+"^Major Octatonic in D"d/c/B/A/B|c>Bc     |B3  |A2z   |B2 z|
+V:Bottom
+"^??? at TT"           z3       |G/F/E/D/F|G>FE|D2F/E/|D2 z|
+V:Top
+[K:Amin]"^Aeolian in A"z3|E>FG/A/|G3|A>GF/E/|G3|
+V:Bottom
+[K:Amin]"^Canon at 5th"A,>B,C/D/|C3|D>CB,/A,/|C3|B,3|
 
 
 X:2
@@ -29,7 +37,7 @@ K:Amin
 A,B,CD _EF_G_A =A|
 w:
 [A,_E][A,=F][A,_G][A,_A]|[B,_E][B,=F][B,_G][B,_A]|[=C_E][=C=F][=C_G][=C_A]|[D_E][D=F][D_G][D_A]|
-w:TT    m6    M6    M7  |  M3    TT    P5    M6  |  m3    P4    TT     m6 | m2   m3   M3   P4  |
+w:TT    m6    M6    M7  |  M3    TT    P5    M6  |  m3    P4    TT     m6 | m2   m3   M3   TT  |
 A,B,CD _EF_G_A =A|
 [K:Amin]A,B,CD|[K:Ebmin]EFGA|=A|
 [K:Amin]A,B,CD|[K:Emin]EFGA|=A|
