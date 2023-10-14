@@ -17,17 +17,43 @@ V:Top
 [K:Ebmin]"^Major Octatonic in A"z3       |E>FG/A/|G3       |A>GF/E/|G2  z|
 V:Bottom
 [K:Amin]"^Canon at TT"		A,>B,C/D/|C3     |D>CB,/A,/|C3     |B,2 z|
+%
 V:Top
-"^Major Octatonic in D"d/c/B/A/B|c>Bc     |B3  |A2z   |B2 z|
+"^Major Octatonic in D"d/c/B/A/B|c>dc     |B2c/B/|A>Bc  |B2 z|
 V:Bottom
-"^??? at TT"           z3       |G/F/E/D/F|G>FE|D2F/E/|D2 z|
+"^Rhythmic Imitation at TT"     z3       |G/F/E/D/F|G>FE  |D2F/E/|D2 z|
+%
 V:Top
-[K:Amin]"^Aeolian in A"z3|E>FG/A/|G3|A>GF/E/|G3|
+[Q:1/4=70]
+[K:Bmin]"^Major Octatonic in F"z3/2 B3/2 |c/2d/2e/2 d3/2-|d3/2 e3/2|d/2c/2B/2d3/2-|d2 z|
 V:Bottom
-[K:Amin]"^Canon at 5th"A,>B,C/D/|C3|D>CB,/A,/|C3|B,3|
+[K:Fmin]"^Streeto Canon at TT" F>GA/2B/2|A3 |B>AG/2F/2|A3 |G2 z|
+%
+V:Top
+[Q:1/4=100]
+[K:Amin]"^Aeolian in A"z3|e>fg/2a/2|g3|a>gf/2e/2|c3|
+V:Bottom
+[K:Amin]"^Canon at 5th"A>Bc/2d/2|c3|d>cB/2A/2|c3|A3|
 
 
 X:2
+T:A stretto
+M:3/4
+L:1/4
+Q:1/4=70
+K:C
+%%MIDI program 1 71 % Clarinet  %%transpose=-2
+%%MIDI program 2 71 % Clarinet  %%transpose=-2
+V:Top
+[K:Ebmin]"^Major Octatonic in A"z3/ E3/ |F/G/A/ G3/-|G3/ A3/|G/F/E/G3/-|G2 z|
+V:Bottom
+[K:Amin]"^Canon at TT"		A,>B,C/D/|C3     |D>CB,/A,/|C3     |B,2 z|
+
+
+
+
+
+X:5
 T:Octatonic Major intervals
 M:none
 L:1/1
