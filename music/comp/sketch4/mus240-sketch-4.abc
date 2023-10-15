@@ -42,37 +42,3 @@ V:Top
 [K:Amin]"^Aeolian in A"z3|e>fg/2a/2|g3|a>gf/2e/2|c3|
 V:Bottom
 [K:Amin]"^Canon at 5th"A>Bc/2d/2|c3|d>cB/2A/2|c3|A3|
-
-
-X:2
-T:B inversion
-M:3/4
-L:1/4
-Q:1/4=70
-K:C
-%%MIDI program 1 71 % Clarinet  %%transpose=-2
-%%MIDI program 2 71 % Clarinet  %%transpose=-2
-V:Top
-[Q:1/4=120]
-[K:Ebmin]"^Major Octatonic in D"A/B/c/d/c|B>AB     |c2B/c/|d>cB  |c2 z|
-V:Bottom
-[K:Amin]"^Inversion of B"      z3       |D/E/F/G/E|D>EF  |G2E/F/|D2 z|
-
-
-
-
-
-X:5
-T:Octatonic Major intervals
-M:none
-L:1/1
-Q:1/1=80
-%%MIDI program 71 % Clarinet
-K:Amin
-A,B,CD _EF_G_A =A|
-w:
-[A,_E][A,=F][A,_G][A,_A]|[B,_E][B,=F][B,_G][B,_A]|[=C_E][=C=F][=C_G][=C_A]|[D_E][D=F][D_G][D_A]|
-w:TT    m6    M6    M7  |  M3    TT    P5    M6  |  m3    P4    TT     m6 | m2   m3   M3   TT  |
-A,B,CD _EF_G_A =A|
-[K:Amin]A,B,CD|[K:Ebmin]EFGA|=A|
-[K:Amin]A,B,CD|[K:Emin]EFGA|=A|
