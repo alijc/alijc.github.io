@@ -15,30 +15,30 @@ K:C
 %%MIDI program 1 71 % Clarinet  %%transpose=-2
 %%MIDI program 2 71 % Clarinet  %%transpose=-2
 V:Top
-[K:Ebmin]"^Major Octatonic in A (forcibly) "z3  |(E>FG/A/|G3)       |(A>GF/E/|G2)  z|
+[K:Ebmin]"^Major Octatonic in A (forcibly) "z3 |(!mf!!<(!!accent!E>FG/A/|G3)|(!<)!!ff!!accent!!>(!A>GF/E/|!>)!!f!G2)  z|
 V:Bottom
-[K:Amin]"^Canon at TT" (A,>B,C/D/|C3)   |(D>CB,/A,/|C3     |B,2) z|
+[K:Amin]"^Canon at TT" (!mf!!<(!!accent!A,>B,C/D/|C3)|(!<)!!ff!!>(!!accent!D>CB,/A,/|C3|!>)!!f!B,2) z|
 %
 V:Top
 [Q:1/4=120]
-"^Major Octatonic in D (skipping)".d/.c/.B/.A/B|c>dc     |B2c/B/|A>Bc  |B2 z|
+"^Major Octatonic in D (skipping)"!p!!>(!.d/.c/.B/.A/B|c>dc |B2c/B/|A>Bc |!>)!!pp!B2 z|
 V:Bottom
-"^Rhythmic Imitation at TT"     z3  |.G/.F/.E/.D/F|G>FE  |D2F/E/|D2 z|
+"^Rhythmic Imitation at TT"  z3|!p!!>(!.G/.F/.E/.D/F|G>FE  |D2F/E/|!>)!!pp!D2 z|
 %
 V:Top
 [Q:1/4=80]
-[K:Bmin]"^Major Octatonic in F (lazily)"z3/2 (B3/2 |c/2d/2e/2 d3/2-|d3/2) (e3/2|d/2c/2B/2d3/2-|d2) z|
+[K:Bmin]"^Major Octatonic in F (lazily)"z3/2 !mf!(B3/2 |c/2d/2e/2 d3/2-|d3/2) (e3/2|d/2c/2B/2d3/2-|d2) z|
 V:Bottom
-[K:Fmin]"^Stretto of A" (F>GA/2B/2|A3) |(B>AG/2F/2|A3 |G2) z|
+[K:Fmin]"^Stretto of A" !mf!(F>GA/2B/2|A3) |(B>AG/2F/2|A3 |G2) z|
 %
 V:Top
 [Q:1/4=120]
-[K:G#min]"^Major Octatonic in D (drearily)".C/.D/.E/.F/E|D>CD |E2D/2E/2|F>ED |E2 z|
+[K:G#min]"^Major Octatonic in D (drearily)"!f!.C/.D/.E/.F/E|D>CD |E2D/2E/2|F>ED |E2 z|
 V:Bottom
-[K:Dmin]"^Inversion of B" z3 |.G,/.A,/.B,/.C/A,|G,>A,B, |C2A,/2B,/2|G,2 z|
+[K:Dmin]"^Inversion of B" z3 |!f!.G,/.A,/.B,/.C/A,|G,>A,B, |C2A,/2B,/2|G,2 z|
 %
 V:Top
 [Q:1/4=100]
-[K:Amin]"^Aeolian in A (sweetly)"z3|(e>fg/a/|g3)|(a>gf/2e/2|c3)|
+[K:Amin]"^Aeolian in A (sweetly)"z3|!ppp!!<(!(e>fg/a/|g3)|!<)!!p!!>(!(a>gf/2e/2|!>)!!pp!c3)|
 V:Bottom
-[K:Amin]"^Canon at 5th" (A>Bc/d/|c3)|(d>cB/2A/2|c3|A3)|
+[K:Amin]"^Canon at 5th" (!ppp!!<(!A>Bc/d/|c3)|!<)!!p!!>(!(d>cB/2A/2|c3|!>)!!pp!A3)|
