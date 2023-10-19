@@ -1,0 +1,26 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%measurenb 0
+%%%%writefields QP 0
+
+X:1
+T:Dynamics
+C:Ali Corbin
+M:4/4
+L:1/1
+Q:1/1=100
+%%MIDI program 71 % Clarinet
+K:C transpose=-2
+!pppp!C|!ppp!D|!pp!E|!p!F|!mp!G|!mf!A|!f!B|!ff!c|!fff!B|!ffff!A|!sfz!G|!accent!F|!fermata!E|D|!p!C|
+!crescendo(!C|D|E|F|G|A|B|!crescendo)!c|!diminuendo(!B|A|G|F|E|D|!diminuendo)!C||
+
+X:2
+T:Articulations
+C:Ali Corbin
+M:4/4
+L:1/4
+Q:1/4=100
+%%MIDI program 71 % Clarinet
+K:C transpose=-2
+.C.C.C.C|(DDDD)|(.E.E.E.E)|!trill!F4|!lowermordent!GGGG|!uppermordent!AAAA|!pralltriller!BBBB|!accent!cccc|!emphasis!BBBB|!tenuto!A!tenuto!A!tenuto!A!tenuto!A|(!tenuto!G!tenuto!G!tenuto!G!tenuto!G)|!+!F!+!F!+!F!+!F|!wedge!E!wedge!E!wedge!E!wedge!E|!breath!DDDD|CCCC||
