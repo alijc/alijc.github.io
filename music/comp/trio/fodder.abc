@@ -1,0 +1,78 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%measurenb 0
+%%writefields QP 0
+%%landscape
+
+
+X:1
+T:Idumea
+C:Ananias Davisson
+M:3/2
+L:1/2
+Q:1/2=100
+K:Amin
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:Treble
+z2 c|e2 d|c2 d|e2 e|d2 (e/d/)|e2 (d/c/)|A2 A|c2 (c/B/)|A2 (c/d/)|e2 (B/A/)|G2 g|e2 (e/d/)|c2 d|e3||
+V:Alto
+z2 A|c2 (B/A/)|G2 G|A2 c|B2 (A/B/)|c2 (B/G/)|c2 c|G2 (A/B/)|c2 G|c2 (B/c/)|d2 c|c2 (G/F/)|E2G|E3||
+V:Tenor clef=treble-8
+z2 A|A2 (G/A/)|c2 (d/c/)|A2 e|g2 (e/d/)|c2 d|e2 e|g2 (e/d/)|e2 (d/c/)|A2 (G/E/)|G2 G|A2 (G/A/)|c2 (d/c/)|A3||
+V:Bass
+z2 A,|A,2D,|E,2E,|A,,2A,|G,2(C/B,/)|A,2G,|E,2 A,|G,2(A,/B,/)|A,2E,|A,,2C,|G,2 C,|A,,2 (C,/D,/)|E,2E,|A,,3||
+
+
+X:4
+T:Wake Ev'ry Breath
+C:William Billings
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|B2
+B|B2F|(G/>A/B)G|(FB)F|B2
+d|f2f|(d/>c/B)B|(d/>e/f)f|f2
+B|(d/>e/f)f|(gf)(3(B/c/d/)|(cB)(3(A/B/c/)|(d/>c/B)
+d|(BF)F|(B/>c/d)B|(AB)(3(c/B/A/)|(B/>c/d)
+d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B2
+V:Ground clef=bass
+B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
+
+X:5
+T:Wake Ev'ry Breath
+T:as round
+C:William Billings
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+%%MIDI program 5 41 % Viola
+%%MIDI program 6 41 % Viola
+V:1
+B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|B2
+V:2
+B|B2F|(G/>A/B)G|(FB)F|B2
+V:3
+d|f2f|(d/>c/B)B|(d/>e/f)f|f2
+V:4
+B|(d/>e/f)f|(gf)(3(B/c/d/)|(cB)(3(A/B/c/)|(d/>c/B)
+V:5
+d|(BF)F|(B/>c/d)B|(AB)(3(c/B/A/)|(B/>c/d)
+V:6
+d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B2
+V:Ground clef=bass
+B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
