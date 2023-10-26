@@ -6,13 +6,13 @@
 %%landscape
 
 
-X:1
+X:12
 T:Idumea
 C:Ananias Davisson
 M:3/2
 L:1/2
 Q:1/2=100
-K:Amin
+K:AMin
 %%MIDI program 1 41 % Viola
 %%MIDI program 2 41 % Viola
 %%MIDI program 3 41 % Viola
@@ -26,8 +26,67 @@ z2 A|A2 (G/A/)|c2 (d/c/)|A2 e|g2 (e/d/)|c2 d|e2 e|g2 (e/d/)|e2 (d/c/)|A2 (G/E/)|
 V:Bass
 z2 A,|A,2D,|E,2E,|A,,2A,|G,2(C/B,/)|A,2G,|E,2 A,|G,2(A,/B,/)|A,2E,|A,,2C,|G,2 C,|A,,2 (C,/D,/)|E,2E,|A,,3||
 
+X:13
+T:Idumea
+C:Ananias Davisson
+M:3/2
+L:1/2
+Q:1/2=100
+K:AMin
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:Treble
+z2 c|e2 d|c2 d|e2 e|d2 (e/d/)|e2 (d/c/)|A2 A|c2 (c/B/)|A2 (c/d/)|e2 (B/A/)|G2 g|e2 (e/d/)|c2 ^G|A3||
+V:Alto
+z2 A|c2 (B/A/)|G2 ^G|A2 c|B2 (A/B/)|c2 (B/G/)|c2 c|G2 (A/B/)|c2 G|c2 (B/c/)|d2 c|c2 (G/F/)|E2G|E3||
+V:Tenor clef=treble-8
+z2 A|A2 (^G/A/)|c2 (d/c/)|A2 e|g2 (e/d/)|c2 d|e2 e|g2 (e/d/)|e2 (d/c/)|A2 (G/E/)|G2 ^G|A2 (^G/A/)|c2 (d/c/)|A3||
+V:Bass
+z2 A,|A,2D,|E,2E,|A,,2A,|G,2(C/B,/)|A,2G,|E,2 A,|G,2(A,/B,/)|A,2E,|A,,2C,|G,2 C,|A,,2 (C,/D,/)|E,2E,|A,,3||
 
-X:3
+X:21
+T:Vernon
+C:Harmonia Sacra
+M:2/4
+L:1/4
+Q:1/4=100
+K:Emin
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:Treble
+z B|ee|dA/B/|d/B/ A/G/|B>B|d>d|dB|EG/>A/|B2||zG|d>d|e>B|A/G/ B/c/|d>f|gd|ed/c/|BB|B2||
+V:Alto
+z E|GG|GE|E^D|E3/2F//G//|F>G|FE|EE/>D/|E2||zG|B>B|A>G|E^D|D>F|GG|E^D|EE|E2||
+V:Tenor clef=treble-8
+zG|BB|BA/G/|BA/G/|E3/2F//G//|A>B|AE|GG/>A/|G2||zd|g>f|e>d|e/d/ B/A/|G>A|B^d|eB/A/|EE|E2||
+V:Bass clef=bass
+z E,|E,B,,|G,E,|B,,^D,|E,>F,|D,>B,,|D,E,|G,B,|E,2||zG,|G,>B,|A,E,/D,/|A,/G,/F,|G,>F,|E,G,|A,D,|B,,B,,|E,2||
+
+X:22
+T:Vernon
+C:Sacred Harp
+M:2/4
+L:1/4
+Q:1/4=100
+K:Emin
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:Treble
+z B|ee|dA/B/|d/B/ A/G/|B>B|d>d|dB|EG/>A/|B2||zG|d>d|eB|A/G/ B/c/|d>f|gd|ed/c/|BB|B2||
+V:Alto
+z E|GG|GA/G/|FD|E>B|A>G|DE|ED|E2||zB|B>B|AE/F//G//|A/B/ B/A/|G>c|BG|ED|B,E|E2||
+V:Tenor clef=treble-8
+zG|BB|BA/G/|BA/G/|E3/2F//G//|A>B|AE|GG/>A/|G2||zd|g>f|e>d|e/d/ B/A/|G>A|Bd|eF/A/|EE|E2||
+V:Bass clef=bass
+z E,|E,B,,|G,E,|B,,D,|E,>F,|D,>B,,|D,E,|G,B,|E,2||zG,|G,>B,|A,/E,/D,|A,/G,/F,|G,>F,|E,G,|A,D,|B,,B,,|E,2||
+
+X:31
 T:All is Well
 C:J.T.White
 M:4/4
@@ -52,7 +111,7 @@ A,2E,E,|E,2D,2|C,E,F,E,|(D,<E,)F,A,|(E,>D,)C,E,|A,,4||(A,>G,)E,E,|(A,<G,)(F,E,)|
 A,A,E,2|E,2F,F,|A,2A,2|E,E,E,2|C,2A,G,|F,E,F,F,|A,2E,E,|(F,>E,)A,E,|A,,4||
 
 
-X:4
+X:41
 T:Wake Ev'ry Breath
 C:William Billings
 M:3/2
@@ -73,7 +132,7 @@ d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B2
 V:Ground clef=bass
 B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
 
-X:5
+X:42
 T:Wake Ev'ry Breath
 T:as round
 C:William Billings
