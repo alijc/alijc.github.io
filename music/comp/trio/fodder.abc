@@ -5,6 +5,21 @@
 %%writefields QP 0
 %%landscape
 
+%%center  Formal Plan for Woodwind Trio
+%%vskip
+%%begintext
+There will be a melody of the tenor lines of two hymns, Idumea and All is Well, plus the round Wake Ev'ry Breath,
+passing between instruments and registers.
+There will be a ground, consisting, at first, of slow rising minor thirds and seconds.
+It will later expand to major thirds and perfect fourths and fifths.
+Then that will fade away, and switch to Billings' ground.
+Another, higher, voice will be jagged.
+It will gradually speed up and become frantic, before coming to a crisis and resolving with a bang.
+It will pause then before resuming, more melodiously, starting out very softly and growing strong and joyful.
+%%endtext
+
+%%newpage
+%%center  Fodder
 
 X:12
 T:Idumea
@@ -160,3 +175,34 @@ V:6
 d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B2
 V:Ground clef=bass
 B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
+
+%%newpage
+%%center  Sketches
+
+X:51
+T:Different intervals in the ostinato
+M:3/2
+L:1/2
+Q:1/2=100
+K:Cmin
+%%MIDI program 1 73 % Flute
+%%MIDI program 2 68 % Oboe
+V:Flute %%name="Flute" snm="Fl"
+C3|E3|z3|C3|F3|z3|C3|G3|z3|C3|=E3|z3|C3|E3|
+%%s:"<Flute"
+V:Oboe %%name="Oboe" snm="Ob"
+z2 c|c2 (B/2c/2)|e2 (f/2e/2)|c2 g|b2 (g/2f/2)|e2 f|g2 g|b2 (g/2f/2)|g2 (f/2e/2)|c2 (B/2G/2)|B2 B|c2 (B/2c/2)|e2 (f/2e/2)|c3||
+%%s:"<Oboe"
+
+X:52
+T:An upper part in different speeds
+M:3/2
+L:1/2
+Q:1/2=100
+K:Cmin
+%%MIDI program 1 70 % Bassoon
+%%MIDI program 2 68 % Oboe
+V:Bassoon
+z2 b|g2 (g/2f/2)|e2 f|g3||z b/g g//f//|e f/g3/2||z/ b//g/ g///f///e/ f//g3/4||
+V:Oboe %%name="Oboe" snm="Ob"
+z2 c|c2 (B/2c/2)|e2 (f/2e/2)|c2 g|b2 (g/2f/2)|e2 f|g3||
