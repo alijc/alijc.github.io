@@ -206,3 +206,29 @@ V:Bassoon
 z2 b|g2 (g/2f/2)|e2 f|g3||z b/g g//f//|e f/g3/2||z/ b//g/ g///f///e/ f//g3/4||
 V:Oboe %%name="Oboe" snm="Ob"
 z2 c|c2 (B/2c/2)|e2 (f/2e/2)|c2 g|b2 (g/2f/2)|e2 f|g3||
+
+X:53
+T:An upper part of appregiated chords
+M:3/2
+L:1/2
+Q:1/2=100
+K:Dmin
+%%MIDI program 1 70 % Bassoon
+%%MIDI program 2 68 % Oboe
+V:Bassoon
+z3|d/f/a/f/a/d/|f/a/c'/a/f/c/|d/f/a/b/f/d/|c/e/_g/e/_g/c/|f/a/c/e/d/f/|d/a/c/a/c/d/||
+V:Oboe%%name="Oboe" snm="Ob"
+z2 D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A3||
+
+X:54
+T:chords with more rhythmic variety
+M:3/2
+L:1/2
+Q:1/2=100
+K:Dmin
+%%MIDI program 1 70 % Bassoon
+%%MIDI program 2 68 % Oboe
+V:Bassoon
+z3|d//f/a//f//a/d//z|f//a//z/c'//a//z/f//c//z/|d/f//a//b/f//d//z|(3c/e/_g/ z/ (3e/_g/c/ z/|f//a//c//e//d//f//c//a//z|d//>a//c//a//c/>d/a||
+V:Oboe%%name="Oboe" snm="Ob"
+z2 D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A3||
