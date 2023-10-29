@@ -5,6 +5,11 @@
 %%writefields QP 0
 %%%%landscape
 
+%%fl gr mel top
+%%cl top gr  mel
+%%bs mel top gr
+
+
 X:1
 T:MUS240 Woodwind Trio
 C:Ali Corbin
@@ -13,15 +18,25 @@ L:1/2
 Q:1/2=100
 K:Dmin
 %%MIDI program 1 73 % Flute
-%%MIDI program 2 68 % Oboe
+%%MIDI program 2 72 % Clarinet
 %%MIDI program 3 70 % Bassoon
 V:Flute name="Flute" snm="Fl"
-%%s:"<Flute"
-D3|F3|z3|D3|F3|z3|D3|F3|z3|D3|F3|
-z3|D3|F3|z3|D3|F3|z3|D3|F3|z3|D3-|D3|_E3-|_E3||
-V:Oboe name="Oboe" snm="Ob"
-z3|z3|z3|z3|z2 D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2
-V:Bassoon name="Bassoon" snm="Bas"
+D3|F3|z3|D3|F3|z3|D3|F3|z3|D3|F2a|
+s:!ppp!
+c'2 (a/2g/2)|a2 (g/2f/2)|d2 (c/2A/2)|c2 c|d2 (c/2d/2)|f2 (g/2f/2)|d2 z|
+f/4f'/4d'/4d''/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
+e/4e'/4=b/4b'/4 g/4g'/4g/4b/4 g/2>z/2|g/4g'/4c'/4c''/4 =b/4b'/4b/4d'/4 b/2>z/2|=b/4g'/4c'/4c''/4 b/4b'/4b/4d'/4 b/2>z/2|e'3||
+V:Clarinet name="Bb Clarinet" snm="Cl"
+[K:Emin transpose=-2]
+z3|z3|z3|z3|z3|z3|EB,E|BeB|AzD|EDC|B,2z|
+z3|E3|G3|z3|E3|G3|z2 B|
+d2 (B/2A/2)|B2 (A/2G/2)|E2 (D/2B,/2)|D2 ^D|E2 (^D/2E/2)|G2 (A/2G/2)|E3||
+V:Bassoon name="Bassoon" snm="Bas" clef=tenor
+z3|z3|z3|z3|z2 D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2 z|
+[K:bass]
+G,/4A,/4=B,/2C/2DE/2|E,/4F,/4G,/2A,/2=B,C/2|C,/4D,/4E,/2F,/2G,A,/2|=B,2z|D/4C/4=B,/2A,/2G,F,/2|=B,/4A,/4G,/2F,/2E,D,/2|C,2 z|
+D,,3|F,,3|z3|D,,3-|D,,3|_E,,3-|_E,,3||
+
 
 X:2
 T:MUS240 Woodwind Trio - parts
@@ -34,35 +49,16 @@ K:Dmin
 %%MIDI program 2 41 % Viola
 %%MIDI program 3 41 % Viola
 V:Top name="Top" snm="Top"
-z3|z3|z3|z3|z3|z3|dAd|ad'a|
-gzc|dcB|A2z|G//A//=B/c/de/|E//F//G/A/=Bc/|C//D//E/F/GA/|=B2z|
-d//c//=B/A/GF/|=B//A//G/F/ED/|C2 z|
+z3|z3|z3|z3|z3|z3|dAd|ad'a|gzc|dcB|A2z|
+G//A//=B/c/de/|E//F//G/A/=Bc/|C//D//E/F/GA/|=B2z|d//c//=B/A/GF/|=B//A//G/F/ED/|C2 z|
 F//f//d//d'// A//a//A//d// A/>z/|D//d//=B//b// F//f//F//B// F/>z/|=B,//B//G//g// D//d//D//G// D/>z/| 
 E//e//=B//b// G//g//G//B// G/>z/|G//g//c//c'// =B//b//B//d// B/>z/|=B//g//c//c'// B//b//B//d// B/>z/|e3||
 V:Melody name="Melody" snm="Mel"
-z3|z3|z3|z3|z2 D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2
+z3|z3|z3|z3|z2
+D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2
 A|c2 (A/2G/2)|A2 (G/2F/2)|D2 (C/2A,/2)|C2 C|D2 (C/2D/2)|F2 (G/2F/2)|D2
 A|c2 (A/2G/2)|A2 (G/2F/2)|D2 (C/2A,/2)|C2 ^C|D2 (^C/2D/2)|F2 (G/2F/2)|D3||
 V:Ground name="Ground" snm="Gr."
 D3|F3|z3|D3|F3|z3|D3|F3|z3|D3|F3|
-z3|D3|F3|z3|D3|F3|z3|D3|F3|z3|D3-|D3|_E3-|_E3||
-
-X:3
-T:tests
-C:Ali Corbin
-M:3/2
-L:1/2
-Q:1/2=100
-K:Dmin
-%%MIDI program 1 61
-%%MIDI program 2 41 % Viola
-%%MIDI program 3 41 % Viola
-V:Top name="Top" snm="Top"
-F//f//d//d'// A//a//A//d// A/>z/|D//d//=B//b// F//f//F//B// F/>z/|=B,//B//G//g// D//d//D//G// D/>z/| 
-E//e//=B//b// G//g//G//B// G/>z/|G//g//c//c'// =B//b//B//d// B/>z/|=B//g//c//c'// B//b//B//d// B/>z/|e3||
-V:Melody name="Melody" snm="Mel"
-c2 (A/2G/2)|A2 (G/2F/2)|D2 (C/2A,/2)|C2 ^C|D2 (^C/2D/2)|F2 (G/2F/2)|D3||
-V:Ground name="Ground" snm="Gr."
+z3|D3|F3|z3|D3|F3|z3|
 D3|F3|z3|D3-|D3|_E3-|_E3||
-
-
