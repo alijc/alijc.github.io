@@ -35,14 +35,17 @@ s:|||+ffff+
 s:|||+<)+
 s:|||+fermata+
 V:Clarinet name="Bb Clarinet" snm="Cl"
-[K:Emin transpose=-2]
-z3|z3|z3|z3|z3|z3|(EB,E|BeB|A)z(D|EDC|B,2)z|
+%%%%[K:Emin transpose=-2]
+z3|z3|z3|z3|z3|z3|(DA,D|AdA|G)z(C|DCB,|A,2)z|
+%%z3|z3|z3|z3|z3|z3|(EB,E|BeB|A)z(D|EDC|B,2)z|
 s:+pp+
-z3|E3|G3|z3|E3|G3|z2 (B|
+z3|D3|F3|z3|D3|F3|z2 (A|
+%%z3|E3|G3|z3|E3|G3|z2 (B|
 s:+>+|+>+||+>+|+>+|
 s:|+mp+|||+mf+||
 s:+breath+||+breath+|
-d2 B/2A/2|B2) (A/2G/2|E2 D/2B,/2|D2) (^D|E2 ^D/2E/2|G2) (A/2G/2|E3)||
+c2 A/2G/2|A2) (G/2F/2|D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|D3)||
+%%d2 B/2A/2|B2) (A/2G/2|E2 D/2B,/2|D2) (^D|E2 ^D/2E/2|G2) (A/2G/2|E3)||
 s:|+breath+||+breath+||+breath+|+ffff+
 s:+<(+||||||+<)+
 s:||||||+fermata+
