@@ -2,7 +2,7 @@
 %%titletrim true
 %%titleformat A-1 T C1, Z-1, S-1
 %%measurenb 0
-%%writefields QP 0
+%%%%writefields QP 0
 %%%%landscape
 
 X:51
@@ -54,7 +54,7 @@ X:54
 T:How will new part fit?
 M:4/4
 L:1/4
-Q:1/4=100
+Q:1/4=120
 K:AMaj
 %%MIDI program 1 41 % Viola
 %%%%MIDI program 2 41 % Viola
@@ -78,7 +78,7 @@ V:Tenor
 A2GA|B2A2|GABc|(d<B)cA|(B>c)AG|A4||
 V:Five
 LF/A//z/ LF/A//z/ LF/A//z/ LF//-|F//A//z/ LF/A//z/ LF/A//z/ LF/|A//z/
-LF/A//z/ LF/A//z/ LF/A//|z/ LF/A//z/ LF/A//z/ LF/A//z//-|z//
+LF/A//z/ LF/A//z/ LF/A//|z/ LF/A//z/ LF/A//z/ LF/A//z//|z//
 LF/A//z/ LF/A//z/ LF/A//z/| LF/A//z/ LF/A//z/ LF/A//z/ z//||
 V:Four
 C4|E4|z4|E4|G4|z4||
@@ -90,3 +90,26 @@ z2 z F|LA/z FLA/z| FLA/z FLA/|z FLA/z F/-|F/LA/z FLA/z/|z/ FLA/z F||
 V:Four
 C4|E4|z4|E4|G4|z4||
 
+
+X:55
+T:Parts
+M:4/4
+L:1/4
+Q:1/4=120
+K:AMaj
+%%%%MIDI program 1 41 % Viola
+%%MIDI program 1 19 % Church Organ
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+V:Top
+z4|z4|z4|z4|Lg/b//z/ Lg/b//z/ Lg/b//z/ Le//-|e//g//z/ Le/g//z/ Le/g//z/ Lc/|
+|: e//z/ Lc/e//z/ Lc/e//z/ c3/4|z2 z c|Ld/z eLf/z| eLb/z eLc'/|z eLc'/z d/-|d/Lf/-f z z/ c/ :|
+e3z |c2e2|z B2e-|ez c2|e3z |c2e2-|ez c2|e3z |c2e2-|e zc2|e4||
+V:Tenor
+z4|z4|z4|z4|z4|z4|
+|:A2GA|B2A2|GABc|(d<B)cA|(B>c)AG|A4:|
+(c>d)ee|(e<c)(cA)|dd(d<c)|B2cc|e2e2|Bc(B<A)|(G<E)AG|ABcd|e2cA|(B>c)AG|A4||
+V:Bottom
+C,4|E,4|z4|C,4|E,4|z4|
+|:C,4|E,4|z4|E,4|G,4|z4:|
+A,,4|E,4|z4|E,4|B,4|z4|C,4|F,4|z4|E,4|A,4||
