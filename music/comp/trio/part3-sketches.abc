@@ -1,0 +1,205 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%measurenb 0
+%%writefields QP 0
+%%%%landscape
+
+X:1
+T:Wake Ev'ry Breath
+C:William Billings
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|B2
+B|B2F|(G/>A/B)G|(FB)F|B2
+d|f2f|(d/>c/B)B|(d/>e/f)f|f2
+B|(d/>e/f)f|(gf)(3(B/c/d/)|(cB)(3(A/B/c/)|(d/>c/B)
+d|(BF)F|(B/>c/d)B|(AB)(3(c/B/A/)|(B/>c/d)
+d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B2
+V:Ground clef=bass
+B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
+
+%%textfont monospace
+%%begintext
+Ground:
+1|115|616|515|11
+Round:
+1|332|134|532|11
+1|115|616|515|11
+3|555|311|355|55
+1|355|65x|21x|31
+3|155|131|71x|13
+3|531|135|31x|11
+%%endtext
+
+X:2
+T:transposed down a fifth, staying in Bb
+T:(putting it in mixolydian?)
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bbmaj
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+E|(G/2>A/2G)F|(E/2>F/2G)A|(B/2>A/2G)F|E2E|E2B,|(C/2>D/2E)C|(B,E)B,|E2
+G|B2B|(G/2>F/2E)E|(G/2>A/2B)B|B2E|(G/2>A/2B)B|(cB)(3(E/2F/2G/2)|(FE)(3(D/2E/2F/2)|(G/2>F/2E)
+G|(EB,)B,|(E/2>F/2G)E|(DE)(3(F/2E/2D/2)|(E/2>F/2G)G|(B/2A/2G/2F/2)(E/2D/2)|(E/2F/2G/2A/2)(B/2A/2)|(G/2B/2E/2G/2)(3(F/2E/2D/2)|E2
+
+X:3
+T:transposed down a fifth, changing keys
+M:3/2
+L:1/2
+Q:1/2=100
+K:Ebmaj
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+E|(G/2>A/2G)F|(E/2>F/2G)A|(B/2>A/2G)F|E2E|E2B,|(C/2>D/2E)C|(B,E)B,|E2
+G|B2B|(G/2>F/2E)E|(G/2>A/2B)B|B2E|(G/2>A/2B)B|(cB)(3(E/2F/2G/2)|(FE)(3(D/2E/2F/2)|(G/2>F/2E)
+G|(EB,)B,|(E/2>F/2G)E|(DE)(3(F/2E/2D/2)|(E/2>F/2G)G|(B/2A/2G/2F/2)(E/2D/2)|(E/2F/2G/2A/2)(B/2A/2)|(G/2B/2E/2G/2)(3(F/2E/2D/2)|E2
+
+
+
+X:4
+T:Canon with fifth down, staying in Bb
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|B2B|B2F|(G/>A/B)G|(FB)F|B2d|f2f|(d/>c/B)B|(d/>e/f)f|f2
+B|(d/>e/f)f|(gf)(3(B/c/d/)|(cB)(3(A/B/c/)|(d/>c/B)d|(BF)F|(B/>c/d)B|(AB)(3(c/B/A/)|(B/>c/d)d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B2
+V:2
+z|zz
+E|(G/2>A/2G)F|(E/2>F/2G)A|(B/2>A/2G)F|E2
+E|E2B,|(C/2>D/2E)C|(B,E)B,|E2
+G|B2B|(G/2>F/2E)E|(G/2>A/2B)B|B2
+E|(G/2>A/2B)B|(cB)(3(E/2F/2G/2)|(FE)(3(D/2E/2F/2)|(G/2>F/2E)
+G|(EB,)B,|(E/2>F/2G)E|(DE)(3(F/2E/2D/2)|(E/2>F/2G)
+G|(B/2A/2G/2F/2)(E/2D/2)|(E/2F/2G/2A/2)(B/2A/2)|(G/2B/2E/2G/2)(3(F/2E/2D/2)|E2
+
+X:5
+T:Canon with fifth down, in different keys
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|B2B|B2F|(G/>A/B)G|(FB)F|B2d|f2f|(d/>c/B)B|(d/>e/f)f|f2
+B|(d/>e/f)f|(gf)(3(B/c/d/)|(cB)(3(A/B/c/)|(d/>c/B)d|(BF)F|(B/>c/d)B|(AB)(3(c/B/A/)|(B/>c/d)d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B2
+V:2
+[K:Ebmaj]
+z|zz
+E|(G/2>A/2G)F|(E/2>F/2G)A|(B/2>A/2G)F|E2
+E|E2B,|(C/2>D/2E)C|(B,E)B,|E2
+G|B2B|(G/2>F/2E)E|(G/2>A/2B)B|B2
+E|(G/2>A/2B)B|(cB)(3(E/2F/2G/2)|(FE)(3(D/2E/2F/2)|(G/2>F/2E)
+G|(EB,)B,|(E/2>F/2G)E|(DE)(3(F/2E/2D/2)|(E/2>F/2G)
+G|(B/2A/2G/2F/2)(E/2D/2)|(E/2F/2G/2A/2)(B/2A/2)|(G/2B/2E/2G/2)(3(F/2E/2D/2)|E2
+
+
+X:6
+T:Canon with fourth down, in Bb
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|B2B|B2F|(G/>A/B)G|(FB)F|B2d|f2f|(d/>c/B)B|(d/>e/f)f|f2
+B|(d/>e/f)f|(gf)(3(B/c/d/)|(cB)(3(A/B/c/)|(d/>c/B)d|(BF)F|(B/>c/d)B|(AB)(3(c/B/A/)|(B/>c/d)d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B2
+V:2
+z|z2
+F|(A/2>B/2A)G|(F/2>G/2A)B|(c/2>B/2A)G|F2
+F|F2C|(D/2>E/2F)D|(CF)C|F2
+A|c2c|(A/2>G/2F)F|(A/2>B/2c)c|c2
+F|(A/2>B/2c)c|(dc)(3(F/2G/2A/2)|(GF)(3(E/2F/2G/2)|(A/2>G/2F)
+A|(FC)C|(F/2>G/2A)F|(EF)(3(G/2F/2E/2)|(F/2>G/2A)
+A|(c/2B/2A/2G/2)(F/2E/2)|(F/2G/2A/2B/2)(c/2B/2)|(A/2c/2F/2A/2)(3(G/2F/2E/2)|F2
+
+
+X:7
+T:Canon with fourth down, in different keys
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|B2B|B2F|(G/>A/B)G|(FB)F|B2d|f2f|(d/>c/B)B|(d/>e/f)f|f2
+B|(d/>e/f)f|(gf)(3(B/c/d/)|(cB)(3(A/B/c/)|(d/>c/B)d|(BF)F|(B/>c/d)B|(AB)(3(c/B/A/)|(B/>c/d)d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B2
+V:2
+[K:Fmaj]
+z|z2z|z2z|z2
+F|(A/2>B/2A)G|(F/2>G/2A)B|(c/2>B/2A)G|F2
+F|F2C|(D/2>E/2F)D|(CF)C|F2
+A|c2c|(A/2>G/2F)F|(A/2>B/2c)c|c2
+F|(A/2>B/2c)c|(dc)(3(F/2G/2A/2)|(GF)(3(E/2F/2G/2)|(A/2>G/2F)
+A|(FC)C|(F/2>G/2A)F|(EF)(3(G/2F/2E/2)|(F/2>G/2A)
+A|(c/2B/2A/2G/2)(F/2E/2)|(F/2G/2A/2B/2)(c/2B/2)|(A/2c/2F/2A/2)(3(G/2F/2E/2)|F2
+
+
+X:8
+T:Canon with doubled part
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|
+B2B|B2F|(G/>A/B)G|(FB)F|
+B2d|f2f|(d/>c/B)B|(d/>e/f)f|f2B|(d/>e/f)f|
+V:2
+[L:1/4]
+z2|z2
+B(d/>e/d)c|(B/>c/d)e(f/>e/d)c|B2BB2F|(G/>A/B)G(FB)F|B2df2f|(d/>c/B)B(d/>e/f)f|f2
+B|(d/>e/f)f|(gf)(3(B/c/d/)|(cB)(3(A/B/c/)|(d/>c/B)d|(BF)F|(B/>c/d)B|(AB)(3(c/B/A/)|(B/>c/d)d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B6|
+
+X:9
+T:Canon with quadupled part
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+%%MIDI program 4 41 % Viola
+V:1
+B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|
+B2B|B2F|(G/>A/B)G|(FB)F|
+V:2
+[L:1/8]
+z4|z4z2
+B(d/>e/d)c (B/>c/d)|e(f/>e/d)c B2BB2F (G/>A/B)|G(FB)FB2df2f(d/>c/B)|B(d/>e/f)ff2
+B(d/>e/f)f (gf)|(3(B/c/d/) (cB)(3(A/B/c/) (d/>c/B)d (BF)F (B/>c/d)|B (AB)(3(c/B/A/) (B/>c/d)d(f/e/d/c/)(B/A/)(B/c/d/e/)|(f/e/) (d/f/B/d/) (3(c/B/A/) B8|
