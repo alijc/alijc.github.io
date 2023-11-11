@@ -176,3 +176,31 @@ E2|(3(D/2E/2F/2)(G/2E/2B/2G/2)|"Cm"(_A/2B/2)(A/2G/2F/2E/2)|"Eb"(D/2E/2)(F/2G/2_A
 (EF/2<G/2)|(3(F/2E/2D/2)(EF)|"Cm"(3(G/2F/2E/2)(Bc)|"Eb"B(B_A/2<G/2)|EB2|"Cm"B(B_A/2<G/2)|"Eb"E(EF/2<G/2)|BB2|G
 E2|B,(EB,)|"Cm"C(ED/2<C/2)|"Eb"E2B,|E2E|F(G_A/2<B/2)|"Cm"_A(GF/2<E/2)|"Eb"F(G_A/2<G/2)|E
 
+
+
+X:20
+T:Trio
+T:Using the retrograde, adjusted, as a harmony
+M:3/2
+L:1/2
+Q:1/2=100
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+K:BbMaj
+V:Melody
+"^Melody"
+z2B|(d/>e/d)c|(B/>c/d)e|(f/>e/d)c|B2B|B2F|(G/>A/B)G|(FB)F|B2d|
+f2f|(d/>c/B)B|(d/>e/f)f|f2B|(d/>e/f)f|(gf)(3(B/c/d/)|(cB)(3(A/B/c/)|(d/>c/B)d|
+(BF)F|(B/>c/d)B|(AB)(3(c/B/A/)|(B/>c/d)d|(f/e/d/c/)(B/A/)|(B/c/d/e/)(f/e/)|(d/f/B/d/)(3(c/B/A/)|B3||
+V:Harmony
+"^Harmony"
+z3|B2(3(A/B/c/)|G2(3(A/B/c/)|B2(3(A/B/c/)|(dc/<B/)(3(A/B/c/)|(BF)B|(d2c/<B/)|F(FB)|d
+(Bc/<d/)|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|f2(3(f/e/d/)|Bf2|f2(3(f/e/d/)|(Bc/<d/)B|ff2|d
+B2|F(BF)|G2(3(B/A/G/)|F2B|G2(B/>c/)|(d>ef)|e(dc/<B/)|cd2|B3||
+V:Ground
+B,,2-B,,/>z/|F,2-F,/>z/|z3|B,,2-B,,/>z/|F,2-F,/>z/|z3|
+z3|B,,2-B,,/>z/|F,2-F,/>z/|z3|z3|B,,3|z2
+B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
+B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
+B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,3||
