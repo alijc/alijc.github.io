@@ -21,10 +21,8 @@ K:Dmin
 %%MIDI program 2 72 % Clarinet
 %%MIDI program 3 70 % Bassoon
 V:Flute name="Flute" snm="Fl"
-D3|F3|z3|D3|F3|z3|D3|F3|z3|D3|F2 (a|
+LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 (a|
 s:!ppp!|||||+pp+||||+f+
-s:+>+|+>+||+>+|+>+||+>+|+>+||+>+|+>+
-s:+breath+||+breath+||+breath+||+breath+|
 c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
 s:|+breath+||+breath+||+breath+
 f/4f'/4d'/4d''/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
@@ -39,11 +37,9 @@ V:Clarinet name="Bb Clarinet" snm="Cl"
 z3|z3|z3|z3|z3|z3|(DA,D|AdA|G)z(C|DCB,|A,2)z|
 %%z3|z3|z3|z3|z3|z3|(EB,E|BeB|A)z(D|EDC|B,2)z|
 s:+pp+
-z3|D3|F3|z3|D3|F3|z2 (A|
+z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z2 (A|
 %%z3|E3|G3|z3|E3|G3|z2 (B|
-s:+>+|+>+||+>+|+>+|
 s:|+mp+|||+mf+||
-s:+breath+||+breath+|
 c2 A/2G/2|A2) (G/2F/2|D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|D3)||
 %%d2 B/2A/2|B2) (A/2G/2|E2 D/2B,/2|D2) (^D|E2 ^D/2E/2|G2) (A/2G/2|E3)||
 s:|+breath+||+breath+||+breath+|+ffff+
@@ -56,10 +52,9 @@ s:+p+|||+breath+
 G,/4A,/4=B,/2C/2DE/4z/4|E,/4F,/4G,/2A,/2=B,C/4z/4|C,/4D,/4E,/2F,/2G,A,/4z/4|=B,2z|D/4C/4=B,/2A,/2G,F,/4z/4|=B,/4A,/4G,/2F,/2E,D,/4z/4|C,2 z|
 s:+p+|||+f+|||+mf+
 s:+<(+|||+<)+|+>(+||+>)+
-D,,3|F,,3|z3|D,,3-|D,,3|_E,,3-|_E,,3||
+LD,,2-D,,/>z/|LF,,3|z3|LD,,3-|D,,2-D,,/>z/|L_E,,3-|_E,,3||
 s:+f+|||+ff+||+f+|+ffff+
-s:+>+|+>+||+>(+|+>)+|+<(+|+<)+|
-s:+breath+||||+breath+||+fermata+
+s:||||||+fermata+
 
 
 X:2
