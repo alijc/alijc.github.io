@@ -56,7 +56,6 @@ B|"Eb"(G/>F/G)A|"Gm"(B/>A/G)F|"Eb"(E/>F/G)A|"Eb"B2B|"Eb"B2e|"Gm"(d/>c/B)d|"Eb"(e
 G|"Eb"E2E|"Gm"(G/>A/B)B|"Eb"(G/>F/E)E|"Eb"E2B|"Eb"(G/>F/E)E|"Gm"(DE)(3(B/A/G/)|"Eb"(AB)(3(c/B/A/)|"Eb"(G/>A/B)
 G|"Eb"(Be)e|"Gm"(B/>A/G)B|"Eb"(cB)(3(A/B/c/)|"Eb"(B/>A/G)G|"Eb"(E/F/G/A/)(B/c/)|"Gm"(B/A/G/F/)(E/F/)|"Eb"(G/E/B/G/)(3(A/B/c/)|"Eb"B2
 
-
 X:4
 T:Retrograde Inversion
 M:3/2
@@ -72,4 +71,108 @@ w: |IV          |vi          |IV
 B2|(3c/B/A/G/B/E/G/|"Gm"F/E/F/G/A/B/|"Eb"c/B/A/G/F/E/|GGA/<B/|(3c/B/A/Bc|"Gm"BGA/<B/|"Eb"eeB|G
 BA/<G/|(3A/B/c/BA|"Gm"(3G/A/B/ED|"Eb"EEF/<G/|BE2|EEF/<G/|"Gm"BBA/<G/|"Eb"EE2|G
 B2|eBe|"Gm"dBc/<d/|"Eb"eB2|BB2|AGF/<E/|"Gm"FGA/<B/|"Eb"AGF/<G/|B
+
+X:5
+T:Up a fifth (down a fourth)
+M:3/2
+L:1/2
+Q:1/2=100
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 41 % Viola
+K:Bbmaj
+[K:bass]
+"^Ground"
+F,|"F"F,2C,|"Dm"(D,/2>=E,/2F,)D,|"F"(C,F,)C,|"F"F,,2
+w: |V      |ii                  |V          |V
+[K:treble]
+"^Melody"
+F|"F"(A/2>B/2A)G|"Dm"(F/2>G/2A)B|"F"(c/2>B/2A)G|"F"F2F|F2C|"Dm"(D/2>=E/2F)D|"F"(CF)C|"F"F2
+A|"F"c2c|"Dm"(A/2>G/2F)F|"F"(A/2>B/2c)c|"F"c2F|"Dm"(A/2>B/2c)c|"F"(dc)(3(F/2G/2A/2)|"F"(GF)(3(=E/2F/2G/2)|"F"(A/2>G/2F)
+A|"F"(FC)C|"Dm"(F/2>G/2A)F|"F"(=EF)(3(G/2F/2E/2)|"F"(F/2>G/2A)A|(c/2B/2A/2G/2)(F/2=E/2)|"Dm"(F/2G/2A/2B/2)(c/2B/2)|"F"(A/2c/2F/2A/2)(3(G/2F/2=E/2)|"F"F2
+
+X:6
+T:Retrograde, up a fifth
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bbmaj
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 1 41 % Viola
+[K: clef=bass]
+"^Ground"
+"F"zF,,2|C,(F,C,)|"Dm"D,(F,=E,/2<D,/2)|"F"C,F,2|F,
+w:V     |V       |ii                  |V
+%
+[K: clef=treble]
+"^Melody"
+F2|(3(=E/2F/2G/2)(A/2F/2c/2A/2)|"Dm"(B/2c/2)(B/2A/2G/2F/2)|"F"(=E/2F/2)(G/2A/2B/2c/2)|A(AG/2<F/2)|"Dm"(3(=E/2F/2G/2)(FE)|"F"F(AG/2<F/2)|C(CF)|A
+(FG/2<A/2)|(3(G/2F/2=E/2)(FG)|"Dm"(3(A/2G/2F/2)(cd)|"F"c(cB/2<A/2)|Fc2|"Dm"c(cB/2<A/2)|"F"F(FG/2<A/2)|cc2|A
+F2|C(FC)|"Dm"D(F=E/2<D/2)|"F"F2C|F2F|G(AB/2<c/2)|"Dm"B(AG/2<F/2)|"F"G(AB/2<A/2)|F
+
+X:7
+T:Inversion, up a fifth
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bbmaj
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 1 41 % Viola
+[K: clef=bass]
+F,|"Bb"F,2B,|"Dm"(A,/2>G,/2F,)A,|"Bb"(B,F,)B,|"Bb"F2
+w:|I        |ii                 |I           |I
+[K: clef=treble]
+f|"Bb"(d/2>c/2d)=e|"Dm"(f/2>=e/2d)c|"Bb"(B/2>c/2d)=e|"Bb"f2f|"Bb"f2b|"Dm"(a/2>g/2f)a|"Bb"(bf)b|"Bb"f2
+d|"Bb"B2B|"Dm"(d/2>=e/2f)f|"Bb"(d/2>c/2B)B|"Bb"B2f|"Bb"(d/2>c/2B)B|"Dm"(AB)(3(f/2=e/2d/2)|"Bb"(=ef)(3(g/2f/2e/2)|"Bb"(d/2>=e/2f)
+d|"Bb"(fb)b|"Dm"(f/2>=e/2d)f|"Bb"(gf)(3(=e/2f/2g/2)|"Bb"(f/2>=e/2d)d|"Bb"(B/2c/2d/2=e/2)(f/2g/2)|"Dm"(f/2=e/2d/2c/2)(B/2c/2)|"Bb"(d/2B/2f/2d/2)(3(=e/2f/2g/2)|"Bb"f2
+
+X:8
+T:Retrograde Inversion, up a fifth
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bbmaj
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 1 41 % Viola
+[K: clef=bass]
+F2|"Bb"B,F,B,|"Dm"A,F,G,/2<A,/2|"Bb"B,2F,|F,
+w:|I         |ii               |I
+[K: clef=treble]
+f2|(3g/2f/2=e/2d/2f/2B/2d/2|"Dm"c/2B/2c/2d/2=e/2f/2|"Bb"g/2f/2=e/2d/2c/2B/2|dd=e/2<f/2|(3g/2f/2=e/2fg|"Dm"fd=e/2<f/2|"Bb"bbf|d
+f=e/2<d/2|(3=e/2f/2g/2fe|"Dm"(3d/2=e/2f/2BA|"Bb"BBc/2<d/2|fB2|BBc/2<d/2|"Dm"ff=e/2<d/2|"Bb"BB2|d
+f2|bfb|"Dm"afg/2<a/2|"Bb"bf2|ff2|=edc/2<B/2|"Dm"cd=e/2<f/2|"Bb"=edc/2<d/2|f
+
+X:9
+T:Down a fifth
+M:3/2
+L:1/2
+Q:1/2=100
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 41 % Viola
+K:Bbmaj
+"^Ground"
+E,|"Eb"E,2B,,|"Cm"(C,/2>D,/2E,)C,|"Eb"(B,,E,)B,,|"Eb"E,,2
+w: |IV       |ii               |IV          |IV
+"^Melody"
+E|"Eb"(G/2>_A/2G)F|"Cm"(E/2>F/2G)_A|"Eb"(B/2>_A/2G)F|"Eb"E2E|E2B,|"Cm"(C/2>D/2E)C|"Eb"(B,E)B,|"Eb"E2
+G|"Eb"B2B|"Cm"(G/2>F/2E)E|"Eb"(G/2>_A/2B)B|"Eb"B2E|"Cm"(G/2>_A/2B)B|"Eb"(cB)(3(E/2F/2G/2)|"Eb"(FE)(3(D/2E/2F/2)|"Eb"(G/2>F/2E)
+G|"Eb"(EB,)B,|"Cm"(E/2>F/2G)E|"Eb"(DE)(3(F/2E/2D/2)|"Eb"(E/2>F/2G)G|(B/2_A/2G/2F/2)(E/2D/2)|"Cm"(E/2F/2G/2_A/2)(B/2A/2)|"Eb"(G/2B/2E/2G/2)(3(F/2E/2D/2)|"Eb"E2
+
+X:10
+T:Retrograde, down a fifth
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bbmaj
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 1 41 % Viola
+[K: clef=bass]
+"^Ground"
+"Eb"zE,,2|B,,(E,B,,)|"Cm"C,(E,D,/2<C,/2)|"Eb"B,,E,2|E,
+w:IV |IV       |ii           |IV
+%
+[K: clef=treble]
+"^Melody"
+E2|(3(D/2E/2F/2)(G/2E/2B/2G/2)|"Cm"(_A/2B/2)(A/2G/2F/2E/2)|"Eb"(D/2E/2)(F/2G/2_A/2B/2)|G(GF/2<E/2)|"Cm"(3(D/2E/2F/2)(ED)|"Eb"E(GF/2<E/2)|B,(B,E)|G
+(EF/2<G/2)|(3(F/2E/2D/2)(EF)|"Cm"(3(G/2F/2E/2)(Bc)|"Eb"B(B_A/2<G/2)|EB2|"Cm"B(B_A/2<G/2)|"Eb"E(EF/2<G/2)|BB2|G
+E2|B,(EB,)|"Cm"C(ED/2<C/2)|"Eb"E2B,|E2E|F(G_A/2<B/2)|"Cm"_A(GF/2<E/2)|"Eb"F(G_A/2<G/2)|E
 
