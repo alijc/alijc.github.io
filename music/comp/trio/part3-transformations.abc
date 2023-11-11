@@ -1,0 +1,78 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%measurenb 0
+%%writefields QP 0
+%%%%landscape
+
+X:1
+T:Original
+M:3/2
+L:1/2
+Q:1/2=100
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 41 % Viola
+K:BbMaj
+%"^Ground"
+B,|"Bb"B,2F,|"Gm"(G,/>A,/B,)G,|"Bb"(F,B,)F,|"Bb"B,,2
+w: |I       |vi               |I          |I
+%
+%"^Melody"
+B|"Bb"(d/>e/d)c|"Gm"(B/>c/d)e|"Bb"(f/>e/d)c|"Bb"B2B|B2F|"Gm"(G/>A/B)G|"Bb"(FB)F|"Bb"B2
+d|"Bb"f2f|"Gm"(d/>c/B)B|"Bb"(d/>e/f)f|"Eb"f2B|"Gm"(d/>e/f)f|"Eb"(gf)(3(B/c/d/)|"Eb"(cB)(3(A/B/c/)|"Eb"(d/>c/B)
+d|"Bb"(BF)F|"Gm"(B/>c/d)B|"Bb"(AB)(3(c/B/A/)|"Bb"(B/>c/d)d|(f/e/d/c/)(B/A/)|"Gm"(B/c/d/e/)(f/e/)|"Bb"(d/f/B/d/)(3(c/B/A/)|"Bb"B2
+
+
+X:2
+T:Inversion
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 1 41 % Viola
+[K:bass]
+B,,|"Eb"B,,2E,|"Gm"(D,/>C,/B,,)D,|"Eb"(E,B,,)E,|"Eb"B,2
+w: |IV         |vi             |I          |I
+[K:treble]
+B|"Eb"(G/>F/G)A|"Gm"(B/>A/G)F|"Eb"(E/>F/G)A|"Eb"B2B|"Eb"B2e|"Gm"(d/>c/B)d|"Eb"(eB)e|"Eb"B2
+G|"Eb"E2E|"Gm"(G/>A/B)B|"Eb"(G/>F/E)E|"Eb"E2B|"Eb"(G/>F/E)E|"Gm"(DE)(3(B/A/G/)|"Eb"(AB)(3(c/B/A/)|"Eb"(G/>A/B)
+G|"Eb"(Be)e|"Gm"(B/>A/G)B|"Eb"(cB)(3(A/B/c/)|"Eb"(B/>A/G)G|"Eb"(E/F/G/A/)(B/c/)|"Gm"(B/A/G/F/)(E/F/)|"Eb"(G/E/B/G/)(3(A/B/c/)|"Eb"B2
+
+
+
+X:3
+T:Retrograde
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 1 41 % Viola
+[K:bass]
+"^Ground"
+"Bb"zB,,2|F,(B,F,)|"Gm"G,(B,A,/<G,/)|"Bb"F,B,2|B,
+w:I |I       |vi           |I
+%
+[K:treble]
+"^Melody"
+B2|(3(A/B/c/)(d/B/f/d/)|"Gm"(e/f/)(e/d/c/B/)|"Bb"(A/B/)(c/d/e/f/)|d(d<B/)|"Gm"(3(A/B/c/)(BA)|"Bb"B(dc/<B/)|F(FB)|d
+B2|F(FB)|"Gm"G(BA/<G/)|"Bb"B2F|B2B|c(de/<f/)|"Gm"e(dc/<B/)|"Bb"c(de/<d/)|B
+(Bc/<d/)|(3(c/B/A/)(Bc)|"Gm"(3(d/c/B/)(fg)|"Bb"f(fe/<d/)|Bf2|"Gm"f(fe/<d/)|"Bb"B(Bc/<d/)|ff2|d
+
+
+X:4
+T:Retrograde Inversion
+M:3/2
+L:1/2
+Q:1/2=100
+K:Bb
+%%MIDI gchord f2z2c2z2c2z2
+%%MIDI program 1 41 % Viola
+[K:bass]
+B,2|"Bb"E,B,,E,|"Gm"D,B,,C,/<D,/|"Eb"E,2B,,|"Bb"B,,
+w:I|I          |vi          |IV
+[K:treble]
+B2|eBe|"Gm"dBc/<d/|"Eb"eB2|"Bb"BB2|AGF/<E/|"Gm"FGA/<B/|"Eb"AGF/<G/|"Bb"B
+BA/<G/|(3A/B/c/BA|"Gm"(3G/A/B/ED|"Eb"EEF/<G/|"Bb"BE2|EEF/<G/|"Gm"BBA/<G/|"Eb"EE2|"Bb"G
+B2|(3c/B/A/G/B/E/G/|"Gm"F/E/F/G/A/B/|"Eb"c/B/A/G/F/E/|"Bb"GGA/<B/|(3c/B/A/Bc|"Gm"BGA/<B/|"Eb"eeB|G
