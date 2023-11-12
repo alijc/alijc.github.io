@@ -20,13 +20,17 @@ Q:1/2=100
 K:Dmin
 %%center  Idumea
 %%center  (And am I born to die, to lay this body down?
-%%center  And must my trembling spirit fly into a world unknown?)
+%%center  And must my trembling spirit fly into a world unknown?
+%%center  A land of deepest shade, unpierced by human thought
+%%center  The dreary regions of the dead, where all things are forgot!)
+%%center ++ something with eighth notes for the flute at 12 ++
 %%MIDI program 1 73 % Flute
 %%MIDI program 2 72 % Clarinet
 %%MIDI program 3 70 % Bassoon
 V:Flute name="Flute" snm="Fl"
-LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 (a|
+LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
 s: !ppp!|||||+pp+||||+f+
+z3|z3|z3|z3|z3|z2  (a|
 c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
 f/4f'/4d'/4d''/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
 s: +f+|||
@@ -37,9 +41,10 @@ s: |||+<)+
 s: |||+fermata+
 V:Clarinet name="Bb Clarinet" snm="Cl"
 %%%%[K:Emin transpose=-2]
-z3|z3|z3|z3|z3|z3|(DA,D|AdA|G)z(C|DCB,|A,2)z|
+z3|z3|z3|z3|z3|z3|(DA,D|AdA|G)z(C|DCB,|A,2)
 %%z3|z3|z3|z3|z3|z3|(EB,E|BeB|A)z(D|EDC|B,2)z|
 s: +pp+
+d|d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|f2 g|a2 z|
 z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z2 (A|
 %%z3|E3|G3|z3|E3|G3|z2 (B|
 s: |+mp+|||+mf+||
@@ -51,6 +56,7 @@ s: ||||||+fermata+
 V:Bassoon name="Bassoon" snm="Bas" clef=tenor
 z3|z3|z3|z3|z2 (D|D2 C/2D/2|F2 G/2F/2|D2) (A|c2 A/2G/2|F2 G|A2) z|
 s: +p+|||
+LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|
 [K:bass]
 G,/4A,/4=B,/2C/2DE/4z/4|E,/4F,/4G,/2A,/2=B,C/4z/4|C,/4D,/4E,/2F,/2G,A,/4z/4|=B,2z|D/4C/4=B,/2A,/2G,F,/4z/4|=B,/4A,/4G,/2F,/2E,D,/4z/4|C,2 z|
 s: +p+|||+f+|||+mf+
