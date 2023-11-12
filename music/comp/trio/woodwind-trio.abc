@@ -23,6 +23,7 @@ K:Dmin
 %%center  And must my trembling spirit fly into a world unknown?
 %%center  A land of deepest shade, unpierced by human thought
 %%center  The dreary regions of the dead, where all things are forgot!)
+%%center
 %%center ++ something with eighth notes for the flute at 12 ++
 %%MIDI program 1 73 % Flute
 %%MIDI program 2 72 % Clarinet
@@ -64,6 +65,39 @@ s: +<(+|||+<)+|+>(+||+>)+
 LD,,2-D,,/>z/|LF,,3|z3|LD,,3-|D,,2-D,,/>z/|L_E,,3-|_E,,3||
 s: +f+|||+ff+||+f+|+ffff+
 s: ||||||+fermata+
+%%%%%%%%%%%%%%%%
+%%newpage
+%%center All is Well
+%%center (What's this that steals, that steals upon my frame? Is it death, is it death?
+%%center The soon will quench, will quench this mortal flame, is it death, is it death?
+%%center If this be death, I soom shall be from ev'ry pain and sorrow free,
+%%center I shall the King of glory see, All is well, all is well!)
+%%center
+%%center ++ I still need to split this apart, giving chunks to different instruments and registers ++
+V:Flute
+[M:4/4]
+[Q:1/2=70]
+[K:AMaj]
+z2|z2|z2|z2|z2|Lg//b// z///Lg//b///z// Lg//b//z/// Le///-|e///g///z// Le//g//z/// Le//g///z// Lc//|
+e//z/// Lc//e///z// Lc//e///z// c3/8|z z/ c/|Ld//z/ e/Lf//z/| e/Lb//z/e/Lc'//|z/ e/Lc'//z/ d//-|d//Lf//-f/ z/ z// c// |
+e//z/// Lc//e///z// Lc//e///z// c3/8|z z/ c/|Ld//z/ e/Lf//z/| e/Lb//z/e/Lc'//|z/ e/Lc'//z/ d//-|d//Lf//-f/ z/ z// c// |
+e3/z/ |ce|z/ Be/-|e/z/ c|e3/z/ |ce-|e/z/ c|e3/z/ |ce-|e/ z/c|e2||
+V:Clarinet
+[M:4/4]
+[Q:1/2=70]
+[K:AMaj]
+z2|z2|z2|z2|z2|z2|z2|
+AG/A/|BA|G/A/B/c/|(d/<B/)c/A/|(B/>c/)A/G/|A2|
+AG/A/|BA|G/A/B/c/|(d/<B/)c/A/|(B/>c/)A/G/|A2|
+(c/>d/)e/e/|(e/<c/)(c/A/)|d/d/(d/<c/)|Bc/c/|ee|B/c/(B/<A/)|(G/<E/)A/G/|A/B/c/d/|ec/A/|(B/>c/)A/G/|A2||
+V:Bassoon
+[M:4/4]
+[Q:1/2=70]
+[K:AMaj]
+z2|C,2|E,2|z2|C,2|E,2|z2|
+C,2|E,2|z2|E,2|G,2|z2|
+C,2|E,2|z2|E,2|G,2|z2|
+A,,2|E,2|z2|E,2|B,2|z2|C,2|F,2|z2|E,2|A,2||
 
 
 X:2
