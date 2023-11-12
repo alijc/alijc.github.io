@@ -4,6 +4,7 @@
 %%measurenb 0
 %%writefields QP 0
 %%%%landscape
+%%textfont Times-Italic
 
 %%fl gr mel top
 %%cl top gr  mel
@@ -17,6 +18,9 @@ M:3/2
 L:1/2
 Q:1/2=100
 K:Dmin
+%%center  Idumea
+%%center  (And am I born to die, to lay this body down?
+%%center  And must my trembling spirit fly into a world unknown?)
 %%MIDI program 1 73 % Flute
 %%MIDI program 2 72 % Clarinet
 %%MIDI program 3 70 % Bassoon
@@ -68,15 +72,18 @@ K:Dmin
 %%MIDI program 3 41 % Viola
 V:Top name="Top" snm="Top"
 z3|z3|z3|z3|z3|z3|dAd|ad'a|gzc|dcB|A2z|
+z3|z3|z3|z3|z3|z3|
 G//A//=B/c/de/|E//F//G/A/=Bc/|C//D//E/F/GA/|=B2z|d//c//=B/A/GF/|=B//A//G/F/ED/|C2 z|
 F//f//d//d'// A//a//A//d// A/>z/|D//d//=B//b// F//f//F//B// F/>z/|=B,//B//G//g// D//d//D//G// D/>z/| 
 E//e//=B//b// G//g//G//B// G/>z/|G//g//c//c'// =B//b//B//d// B/>z/|=B//g//c//c'// B//b//B//d// B/>z/|e3||
 V:Melody name="Melody" snm="Mel"
 z3|z3|z3|z3|z2
 D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2
+D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2
 A|c2 (A/2G/2)|A2 (G/2F/2)|D2 (C/2A,/2)|C2 C|D2 (C/2D/2)|F2 (G/2F/2)|D2
 A|c2 (A/2G/2)|A2 (G/2F/2)|D2 (C/2A,/2)|C2 ^C|D2 (^C/2D/2)|F2 (G/2F/2)|D3||
 V:Ground name="Ground" snm="Gr."
 D3|F3|z3|D3|F3|z3|D3|F3|z3|D3|F3|
+z3|D3|F3|z3|D3|F3|
 z3|D3|F3|z3|D3|F3|z3|
 D3|F3|z3|D3-|D3|_E3-|_E3||
