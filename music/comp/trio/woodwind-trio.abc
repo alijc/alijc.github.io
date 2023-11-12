@@ -2,7 +2,7 @@
 %%titletrim true
 %%titleformat A-1 T C1, Z-1, S-1
 %%measurenb 0
-%%writefields QP 0
+%%%%writefields QP 0
 %%%%landscape
 %%textfont Times-Italic
 
@@ -94,18 +94,24 @@ z3|D3|F3|z3|D3|F3|
 z3|D3|F3|z3|D3|F3|z3|
 D3|F3|z3|D3-|D3|_E3-|_E3||
 %%%%%%%%%%%%%%%%
-[M:4/4]
-[Q:1/4=120]
-[K:AMaj]
 V:Top
-z2|z2|z2|z2|Lg//b///z// Lg//b///z// Lg//b///z// Le///-|e///g///z// Le//g///z// Le//g///z// Lc//|
+[M:4/4]
+[Q:1/2=80]
+[K:AMaj]
+z2|z2|z2|z2|z2|Lg//b///z// Lg//b///z// Lg//b///z// Le///-|e///g///z// Le//g///z// Le//g///z// Lc//|
 |: e///z// Lc//e///z// Lc//e///z// c3/8|z z/ c/|Ld//z/ e/Lf//z/| e/Lb//z/e/Lc'//|z/ e/Lc'//z/ d//-|d//Lf//-f/ z/ z// c// :|
 e3/z/ |ce|z/ Be/-|e/z/ c|e3/z/ |ce-|e/z/ c|e3/z/ |ce-|e/ z/c|e2||
 V:Melody
-z2|z2|z2|z2|z2|z2|
+[M:4/4]
+[Q:1/2=80]
+[K:AMaj]
+z2|z2|z2|z2|z2|z2|z2|
 |:AG/A/|BA|G/A/B/c/|(d/<B/)c/A/|(B/>c/)A/G/|A2:|
 (c/>d/)e/e/|(e/<c/)(c/A/)|d/d/(d/<c/)|Bc/c/|ee|B/c/(B/<A/)|(G/<E/)A/G/|A/B/c/d/|ec/A/|(B/>c/)A/G/|A2||
 V:Ground
-C,2|E,2|z2|C,2|E,2|z2|
+[M:4/4]
+[Q:1/2=80]
+[K:AMaj]
+z2|C,2|E,2|z2|C,2|E,2|z2|
 |:C,2|E,2|z2|E,2|G,2|z2:|
 A,,2|E,2|z2|E,2|B,2|z2|C,2|F,2|z2|E,2|A,2||
