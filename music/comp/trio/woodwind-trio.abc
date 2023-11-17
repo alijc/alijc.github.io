@@ -23,15 +23,13 @@ K:Dmin
 %%center  And must my trembling spirit fly into a world unknown?
 %%center  A land of deepest shade, unpierced by human thought
 %%center  The dreary regions of the dead, where all things are forgot!)
-%%center
-%%center ++ something with eighth notes for the flute at 12 ++
 %%MIDI program 1 73 % Flute
 %%MIDI program 2 72 % Clarinet
 %%MIDI program 3 70 % Bassoon
 V:Flute name="Flute" snm="Fl"
 LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
 s: !ppp!|||||+pp+||||+f+
-z3|z3|z3|z3|z3|z2  (a|
+d/f/d/A/G|A/d/f/d/B|A/d/A/F/F/>z/|F/A/c/f/c|A/d/f/d/B|c>z (a|
 c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
 f/4f'/4d'/4d''/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
 s: +f+|||
@@ -148,7 +146,7 @@ K:Dmin
 %%MIDI program 3 41 % Viola
 V:Top name="Top" snm="Top"
 z3|z3|z3|z3|z3|z3|dAd|ad'a|gzc|dcB|A2z|
-z3|z3|z3|z3|z3|z3|
+d/f/d/A/G|A/d/f/d/B|A/d/A/F/F/>z/|F/A/c/f/c|A/d/f/d/B|c2z|
 G//A//=B/c/de/|E//F//G/A/=Bc/|C//D//E/F/GA/|=B2z|d//c//=B/A/GF/|=B//A//G/F/ED/|C2 z|
 F//f//d//d'// A//a//A//d// A/>z/|D//d//=B//b// F//f//F//B// F/>z/|=B,//B//G//g// D//d//D//G// D/>z/| 
 E//e//=B//b// G//g//G//B// G/>z/|G//g//c//c'// =B//b//B//d// B/>z/|=B//g//c//c'// B//b//B//d// B/>z/|e3||
@@ -214,3 +212,29 @@ z3|B,,2-B,,/>z/|F,2-F,/>z/|z3|z3|B,,3|z2
 B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
 B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
 B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,3||
+
+
+
+X:9
+T:scratch
+C:Ali Corbin
+M:3/2
+L:1/2
+Q:1/2=100
+K:Dmin
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%MIDI program 3 41 % Viola
+V:Top name="Top" snm="Top"
+z3|z3|z3|z3|z3|z3|dAd|ad'a|gzc|dcB|A2z|
+d/f/d/A/G|A/d/f/d/B|A/d/A/F/F/>z/|F/A/c/f/c|A/d/f/d/B|c2z|
+G//A//=B/c/de/|E//F//G/A/=Bc/|C//D//E/F/GA/|=B2z|d//c//=B/A/GF/|=B//A//G/F/ED/|C2 z|
+V:Melody name="Melody" snm="Mel"
+z3|z3|z3|z3|z2 D|
+D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2
+D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2
+A|c2 (A/2G/2)|A2 (G/2F/2)|D2 (C/2A,/2)|C2 C|D2 (C/2D/2)|F2 (G/2F/2)|D2z|
+V:Ground name="Ground" snm="Gr."
+D3|F3|z3|D3|F3|z3|D3|F3|z3|D3|F3|
+z3|D3|F3|z3|D3|F3|
+z3|D3|F3|z3|D3|F3|z3|
