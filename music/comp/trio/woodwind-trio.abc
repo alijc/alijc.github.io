@@ -76,10 +76,10 @@ V:Flute
 [M:4/4]
 [Q:1/2=70]
 [K:AMaj]
-z2|z2|z2|z2|z2|Lg//b// z///Lg//b///z// Lg//b//z/// Le///-|e///g///z// Le//g//z/// Le//g///z// Lc//|
-e//z/// Lc//e///z// Lc//e///z// c3/8|z z/ c/|Ld//z/ e/Lf//z/| e/Lb//z/e/Lc'//|z/ e/Lc'//z/ d//-|d//Lf//-f/ z/ z// c// |
-e//z/// Lc//e///z// Lc//e///z// c3/8|z z/ c/|Ld//z/ e/Lf//z/| e/Lb//z/e/Lc'//|z/ e/Lc'//z/ d//-|d//Lf//-f/ z/ z// c// |
-e3/z/ |ce|z/ Be/-|e/z/ c|e3/z/ |ce-|e/z/ c|e3/z/ |ce-|e/ z/c|e2||
+z2|z2|z2|z2|z2|Lg//b// z///Lg//b///z// Lg//b//z/// Le///-|e///g///z// Le//g//z/// Le//g///z/|
+Lc/e/z/ Lc/|e/z/ Lc/e/|z/ Lc/e/z/| LB/d/z/ LB/|d/z/ LB/d/|
+z/ Lc/>e/-e/|z/z// Lc3/4e/-|e//z//z/ Lc/>e/-|e/z/z/< Lc/|e/>z/z/ Lc/-|c//e//-e/z/z//Lc//-|c/e/>z/z/|
+LAc|z Le|fz| LGA|z LG|cz| LGc|z2| Le2-|ec-|c2||
 V:Clarinet
 [M:4/4]
 [Q:1/2=70]
@@ -95,7 +95,7 @@ V:Bassoon
 z2|C,2|E,2|z2|C,2|E,2|z2|
 C,2|E,2|z2|E,2|G,2|z2|
 C,2|E,2|z2|E,2|G,2|z2|
-A,,2|E,2|z2|E,2|B,2|z2|C,2|F,2|z2|E,2|A,2||
+A,,2|E,2|z2|E,2|B,2|z2|C,2|F,2|z2|G,,2|E,2||
 %%%%%%%%%%%%%%%%
 %%newpage
 %%center (Wake ev'ry breath and ev'ry string
