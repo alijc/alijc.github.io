@@ -33,37 +33,37 @@ s: !ppp!
 s: !p!|||||-!mf!
 c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
 f/4f'/4d'/4d''/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
-s: +f+|||
-s: +<(+|||
+s: !f!|||
+s: !<(!|||
 .e/4.e'/4.=b/4.b'/4 .g/4.g'/4.g/4.b/4 g/2>z/2|.g/4.g'/4.c'/4.c''/4 .=b/4.b'/4.b/4.d'/4 b/2>z/2|.=b/4.g'/4.c'/4.c''/4 .b/4.b'/4.b/4.d'/4 b/2>z/2|e'3|
-s: |||+ff+
-s: |||+<)+
-s: |||+fermata+
+s: |||!ff!
+s: |||!<)!
+s: |||!fermata!
 V:Clarinet name="Bb Clarinet" snm="Cl"
 %%%%[K:Emin transpose=-2]
 z3|z3|z3|z3|z3|z3|(DA,D|AdA|G)z(C|DCB,|A,2)
 %%z3|z3|z3|z3|z3|z3|(EB,E|BeB|A)z(D|EDC|B,2)z|
-s: +pp+
+s: !pppp!
 d|d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|f2 g|a2 z|
 z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z2 (A|
 %%z3|E3|G3|z3|E3|G3|z2 (B|
-s: |+mp+|||+mf+||
+s: |!mp!|||!mf!||
 c2 A/2G/2|A2) (G/2F/2|D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|D3)|
 %%d2 B/2A/2|B2) (A/2G/2|E2 D/2B,/2|D2) (^D|E2 ^D/2E/2|G2) (A/2G/2|E3)||
-s: ||||||+ff+
-s: +<(+||||||+<)+
-s: ||||||+fermata+
+s: ||||||!ff!
+s: !<(!||||||!<)!
+s: ||||||!fermata!
 V:Bassoon name="Bassoon" snm="Bas" clef=tenor
 z3|z3|z3|z3|z2 (D|D2 C/2D/2|F2 G/2F/2|D2) (A|c2 A/2G/2|F2 G|A2) z|
-s: +p+|||
+s: !mf!|||
 LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|
 [K:bass]
 G,/4A,/4=B,/2C/2D/-D/.E/|E,/4F,/4G,/2A,/2=B,/-B,/.C/|C,/4D,/4E,/2F,/2G,/-G,/.A,/|=B,2z|D/4C/4=B,/2A,/2G,/-G,/.F,/|=B,/4A,/4G,/2F,/2E,/-E,/.D,/|C,2 z|
-s: +p+|||+f+|||+mf+
-s: +<(+|||+<)+|+>(+||+>)+
+s: !p!|||!f!|||!mf!
+s: !<(!|||!<)!|!>(!||!>)!
 LD,,2-D,,/>z/|LF,,3|z3|LD,,3-|D,,2-D,,/>z/|L_E,,3-|_E,,3|
-s: +f+|||+ff+||+f+|+ff+
-s: ||||||+fermata+
+s: !f!|||!ff!||!f!|!ff!
+s: ||||||!fermata!
 %%%%%%%%%%%%%%%%
 %%newpage
 %%center All is Well
