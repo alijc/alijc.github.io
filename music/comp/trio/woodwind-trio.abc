@@ -50,7 +50,7 @@ z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z2 (A|
 s: |+mp+|||+mf+||
 c2 A/2G/2|A2) (G/2F/2|D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|D3)|
 %%d2 B/2A/2|B2) (A/2G/2|E2 D/2B,/2|D2) (^D|E2 ^D/2E/2|G2) (A/2G/2|E3)||
-s: ||||||+ffff+
+s: ||||||+ff+
 s: +<(+||||||+<)+
 s: ||||||+fermata+
 V:Bassoon name="Bassoon" snm="Bas" clef=tenor
@@ -62,7 +62,7 @@ G,/4A,/4=B,/2C/2D/-D/.E/|E,/4F,/4G,/2A,/2=B,/-B,/.C/|C,/4D,/4E,/2F,/2G,/-G,/.A,/
 s: +p+|||+f+|||+mf+
 s: +<(+|||+<)+|+>(+||+>)+
 LD,,2-D,,/>z/|LF,,3|z3|LD,,3-|D,,2-D,,/>z/|L_E,,3-|_E,,3|
-s: +f+|||+ff+||+f+|+ffff+
+s: +f+|||+ff+||+f+|+ff+
 s: ||||||+fermata+
 %%%%%%%%%%%%%%%%
 %%newpage
