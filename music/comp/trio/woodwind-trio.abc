@@ -146,32 +146,14 @@ K:Dmin
 %%MIDI program 2 41 % Viola
 %%MIDI program 3 41 % Viola
 V:Top name="Top" snm="Top"
-z3|z3|z3|z3|z3|z3|dAd|ad'a|gzc|dcB|A2z|
-d/f/d/A/G|A/d/f/d/B|A/d/A/F/F/>z/|F/A/c/f/c|A/d/f/d/B|c2z|
-G//A//=B/c/de/|E//F//G/A/=Bc/|C//D//E/F/GA/|=B2z|d//c//=B/A/GF/|=B//A//G/F/ED/|C2 z|
-F//f//d//d'// A//a//A//d// A/>z/|D//d//=B//b// F//f//F//B// F/>z/|=B,//B//G//g// D//d//D//G// D/>z/| 
-E//e//=B//b// G//g//G//B// G/>z/|G//g//c//c'// =B//b//B//d// B/>z/|=B//g//c//c'// B//b//B//d// B/>z/|e3||
-V:Melody name="Melody" snm="Mel"
-z3|z3|z3|z3|z2
-D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2
-D|D2 (C/2D/2)|F2 (G/2F/2)|D2 A|c2 (A/2G/2)|F2 G|A2
-A|c2 (A/2G/2)|A2 (G/2F/2)|D2 (C/2A,/2)|C2 C|D2 (C/2D/2)|F2 (G/2F/2)|D2
-A|c2 (A/2G/2)|A2 (G/2F/2)|D2 (C/2A,/2)|C2 ^C|D2 (^C/2D/2)|F2 (G/2F/2)|D3||
-V:Ground name="Ground" snm="Gr."
-D3|F3|z3|D3|F3|z3|D3|F3|z3|D3|F3|
-z3|D3|F3|z3|D3|F3|
-z3|D3|F3|z3|D3|F3|z3|
-D3|F3|z3|D3-|D3|_E3-|_E3||
-%%%%%%%%%%%%%%%%
-V:Top
 [M:4/4]
 [Q:1/2=60]
 [K:AbMaj]
-z2|z2|z2|z2|z2|Lg//b// z///Lg//b///z// Lg//b//z/// Le///-|e///g///z// Le//g//z/// Le//g///z/|
+z2|z2|z2|z2|z2|La//g// z///La//b///z// La//g//z/// La///-|a///b///z// La//g//z/// La//b///z/|
 Lc/e/z/ Lc/|e/z/ Lc/e/|z/ Lc/e/z/| LB/d/z/ LB/|d/z/ LB/d/|
 z/ Lc/>e/-e/|z/z// Lc3/4e/-|e//z//z/ Lc/>e/-|e/z/z/< Lc/|e/>z/z/ Lc/-|c//e//-e/z/z//Lc//-|c/e/>z/z/|
 LAc|z Le|fz| LGA|z LG|cz| LGc|z2| Le2-|ec-|c2||
-V:Melody
+V:Melody name="Melody" snm="Mel"
 [M:4/4]
 [Q:1/2=60]
 [K:AbMaj]
@@ -179,7 +161,7 @@ z2|z2|z2|z2|z2|z2|z2|
 AG/A/|BA|G/A/B/c/|(d/<B/)c/A/|(B/>c/)A/G/|A2|
 AG/A/|BA|G/A/B/c/|(d/<B/)c/A/|(B/>c/)A/G/|A2|
 (c/>d/)e/e/|(e/<c/)(c/A/)|d/d/(d/<c/)|Bc/c/|ee|B/c/(B/<A/)|(G/<E/)A/G/|A/B/c/d/|ec/A/|(B/>c/)A/G/|A2||
-V:Ground
+V:Ground name="Ground" snm="Gr."
 [M:4/4]
 [Q:1/2=60]
 [K:AbMaj]
