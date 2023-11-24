@@ -29,8 +29,8 @@ K:Dmin
 V:Flute name="Flute" snm="Fl"
 LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
 s: !ppp!
-(d/f/d/A/G)|(A/d/f/d/B)|(A/d/A/F/F/)>z/|(F/A/c/f/c)|(A/d/f/d/B|c)>z (a|
-s: !p!|||||-!mf!
+(d/f/d/A/G)|(A/d/f/d/B)|(A/d/A/F/F/)>z/|(F/A/c/f/c)|(A/d/f/d/B|c)>z !mf!(a|
+s: !p!|||||
 c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
 f/4f'/4d'/4d''/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
 s: !f!|||
@@ -77,26 +77,29 @@ V:Flute
 [M:4/4]
 [Q:1/2=70]
 [K:AbMaj]
-z2|z2|z2|z2|z2|Lg//b// z///Lg//b///z// Lg//b//z/// Le///-|e///g///z// Le//g//z/// Le//g///z/|
-Lc/e/z/ Lc/|e/z/ Lc/e/|z/ Lc/e/z/| LB/d/z/ LB/|d/z/ LB/d/|
-z/ Lc/>e/-e/|z/z// Lc3/4e/-|e//z//z/ Lc/>e/-|e/z/z/< Lc/|e/>z/z/ Lc/-|c//e//-e/z/z//Lc//-|c/e/>z/z/|
-LAc|z Le|fz| LGA|z LG|cz| LGc|z2| Le2-|ec-|c2||
+z2|z2|z2|z2|z2|z2|z2|
+ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
+z/z// Lc'3/4e'/-|e'//z//z/ Lc'/>e'/-|e'/z/z/< Lc'/|e'/>z/z/ Lc'/-|c'//e'//-e'/z/z//Lc'//-|c'/e'/>z/z/|
+a2|e'2|z2|e2|b2|z2|c2|f2|z2|G2|c2||
+%
 V:Clarinet
 [M:4/4]
 [Q:1/2=70]
 [K:AbMaj]
-z2|z2|z2|z2|z2|z2|z2|
-AG/A/|BA|G/A/B/c/|(d/<B/)c/A/|(B/>c/)A/G/|A2|
-AG/A/|BA|G/A/B/c/|(d/<B/)c/A/|(B/>c/)A/G/|A2|
-(c/>d/)e/e/|(e/<c/)(c/A/)|d/d/(d/<c/)|Bc/c/|ee|B/c/(B/<A/)|(G/<E/)A/G/|A/B/c/d/|ec/A/|(B/>c/)A/G/|A2||
+z2|C2|E2|z2|C2|E2|z2|
+C2|E2|z2|E2|G2|z2|
+ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
+LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2||
+%
 V:Bassoon
 [M:4/4]
 [Q:1/2=70]
 [K:AbMaj]
-z2|C,2|E,2|z2|C,2|E,2|z2|
+z2|z2|z2|z2|z2|LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
+LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z/ LC,/>E,/-E,/|
 C,2|E,2|z2|E,2|G,2|z2|
-C,2|E,2|z2|E,2|G,2|z2|
-A,,2|E,2|z2|E,2|B,2|z2|C,2|F,2|z2|G,,2|E,2||
+(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,,C,,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2||
+%
 %%%%%%%%%%%%%%%%
 %%newpage
 %%center (Wake ev'ry breath and ev'ry string
