@@ -24,7 +24,7 @@ K:Dmin
 %%center  A land of deepest shade, unpierced by human thought
 %%center  The dreary regions of the dead, where all things are forgot!)
 %%MIDI program 1 73 % Flute
-%%MIDI program 2 72 % Clarinet
+%%MIDI program 2 71 % Clarinet
 %%MIDI program 3 70 % Bassoon
 V:Flute name="Flute" snm="Fl"
 LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
