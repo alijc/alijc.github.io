@@ -76,27 +76,28 @@ V:Flute
 [Q:1/2=70]
 [K:AbMaj]
 z2|z2|z2|z2|z2|z2|z2|
-(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
-z/z// Lf'3/4e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|f'//e'//-e'/z/z//Lf'//-|f'/e'/>z/z/|
-La-a/>z/|Lc'2|z2|Lg-g/>z/|Lb2|z2|Lf-f/>z/|La2|z2|Lg-g/>z/|Lc'2|
+!f!(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
+z/z// !mf!Lf'3/4e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|f'//e'//-e'/z/z//Lf'//-|f'/e'/>z/z/|
+!mp!La-a/>z/|Lc'2|z2|Lg-g/>z/|Lb2|
+z2|Lf-f/>z/|La2|z2|Lg-g/>z/|Lc'2|
 %
 V:Clarinet
 [M:4/4]
 [Q:1/2=70]
 [K:AbMaj]
-z2|LC-C/>z/|LE2|z2|LC-C/>z/|LE2|z2|
-LC-C/>z/|LE2|z2|LE-E/>z/|LG2|z/ Lc/>e/-e/|
-(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
-LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2|
+z2|!ppp!LC-C/>z/|LE2|z2|LC-C/>z/|LE2|z2|
+!p!LC-C/>z/|LE2|z2|LE-E/>z/|LG2|z/ !mf!Lc/>e/-e/|
+!f!(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
+!p!LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2|
 %
 V:Bassoon
 [M:4/4]
 [Q:1/2=70]
 [K:AbMaj]
-z2|z2|z2|z2|z2|LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
-LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z2|
+z2|z2|z2|z2|z2|!ppp!LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
+!p!LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z2|
 LC,-C,/>z/|LE,2|z2|LE,-E,/>z/|LG,2|z2|
-(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,C,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2|
+!f!(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,C,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2|
 %
 %%%%%%%%%%%%%%%%
 %%newpage
