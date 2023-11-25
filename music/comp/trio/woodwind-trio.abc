@@ -76,7 +76,7 @@ V:Flute
 [Q:1/2=70]
 [K:AbMaj]
 z2|z2|z2|z2|z2|z2|z2|
-ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
+(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
 z/z// Lf'3/4e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|f'//e'//-e'/z/z//Lf'//-|f'/e'/>z/z/|
 La-a/>z/|Lc'2|z2|Lg-g/>z/|Lb2|z2|Lf-f/>z/|La2|z2|Lg-g/>z/|Lc'2|
 %
@@ -86,7 +86,7 @@ V:Clarinet
 [K:AbMaj]
 z2|LC-C/>z/|LE2|z2|LC-C/>z/|LE2|z2|
 LC-C/>z/|LE2|z2|LE-E/>z/|LG2|z/ Lc/>e/-e/|
-ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
+(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
 LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2|
 %
 V:Bassoon
