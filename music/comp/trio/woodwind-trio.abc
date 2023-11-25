@@ -4,7 +4,6 @@
 %%measurenb 0
 %%%%writefields QP 0
 %%%%landscape
-%%textfont Times-Italic
 
 %%fl gr mel top
 %%cl top gr  mel
@@ -18,6 +17,7 @@ M:3/2
 L:1/2
 Q:1/2=100
 K:Dmin
+%%textfont Times-Italic
 %%center  Idumea
 %%center  (And am I born to die, to lay this body down?
 %%center  And must my trembling spirit fly into a world unknown?
@@ -26,7 +26,9 @@ K:Dmin
 %%MIDI program 1 73 % Flute
 %%MIDI program 2 71 % Clarinet
 %%MIDI program 3 70 % Bassoon
-"^Fearfully"
+%%textfont Times
+%%text Fearfully
+%%text A
 V:Flute name="Flute" snm="Fl"
 LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
 s: !ppp!
@@ -67,12 +69,15 @@ s: !f!|||!ff!||!f!|!ff!
 s: ||||||!fermata!
 %%%%%%%%%%%%%%%%
 %%newpage
+%%textfont Times-Italic
 %%center All is Well
 %%center (What's this that steals, that steals upon my frame? Is it death, is it death?
 %%center That soon will quench, will quench this mortal flame, is it death, is it death?
 %%center If this be death, I soom shall be from ev'ry pain and sorrow free,
 %%center I shall the King of glory see, All is well, all is well!)
-"^Hopefully"
+%%textfont Times
+%%text With acceptence
+%%text B
 V:Flute
 [M:4/4]
 [Q:1/2=70]
@@ -103,41 +108,49 @@ LC,-C,/>z/|LE,2|z2|LE,-E,/>z/|LG,2|z2|
 %
 %%%%%%%%%%%%%%%%
 %%newpage
+%%textfont Times-Italic
 %%center (Wake ev'ry breath and ev'ry string
 %%center To bless the great Redeemer. Ring
 %%center His Name thro' ev'ry clime ador'd
 %%center Let joy and gratitude and love
 %%center Thro' all the notes of music rove
 %%center And Jesus sound on ev'ry chord)
-%%center
-%%center ++ I still need to split this apart, giving chunks to different instruments and registers ++
-"^Triumpantly"
+%%textfont Times 
+%%text Triumpantly
+%%text C
 V:Flute
 [K:BbMaj]
 [M:3/2]
 [L:1/2]
 [Q:1/2=100]
-z3|B2(3(A/B/c/)|G2(3(A/B/c/)|B2(3(A/B/c/)|(dc/<B/)(3(A/B/c/)|(BF)B|(d2c/<B/)|F(FB)|
-d(Bc/<d/)|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|f2(3(f/e/d/)|Bf2|f2(3(f/e/d/)|(Bc/<d/)B|ff2|dB2|
-F(BF)|G2(3(B/A/G/)|F2B|G2(B/>c/)|(d>ef)|e(dc/<B/)|cd2|B3||
+z3|!p!B2(3(A/B/c/)|G2(3(A/B/c/)|B2(3(A/B/c/)|(dc/<B/)
+!mf!(B|B2F|G/>A/BG|FBF|B2)
+z|z3|z3|b3|z2
+!mf!(b|d'/>e'/f'f'|g'f'(3b/c'/d'/|c'b(3a/b/c'/|d'/>c'/b)
+b|b2f|(g/>a/b)g|(fb)f|b2
+(b/>c'/)|(d'>e'f')|e'(d'c'/<b/)|c'd'2|b3||
 V:Clarinet
-[K:BbMaj]
+[K:BbMaj clef=treble]
 [M:3/2]
 [L:1/2]
 [Q:1/2=100]
-z2(B|d/>e/dc|B/>c/de|f/>e/dc|B2) (B|B2F|G/>A/BG|FBF|B2)
-(d|f2f|d/>c/BB|d/>e/ff|f2) (B|d/>e/ff|gf(3B/c/d/|cB(3A/B/c/|d/>c/B)
-(d|BFF|B/>c/dB|AB(3c/B/A/|B/>c/d) (d|f/e/d/c/B/A/|B/c/d/e/f/e/|d/f/B/d/(3c/B/A/|B3)||
+z2!mf!(B|d/>e/dc|B/>c/de|f/>e/dc|B2)
+z|z3|z3|B,2-B,/>z/|F2
+c/<d/|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|f2(3(f/e/d/)|Bf
+b|b2f|(g/>a/b)g|(fb)f|B2
+z|F,(B,F,)|G,2(3(B,/A,/G,/)|F,2B,|G,2
+!mf!(D|F/E/D/C/B,/A,/|B,/C/D/E/F/E/|D/F/B,/D/(3C/B,/A,/|B,3)||
 V:Bassoon
 [K:BbMaj]
 [M:3/2]
 [L:1/2]
 [Q:1/2=100]
-B,,2-B,,/>z/|F,2-F,/>z/|z3|B,,2-B,,/>z/|F,2-F,/>z/|z3|
-z3|B,,2-B,,/>z/|F,2-F,/>z/|z3|z3|B,,3|z2
-B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
-B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
-B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,3||
+!p!B,,2-B,,/>z/|F,3|z3|B,,2-B,,/>z/|F,2
+(3(A,/B,/C/)|(B,F,)B,|(D2C/<B,/)|F,(F,B,)|DB,
+!mf!(D|F2F|D/>C/B,B,|D/>E/FF|F2)
+z|F,2(3(F,/E,/D,/)|(B,,C,/<D,/)B,,|F,F,2|D,B,,
+!mf!(D,|B,,F,,F,,|B,,/>C,/D,B,,|A,,B,,(3C,/B,,/A,,/|B,,/>C,/D,)
+B,,|B,,2F,,|(G,,/>A,,/B,,)G,,|(F,,B,,)F,,|B,,,3||
 
 
 X:2
@@ -150,85 +163,45 @@ K:Dmin
 %%MIDI program 1 41 % Viola
 %%MIDI program 2 41 % Viola
 %%MIDI program 3 41 % Viola
-V:Flute
-[M:4/4]
-[Q:1/2=70]
-[K:AbMaj]
-z2|z2|z2|z2|z2|z2|z2|
-ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
-z/z// Lf'3/4e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|f'//e'//-e'/z/z//Lf'//-|f'/e'/>z/z/|
-a2|c'2|z2|g2|b2|z2|f2|a2|z2|g2|c'2||
-%
-V:Clarinet
-[M:4/4]
-[Q:1/2=70]
-[K:AbMaj]
-z2|C-C/>z/|E2|z2|C2|E2|z2|
-C2|E2|z2|E2|G2|z/ Lc/>e/-e/|
-ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
-LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2||
-%
-V:Bassoon
-[M:4/4]
-[Q:1/2=70]
-[K:AbMaj]
-z2|z2|z2|z2|z2|LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
-LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z2|
-C,2|E,2|z2|E,2|G,2|z2|
-(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,C,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2||
-
-V:Top name="Top" snm="Top"
-[M:4/4]
-[Q:1/2=60]
-[K:AbMaj]
-z2|z2|z2|z2|z2|La//g// z///La//b///z// La//g//z/// La///-|a///b///z// La//g//z/// La//b///z/|
-Lc/e/z/ Lc/|e/z/ Lc/e/|z/ Lc/e/z/| LB/d/z/ LB/|d/z/ LB/d/|
-z/ Lc/>e/-e/|z/z// Lc3/4e/-|e//z//z/ Lc/>e/-|e/z/z/< Lc/|e/>z/z/ Lc/-|c//e//-e/z/z//Lc//-|c/e/>z/z/|
-LAc|z Le|fz| LGA|z LG|cz| LGc|z2| Le2-|ec-|c2||
-V:Melody name="Melody" snm="Mel"
-[M:4/4]
-[Q:1/2=60]
-[K:AbMaj]
-z2|z2|z2|z2|z2|z2|z2|
-AG/A/|BA|G/A/B/c/|(d/<B/)c/A/|(B/>c/)A/G/|A2|
-AG/A/|BA|G/A/B/c/|(d/<B/)c/A/|(B/>c/)A/G/|A2|
-(c/>d/)e/e/|(e/<c/)(c/A/)|d/d/(d/<c/)|Bc/c/|ee|B/c/(B/<A/)|(G/<E/)A/G/|A/B/c/d/|ec/A/|(B/>c/)A/G/|A2||
-V:Ground name="Ground" snm="Gr."
-[M:4/4]
-[Q:1/2=60]
-[K:AbMaj]
-z2|C,2|E,2|z2|C,2|E,2|z2|
-C,2|E,2|z2|E,2|G,2|z2|
-C,2|E,2|z2|E,2|G,2|z2|
-A,,2|E,2|z2|E,2|B,2|z2|C,2|F,2|z2|G,,2|E,2||
 %%%%%%%%%%%%%%%%
-V:Top
+V:Flute
 [K:BbMaj]
 [M:3/2]
 [L:1/2]
 [Q:1/2=100]
-"^Harmony"
-z3|B2(3(A/B/c/)|G2(3(A/B/c/)|B2(3(A/B/c/)|(dc/<B/)(3(A/B/c/)|(BF)B|(d2c/<B/)|F(FB)|
-d(Bc/<d/)|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|f2(3(f/e/d/)|Bf2|f2(3(f/e/d/)|(Bc/<d/)B|ff2|dB2|
-F(BF)|G2(3(B/A/G/)|F2B|G2(B/>c/)|(d>ef)|e(dc/<B/)|cd2|B3||
-V:Melody
+V:Flute
 [K:BbMaj]
 [M:3/2]
 [L:1/2]
 [Q:1/2=100]
-"^Melody"
-z2(B|d/>e/dc|B/>c/de|f/>e/dc|B2) (B|B2F|G/>A/BG|FBF|B2)
-(d|f2f|d/>c/BB|d/>e/ff|f2) (B|d/>e/ff|gf(3B/c/d/|cB(3A/B/c/|d/>c/B)
-(d|BFF|B/>c/dB|AB(3c/B/A/|B/>c/d) (d|f/e/d/c/B/A/|B/c/d/e/f/e/|d/f/B/d/(3c/B/A/|B3)||
-V:Ground
+z3|!p!B2(3(A/B/c/)|G2(3(A/B/c/)|B2(3(A/B/c/)|(dc/<B/)
+!mf!(B|B2F|G/>A/BG|FBF|B2)
+z|z3|z3|b3|z2
+!mf!(b|d'/>e'/f'f'|g'f'(3b/c'/d'/|c'b(3a/b/c'/|d'/>c'/b)
+b|b2f|(g/>a/b)g|(fb)f|b2
+(b/>c'/)|(d'>e'f')|e'(d'c'/<b/)|c'd'2|b3||
+V:Clarinet
+[K:BbMaj clef=treble]
+[M:3/2]
+[L:1/2]
+[Q:1/2=100]
+z2!mf!(B|d/>e/dc|B/>c/de|f/>e/dc|B2)
+z|z3|z3|B,2-B,/>z/|F2
+c/<d/|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|f2(3(f/e/d/)|Bf
+b|b2f|(g/>a/b)g|(fb)f|B2
+z|F,(B,F,)|G,2(3(B,/A,/G,/)|F,2B,|G,2
+!mf!(D|F/E/D/C/B,/A,/|B,/C/D/E/F/E/|D/F/B,/D/(3C/B,/A,/|B,3)||
+V:Bassoon
 [K:BbMaj]
 [M:3/2]
 [L:1/2]
 [Q:1/2=100]
-B,,2-B,,/>z/|F,2-F,/>z/|z3|B,,2-B,,/>z/|F,2-F,/>z/|z3|
-z3|B,,2-B,,/>z/|F,2-F,/>z/|z3|z3|B,,3|z2
-B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
-B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,2
-B,|B,2F,|(G,/>A,/B,)G,|(F,B,)F,|B,,3||
+!p!B,,2-B,,/>z/|F,3|z3|B,,2-B,,/>z/|F,2
+(3(A,/B,/C/)|(B,F,)B,|(D2C/<B,/)|F,(F,B,)|DB,
+!mf!(D|F2F|D/>C/B,B,|D/>E/FF|F2)
+z|F,2(3(F,/E,/D,/)|(B,,C,/<D,/)B,,|F,F,2|D,B,,
+!mf!(D,|B,,F,,F,,|B,,/>C,/D,B,,|A,,B,,(3C,/B,,/A,,/|B,,/>C,/D,)
+B,,|B,,2F,,|(G,,/>A,,/B,,)G,,|(F,,B,,)F,,|B,,,3||
+
 
 
