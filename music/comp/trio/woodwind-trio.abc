@@ -41,10 +41,10 @@ s: |||!<)!
 s: |||!fermata!
 V:Clarinet name="Bb Clarinet" snm="Cl"
 %%%%[K:Emin transpose=-2]
-z3|z3|z3|z3|z3|z3|(DA,D|AdA|G)z(C|DCB,|A,2)
+z3|z3|z3|z3|z3|z3|(DA,D|AdA|G)z(C|DCB,|A,)z
 %%z3|z3|z3|z3|z3|z3|(EB,E|BeB|A)z(D|EDC|B,2)z|
 s: !pppp!
-d|d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|f2 g|a2 z|
+!mf!d|d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|f2 g|a2 z|
 z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z2 (A|
 %%z3|E3|G3|z3|E3|G3|z2 (B|
 s: |!mp!|||!mf!||
