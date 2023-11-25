@@ -71,34 +71,32 @@ s: ||||||!fermata!
 %%center The soon will quench, will quench this mortal flame, is it death, is it death?
 %%center If this be death, I soom shall be from ev'ry pain and sorrow free,
 %%center I shall the King of glory see, All is well, all is well!)
-%%center
-%%center ++ I still need to split this apart, giving chunks to different instruments and registers ++
 V:Flute
 [M:4/4]
 [Q:1/2=70]
 [K:AbMaj]
 z2|z2|z2|z2|z2|z2|z2|
 ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
-z/z// Lc'3/4e'/-|e'//z//z/ Lc'/>e'/-|e'/z/z/< Lc'/|e'/>z/z/ Lc'/-|c'//e'//-e'/z/z//Lc'//-|c'/e'/>z/z/|
-a2|e'2|z2|e2|b2|z2|c2|f2|z2|G2|c2||
+z/z// Lf'3/4e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|f'//e'//-e'/z/z//Lf'//-|f'/e'/>z/z/|
+a2|c'2|z2|g2|b2|z2|f2|a2|z2|g2|c'2|
 %
 V:Clarinet
 [M:4/4]
 [Q:1/2=70]
 [K:AbMaj]
 z2|C2|E2|z2|C2|E2|z2|
-C2|E2|z2|E2|G2|z2|
+C2|E2|z2|E2|G2|z/ Lc/>e/-e/|
 ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
-LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2||
+LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2|
 %
 V:Bassoon
 [M:4/4]
 [Q:1/2=70]
 [K:AbMaj]
 z2|z2|z2|z2|z2|LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
-LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z/ LC,/>E,/-E,/|
+LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z2|
 C,2|E,2|z2|E,2|G,2|z2|
-(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,,C,,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2||
+(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,C,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2|
 %
 %%%%%%%%%%%%%%%%
 %%newpage
@@ -148,6 +146,33 @@ K:Dmin
 %%MIDI program 1 41 % Viola
 %%MIDI program 2 41 % Viola
 %%MIDI program 3 41 % Viola
+V:Flute
+[M:4/4]
+[Q:1/2=70]
+[K:AbMaj]
+z2|z2|z2|z2|z2|z2|z2|
+ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
+z/z// Lf'3/4e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|f'//e'//-e'/z/z//Lf'//-|f'/e'/>z/z/|
+a2|c'2|z2|g2|b2|z2|f2|a2|z2|g2|c'2||
+%
+V:Clarinet
+[M:4/4]
+[Q:1/2=70]
+[K:AbMaj]
+z2|C2|E2|z2|C2|E2|z2|
+C2|E2|z2|E2|G2|z/ Lc/>e/-e/|
+ag/a/|ba|g/a/b/c'/|(d'/<b/)c'/a/|(b/>c'/)a/g/|a2|
+LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2||
+%
+V:Bassoon
+[M:4/4]
+[Q:1/2=70]
+[K:AbMaj]
+z2|z2|z2|z2|z2|LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
+LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z2|
+C,2|E,2|z2|E,2|G,2|z2|
+(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,C,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2||
+
 V:Top name="Top" snm="Top"
 [M:4/4]
 [Q:1/2=60]
