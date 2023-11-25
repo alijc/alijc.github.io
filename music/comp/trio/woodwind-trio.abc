@@ -26,6 +26,7 @@ K:Dmin
 %%MIDI program 1 73 % Flute
 %%MIDI program 2 71 % Clarinet
 %%MIDI program 3 70 % Bassoon
+"^Fearfully"
 V:Flute name="Flute" snm="Fl"
 LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
 s: !ppp!
@@ -71,6 +72,7 @@ s: ||||||!fermata!
 %%center That soon will quench, will quench this mortal flame, is it death, is it death?
 %%center If this be death, I soom shall be from ev'ry pain and sorrow free,
 %%center I shall the King of glory see, All is well, all is well!)
+"^Hopefully"
 V:Flute
 [M:4/4]
 [Q:1/2=70]
@@ -109,6 +111,7 @@ LC,-C,/>z/|LE,2|z2|LE,-E,/>z/|LG,2|z2|
 %%center And Jesus sound on ev'ry chord)
 %%center
 %%center ++ I still need to split this apart, giving chunks to different instruments and registers ++
+"^Triumpantly"
 V:Flute
 [K:BbMaj]
 [M:3/2]
