@@ -94,7 +94,7 @@ V:Clarinet
 [K:AbMaj]
 z2|!ppp!LC-C/>z/|LE2|z2|LC-C/>z/|LE2|z2|
 !p!LC-C/>z/|LE2|z2|LE-E/>z/|LG2|z/ !mf!Lc/>e/-e/|
-!f!(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
+!f!(ag/a/|b)(a|g/a/b/c'/|d'/<c'/)(c'/d'/|b/>c'/)(a/g/|a2)|
 !p!LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2|
 %
 V:Bassoon
@@ -153,61 +153,6 @@ z|!mp!F,2(3(F,/E,/D,/)|(B,,C,/<D,/)B,,|F,F,2|D,B,,
 
 
 
-
-X:2
-T:MUS240 Woodwind Trio
-T:Flute
-C:Ali Corbin
-M:3/2
-L:1/2
-Q:1/2=100
-K:Dmin
-%%MIDI program 73 % Flute
-%%textfont Times
-%%text Fearfully
-%%text A
-V:Flute name="Flute" snm="Fl"
-LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
-s: !ppp!
-(d/f/d/A/G)|(A/d/f/d/B)|(A/d/A/F/F/)>z/|(F/A/c/f/c)|(A/d/f/d/B|c)>z !mf!(a|
-s: !p!|||||
-c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
-f/4f'/4d'/4d''/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
-s: !f!|||
-s: !<(!|||
-.e/4.e'/4.=b/4.b'/4 .g/4.g'/4.g/4.b/4 g/2>z/2|.g/4.g'/4.c'/4.c''/4 .=b/4.b'/4.b/4.d'/4 b/2>z/2|.=b/4.g'/4.c'/4.c''/4 .b/4.b'/4.b/4.d'/4 b/2>z/2|e'3|
-s: |||!ff!
-s: |||!<)!
-s: |||!fermata!
-%%textfont Times
-%%text With acceptence
-%%text B
-V:Flute
-[M:4/4]
-[Q:1/2=70]
-[K:AbMaj]
-z2|z2|z2|z2|z2|z2|z2|
-!f!(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
-z/z// !mf!Lf'3/4e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|f'//e'//-e'/z/z//Lf'//-|f'/e'/>z/z/|
-!mp!La-a/>z/|Lc'2|z2|Lg-g/>z/|Lb2|
-z2|Lf-f/>z/|La2|z2|Lg-g/>z/|Lc'2|
-%%textfont Times 
-%%text Triumpantly
-%%text C
-V:Flute
-[K:BbMaj]
-[M:3/2]
-[L:1/2]
-[Q:1/2=100]
-z3|!p!B2(3(A/B/c/)|G2(3(A/B/c/)|B2(3(A/B/c/)|(dc/<B/)!mf!(B|
-B2F|G/>A/BG|FBF|B2)z|z3|
-z3|b3|z2!f!(b|d'/>e'/f'f'|g'f'(3b/c'/d'/|
-c'b(3a/b/c'/|d'/>c'/b)!mf!b|b2f|(g/>a/b)g|(fb)f|
-b2(b/>c'/)|(d'>e'f')|e'(d'c'/<b/)|c'd'2|b3||
-
-
-
-
 X:3
 T:MUS240 Woodwind Trio
 T:Clarinet
@@ -260,56 +205,61 @@ b|b2f|(g/>a/b)g|(fb)f|B2
 z|F,(B,F,)|G,2(3(B,/A,/G,/)|F,2B,|G,2
 !ff!(D|F/E/D/C/B,/A,/|B,/C/D/E/F/E/|D/F/B,/D/(3C/B,/A,/|B,3)||
 
-
-
-
 X:4
 T:MUS240 Woodwind Trio
+T:Clarinet - transposed
 C:Ali Corbin
 M:3/2
 L:1/2
 Q:1/2=100
+%%transpose 2
 K:Dmin
-%%MIDI program 70 % Bassoon
+%%MIDI program 71 % Clarinet
 %%textfont Times
 %%text Fearfully
 %%text A
-V:Bassoon name="Bassoon" snm="Bas" clef=tenor
-z3|z3|z3|z3|z2 (D|D2 C/2D/2|F2 G/2F/2|D2) (A|c2 A/2G/2|F2 G|A2) z|
-s: !mf!|||
-LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|
-[K:bass]
-G,/4A,/4=B,/2C/2D/-D/.E/|E,/4F,/4G,/2A,/2=B,/-B,/.C/|C,/4D,/4E,/2F,/2G,/-G,/.A,/|=B,2z|D/4C/4=B,/2A,/2G,/-G,/.F,/|=B,/4A,/4G,/2F,/2E,/-E,/.D,/|C,2 z|
-s: !p!|||!f!|||!mf!
-s: !<(!|||!<)!|!>(!||!>)!
-LD,,2-D,,/>z/|LF,,3|z3|LD,,3-|D,,2-D,,/>z/|L_E,,3-|_E,,3|
-s: !f!|||!ff!||!f!|!ff!
+V:Clarinet name="Bb Clarinet" snm="Cl"
+%%%%[K:Emin transpose=-2]
+z3|z3|z3|z3|z3|z3|(DA,D|AdA|G)z(C|DCB,|A,)z
+%%z3|z3|z3|z3|z3|z3|(EB,E|BeB|A)z(D|EDC|B,2)z|
+s: !pppp!
+!mf!d|d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|f2 g|a2 z|
+z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z2 (A|
+%%z3|E3|G3|z3|E3|G3|z2 (B|
+s: |!mp!|||!mf!||
+c2 A/2G/2|A2) (G/2F/2|D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|D3)|
+%%d2 B/2A/2|B2) (A/2G/2|E2 D/2B,/2|D2) (^D|E2 ^D/2E/2|G2) (A/2G/2|E3)||
+s: ||||||!ff!
+s: !<(!||||||!<)!
 s: ||||||!fermata!
 %%textfont Times
 %%text With acceptence
 %%text B
-V:Bassoon
+V:Clarinet
 [M:4/4]
 [Q:1/2=70]
 [K:AbMaj]
-z2|z2|z2|z2|z2|!ppp!LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
-!p!LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z2|
-LC,-C,/>z/|LE,2|z2|LE,-E,/>z/|LG,2|z2|
-!f!(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,C,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2|
+z2|!ppp!LC-C/>z/|LE2|z2|LC-C/>z/|LE2|z2|
+!p!LC-C/>z/|LE2|z2|LE-E/>z/|LG2|z/ !mf!Lc/>e/-e/|
+!f!(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
+!p!LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zA,|C2 |z C|F2|
 %%textfont Times 
 %%text Triumpantly
 %%text C
-V:Bassoon
-[K:BbMaj]
+V:Clarinet
+[K:BbMaj clef=treble]
 [M:3/2]
 [L:1/2]
 [Q:1/2=100]
-!p!B,,2-B,,/>z/|F,3|z3|B,,2-B,,/>z/|F,2
-(3(A,/B,/C/)|(B,F,)B,|(D2C/<B,/)|F,(F,B,)|DB,
-!mf!(D|F2F|D/>C/B,B,|D/>E/FF|F2)
-z|!mp!F,2(3(F,/E,/D,/)|(B,,C,/<D,/)B,,|F,F,2|D,B,,
-!ff!(D,|B,,F,,F,,|B,,/>C,/D,B,,|A,,B,,(3C,/B,,/A,,/|B,,/>C,/D,)
-!mf!B,,|B,,2F,,|(G,,/>A,,/B,,)G,,|(F,,B,,)F,,|B,,,3||
+z2!mf!(B|d/>e/dc|B/>c/de|f/>e/dc|B2)
+z|z3|z3|!p!B,2-B,/>z/|F2
+!mp!c/<d/|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|f2(3(f/e/d/)|Bf
+b|b2f|(g/>a/b)g|(fb)f|B2
+z|F,(B,F,)|G,2(3(B,/A,/G,/)|F,2B,|G,2
+!ff!(D|F/E/D/C/B,/A,/|B,/C/D/E/F/E/|D/F/B,/D/(3C/B,/A,/|B,3)||
+
+
+
 
 
 
