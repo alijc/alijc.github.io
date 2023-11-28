@@ -29,14 +29,15 @@ K:Dmin
 %
 V:Flute name="Flute" snm="Fl"
 [Q: "  A  Fearfully  " 1/2=100]
-!ppp!LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
-!p!(d/f/d/A/G)|(A/d/f/d/B)|(A/d/A/F/F/)>z/|(F/A/c/f/c)|(A/d/f/d/B|c)>z !mf!(a|
-c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
+!ppp!LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|
+LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
+!p!(d/f/d/A/G)|(A/d/f/d/B)|(A/d/A/F/F/)>z/|(F/A/c/f/c)|
+(A/d/f/d/B|c)>z !mf!(a|c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
 !f!!<(!f/4f'/4d'/4=b'/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
 .e/4.e'/4.=b/4.b'/4 .g/4.g'/4.g/4.b/4 g/2>z/2|.g/4.g'/4.c'/4.c''/4 .=b/4.b'/4.b/4.d'/4 b/2>z/2|.=b/4.g'/4.c'/4.c''/4 .b/4.b'/4.b/4.d'/4 b/2>z/2|!<)!!ff!!fermata!e'3"^attacca"|
 V:Clarinet name="Bb Clarinet" snm="Cl"
+%%transpose 2
 [Q: "  A  Fearfully  " 1/2=100]
-%%%%[K:Emin transpose=-2]
 z3|z3|z3|z3|z3|z3|!pp!(DA,D|AdA|G)z(C|DCB,|A,)z!mf!d|
 d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|f2 g|a2 z|
 z3|!mp!LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z2 !mf!(A|
@@ -60,11 +61,13 @@ V:Flute
 [M:4/4]
 [Q:"B   With acceptence  " 1/2=70]
 [K:AbMaj]
-z2|z2|z2|z2|z2|z2|z2|
-!f!(ag/a/|b)(a|g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
-z/z// !mf!Lf'//-f'/e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|f'//e'//-e'/z/z//Lf'//-|f'/e'/-e'//z//z/|
-!mp!La-a/>z/|Lc'2|z2|Lg-g/>z/|Lb2|
-z2|Lf-f/>z/|La2|z2|Lg-g/>z/|Lc'2"^attacca"|
+z2|z2|z2|z2|z2|
+z2|z2|!f!(ag/a/|b)(a|
+g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
+z/z// !mf!Lf'//-f'/e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|
+f'//e'//-e'/z/z//Lf'//-|f'/e'/-e'//z//z/|!mp!La-a/>z/|Lc'2|
+z2|Lg-g/>z/|Lb2|z2|
+Lf-f/>z/|La2|z2|Lg-g/>z/|Lc'2"^attacca"|
 %
 V:Clarinet
 [M:4/4]
