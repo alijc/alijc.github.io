@@ -4,6 +4,8 @@
 %%measurenb 0
 %%%%writefields QP 0
 %%%%landscape
+%%sysstaffsep 50pt
+%%staffsep 90pt
 
 %%fl gr mel top
 %%cl top gr  mel
