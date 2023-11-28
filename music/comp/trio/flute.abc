@@ -5,7 +5,8 @@
 %%%%writefields QP 0
 %%%%landscape
 %%sysstaffsep 50pt
-%%staffsep 90pt
+
+%%pagescale 1.2
 
 %%fl gr mel top
 %%cl top gr  mel
