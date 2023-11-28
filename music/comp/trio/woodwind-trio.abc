@@ -106,7 +106,7 @@ z3|!p!B2(3(A/B/c/)|G2(3(A/B/c/)|B2(3(A/B/c/)|(dc/<B/)!mf!(B|
 B2F|G/>A/BG|FBF|B2)z|z3|
 z3|b3|z2!f!(b|d'/>e'/f'f'|g'f'(3b/c'/d'/|
 c'b(3a/b/c'/|d'/>c'/b)!mf!b|b2f|(g/>a/b)g|(fb)f|
-b2(b/>c'/)|(d'>e'f')|e'(d'c'/<b/)|c'd'2|b3||
+b2(b/>c'/)|(d'>e'f')|e'(d'c'/<b/)|c'd'2|!fermata!b3||
 V:Clarinet
 [K:BbMaj clef=treble]
 [M:3/2]
@@ -117,7 +117,7 @@ z|z3|z3|!p!B,2-B,/>z/|F2
 !mp!c/<d/|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|f2(3(f/e/d/)|Bf
 b|b2f|(g/>a/b)g|(fb)f|B2
 z|F,(B,F,)|G,2(3(B,/A,/G,/)|F,2B,|G,2
-!ff!(D|F/E/D/C/B,/A,/|B,/C/D/E/F/E/|D/F/B,/D/(3C/B,/A,/|B,3)||
+!ff!(D|F/E/D/C/B,/A,/|B,/C/D/E/F/E/|D/F/B,/D/(3C/B,/A,/|!fermata!B,3)||
 V:Bassoon
 [K:BbMaj]
 [M:3/2]
@@ -128,7 +128,7 @@ V:Bassoon
 !mf!(D|F2F|D/>C/B,B,|D/>E/FF|F2)
 z|!mp!F,2(3(F,/E,/D,/)|(B,,C,/<D,/)B,,|F,F,2|D,B,,
 !ff!(D,|B,,F,,F,,|B,,/>C,/D,B,,|A,,B,,(3C,/B,,/A,,/|B,,/>C,/D,)
-!mf!B,,|B,,2F,,|(G,,/>A,,/B,,)G,,|(F,,B,,)F,,|B,,,3||
+!mf!B,,|B,,2F,,|(G,,/>A,,/B,,)G,,|(F,,B,,)F,,|!fermata!B,,,3||
 
 
 
