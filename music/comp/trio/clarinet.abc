@@ -1,0 +1,58 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%measurenb 0
+%%%%writefields QP 0
+%%%%landscape
+%%pagescale 1.2
+
+%%fl gr mel top
+%%cl top gr  mel
+%%bs mel top gr
+
+
+X:1
+T:MUS240 Woodwind Trio
+C:Ali Corbin
+M:3/2
+L:1/2
+%%%%Q:1/2=100
+K:Dmin
+%%textfont Times-Italic
+%%center  Idumea
+%%center  (And am I born to die, to lay this body down?
+%%center  And must my trembling spirit fly into a world unknown?
+%%center  A land of deepest shade, unpierced by human thought
+%%center  The dreary regions of the dead, where all things are forgot!)
+%%MIDI program 1 73 % Flute
+%%MIDI program 2 71 % Clarinet
+%%MIDI program 3 70 % Bassoon
+%
+V:Clarinet name="Bb Clarinet" snm="Cl"
+%%transpose 2
+[Q: "  A  Fearfully  " 1/2=100]
+z3|z3|z3|z3|z3|z3|!pp!(DA,D|AdA|G)z(C|DCB,|A,)z!mf!d|
+d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|f2 g|a2 z|
+z3|!mp!LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z2 !mf!(A|
+!<(!c2 c/2B/2|A2) (G/2F/2|D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|!<)!!ff!!fermata!D3)"^attacca"|
+%
+V:Clarinet
+[M:4/4]
+[Q:"B   With acceptence  " 1/2=70]
+[K:AbMaj]
+z2|!ppp!LC-C/>z/|LE2|z2|LC-C/>z/|LE2|z2|
+!p!LC-C/>z/|LE2|z2|LE-E/>z/|LG2|z/ !mf!Lc/-c//e//-e/|
+!f!(ag/a/|b)(a|g/a/b/c'/|d'/<c'/)(c'/d'/|b/>c'/)(a/g/|a2)|
+!p!LA,C|z LE|Fz| LG,A,|z LG,|Cz| LG,C|zLA,|C2 |z LC|F2"^attacca"|
+%
+V:Clarinet
+[K:BbMaj clef=treble]
+[M:3/2]
+[L:1/2]
+[Q:"C  Triumphantly  " 1/2=100]
+z2!mf!(B|d/>e/dc|B/>c/de|f/>e/dc|B2)
+z|z3|z3|!p!B,2-B,/>z/|F2
+!mp!c/<d/|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|f2(3(f/e/d/)|Bf
+b|b2f|(g/>a/b)g|(fb)f|B2
+z|F,(B,F,)|G,2(3(B,/A,/G,/)|F,2B,|G,2
+!ff!(D|F/E/D/C/B,/A,/|B,/C/D/E/F/E/|D/F/B,/D/(3C/B,/A,/|!fermata!B,3)||
