@@ -37,6 +37,13 @@ f2 g|a2 z|z3|!mp!LD2-D/>z/|LF3|z3|
 LD2-D/>z/|LF3|z2 !mf!(A|!<(!c2 c/2B/2|A2) (G/2F/2|
 D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|!<)!!ff!!fermata!D3)"^attacca"|
 %
+%%%%%%%%%%%%%%%%
+%%textfont Times-Italic
+%%center All is Well
+%%center (What's this that steals, that steals upon my frame? Is it death, is it death?
+%%center That soon will quench, will quench this mortal flame, is it death, is it death?
+%%center If this be death, I soom shall be from ev'ry pain and sorrow free,
+%%center I shall the King of glory see, All is well, all is well!)
 V:Clarinet
 [M:4/4]
 [Q:"B   With acceptence  " 1/2=70]
@@ -48,6 +55,14 @@ d'/<c'/)(c'/d'/|b/>c'/)(a/g/|a2)|!p!LA,C|
 z LE|Fz| LG,A,|z LG,|Cz|
 LG,C|zLA,|C2 |z LC|F2"^attacca"|
 %
+%%%%%%%%%%%%%%%%
+%%textfont Times-Italic
+%%center (Wake ev'ry breath and ev'ry string
+%%center To bless the great Redeemer. Ring
+%%center His Name thro' ev'ry clime ador'd
+%%center Let joy and gratitude and love
+%%center Thro' all the notes of music rove
+%%center And Jesus sound on ev'ry chord)
 V:Clarinet
 [K:BbMaj]
 [M:3/2]
