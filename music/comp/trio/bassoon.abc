@@ -30,11 +30,14 @@ K:Dmin
 %
 V:Bassoon name="Bassoon" snm="Bas" clef=tenor
 [Q: "  A  Fearfully  " 1/2=100]
-z3|z3|z3|z3|z2 !mf!(D|D2 C/2D/2|F2 G/2F/2|D2) (A|c2 A/2G/2|F2 G|A2) z|
+Z4|z2 !mf!(D|D2 C/2D/2|F2 G/2F/2|D2) (A|
+c2 A/2G/2|F2 G|A2) z|
 LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|
 [K:bass]
-!p!!<(!G,/4A,/4=B,/2C/2D/-D/.E/|E,/4F,/4G,/2A,/2=B,/-B,/.C/|C,/4D,/4E,/2F,/2G,/-G,/.A,/|!<)!!>(!=B,2z|D/4C/4=B,/2A,/2G,/-G,/.F,/|=B,/4A,/4G,/2F,/2E,/-E,/.D,/|!>)!!mf!C,2 z|
-!f!LD,,2-D,,/>z/|LF,,3|z3|!ff!!>(!LD,,3-|D,,2-D,,/>z/|!>)!!<(!L_E,,3-|!<)!!ff!!fermata!_E,,3"^attacca"|
+!p!!<(!G,/4A,/4=B,/2C/2D/-D/.E/|E,/4F,/4G,/2A,/2=B,/-B,/.C/|
+C,/4D,/4E,/2F,/2G,/-G,/.A,/|!<)!!>(!=B,2z|D/4C/4=B,/2A,/2G,/-G,/.F,/|
+=B,/4A,/4G,/2F,/2E,/-E,/.D,/|!>)!!mf!C,2 z|!f!LD,,2-D,,/>z/|LF,,3|
+z3|!ff!!>(!LD,,3-|D,,2-D,,/>z/|!>)!!<(!L_E,,3-|!<)!!ff!!fermata!_E,,3"^attacca"|
 %%%%%%%%%%%%%%%%
 %%textfont Times-Italic
 %%center All is Well
@@ -46,10 +49,10 @@ V:Bassoon
 [M:4/4]
 [Q:"B   With acceptence  " 1/2=70]
 [K:AbMaj]
-z2|z2|z2|z2|z2|!ppp!LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
-!p!LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z2|
-LC,-C,/>z/|LE,2|z2|LE,-E,/>z/|LG,2|z2|
-!f!(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,C,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2"^attacca"|
+Z5|!pp!LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
+!p!LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|
+D,/z/ LB,,/D,/|z2|LC,-C,/>z/|LE,2|z2|LE,-E,/>z/|
+LG,2|z2|!f!(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,C,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2"^attacca"|
 %
 %%%%%%%%%%%%%%%%
 %%textfont Times-Italic
@@ -64,12 +67,12 @@ V:Bassoon
 [M:3/2]
 [L:1/2]
 [Q:"C  Triumphantly  " 1/2=100]
-!p!B,,2-B,,/>z/|F,3|z3|B,,2-B,,/>z/|F,2
-(3(A,/B,/C/)|(B,F,)B,|(D2C/<B,/)|F,(F,B,)|DB,
-!mf!(D|F2F|D/>C/B,B,|D/>E/FF|F2)
-z|!mp!F,2(3(F,/E,/D,/)|(B,,C,/<D,/)B,,|F,F,2|D,B,,
-!ff!(D,|B,,F,,F,,|B,,/>C,/D,B,,|A,,B,,(3C,/B,,/A,,/|B,,/>C,/D,)
-!mf!B,,|B,,2F,,|(G,,/>A,,/B,,)G,,|(F,,B,,)F,,|B,,,3||
+!p!B,,2-B,,/>z/|F,3|z3|B,,2-B,,/>z/|F,2 (3(A,/B,/C/)|
+(B,F,)B,|(D2C/<B,/)|F,(F,B,)|DB, !mf!(D|
+F2F|D/>C/B,B,|D/>E/FF|F2) z|
+!mp!F,2(3(F,/E,/D,/)|(B,,C,/<D,/)B,,|F,F,2|D,B,, !ff!(D,|
+B,,F,,F,,|B,,/>C,/D,B,,|A,,B,,(3C,/B,,/A,,/|B,,/>C,/D,) !mf!B,,|
+B,,2F,,|(G,,/>A,,/B,,)G,,|(F,,B,,)F,,|!fermata!B,,,3||
 
 
 
