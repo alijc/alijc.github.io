@@ -1,0 +1,205 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%measurenb 0
+
+%%pagescale 1.2
+
+
+X:2
+T:MUS240 Woodwind Trio
+T:Flute
+C:Ali Corbin
+M:3/2
+L:1/2
+%%%%Q:1/2=100
+K:Dmin
+%%textfont Times-Italic
+%%center  Idumea
+%%center  (And am I born to die, to lay this body down?
+%%center  And must my trembling spirit fly into a world unknown?
+%%center  A land of deepest shade, unpierced by human thought
+%%center  The dreary regions of the dead, where all things are forgot!)
+%%MIDI program 73 % Flute
+%
+V:Flute name="Flute" snm="Fl"
+[Q: "  A  Fearfully  " 1/2=100]
+!ppp!LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|
+LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
+!p!(d/f/d/A/G)|(A/d/f/d/B)|(A/d/A/F/F/)>z/|(F/A/c/f/c)|
+(A/d/f/d/B|c)>z !mf!(a|c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
+!f!!<(!f/4f'/4d'/4=b'/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
+.e/4.e'/4.=b/4.b'/4 .g/4.g'/4.g/4.b/4 g/2>z/2|.g/4.g'/4.c'/4.c''/4 .=b/4.b'/4.b/4.d'/4 b/2>z/2|.=b/4.g'/4.c'/4.c''/4 .b/4.b'/4.b/4.d'/4 b/2>z/2|!<)!!ff!!fermata!e'3"^attacca"|
+%%%%%%%%%%%%%%%%
+%%textfont Times-Italic
+%%center All is Well
+%%center (What's this that steals, that steals upon my frame? Is it death, is it death?
+%%center That soon will quench, will quench this mortal flame, is it death, is it death?
+%%center If this be death, I soom shall be from ev'ry pain and sorrow free,
+%%center I shall the King of glory see, All is well, all is well!)
+V:Flute
+[M:4/4]
+[Q:"B   With acceptence  " 1/2=70]
+[K:AbMaj]
+Z7|!f!(ag/a/|b)(a|
+g/a/b/c'/|d'/<b/)(c'/a/|b/>c'/)(a/g/|a2)|
+z/z// !mf!Lf'//-f'/e'/-|e'//z//z/ Lf'/>e'/-|e'/z/z/< Lf'/|e'/>z/z/ Lf'/-|
+f'//e'//-e'/z/z//Lf'//-|f'/e'/-e'//z//z/|!mp!La-a/>z/|Lc'2|
+z2|Lg-g/>z/|Lb2|z2|
+Lf-f/>z/|La2|z2|Lg-g/>z/|Lc'2"^attacca"|
+%
+%
+%%%%%%%%%%%%%%%%
+%%textfont Times-Italic
+%%center (Wake ev'ry breath and ev'ry string
+%%center To bless the great Redeemer. Ring
+%%center His Name thro' ev'ry clime ador'd
+%%center Let joy and gratitude and love
+%%center Thro' all the notes of music rove
+%%center And Jesus sound on ev'ry chord)
+V:Flute
+[K:BbMaj]
+[M:3/2]
+[L:1/2]
+[Q:"C  Triumphantly  " 1/2=100]
+z3|!p!B2(3(A/B/c/)|G2(3(A/B/c/)|B2(3(A/B/c/)|(dc/<B/)!mf!(B|
+B2F|G/>A/BG|FBF|B2)z|z3|
+z3|b3|z2!f!(b|d'/>e'/f'f'|g'f'(3b/c'/d'/|
+c'b(3a/b/c'/|d'/>c'/b)!mf!b|b2f|(g/>a/b)g|(fb)f|
+b2(b/>c'/)|(d'>e'f')|e'(d'c'/<b/)|c'd'2|!fermata!b3||
+
+
+
+X:3
+T:MUS240 Woodwind Trio
+T:Clarinet
+C:Ali Corbin
+M:3/2
+L:1/2
+%%%%Q:1/2=100
+K:Dmin
+%%textfont Times-Italic
+%%center  Idumea
+%%center  (And am I born to die, to lay this body down?
+%%center  And must my trembling spirit fly into a world unknown?
+%%center  A land of deepest shade, unpierced by human thought
+%%center  The dreary regions of the dead, where all things are forgot!)
+%%MIDI program 71 % Clarinet
+%
+V:Clarinet name="Bb Clarinet" snm="Cl"
+%%transpose 2
+[Q: "  A  Fearfully  " 1/2=100]
+Z6|!pp!(DA,D|AdA|G)z(C|DCB,|
+A,)z!mf!d|d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|
+f2 g|a2 z|z3|!mp!LD2-D/>z/|LF3|z3|
+LD2-D/>z/|LF3|z2 !mf!(A|!<(!c2 c/2B/2|A2) (G/2F/2|
+D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|!<)!!ff!!fermata!D3)"^attacca"|
+%
+%%%%%%%%%%%%%%%%
+%%textfont Times-Italic
+%%center All is Well
+%%center (What's this that steals, that steals upon my frame? Is it death, is it death?
+%%center That soon will quench, will quench this mortal flame, is it death, is it death?
+%%center If this be death, I soom shall be from ev'ry pain and sorrow free,
+%%center I shall the King of glory see, All is well, all is well!)
+V:Clarinet
+[M:4/4]
+[Q:"B   With acceptence  " 1/2=70]
+[K:AbMaj]
+z2|!ppp!LC-C/>z/|LE2|z2|LC-C/>z/|LE2|
+z2|!p!LC-C/>z/|LE2|z2|LE-E/>z/|LG2|
+z/ !mf!Lc/-c//e//-e/|!f!(ag/a/|b)(a|g/a/b/c'/|
+d'/<c'/)(c'/d'/|b/>c'/)(a/g/|a2)|!p!LA,C|
+z LE|Fz| LG,A,|z LG,|Cz|
+LG,C|zLA,|C2 |z LC|F2"^attacca"|
+%
+%%%%%%%%%%%%%%%%
+%%textfont Times-Italic
+%%center (Wake ev'ry breath and ev'ry string
+%%center To bless the great Redeemer. Ring
+%%center His Name thro' ev'ry clime ador'd
+%%center Let joy and gratitude and love
+%%center Thro' all the notes of music rove
+%%center And Jesus sound on ev'ry chord)
+V:Clarinet
+[K:BbMaj]
+[M:3/2]
+[L:1/2]
+[Q:"C  Triumphantly  " 1/2=100]
+z2!mf!(B|d/>e/dc|B/>c/de|
+f/>e/dc|B2)z|z3|z3|
+!p!B,2-B,/>z/|F2!mp!c/<d/|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|
+f2(3(f/e/d/)|Bf b|b2f|(g/>a/b)g|
+(fb)f|B2 z|F,(B,F,)|G,2(3(B,/A,/G,/)|
+F,2B,|G,2 !ff!(D|F/E/D/C/B,/A,/|
+B,/C/D/E/F/E/|D/F/B,/D/(3C/B,/A,/|!fermata!B,3)||
+
+
+X:4
+T:MUS240 Woodwind Trio
+T:Bassoon
+C:Ali Corbin
+M:3/2
+L:1/2
+%%%%Q:1/2=100
+K:Dmin
+%%textfont Times-Italic
+%%center  Idumea
+%%center  (And am I born to die, to lay this body down?
+%%center  And must my trembling spirit fly into a world unknown?
+%%center  A land of deepest shade, unpierced by human thought
+%%center  The dreary regions of the dead, where all things are forgot!)
+%%MIDI program  70 % Bassoon
+%
+V:Bassoon name="Bassoon" snm="Bas" clef=tenor
+[Q: "  A  Fearfully  " 1/2=100]
+Z4|z2 !mf!(D|D2 C/2D/2|F2 G/2F/2|D2) (A|
+c2 A/2G/2|F2 G|A2) z|
+LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|
+[K:bass]
+!p!!<(!G,/4A,/4=B,/2C/2D/-D/.E/|E,/4F,/4G,/2A,/2=B,/-B,/.C/|
+C,/4D,/4E,/2F,/2G,/-G,/.A,/|!<)!!>(!=B,2z|D/4C/4=B,/2A,/2G,/-G,/.F,/|
+=B,/4A,/4G,/2F,/2E,/-E,/.D,/|!>)!!mf!C,2 z|!f!LD,,2-D,,/>z/|LF,,3|
+z3|!ff!!>(!LD,,3-|D,,2-D,,/>z/|!>)!!<(!L_E,,3-|!<)!!ff!!fermata!_E,,3"^attacca"|
+%%%%%%%%%%%%%%%%
+%%textfont Times-Italic
+%%center All is Well
+%%center (What's this that steals, that steals upon my frame? Is it death, is it death?
+%%center That soon will quench, will quench this mortal flame, is it death, is it death?
+%%center If this be death, I soom shall be from ev'ry pain and sorrow free,
+%%center I shall the King of glory see, All is well, all is well!)
+V:Bassoon
+[M:4/4]
+[Q:"B   With acceptence  " 1/2=70]
+[K:AbMaj]
+Z5|!pp!LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
+!p!LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|
+D,/z/ LB,,/D,/|z2|LC,-C,/>z/|LE,2|z2|LE,-E,/>z/|
+LG,2|z2|!f!(C,/>D,/)E,/E,/|(E,/<C,/)(C,/A,,/)|D,/D,/(D,/<C,/)|B,,C,/C,/|E,E,|B,,/C,/(B,,/<A,,/)|(G,,/<E,,/)A,,/G,,/|A,,/B,,/C,/D,/|E,C,/A,,/|(B,,/>C,/)A,,/G,,/|A,,2"^attacca"|
+%
+%%%%%%%%%%%%%%%%
+%%textfont Times-Italic
+%%center (Wake ev'ry breath and ev'ry string
+%%center To bless the great Redeemer. Ring
+%%center His Name thro' ev'ry clime ador'd
+%%center Let joy and gratitude and love
+%%center Thro' all the notes of music rove
+%%center And Jesus sound on ev'ry chord)
+V:Bassoon
+[K:BbMaj]
+[M:3/2]
+[L:1/2]
+[Q:"C  Triumphantly  " 1/2=100]
+!p!B,,2-B,,/>z/|F,3|z3|B,,2-B,,/>z/|F,2 (3(A,/B,/C/)|
+(B,F,)B,|(D2C/<B,/)|F,(F,B,)|DB, !mf!(D|
+F2F|D/>C/B,B,|D/>E/FF|F2) z|
+!mp!F,2(3(F,/E,/D,/)|(B,,C,/<D,/)B,,|F,F,2|D,B,, !ff!(D,|
+B,,F,,F,,|B,,/>C,/D,B,,|A,,B,,(3C,/B,,/A,,/|B,,/>C,/D,) !mf!B,,|
+B,,2F,,|(G,,/>A,,/B,,)G,,|(F,,B,,)F,,|!fermata!B,,,3||
+
+
+
+
+
+
+
