@@ -33,7 +33,7 @@ V:Flute name="Flute" snm="Fl"
 !ppp!LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
 !p!(d/f/d/A/G)|(A/d/f/d/B)|(A/d/A/F/F/)>z/|(F/A/c/f/c)|(A/d/f/d/B|c)>z !mf!(a|
 c'2 a/2g/2|a2) (g/2f/2|d2c/2A/2|c2) (c|d2 c/2d/2|f2) (g/2f/2|d2) z|
-!f!!<(!f/4f'/4d'/4d''/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
+!f!!<(!f/4f'/4d'/4=b'/4 a/4a'/4a/4d'/4 a/2>z/2|d/4d'/4=b/4b'/4 f/4f'/4f/4b/4 f/2>z/2|=B/4b/4g/4g'/4 d/4d'/4d/4g/4 d/2>z/2| 
 .e/4.e'/4.=b/4.b'/4 .g/4.g'/4.g/4.b/4 g/2>z/2|.g/4.g'/4.c'/4.c''/4 .=b/4.b'/4.b/4.d'/4 b/2>z/2|.=b/4.g'/4.c'/4.c''/4 .b/4.b'/4.b/4.d'/4 b/2>z/2|!<)!!ff!!fermata!e'3|
 V:Clarinet name="Bb Clarinet" snm="Cl"
 %%%%[K:Emin transpose=-2]
@@ -41,7 +41,7 @@ z3|z3|z3|z3|z3|z3|!pp!(DA,D|AdA|G)z(C|DCB,|A,)z!mf!d|
 d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|f2 g|a2 z|
 z3|!mp!LD2-D/>z/|LF3|z3|!mf!LD2-D/>z/|LF3|z2 (A|
 !<(!c2 c/2B/2|A2) (G/2F/2|D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|!<)!!ff!!fermata!D3)|
-
+%
 V:Bassoon name="Bassoon" snm="Bas" clef=tenor
 z3|z3|z3|z3|z2 !mf!(D|D2 C/2D/2|F2 G/2F/2|D2) (A|c2 A/2G/2|F2 G|A2) z|
 LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|
