@@ -47,8 +47,8 @@ V:Bassoon name="Bassoon" snm="Bas" clef=tenor
 z3|z3|z3|z3|z2 !mf!(D|D2 C/2D/2|F2 G/2F/2|D2) (A|c2 A/2G/2|F2 G|A2) z|
 LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|
 [K:bass]
-!p!!<(!G,/4A,/4=B,/2C/2D/-D/.E/|E,/4F,/4G,/2A,/2=B,/-B,/.C/|C,/4D,/4E,/2F,/2G,/-G,/.A,/|!<)!!f!!>(!=B,2z|D/4C/4=B,/2A,/2G,/-G,/.F,/|=B,/4A,/4G,/2F,/2E,/-E,/.D,/|!>)!!mf!C,2 z|
-!f!LD,,2-D,,/>z/|LF,,3|z3|!ff!LD,,3-|D,,2-D,,/>z/|!f!L_E,,3-|!ff!!fermata!_E,,3|
+!p!!<(!G,/4A,/4=B,/2C/2D/-D/.E/|E,/4F,/4G,/2A,/2=B,/-B,/.C/|C,/4D,/4E,/2F,/2G,/-G,/.A,/|!<)!!>(!=B,2z|D/4C/4=B,/2A,/2G,/-G,/.F,/|=B,/4A,/4G,/2F,/2E,/-E,/.D,/|!>)!!mf!C,2 z|
+!f!LD,,2-D,,/>z/|LF,,3|z3|!ff!!>(!LD,,3-|D,,2-D,,/>z/|!>)!!<(!L_E,,3-|!<)!!ff!!fermata!_E,,3|
 %%%%%%%%%%%%%%%%
 %%textfont Times-Italic
 %%center All is Well
