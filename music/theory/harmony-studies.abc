@@ -1,0 +1,306 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat B-1 T H1, K-1 N 
+%%writefields QP 0
+
+
+X: 1
+T: O virgo splendens
+B: Llibre Vermeil
+H: 14th Century
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_111.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_112.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: As a three part canon with equal notes
+M: none
+L: 1/4
+Q: 1/4=80
+K: D Dorian
+%%MIDI program 1 74 %% recorder
+%%MIDI program 2 73 %% flute
+%%MIDI program 3 79 %% ocarina
+%%score (1 2 3)
+V:1
+"^I" (FGF AGA FGF FDED) (CD)  D3|
+"^II" (DCD FGF) (AGA FAG AcA) A3 |
+"^III"  (BcA) (AGA cdA AF) (ED) (CD)  D3 | G (FD) F (GF) (ED FD AGF) (GA) A3 |
+ (GA) (Ac) (Bc) (cdA) F (DEFGD) D3 | (ED) (DCDC) (ED DA AGAGA) A3 |
+ (CD) (FG)  (FECD)   D  D (FGFED)  D3 |(GFA GAB cA) F    A (AG) (Acd) A3 |
+ (dc) (cBA) (GA AF) (FGF) (FAG) A3 | G  A (AB) c (dA)   F  F (DCDF)   F  E D3 |
+  G (FD)  D   E  D  D (DFA) (AGF)    D  C  D3 |  
+  C   D   F (FG) F (AFAcABABc) A3 | (GA)   F (FEF) (DADCDEDDC)  D3 ||
+V:2
+ (GA)   F (FEF) (DADCDEDDC)  D3 || (FGF AGA FGF FDED) (CD)  D3| (DCD FGF) (AGA FAG AcA) A3 |
+ (BcA) (AGA cdA AF) (ED) (CD)  D3 | G (FD) F (GF) (ED FD AGF) (GA) A3 |
+ (GA) (Ac) (Bc) (cdA) F (DEFGD) D3 | (ED) (DCDC) (ED DA AGAGA) A3 |
+ (CD) (FG)  (FECD)   D  D (FGFED)  D3 |(GFA GAB cA) F    A (AG) (Acd) A3 |
+ (dc) (cBA) (GA AF) (FGF) (FAG) A3 | G  A (AB) c (dA)   F  F (DCDF)   F  E D3 |
+  G (FD)  D   E  D  D (DFA) (AGF)    D  C  D3 |  
+ C   D   F (FG) F (AFAcABABc) A3 |
+V:3
+  C   D   F (FG) F (AFAcABABc) A3|
+w:VII45 i45 IIIU III3 ii3 III3 i X i III5 i5 II5 i5 X X i5
+  (GA)   F (FEF) (DADCDEDDC)  D3 ||
+w:i34 VII45 i3 III3 ii3 III3 i (i)45 i III5 i5 ii3 i5 (v)45 v45 i5	
+ (FGF AGA FGF FDED) (CD)  D3|
+w:vid VII5 i III3 ivU III3 III IV5 III3 III3 i ii3 i5 VII8 i5 i5
+ (DCD FGF) (AGA FAG AcA) A3 |
+w:IV III5 i5 III3 IVU III3 v IV5 III3 i III3 ii3 i VII5 i5 i5
+ (BcA) (AGA cdA AF) (ED) (CD)  D3 |
+w:IV3 III i5 III IV3 III VII3 i8 III3 i i ii3 i3 VII5 i5 i5
+  G (FD) F (GF) (ED FD AGF) (GA) A3 |
+w:III3 i i5 III5 IV III5 VII3 i8 i i i5 ii3 III3 IVU i5 i5
+ (GA) (Ac) (Bc) (cdA) F (DEFGD) D3 |
+w:VII i5 i VII5 vid VII3 VII3 i8 i5 i i ii3 III3 ii3 i5 i5 
+ (ED) (DCDC) (ED DA AGAGA) A3 |
+w:VII i3 i VII5 i5 X VII3 i5 i3 i5 III3 IVU III3 VII i5 i5
+ (CD) (FG)  (FECD)   D  D (FGFED)  D3 |
+w:VII5 i3 III IV3 III3 ii v3 i5 i3 i III3 X III3 v IV5 i5
+ (GFA GAB cA) F    A (AG) (Acd) A3 |
+w:IV5 III v3 IV3 v3 IV v3 III3 IIIu i VII45 i34 IIIu i VII i5
+ (dc) (cBA) (GA AF) (FGF) (FAG) A3 |
+w:IV5 i i vid VII IV5 i5 i5 IIIU i VII45 i34 IIIU i VII i5
+  G  A (AB) c (dA)   F  F (DCDF)   F  E D3 |
+w: VII5 i i vid VII i3 i5 III3 v34 v34 v3 IV III3 vid VII3 i5
+  G (FD)  D   E  D  D (DFA) (AGF)    D  C  D3 |  
+w:VII5 i i3 i3 ii3 i5 i i v3 i5 i5 ii I x VIIu i5
+
+X: 2
+T: Stella Splendens
+B: Llibre Vermeil
+H: 14th Century
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_104.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_193.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 2/4
+L: 1/4
+Q: 1/4=120
+K: D Dorian
+%
+%
+V: 1
+%Staff 1
+%%MIDI program 74
+ (A A/G/)|A     F| D    F|(G2|_B/A/F/G/)|E D | F  G |(G/F/) D|C2 |
+w:Stel-**la splen-dens in mon- * * * *  te Ut so-lus ra-*  di-um
+ (A A/G/)|A  F| D   F|(G2|_B/A/F/G/)|E  D| F  G|(G/F/) (D/E/4C/4)|D2 ||
+w:Mi-**  ra-cu-lis ser-ra-* * * *  to, E-xau-di po-*   pu-**  lum
+%
+   D   D | A   B |d (B|c/A/) G |B   c | A (G/F/)|(F/E/) D |
+w:Con-cur-runt u-ni-ver-**  si Gau-den-tes po-*   pu-*  li,
+   D  D| A  B| d (B|c/A/) G  |  B   c |A (G/F/)|(F/E/) D |
+w:Di-vi-tes et e-ge-* *   ni, Gran-des et par-*  vu-* li,
+ (A A/G/)|A     F| D   F|(G2|_B/A/F/G/)|E    D | F   G |(G/F/) D|C2 |
+w:Ip-**  sum   in-gre-di- un- * * * *  tur, Ut  cer-nunt o-*  cu-li.
+ (A A/G/)|A  F| D  F|(G2|_B/A/F/G/)|E    D| F G|(G/F/) (D/E/4C/4)|D2 ||
+w:Et* *  in-de re-ver-tun-* * * *  tur Gra-ti-is re-*   ple-**    ti.
+%
+V: 2
+%Staff 2
+%%MIDI program 42
+  D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 | 
+  A2|D2|D G|F E-|E C| D F|G A | A2|D2|D G|F E-|E  C|D F|G A  |
+  D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 | 
+
+
+X: 3
+T: Laudemus Virginem
+B: Llibre Vermeil
+H: 14th Century
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_193.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: can be sung as a three-part canon
+M: 4/4
+L: 1/4
+Q: 1/4=120
+K: A Aeolian
+V:1
+%Staff 1
+%%MIDI program 74
+"^I" F   E "^II" D2 |"^III" F  G A2 | c  G  A2 | F  E  D2 | F  G A2  |   c  G  A2 :|| 
+w:  Lau-de-     mus       Vir-gi-nem, Ma-ter est,  Et e-jus   Fi-li-us,  lhe-sus est.
+w: Plan-ga-     mus       sce-le-ra,  a-cri-ter   Spe-ran-tes in lhe-sum, ju-gi-ter.
+
+X: 4
+T: Splendens Ceptigera
+B: Llibre Vermeil
+H: 14th Century
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_193.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: can be sung as a six-part canon
+M: 4/4
+L: 1/4
+Q: 1/4=180
+K: F lydian
+V:1
+%Staff 1
+%%MIDI program 74
+"^I" D   E    F2|"^II" D  E C2|"^III" D   E  F2|"^IV" A   G  F  F|"^V" A   B c2|"^VI" A   G F2:||
+w:Splen-dens cep-     ti-ge-ra       Nos-tri sis      ad-vo-ca-ta     Vir-go pu-      er-pe-ra
+w:  Tun- den- tes    pec-to-ra       Cri-mi- na     con-fi-ten-tes    Si- mus al-     tis-si-mo
+
+%%newpage
+
+X: 5
+T: Los set gotxs
+B: Llibre Vermeil
+H: 14th Century
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_109.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_25.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M:2/4
+L: 1/4
+Q: 1/4=180
+K: D Dorian
+%%MIDI program 74
+   c (B/A/)| B    c| d (c/B/)|A2 |(B/A/G/) F/|E  D|(E/D/E/) F/| E z |
+w:Los set* gotxs re-comp-ta-*rem   Et**   de-vo-ta- ment** xan-tant
+   c (B/A/)| B    c| d (c/B/)|A2 |(B/A/G/) F/|E  D|(E/D/E/) F/| E D ||
+w:Hu- mil-* ment sa-lu- da-* rem   La**   dol-ca ver-ge**  Ma- ri-a.
+M:3/4
+   G>G  A |F E (F/E/)|F/ G/  A   E| G > G  A | F (E/D/) (E/D/)|E/ C/  D D||
+w:Av-e Ma-ri-a, gra-*ci- a  ple-na  Do-mi-nus te-cum,*   Vir-* go se-re-na.
+%
+
+X: 8
+T: Mariam Matrem
+B: Llibre Vermeil
+H: 14th Century
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_26.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 4/4
+L: 1/4
+Q: 1/4=150
+K: D Dorian
+%
+%%MIDI program 1	79 ocarina
+%%MIDI program 2	74 recorder
+%%MIDI program 3	71 clarinet
+%
+V:1 clef=treble
+z D3|F2 G2|A2 (c/BA/)|(A/G/F/E/) (E/DC/)|D3 E |(G/FE) (FD/)|C3
+w:Ma-ri-am Ma- trem**  Vir-***    gi-** nem at- tol-** li-* te
+   D | F2   G2 |A2 (c/BA/)|(A/G/F/E/) (E/DC/)|D3  E|(F/ED/) ^C2|D3  
+w:Ihe-sum Chris-tum ex-**   tol-***    li-**  te con-cor-** di-ter.
+%
+   A|d2 (AB)| c B2 A |A2 G2 |A3   A| c2 (d/c/B/c/)|A3
+w:Ma-ri- a,* se-cu-li a- si-lum, de-fen- de***    nos.
+w:Ihe-su, su-*pre-*ma bo-ni-tas  ve-ris-si-***   ma.
+w:Ma-ri- a* fac-*  ta sae-cu-lis sal-va- ti-***   o
+   A |d2 (AB)|(cB2) A |A2 G2|A3   A| c2 (d/c/B/c/)|A2    
+w:Ihe-su, tu-* tum* re-fu-gi-um,  e-xau- di***    nos.
+w:Ma- ri- a,*  dul-*cis pi-e-tas  gra-tis-si-***  ma.
+w:Ihe-su dam-* na-* ti ho-mi-nis  re-demp-ti-***  o
+   G2|F2  G2| A2 (c/BA/)|(A/G/F/E/) (E/DC/)|D3  E|(G/FE) (FD/)|C3  
+w:lam es-tis vos  to-**   ta-***     li-** ter dif-fu-**  gi-* um,
+w:Am- plis-si-ma  con-**  for-***    mi-** ter sit ca-**  ri-* tas
+w:Pu- gna-re quem vi-**   ri-***     li-** ter per fa-**  mu-* lis
+   D|F2   G2|A2 (c/BA/)|(A/G/F/E/) (E/DC/)|D3  E|(F/ED/) ^C2|D4||
+w:to-tum mun-di  con-**  fu-***    gi-**   um re- a-**   li-ter.
+w:ad nos quos pel-lit**  va-***    ni-**   tas e- nor-** mi-ter.
+w:Per-cus-sis du-ris**   ia-***    cu-**   lis at-ro-**  ci-ter.
+%
+V:2 clef=treble_8
+(D2C2)| D3 C|(E4|C4)|DA,2B,|CB,A,G,|(F,2A,2)|
+(_B,C2D)|(E4|C4)|(D2B,2)|(A,3G,)|A,4|
+(D,4|A,4)|B,C2D|E4|FE2D|E4| 
+(D,4|A,4)|B,C2D|E4|FE2D|E4|
+DEFD|(E4|C4)|DA,2B,|CB,A,G,|(F,2A,2)|
+_B,C2D|(E4|C4)|(D2B,2)|A,3G,|A,4||
+%
+V:3 clef=treble_8
+%
+(D,2A,2|_B,4|A,4|A,4)|D,4|C,2D,E,|F,4|
+(_B,4|A,4|A,4)|(D,2G,2)|(F,2E,2|D,4)|
+(D4|C4)|(C2B,2|A,4)|(F,2G,2|A,4)|
+(D4|C4)|(C2B,2|A,4)|(F,2G,2|A,4|
+_B,4|A,4|A,4)|D,4|C,2D,E,|F,4|
+(_B,4|A,4|A,4)|(D,2G,2)|(F,2E,2|D,4)||
+%
+
+X: 9
+T: Imperaritz
+B: Llibre Vermeil
+H: 14th Century
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_127.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_240.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 6/4
+L: 1/4
+Q: 1/4=160
+K: D Dorian
+V:1
+%%MIDI program 1	74 recorder
+%%MIDI program 2	79 ocarina
+%
+V:1 clef=treble
+ (D2E) (FE)  D | C3 (E2F)|G2   F E2   D|(CEDA,DC)|D6|
+w:Im-*  pe-*ray-ritz de*  la ciu-tat jo-yo-*****  sa,
+w:Ro-*  sa* fla-gran de*  ve-ra  be- ne-nan-***** ça
+w:Flor* de* les flors dol-*ça cle-ment et pi-***** a
+  A3 B2  B|c3  B3| B2  B   (AE) (A/G/)|A6|
+w:De pa-ra-dis ab tot gaug' e-*  ter-* nal,
+w:Fons de mer-cé ia-mays ne de-* fal-* len.
+w:L'an-gel de dieu ve-sém tot cor-*ro-*cat
+ (c2B/A/)G2  F| E3    C3| D2  C   D2 D| (EFDCD2)|E6|
+w:Ne-**  ta de crims, de vir-tuts ha-bun-do-**** sa,
+w:Pa-**lays d'o-nor   on se  fech l'a-li-an-**** ça
+w:E**  par que dieus la-men-dat qu'ens al-ci-****a
+  F3 (GF)   G|(A2G/F/) E3 |(FE) D  A, (DC)|D6|
+w:May-res* de  Dieu**  per  o-*bra di- vi-*nal.
+w:De deu*  e  d'hom**  per nos-*tre sal-va-*men.
+w:Don ell* es prest**  ab le-*stoch af-fi-*lat
+ (A2B) (AG)   F | E3  F3| E2  F G2  G|(A2G/F/EAG|A6)|
+w:Ver-* ges* pla-sen, ab fas an-ge-li- cal,******
+w:E*    fo*  ver dieus es hom per-fe-ta-men.******
+w:Don-*chos* pla-ça   vos que'l sia co-man-dat******
+ (c2B/A/) G2  F | E3 C3| D2   C    D2 D|(EFDCD2)|E6|
+w:A-**    xi com sotz a Dieu molt gra-ci-o-****  sa,
+w:Ses**   de-fal-lir en al-  cu-  na sub-stan-****ça
+w:Qu'es-**toyg l'es-toch e que re-mes nos di-**** a
+ (A2B) (AG)   F|E3  F3 | E2 F   G2  G|(A2G/F/EAG)|A6|
+w:Pla-*caus* e-star als fi-zels pi- a  do-*****  sa,
+w:E*  se-* gons hom mo-ri se-nes dub-tan-*****   ça
+w:Tot* fal-*li-  men tro en lu  pre-sen di-*****a
+ (c2B/A/) G2   F | E3 F3| G2  F  E2 D|(CEDA,DC)|D6||
+w:Pre-** gant per lor ai Rey ce-les-ti-al.******
+w:E**    com ver dieus le-vech dei mo-ni-men.******
+w:Ens**  do- ne  gaug  e  patz e   san-i-tat******
+%
+V:2 clef=treble_8
+  D,3 D,2  D,|A,3 A,3|G,2 G, G,2 G,|A,2 F,2 E,2|D,6|
+w:Ver-ges ses par mi- ser-i- cor-di-o-  *   *   sa
+w:Ve-xell de pats co-ro- na  des-pe-ran-*   *   ça
+w:Es-tel  de mar  qui los pe-ril-lans gui-* *   a
+  D3  D2  D| C3    E3 |D2  C  C2  B,|A,6|
+w:De vos se tany quens de-fe-nats de mal
+w:Port de sa-lut  be   se-gur de tot ven
+w:E'ls fay ve-nir a   bo-na   sal-ve-tat
+  F,3 G,2  G, |A,3 A,3|B,2 A, G,2 F,|E,2 G,2 F,2|E,6|
+w:Et  no siats de- vas nos en-de-ny- o-  *   *   sa
+w:Vos me-re-  xets de  te-nir la ba-lan- *   *   ça
+w:Si Je-su  Christ o-  be-hir no vo-li-  *   *   a
+  A,3   C2 B,|A,3   G,3|A,2 F, G, E,2|D,6|
+w:Pels fal-li-ments que fem en ge-ne- ral.
+w:On   es  pe-sat   be  drey-tu-re-ra-men
+w:Co   que per vos  li  se-  ra sup-pli-cat
+  D,3 A,2    B,|C3   D3|E2  D  C2  B,|A,2 C2 B,2|A,6|
+w:Mas quens cu-brats ab lo man-to re- al  *   *  *
+w:E   pe-   sa mays vos-tre fill ex-cel-len*   *  *
+w:Mo-strats lils pits don l'a-vets al-le-tat* * *
+  F,3 G,2 G,|A,3 A,3|B,2  A,  G,2 F,|E,2 G,2 F,2|E,6|
+w:De  pi- et-at  pus quen ets cu-pi- o-  *   *   sa
+w:Mort en la crots per nos-tra de-liv-ran-*  *   ça
+w:Et tots los sants ab la gran je-rar-qui-    *  *   a
+  D,3 A,2  B,| C3   D3 |E2   D  C2  B,|A,2 C2 B,2|A,6|
+w:Car tots em fayts d'a-vol pas-ta fan-go- *  *   sa
+w:Quels pec-cats d'om en fayt en co-be-jan-*  *   ça.
+w:De  pa- ra-dis qui~us  fa- ran com-pa-ny-*  *   a
+  F,3 G,2    G,|A,3 A,3|G,2  G, G,2 G,|G,2 F,2 E,2|D,6||
+w:Per que'l fal-lir es  de  carn hu-me-nal.*   *   *
+w:Al  be    fi- dei con-fes  e   pe-ni-dén.*   *   *
+w:Tot quan  vol-rets vos er ben  au-tre-yat.*  *   *
