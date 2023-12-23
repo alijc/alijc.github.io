@@ -44,11 +44,40 @@ w:m2- 1  | M2- 1  | m3-(opt)-1 | m3-(opt)-5 | M3-(opt)-1 | M3-(opt)-5 |
  [Af][Ae]|[Fd][Fc]|[Dc][Dd]|[Gf][Ge][Gd]|[Fe][Ff]|[Fe][Fd][Fc]| z||
 w:m6- 5  | M6- 5  | m7-8   | m7-(opt)-5 | M7- 8  | M7-(opt)-5
 
+%%titleformat B-1 T H1, K-1 N
+
+X: 1221
+T: Stella Splendens
+B: Llibre Vermeil
+H: 14th Century
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_104.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_193.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 2/4
+L: 1/4
+Q: 1/4=120
+K: D Dorian
+%%score (1 2)
+%%MIDI program 1 73 %% flute
+%%MIDI program 2 41 % Viola
+V: 1
+ (A A/G/)|A     F| D    F|(G2|_B/A/F/G/)|E D | F  G |(G/F/) D|C2 |
+ (A A/G/)|A  F| D   F|(G2|_B/A/F/G/)|E  D| F  G|(G/F/) (D/E/4C/4)|D2 ||
+%
+   D   D | A   B |d (B|c/A/) G |B   c | A (G/F/)|(F/E/) D |
+   D  D| A  B| d (B|c/A/) G  |  B   c |A (G/F/)|(F/E/) D |
+ (A A/G/)|A     F| D   F|(G2|_B/A/F/G/)|E    D | F   G |(G/F/) D|C2 |
+ (A A/G/)|A  F| D  F|(G2|_B/A/F/G/)|E    D| F G|(G/F/) (D/E/4C/4)|D2 ||
+%
+V: 2
+  D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 ||
+  A2|D2|D G|F E-|E C| D F|G A | A2|D2|D G|F E-|E  C|D F|G A  |
+  D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 ||
 
 
 
-%%titleformat B-1 T H1, K-1 N 
-X: 1
+X: 1239
 T: O virgo splendens
 B: Llibre Vermeil
 H: 14th Century
@@ -108,44 +137,6 @@ w:IV5 i i vid VII IV5 i5 i5 IIIU i VII45 i34 IIIU i VII i5
 w: VII5 i i vid VII i3 i5 III3 v34 v34 v3 IV III3 vid VII3 i5
   G (FD)  D   E  D  D (DFA) (AGF)    D  C  D3 |  
 w:VII5 i i3 i3 ii3 i5 i i v3 i5 i5 ii I x VIIu i5
-
-X: 2
-T: Stella Splendens
-B: Llibre Vermeil
-H: 14th Century
-F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_104.jpg
-F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_193.jpg
-Z:Ali Corbin <ali.corbin:gmail.com>
-N: 
-M: 2/4
-L: 1/4
-Q: 1/4=120
-K: D Dorian
-%
-%
-V: 1
-%Staff 1
-%%MIDI program 74
- (A A/G/)|A     F| D    F|(G2|_B/A/F/G/)|E D | F  G |(G/F/) D|C2 |
-w:Stel-**la splen-dens in mon- * * * *  te Ut so-lus ra-*  di-um
- (A A/G/)|A  F| D   F|(G2|_B/A/F/G/)|E  D| F  G|(G/F/) (D/E/4C/4)|D2 ||
-w:Mi-**  ra-cu-lis ser-ra-* * * *  to, E-xau-di po-*   pu-**  lum
-%
-   D   D | A   B |d (B|c/A/) G |B   c | A (G/F/)|(F/E/) D |
-w:Con-cur-runt u-ni-ver-**  si Gau-den-tes po-*   pu-*  li,
-   D  D| A  B| d (B|c/A/) G  |  B   c |A (G/F/)|(F/E/) D |
-w:Di-vi-tes et e-ge-* *   ni, Gran-des et par-*  vu-* li,
- (A A/G/)|A     F| D   F|(G2|_B/A/F/G/)|E    D | F   G |(G/F/) D|C2 |
-w:Ip-**  sum   in-gre-di- un- * * * *  tur, Ut  cer-nunt o-*  cu-li.
- (A A/G/)|A  F| D  F|(G2|_B/A/F/G/)|E    D| F G|(G/F/) (D/E/4C/4)|D2 ||
-w:Et* *  in-de re-ver-tun-* * * *  tur Gra-ti-is re-*   ple-**    ti.
-%
-V: 2
-%Staff 2
-%%MIDI program 42
-  D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 | 
-  A2|D2|D G|F E-|E C| D F|G A | A2|D2|D G|F E-|E  C|D F|G A  |
-  D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 | 
 
 
 X: 3
