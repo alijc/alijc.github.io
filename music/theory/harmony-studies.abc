@@ -1,6 +1,6 @@
 %%abc-version 2.1
 %%titletrim true
-%%titleformat B-1 T H1, K-1 N 
+%%titleformat B-1 T H1, N 
 %%writefields QP 0
 
 %%center      Thirteenth-Century Polyphony
@@ -13,19 +13,32 @@ F: http://www.medieval.org/emfaq/harmony/2voice.html
 M: none
 L: 1/1
 K: none
-"^Stable"
-"^Purely blending"	[CC] [DD] [EE] [FF] [GG] [AA] | [Dd] [Ee] [Ff] [Gg] [Aa] |
+%%MIDI program 41 % Viola
+%%text
+%%center Stable intervals:
+"^Purely blending"	[CC] [DD] [EE] [FF] [GG] [AA] | [Cc] [Dd] [Ee] [Ff] [Gg] [Aa] |z||
 w:                      unison                        | octave
-"^Optimally blending" 	[CG] [DA] [EB] [Fc] [Gd] [Ae] | [CF] [DG] [EA] [F_B] [Gc] [Ad] |
+"^Optimally blending" 	[CG] [DA] [EB] [Fc] [Gd] [Ae] | [CF] [DG] [EA] [F_B] [Gc] [Ad] |z||
 w:          		P5    	    	      	      | P4
-"^Unstable" 
-"^Relatively blending"	[CE] [FA] [GB] | [DF] [EG] [Ac] |
+%%center Unstable intervals:
+"^Relatively blending"	[CE] [FA] [GB] | [DF] [EG] [Ac] |z||
 w:	     		M3             | m3
-"^Relatively tense"	[CD] [DE] [FG] [GA] [AB] | [Dc] [Ed] [Gf] [Ag] [Ba] | [CA] [Fd] [Ge] |
+"^Relatively tense"	[CD] [DE] [FG] [GA] [AB] | [Dc] [Ed] [Gf] [Ag] [Ba] | [CA] [Fd] [Ge] |z||
 w:	     		M2      	    	 | m7	     	       	    | M6
-"Strongly discordant"	[EF] [A_B] [=Bc] | [C=B] [Fe] [_Ba] | [E_B] [F=B] | [Ec] [Af] [Bg] |
+"Strongly discordant"	[EF] [A_B] [=Bc] | [C=B] [Fe] [_Ba] | [E_B] [F=B] | [Ec] [Af] [Bg] |z||
 w:	  		m2   	   	 | M7	      	    | tt    	  | m6(often)
+%%begintext
+Unstable intervals want to resolve to stable ones
+The fifth is the best interval to resolve to, although songs often begin and end at unisons and octaves
 
+%%endtext
+%%center Directed cadences
+%%text Moving by stepwise(ish) motion
+ [Bc][Ad]|[EF][CG]|[AB][Gc]|[FG][DA]|[EG][FF]|[EG][DA]|[FA][GG]|[FA][BE]|[Ec][Dd]|[Af][Be]|[Ge][Ff]|[CA][DG]|[Ed][Fc]|[Fe][Gd]|z||
+w:m2- P4 | m2- P5 | M2- P4 | M2- P5 | m3-  1 | m3- p5 | M3-  1 | M3- P5 | m6-  8 | m6- P4 | M6-  8 | M6- P4 | m7- P5 | M7- P5
+
+
+%%titleformat B-1 T H1, K-1 N 
 X: 1
 T: O virgo splendens
 B: Llibre Vermeil
