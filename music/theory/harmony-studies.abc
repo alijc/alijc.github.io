@@ -3,6 +3,28 @@
 %%titleformat B-1 T H1, K-1 N 
 %%writefields QP 0
 
+%%center      Thirteenth-Century Polyphony
+%%center      http://www.medieval.org/emfaq/harmony/13c.html
+%%center      Margo Schulter
+
+X: 1220
+T: Two-voice intervals and progressions
+F: http://www.medieval.org/emfaq/harmony/2voice.html
+M: none
+L: 1/1
+K: none
+"^Stable"
+"^Purely blending"	[CC] [DD] [EE] [FF] [GG] [AA] | [Dd] [Ee] [Ff] [Gg] [Aa] |
+w:                      unison                        | octave
+"^Optimally blending" 	[CG] [DA] [EB] [Fc] [Gd] [Ae] | [CF] [DG] [EA] [F_B] [Gc] [Ad] |
+w:          		P5    	    	      	      | P4
+"^Unstable" 
+"^Relatively blending"	[CE] [FA] [GB] | [DF] [EG] [Ac] |
+w:	     		M3             | m3
+"^Relatively tense"	[CD] [DE] [FG] [GA] [AB] | [Dc] [Ed] [Gf] [Ag] [Ba] | [CA] [Fd] [Ge] |
+w:	     		M2      	    	 | m7	     	       	    | M6
+"Strongly discordant"	[EF] [A_B] [=Bc] | [C=B] [Fe] [_Ba] | [E_B] [F=B] | [Ec] [Af] [Bg] |
+w:	  		m2   	   	 | M7	      	    | tt    	  | m6(often)
 
 X: 1
 T: O virgo splendens
