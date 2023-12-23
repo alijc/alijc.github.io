@@ -20,6 +20,7 @@ K: none
 w:                      unison                        | octave
 "^Optimally blending" 	[CG] [DA] [EB] [Fc] [Gd] [Ae] | [CF] [DG] [EA] [F_B] [Gc] [Ad] |z||
 w:          		P5    	    	      	      | P4
+%%text
 %%center Unstable intervals:
 "^Relatively blending"	[CE] [FA] [GB] | [DF] [EG] [Ac] |z||
 w:	     		M3             | m3
@@ -30,12 +31,20 @@ w:	  		m2   	   	 | M7	      	    | tt    	  | m6(often)
 %%begintext
 Unstable intervals want to resolve to stable ones
 The fifth is the best interval to resolve to, although songs often begin and end at unisons and octaves
-
 %%endtext
+%%text
 %%center Directed cadences
-%%text Moving by stepwise(ish) motion
+%%center Moving by stepwise(ish) motion
  [Bc][Ad]|[EF][CG]|[AB][Gc]|[FG][DA]|[EG][FF]|[EG][DA]|[FA][GG]|[FA][BE]|[Ec][Dd]|[Af][Be]|[Ge][Ff]|[CA][DG]|[Ed][Fc]|[Fe][Gd]|z||
 w:m2- P4 | m2- P5 | M2- P4 | M2- P5 | m3-  1 | m3- p5 | M3-  1 | M3- P5 | m6-  8 | m6- P4 | M6-  8 | M6- P4 | m7- P5 | M7- P5
+%%text
+%%center Oblique resolutions
+ [EF][EE]|[GA][GG]|[DF][DE][DD]|[Ac][Ad][Ae]|[FA][FG][FF]|[GB][Gc][Gd]|
+w:m2- 1  | M2- 1  | m3-(opt)-1 | m3-(opt)-5 | M3-(opt)-1 | M3-(opt)-5 |
+ [Af][Ae]|[Fd][Fc]|[Dc][Dd]|[Gf][Ge][Gd]|[Fe][Ff]|[Fe][Fd][Fc]| z||
+w:m6- 5  | M6- 5  | m7-8   | m7-(opt)-5 | M7- 8  | M7-(opt)-5
+
+
 
 
 %%titleformat B-1 T H1, K-1 N 
