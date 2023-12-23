@@ -10,11 +10,21 @@ L:1/4
 Q:1/4=80
 %%MIDI program 41 % Viola
 K:C
-   B,    C   B, z| C D C z	 |A,  C   A, z| C  E    C z | C   F    C z  | F2  B2 | C   G    C z | c       E       c z | C  A   C z | D  c   D z   | C  B     C  z| C c C z ||
-w:mi-nor second  |Ma-jor second	 |mi-nor third|Ma-jor third |Per-fect fourth|Tri-tone|Per-fect fifth|mi-     nor     sixth|Ma-jor sixth|mi-nor seventh|Ma-jor seventh|Oc-tave  ||
-w: ti   do  ti   |do re do	 |la  do la   |do  mi   do  |do  fa  do     |fa  to  |do  sol  do   |do       mi      do  |do  la  do  |re do   re    | do ti   do   |do do do ||
-w:ochi cher-nye  |Happy Birth-day|To dream the|Doe(a) deer a|Here Comes	    |Ma-ri(a)|Star Wars	    |Where does~love begin| N  B(C)    |Star Trek     |Ba(li) Hai    |Some-where||
-w:Jaws theme	 |		 |( impossible dream)|	    |(the bride)    |	     |Twinkle, twinkle|	   	     	  |    	       |     	      |	     |(over the rainbow)||
+   B,    C   B, z| C D C z	 |A,  C   A, z| C  E    C z |
+w:mi-nor second  |Ma-jor second	 |mi-nor third|Ma-jor third |
+w: ti   do  ti   |do re do	 |la  do la   |do  mi   do  |
+w:ochi cher-nye  |Happy Birth-day|To dream the|Doe(a) deer a|
+w:Jaws theme	 |		 |( impossible dream)|	    |
+   C   F    C z  | F2  B2 | C   G    C z | c       E       c z |
+w:Per-fect fourth|Tri-tone|Per-fect fifth|mi-     nor     sixth|
+w:do  fa  do     |fa  to  |do  sol  do   |do       mi      do  |
+w:Here Comes	 |Ma-ri(a)|Star Wars	 |Where does~love begin|
+w:(the bride)    |	  |Twinkle, twinkle|	   	       |
+   C  A   C z | D  c   D z   | C  B     C  z| C c C z ||
+w:Ma-jor sixth|mi-nor seventh|Ma-jor seventh|Oc-tave  | 	       
+w:do  la  do  |re do   re    | do ti   do   |do do do |       
+w: N  B(C)    |Star Trek     |Ba(li) Hai    |Some-where|	       
+w:    	      |     	     |	     	    |(over the rainbow)|
 
 X:2
 T:Major and minor chords
@@ -36,7 +46,7 @@ K:C
    C/D/  E  C  E| D/E/  F  D  F| E/F/  G   E  G | F/G/   A  F  A|
 w:do re mi do mi|re mi fa re fa|mi fa sol mi sol|fa sol la fa la|
     G/A/  B  G   B| A/B/  c  A  c| B/c/  d  B  d| c4 ||
-w:sol la ti sol ti|la ti do la do|ti do re ti re| do ||
+w:sol la ti sol ti|la ti do la do|ti do re ti re| do |
 
 X:12
 T:Diatonic Thirds Sequential
@@ -48,7 +58,7 @@ K:C
    C  E  C/C/    E  | D  F  D/D/    F  | E  G   E/E/    G  | F  A  F/F/    A  |
 w:do mi ma-jor third|re fa mi-nor third|mi sol mi-nor third|fa la ma-jor third|
     G  B  G/G/    B  | A  c  A/A/    c  | B  d  B/B/    d  | c4 ||
-w:sol ti ma-jor third|la do mi-nor third|ti re mi-nor third| do ||
+w:sol ti ma-jor third|la do mi-nor third|ti re mi-nor third| do |
 
 X:13
 T:Triad Sequential
@@ -60,7 +70,7 @@ K:C
    C/E/G/E/    C2| D/F/A/F/   D2| E/G/B/G/     E2| F/A/c/A/ F2 |
 w:do mi sol me do|re fa la fa re|mi sol ti sol mi|fa la do la fa|
     G/B/d/B/    G2| A/c/e/c/   A2|  B/d/f/d/  B2| c4 ||
-w:sol ti re ti sol|la do mi do la|ti re fa re ti| do ||
+w:sol ti re ti sol|la do mi do la|ti re fa re ti| do |
 
 X:14
 T:Triad Sequential
@@ -72,7 +82,7 @@ K:C
    C/E/G/E/     C2  | D/F/A/F/    D2  | E/G/B/G/     E2   | F/A/c/A/   F2 |
 w:do mi sol me major|re fa la fa minor|mi sol ti sol minor|fa la do la major|
     G/B/d/B/    G2  | A/c/e/c/    A2  |  B/d/f/d/      B2    | c4 ||
-w:sol ti re ti major|la do mi do minor|ti re fa re diminished| do ||
+w:sol ti re ti major|la do mi do minor|ti re fa re diminished| do |
 
 X:15
 T:Minor key establishing melody
@@ -81,5 +91,25 @@ L:1/4
 Q:1/4=80
 K:Cmin
    C  D E2| E  D E2| E  F  G2| G   A  G2| G  F   E  D| C G, C2||
-w:do re me|me re me|me fa sol|sol le sol|sol fa me re|do so do||
+w:do re me|me re me|me fa sol|sol le sol|sol fa me re|do so do|
 
+
+X:20
+T:VA 9 Major Tune
+M:6/8
+L:1/8
+Q:1/8=120
+K:D
+%%MIDI program 41 % Viola
+V:1 transpose=-4
+(DEF FGA|B2 c d3)|(dcB ABA|GFE D3)||
+
+X:21
+T:VA 9 Minor Tune
+M:6/8
+L:1/8
+Q:1/8=120
+K:Dmin
+%%MIDI program 42 % Cello
+V:1 transpose=-4
+(DEF FGA|=B2 ^c d3)|(dcB ABA|GFE D3)|| %
