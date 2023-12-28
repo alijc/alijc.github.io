@@ -46,7 +46,42 @@ w:m6- 5  | M6- 5  | m7-8   | m7-(opt)-5 | M7- 8  | M7-(opt)-5
 
 %%titleformat B-1 T H1, K-1 N
 
+
+
 X: 1221
+T: O virgo splendens
+B: Llibre Vermeil
+H: 14th Century
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_111.jpg
+F:http://www.cervantesvirtual.com/s3/BVMC_OBRAS/ff6/fe3/e28/2b1/11d/fac/c70/021/85c/e60/64/mimes/imagenes/ff6fe3e2-82b1-11df-acc7-002185ce6064_112.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: As a two part canon with equal notes
+M: none
+L: 1/4
+Q: 1/4=80
+K: D Dorian
+%%MIDI program 1 74 %% recorder
+%%MIDI program 2 73 %% flute
+%%score (1 2 )
+V:1
+"^I" FGF AGA FGF FDED CD  D3|"^II" DCD FGF AGA FAG AcA A3 |
+ BcA AGA cdA AF ED CD  D3 | G FD F GF ED FD AGF GA A3 |
+ GA Ac Bc cdA F DEFGD D3 | ED DCDC ED DA AGAGA A3 |
+ CD FG  FECD   D  D FGFED  D3 |GFA GAB cA F    A AG Acd A3 |
+ dc cBA GA AF FGF FAG A3 | G  A AB c dA   F  F DCDF   F  E D3 |
+ G FD  D   E  D  D DFA AGF    D  C  D3 |  
+ C   D   F FG F AFAcABABc A3 | GA   F FEF DADCDEDDC  D3 ||
+V:2
+ x18| FGF AGA FGF FDED CD  D3| DCD FGF AGA FAG AcA A3 |
+ BcA AGA cdA AF ED CD  D3 | G FD F GF ED FD AGF GA A3 |
+ GA Ac Bc cdA F DEFGD D3 | ED DCDC ED DA AGAGA A3 |
+ CD FG  FECD   D  D FGFED  D3 |GFA GAB cA F    A AG Acd A3 |
+ dc cBA GA AF FGF FAG A3 | G  A AB c dA   F  F DCDF   F  E D3 |
+ G FD  D   E  D  D DFA AGF    D  C  D3 |  
+ C   D   F FG F AFAcABABc A3 | GA   F FEF DADCDEDDC  D3 ||
+
+
+X: 1222
 T: Stella Splendens
 B: Llibre Vermeil
 H: 14th Century
@@ -78,7 +113,6 @@ V: 2
   D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 ||
   A2|D2|D G|F E-|E C| D F|G A | A2|D2|D G|F E-|E  C|D F|G A  |
   D2|D F|AD|C2|F2|GA|DC|GA|c2 | D2|D F|AD|C2|F2|GA|DC|FG|A2 ||
-
 
 
 X: 1239
