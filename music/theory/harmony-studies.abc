@@ -64,21 +64,40 @@ K: D Dorian
 %%MIDI program 2 73 %% flute
 %%score (1 2 )
 V:1
-"^I" FGF AGA FGF FDED CD  D3|"^II" DCD FGF AGA FAG AcA A3 |
- BcA AGA cdA AF ED CD  D3 | G FD F GF ED FD AGF GA A3 |
- GA Ac Bc cdA F DEFGD D3 | ED DCDC ED DA AGAGA A3 |
- CD FG  FECD   D  D FGFED  D3 |GFA GAB cA F    A AG Acd A3 |
- dc cBA GA AF FGF FAG A3 | G  A AB c dA   F  F DCDF   F  E D3 |
- G FD  D   E  D  D DFA AGF    D  C  D3 |  
- C   D   F FG F AFAcABABc A3 | GA   F FEF DADCDEDDC  D3 ||
+"^I" FGF      AGA        FGF    FDED       CD  D3|
+w: M2-M2-1  M3-m3-M3  m3-M2-m3  4-1-1-1  M2-M2  1
+"^II" DCD     FGF      AGA     FAG     AcA  A3 |
+w: m3-5-m3  M3-1-M3  M3-1-M3  1-5-m3  5-8-5  5
+     BcA     AGA     cdA      AF    ED  CD  D3 |
+w: m6-8-5  M3-1-M3  m3-5-1  M3-M3  m3-5 8-5 5
+   G  FD   F  GF   ED   FD     AGF   GA A3 |
+w: M3 5-5 M3 1-M3 m6-8 M3-5 M3-m3-m3 5-5 5
+   GA  Ac   Bc    cdA  F    DEFGD    D3 |
+w: 1-5 5-8 M3-5 m6-8-5 m3 5-m3-1-1-5 5
+    ED    DCDC    ED   DA    AGAGA     A3 |
+w: m3-5 5-8-M6-8 M3-8 5-M3 5-m3-M3-1-5 5 
+    CD   FG     FECD    D D     FGFED   D3 |
+w: M3-1 m3-5 m3-M3-M3-1 1 5 m3-1-M3-m3-5 5
+     GFA    GAB   cA  F  A  AG    Acd   A3 |
+w: 5-m3-M3 1-M3-5 8-5 m3 5 M3-1 M3-m6-8 5
+    dc    cBA     GA   AF   FGF     FAG   A3 |
+w: 5-5  m3-M3-1 M3-m3 1-1 M3-1-M2 M3-m3-5 1  
+   G  A  AB  c   dA F  F    DCDF    F  E D3 |
+w: 5  m3 m3-1 m3 5-1 M3 1 m3-5-m3-1 M3 m3 5
+   G  FD   D  E D  D   DFA    AGF   D  C D3 |
+w: 1 M3-5 M6 m6 5 m3 m3-1-5 M6-4-1 m3 M3 1
+   C  D  F  FG   F       AFAcABABc       A3 |
+w: 5 M3 M3 M3-m3 m3 5-m3-M3-m3-1-M3-m6-8 5
+   GA  F   FEF      DADCDEDDC       D3 ||
+w: 5-5 1 1-m3-1 5-M3-5-8-5-5-5-M6-8 5
 V:2
- x18| FGF AGA FGF FDED CD  D3| DCD FGF AGA FAG AcA A3 |
+ GA   F FEF DADCDEDDC  D3 || FGF AGA FGF FDED CD  D3| DCD FGF AGA FAG AcA A3 |
  BcA AGA cdA AF ED CD  D3 | G FD F GF ED FD AGF GA A3 |
  GA Ac Bc cdA F DEFGD D3 | ED DCDC ED DA AGAGA A3 |
  CD FG  FECD   D  D FGFED  D3 |GFA GAB cA F    A AG Acd A3 |
  dc cBA GA AF FGF FAG A3 | G  A AB c dA   F  F DCDF   F  E D3 |
  G FD  D   E  D  D DFA AGF    D  C  D3 |  
- C   D   F FG F AFAcABABc A3 | GA   F FEF DADCDEDDC  D3 ||
+ C   D   F FG F AFAcABABc A3 |
 
 
 X: 1222
