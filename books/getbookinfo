@@ -16,19 +16,10 @@ MCL_URL="https://multcolib.bibliocommons.com/v2/"
 MCL_SEARCH="search?custom_edit=false&"
 
 
-# Make spaces and punctuation save for embedding in a url
-# (I'm not sure how escaping the ()'s works, but it seems to.)
-# (Stolen off the web.)
-urlencode() {
-    # urlencode <string>
-    local length="${#1}"
-    for (( i = 0; i < length; i++ )); do
-        local c="${1:i:1}"
-        case $c in
-            [a-zA-Z0-9.~_-\)\(\)]) printf "$c" ;;
-            *) printf '%%%02X' "'$c"
-        esac
-    done
+# Make spaces and punctuation safe for embedding in a url (for NLS)
+# This simply means turning spaces into pluses
+nls_urlencode() {
+    echo $1 | tr " " "+"
 }
 
 # Fetch info from the NLS catalog
@@ -37,8 +28,8 @@ getnlsinfo () {
     session_id=$(curl -s $NLS_SEARCH | grep SESSION_ID | cut -d'"' -f4)
 
     # Replace spaces with pluses
-    term_1="-d term_1="$(echo $1 | tr " " "+")
-    term_2="-d term_2="$(echo $2 | tr " " "+")
+    term_1="-d term_1="$( nls_urlencode $1 )
+    term_2="-d term_2="$( nls_urlencode $2 )
     session="-d session_id=$session_id"
 
     response=$(curl -s $term_1 $term_2 $session "$NLS_REST" $NLS_SEARCH)
@@ -56,6 +47,21 @@ getnlsinfo () {
 fi
 }
 
+# Make spaces and punctuation safe for embedding in a url (for MCL)
+# (I'm not sure how escaping the ()'s works, but it seems to.)
+# (Stolen off the web.)
+mcl_urlencode() {
+    # urlencode <string>
+    local length="${#1}"
+    for (( i = 0; i < length; i++ )); do
+        local c="${1:i:1}"
+        case $c in
+            [a-zA-Z0-9.~_-\)\(\)]) printf "$c" ;;
+            *) printf '%%%02X' "'$c"
+        esac
+    done
+}
+
 # Extract the number for the given field
 # Search for "someField":999, and then pull out and return the digits in stdout
 extract () {
@@ -67,7 +73,7 @@ extract () {
 # Fetch info from the MCL catalog
 getmclinfo () {
     # Then do a search at MCL
-    query=$( urlencode "(contributor:($1) AND title:($2) ) formatcode:($3)" )
+    query=$( mcl_urlencode "(contributor:($1) AND title:($2) ) formatcode:($3)" )
     search_url=$MCL_URL$MCL_SEARCH"query=$query""&searchType=bl&suppress=true"
     response=$( curl -s "$search_url" )
     avail=$( extract "$response" "availableCopies" )
