@@ -1,0 +1,96 @@
+# /usr/bin/bash
+# getbookinfo.bash
+# Script to query the NLS (National Library Service for the Blind)
+# and the MCL (Multnomah County Library) catalogs for
+# availibilities of specified books.
+# Hacked in bash so I could use curl, which fetches dynamic pages
+# (which perl and python won't do.)
+
+# What makes up an NLS search query
+NLS_URL="https://www.loc.gov/z3950/cgi-bin/zgate.nls"
+NLS_SEARCH=$NLS_URL"?ACTION=INIT&FORM_HOST_PORT=/var/www/z3950/nls/quicksearch.html,lx2.loc.gov,210"
+NLS_REST='-d term_5=sound+recording&action=search&dbname=NLSBPH_MARC8&esname=b&maxrecords=20&recsyntax=1.2.840.10003.5.10&reinit=%2Fz3950%2Fcgi-bin%2Fzgate%3FACTION%3DINIT%26FORM_HOST_PORT%3D%2Fvar%2Fwww%2Fz3950%2Fnls%2Fquicksearch.html%2Clx2.loc.gov%2C210&use_1=1003&struct_1=1&operator_1=and&use_2=4&struct_2=1&operator_2=and&use_3=1016&struct_3=1&operator_3=and&operator_4=and&use_4=1108&operator_5=and&use_5=1031&'
+
+# What makes up an MCL search query
+MCL_URL="https://multcolib.bibliocommons.com/v2/"
+MCL_SEARCH="search?custom_edit=false&"
+
+
+# Make spaces and punctuation save for embedding in a url
+# (I'm not sure how escaping the ()'s works, but it seems to.)
+# (Stolen off the web.)
+urlencode() {
+    # urlencode <string>
+    local length="${#1}"
+    for (( i = 0; i < length; i++ )); do
+        local c="${1:i:1}"
+        case $c in
+            [a-zA-Z0-9.~_-\)\(\)]) printf "$c" ;;
+            *) printf '%%%02X' "'$c"
+        esac
+    done
+}
+
+# Fetch info from the NLS catalog
+getnlsinfo () {
+    # Get a fresh session ID (hidden in the search form) for the NLS
+    session_id=$(curl -s $NLS_SEARCH | grep SESSION_ID | cut -d'"' -f4)
+
+    # Replace spaces with pluses
+    term_1="-d term_1="$(echo $1 | tr " " "+")
+    term_2="-d term_2="$(echo $2 | tr " " "+")
+    session="-d session_id=$session_id"
+
+    response=$(curl -s $term_1 $term_2 $session "$NLS_REST" $NLS_SEARCH)
+    if echo $response | grep -q "No records matched your query"
+    then
+	echo $title - not found
+    else
+	# If it was found, follow the 'More on this record' link
+	# Dump the entire record to output, to be trimmed by hand
+	link=$( echo $response | grep --only-matching "</PRE><A HREF=.*More on this record" | cut -d'"' -f2 )
+	book_url=$NLS_URL$link
+	curl $book_url #| grep  --only-matching "<PRE>.*</PRE>"
+	echo
+	echo
+fi
+}
+
+# Extract the number for the given field
+# Search for "someField":999, and then pull out and return the digits in stdout
+extract () {
+    echo "$1" | grep --only-matching "\"$2\":[0-9]*" \
+	      | grep --only-matching "[0-9]*"
+}
+
+
+# Fetch info from the MCL catalog
+getmclinfo () {
+    # Then do a search at MCL
+    query=$( urlencode "(contributor:($1) AND title:($2) ) formatcode:($3)" )
+    search_url=$MCL_URL$MCL_SEARCH"query=$query""&searchType=bl&suppress=true"
+    response=$( curl -s "$search_url" )
+    avail=$( extract "$response" "availableCopies" )
+    total=$( extract "$response" "totalCopies" )
+    echo "$4: $avail of $total available"
+}
+
+
+
+author="Pavone Chris"
+title="Two Nights in Lisbon"
+
+echo NLS
+getnlsinfo "$author" "$title"
+
+echo MCL
+getmclinfo "$author" "$title" "BK "    "Book"
+getmclinfo "$author" "$title" "EBOOK " "eBook"
+getmclinfo "$author" "$title" "AB "    "audiobook"
+echo
+
+
+
+
+# Works::::
+#curl "https://multcolib.bibliocommons.com/v2/search?custom_edit=false&query=(contributor%3A(Pavone%20Chris)%20AND%20title%3A(Two%20Nights%20in%20Lisbon)%20)%20formatcode%3A(BK%20)&searchType=bl&suppress=true" | less
