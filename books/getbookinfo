@@ -1,10 +1,18 @@
 # /usr/bin/bash
-# getbookinfo.bash
+# getbookinfo
 # Script to query the NLS (National Library Service for the Blind)
 # and the MCL (Multnomah County Library) catalogs for
 # availibilities of specified books.
 # Hacked in bash so I could use curl, which fetches dynamic pages
 # (which perl and python won't do.)
+
+# usage: getbookinfo [option input file]
+# If no file is given it reads from ./fodder
+# Its format should be:
+#    Title of first book:AuthorLastName AuthorFirstname
+#    Title of next book:...
+# Prints to stdout
+
 
 # What makes up an NLS search query
 NLS_URL="https://www.loc.gov/z3950/cgi-bin/zgate.nls"
@@ -83,21 +91,21 @@ getmclinfo () {
 }
 
 
+while read line; do
+    title=$( echo $line | cut -d ":" -f1 )
+    author=$( echo $line | cut -d ":" -f2 )
 
-author="Pavone Chris"
-title="Two Nights in Lisbon"
+    echo NLS
+    getnlsinfo "$author" "$title"
 
-echo NLS
-getnlsinfo "$author" "$title"
+    echo MCL
+    getmclinfo "$author" "$title" "BK "    "Book"
+    getmclinfo "$author" "$title" "EBOOK " "eBook"
+    getmclinfo "$author" "$title" "AB "    "audiobook"
+    echo
 
-echo MCL
-getmclinfo "$author" "$title" "BK "    "Book"
-getmclinfo "$author" "$title" "EBOOK " "eBook"
-getmclinfo "$author" "$title" "AB "    "audiobook"
-echo
-
+done < ./fodder
 
 
 
-# Works::::
-#curl "https://multcolib.bibliocommons.com/v2/search?custom_edit=false&query=(contributor%3A(Pavone%20Chris)%20AND%20title%3A(Two%20Nights%20in%20Lisbon)%20)%20formatcode%3A(BK%20)&searchType=bl&suppress=true" | less
+
