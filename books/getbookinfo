@@ -39,9 +39,10 @@ getnlsinfo () {
     else
 	# If it was found, follow the 'More on this record' link
 	# Dump the entire record to output, to be trimmed by hand
-	link=$( echo $response | grep --only-matching "</PRE><A HREF=.*More on this record" | cut -d'"' -f2 )
+	MORE="</PRE><A HREF=.*More on this record"
+	link=$( echo $response | grep --only-matching "$MORE" | cut -d'"' -f2 )
 	book_url=$NLS_URL$link
-	curl $book_url #| grep  --only-matching "<PRE>.*</PRE>"
+	curl -s $book_url | sed '/</d' # removing html lines
 	echo
 	echo
 fi
