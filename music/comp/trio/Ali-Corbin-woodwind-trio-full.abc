@@ -2,6 +2,7 @@
 %%titletrim true
 %%titleformat A-1 T C1, Z-1, S-1
 %%measurenb 0
+%%partsbox 1 
 %%%%writefields QP 0
 %%%%landscape
 %%sysstaffsep 50pt
@@ -25,8 +26,9 @@ K:Dmin
 %%MIDI program 2 71 % Clarinet
 %%MIDI program 3 70 % Bassoon
 %
+P:A
 V:Flute name="Flute" snm="Fl"
-[Q: "  A  Fearfully  " 1/2=100]
+[Q: "Fearfully  " 1/2=100]
 !ppp!LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z3|
 LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
 !p!(d/f/d/A/G)|(A/d/f/d/B)|(A/d/A/F/F/)>z/|(F/A/c/f/c)|
@@ -35,14 +37,12 @@ LD2-D/>z/|LF3|z3|LD2-D/>z/|LF2 z|
 .e/4.e'/4.=b/4.b'/4 .g/4.g'/4.g/4.b/4 g/2>z/2|.g/4.g'/4.c'/4.c''/4 .=b/4.b'/4.b/4.d'/4 b/2>z/2|.=b/4.g'/4.c'/4.c''/4 .b/4.b'/4.b/4.d'/4 b/2>z/2|!<)!!ff!!fermata!e'3"^attacca"|
 V:Clarinet name="Bb Clarinet" snm="Cl"
 %%transpose 2
-[Q: "  A  Fearfully  " 1/2=100]
 z3|z3|z3|z3|z3|z3|!pp!(DA,D|AdA|G)z(C|DCB,|A,)z!mf!d|
 d2 (c/2d/2)|f2 (g/2f/2)|d2 a|c'2 (a/2g/2)|f2 g|a2 z|
 z3|!mp!LD2-D/>z/|LF3|z3|LD2-D/>z/|LF3|z2 !mf!(A|
 !<(!c2 c/2B/2|A2) (G/2F/2|D2 C/2A,/2|C2) (^C|D2 ^C/2D/2|F2) (G/2F/2|!<)!!ff!!fermata!D3)"^attacca"|
 %
 V:Bassoon name="Bassoon" snm="Bas" clef=tenor
-[Q: "  A  Fearfully  " 1/2=100]
 z3|z3|z3|z3|z2 !mf!(D|D2 C/2D/2|F2 G/2F/2|D2) (A|c2 A/2G/2|F2 G|A2) z|
 LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|
 [K:bass]
@@ -55,9 +55,10 @@ LD2-D/>z/|LF2-F/>z/|z3|LD2-D/>z/|LF3|z3|
 %%center That soon will quench, will quench this mortal flame, is it death, is it death?
 %%center If this be death, I soom shall be from ev'ry pain and sorrow free,
 %%center I shall the King of glory see, All is well, all is well!)
+P:B
 V:Flute
 [M:4/4]
-[Q:"B   With acceptence  " 1/2=70]
+[Q:"With acceptence  " 1/2=70]
 [K:AbMaj]
 z2|z2|z2|z2|z2|
 z2|z2|!f!(ag/a/|b)(a|
@@ -69,7 +70,7 @@ Lf-f/>z/|La2|z2|Lg-g/>z/|Lc'2"^attacca"|
 %
 V:Clarinet
 [M:4/4]
-[Q:"B   With acceptence  " 1/2=70]
+[Q:"With acceptence  " 1/2=70]
 [K:AbMaj]
 z2|!ppp!LC-C/>z/|LE2|z2|LC-C/>z/|LE2|z2|
 !p!LC-C/>z/|LE2|z2|LE-E/>z/|LG2|z/ !mf!Lc/-c//e//-e/|
@@ -78,7 +79,7 @@ z2|!ppp!LC-C/>z/|LE2|z2|LC-C/>z/|LE2|z2|
 %
 V:Bassoon
 [M:4/4]
-[Q:"B   With acceptence  " 1/2=70]
+[Q:"With acceptence  " 1/2=70]
 [K:AbMaj]
 z2|z2|z2|z2|z2|!pp!LA,//G,// z///LA,//B,///z// LA,//G,//z/// LA,///-|A,///B,///z// LA,//G,//z/// LA,//B,///z/|
 !p!LC,/E,/z/ LC,/|E,/z/ LC,/E,/|z/ LC,/E,/z/| LB,,/D,/z/ LB,,/|D,/z/ LB,,/D,/|z2|
@@ -97,7 +98,8 @@ V:Flute
 [K:BbMaj]
 [M:3/2]
 [L:1/2]
-[Q:"C  Triumphantly  " 1/2=100]
+P:C
+[Q:"Triumphantly  " 1/2=100]
 z3|!p!B2(3(A/B/c/)|G2(3(A/B/c/)|B2(3(A/B/c/)|(dc/<B/)!mf!(B|
 B2F|G/>A/BG|FBF|B2)z|z3|
 z3|b3|z2!f!(b|d'/>e'/f'f'|g'f'(3b/c'/d'/|
@@ -107,7 +109,7 @@ V:Clarinet
 [K:BbMaj clef=treble]
 [M:3/2]
 [L:1/2]
-[Q:"C  Triumphantly  " 1/2=100]
+[Q:"Triumphantly  " 1/2=100]
 z2!mf!(B|d/>e/dc|B/>c/de|f/>e/dc|B2)
 z|z3|z3|!p!B,2-B,/>z/|F2
 !mp!c/<d/|(3(c/B/A/)(Bc)|(fg)(3(d/c/B/)|f2(3(f/e/d/)|Bf
@@ -118,7 +120,7 @@ V:Bassoon
 [K:BbMaj]
 [M:3/2]
 [L:1/2]
-[Q:"C  Triumphantly  " 1/2=100]
+[Q:"Triumphantly  " 1/2=100]
 !p!B,,2-B,,/>z/|F,3|z3|B,,2-B,,/>z/|F,2
 (3(A,/B,/C/)|(B,F,)B,|(D2C/<B,/)|F,(F,B,)|DB,
 !mf!(D|F2F|D/>C/B,B,|D/>E/FF|F2)
