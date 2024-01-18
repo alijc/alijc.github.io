@@ -39,16 +39,19 @@ getnlsinfo () {
     term_1="-d term_1="$( nls_urlencode "$1" )
     term_2="-d term_2="$( nls_urlencode "$2" )
     session="-d session_id=$session_id"
-#    echo curl -s $term_1 $term_2 $session "$NLS_REST" $NLS_SEARCH
     response=$(curl -s $term_1 $term_2 $session "$NLS_REST" $NLS_SEARCH)
     if echo $response | grep -q "No records matched your query"
     then
 	echo $title - not found
     else
 	# If it was found, follow the 'More on this record' link
+	# (The first one for the abook for this title)
 	# Dump the entire record to output, to be trimmed by hand
 	MORE="</PRE><A HREF=.*More on this record"
-	link=$( echo $response | grep --only-matching "$MORE" | cut -d'"' -f2 )
+	link=$( echo $response | sed 's/<PRE>/\n/g' \
+		    | grep -i --max=1 "$2 \[sound recording.*MORE" \
+		    | cut -d'"' -f4 )
+	echo $link
 	book_url=$NLS_URL$link
 	curl -s $book_url | sed '/</d' # removing html lines
 	echo
@@ -90,6 +93,10 @@ getmclinfo () {
     echo "$4: $avail of $total available"
 }
 
+# Which file holds the list of books?
+if [ $# -eq 0 ]; then input="./fodder"
+else input=$1
+fi
 
 while read line; do
     title=$( echo $line | cut -d ":" -f1 )
@@ -104,7 +111,7 @@ while read line; do
     getmclinfo "$author" "$title" "AB "    "audiobook"
     echo
 
-done < ./fodder
+done < $input
 
 
 
