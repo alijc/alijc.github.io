@@ -51,7 +51,6 @@ getnlsinfo () {
 	link=$( echo $response | sed 's/<PRE>/\n/g' \
 		    | grep -i --max=1 "$2 \[sound recording.*MORE" \
 		    | cut -d'"' -f4 )
-	echo $link
 	book_url=$NLS_URL$link
 	curl -s $book_url | sed '/</d' # removing html lines
 	echo
@@ -77,8 +76,8 @@ mcl_urlencode() {
 # Extract the number for the given field
 # Search for "someField":999, and then pull out and return the digits in stdout
 extract () {
-    echo "$1" | grep --only-matching "\"$2\":[0-9]*" \
-	      | grep --only-matching "[0-9]*"
+    echo "$1" | grep --max=1 --only-matching "\"$2\":[0-9]*" \
+	      | grep --max=1 --only-matching "[0-9]*"
 }
 
 
