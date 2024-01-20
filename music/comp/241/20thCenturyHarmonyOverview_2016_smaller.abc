@@ -1,0 +1,61 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%measurenb 0
+%%writefields QP 0
+
+%%center MUSIC 241
+%%center 20th Century Harmony Overview
+%%center Examples drawn from Kostka, Materials and Techniques of 20th Century Music
+%%center and Cope, Techniques of the Contemporary Composer
+
+
+X:1
+T:EXAMPLE 3-1 Diatonic 13th chords
+T:Tertian sonorities “taller” that the 7th chord.
+M:none
+K:C
+L:1/1
+Q:1/1=100
+[CEGBdfa][DFAcegb][EGBdfac']
+w:C:~I13 ii13 iii13~(etc.)
+
+X:2
+T:EXAMPLE 3-2 Altered Dominants
+T:Often composers used to enhance the Dominant chord,
+T:and to a lesser extent the supertonic and submediant chords:
+M:none
+K:C
+L:1/1
+Q:1/1=100
+[GB^dfa][GBdf_a][GBdfa^c']
+w:C:~V9+ V9b V11#~(etc.)
+
+X:3
+T:Non-diatonic tertian sonorities “taller” than the 7th.
+T:from the cycle of thirds (cycle of 5ths with relative minors included) which results in chromaticism more quickly:
+T:??? M m M m M m M m M ???
+M:none
+L:1/1
+Q:1/1=100
+K:C
+V:1
+[D^FA^ce^g]
+V:2
+[C,E,G,B,]
+
+X:4
+T:EXAMPLE 2.14. Planing (Debussy, "Feuilles mortes")
+M:none
+L:1/4
+Q:1/4=100
+K:E
+V:1
+z/ ([Bcdg][FGAd]/[ABcf]/[EFGc]/|[=GABe]2 [=DEFB])|
+V:2 clef=bass
+z/ ([B,CDG][F,G,A,D]/[A,B,CF]/[E,F,G,C]/|[=G,A,B,E]2 [=D,E,F,B,])|
+W:Planing—an alternative to typical counterpoint which aspires to contrary motion between voices.
+W:Freeze chords and move in parallel (intervals may shift between M or m according to the key).
+W:Horizontal movement, not functional harmonic progression, carries the vertical structures along:
+
+
