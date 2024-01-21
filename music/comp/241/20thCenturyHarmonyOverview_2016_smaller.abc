@@ -58,4 +58,36 @@ W:Planing—an alternative to typical counterpoint which aspires to contrary mot
 W:Freeze chords and move in parallel (intervals may shift between M or m according to the key).
 W:Horizontal movement, not functional harmonic progression, carries the vertical structures along:
 
+X:5
+T:EXAMPLE 3-3 Debussy: Preludes, "Heaths"
+M:3/4
+L:1/8
+Q:1/4=60
+%%score 1 (2 3)
+K:Ab
+V:1
+z2 z2 z (e|cB/c/ GBFe|c4) (cB/c/|[E4D4]) (cB/c/|[E4C4])
+V:2 clef=bass
+z6|z6|z6|(A,G,F,4|F,G,/F,/E,4)
+V:3
+z6|z6|z6|B,,4 (E,,2|A,,4)
+w:        ii11 V9?  I
+W:The bass line is often an extremely important factor in conveying harmonic intent:
+
+X:6
+T:EXAMPLE 3-4 Inverted 9th and 11th chords
+M:none
+L:1/1
+Q:1/1=40
+%%score 1 (2 3)
+K:C
+V:1
+[Af] z [FAe]
+V:2 clef=bass
+[C,G,E] z [C,G,D]
+w: C13?   C13?
+w: F9?    D11?
+W:Inversions of “tall” tertian chords can cause a new root to be perceived
+W:(in a diatonic 13th chord every chord member could potentially be the root):
+
 
