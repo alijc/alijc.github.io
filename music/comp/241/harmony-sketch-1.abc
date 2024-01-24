@@ -3,7 +3,7 @@
 %%titleformat A-1 T C1, Z-1, S-1
 %%measurenb 0
 %%writefields QP 0
-%%stretchlast
+%%stretchlast 1
 
 % MUSIC 241
 % Sketch #1 - Harmony
@@ -49,16 +49,17 @@ M:none
 L:1/1
 Q:1/1=50
 K:none
+%%score ( soprano middle ) bass
 %%MIDI program 1 42 % cello
 %%MIDI program 2 42 % cello
 %%MIDI program 3 42 % cello
 V:soprano clef=treble
-A      B    ^c    d    f     f     f    _e     d    c   _B   =A ||
+  A      B      ^c      d      f       f     f    _e      d       c       _B     =A ||
 V:middle cleff=treble
-[EGB][D^Fc][EGB][B,FA][A,CG][B,DA][ACE][A,CG][FCE][EGD][AEG][CE]||
+ [EG]   [D^F]  [EG]    [FA]   [Gc]   [Ad]   [Ae]  [Gc]   [FB]    [EA]    [EG]   [CE]||
 V:bass clef=bass
-C,    ^A,,  =A,, _G,,  E,,   C,,   D,,  F,,   _A,, =B,, ^C,  [D,F,] ||
-w:A   B	    A	 Gb    F     B     D	F     D    C	A    D
+ [C,B,][^A,,C][=A,,B,][_G,,B,][E,,A,][C,,B,][D,,C][F,,A,][_A,,G,][=B,,G,] [^C,A,][D,F,] ||
+w:A      B	A	Gb     F      B      D	   F      G     A	A    D
 
 X:2
 T:MUS241 Harmony Sketch #1
@@ -66,14 +67,23 @@ T:Quartal/Quintal Harmony (chords built in 4ths and/or 5ths)
 C:Ali Corbin
 M:none
 L:1/1
-Q:1/1=100
+Q:1/1=50
 K:none
+%%score ( soprano middle ) bass
 %%MIDI program 1 42 % cello
 %%MIDI program 2 42 % cello
-V:1 clef=treble
-A  =B   ^c   d   f   f   f   _e   d    c   _B  A
-V:2 clef=bass
-C, _B,, A,, _G,, E,, C,, D,, F,, _A,, =B,, ^C, D,
+%%MIDI program 3 42 % cello
+V:soprano clef=treble
+  A      B        ^c     d       f       f       f      _e      d       c       _B     =A ||
+V:middle cleff=treble
+ [GD]  [^G^D]    [EB]   [EB]    [=c=G]  [Gd]   [A_e]   [cG]    [c_E]   [^G^F]  [=FG] [=E^F]||
+V:bass clef=bass
+ [C,E,][^A,,E,][=A,,^F,][^F,,A,][E,,_B,][C,,A,][D,,_B,][F,,_B,][_A,,G,][=B,,^D][^C,D][D,=B,] ||
+w:C     ^G        A       D      E      F       D       Eb	  C      B	Bb     D
 
 
-
+V:all
+[GDE]  [^G^DE]  [EB^F] [AEB] [_B=C=G][GDA][A_E_B][_BCG][CG_E][^F^G^D][=FGD][=E=B^F]||
+[CGDAE][^G^D^AEB][=AEB^F^C][=DAEB^F][E_B=F=C=G][FCGDA][DA_E_BF][_E_BFCG][CGD_A_E][=B^F^C^G^D][_B=F^CGD][D=A=E=B^F]||
+%V:fifths
+% CGDAEB FC
