@@ -1,0 +1,79 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%measurenb 0
+%%writefields QP 0
+%%stretchlast
+
+% MUSIC 241
+% Sketch #1 - Harmony
+% Intervallically-Conceived Harmonic Progressions
+% Compose two progressions with at least 12 chords in each
+% and a minimum of five voices in each chord (without 8ve doublings).
+% Do not use a key signature. Do not stick to one scale or diatonic mode.
+% Explore the following intervallic combinations:
+% 
+% 1. Extended Tertian Harmony
+% 2. Quartal/Quintal Harmony (chords built in 4ths and/or 5ths)
+%
+% These progressions may be metrically independent and written in whole notes.
+% Focus on creating smooth connections between chords.
+%
+% Keep in mind that the interval spacing is critical to expressing a harmony
+% as tertian or quartal/quintal.
+% The pitch content of a harmony could be much the same, but tertian harmonies
+% will be predominantly spaced with combinations of 3rds, 6ths 2nds and 5ths,
+% while quartal/quintal harmonies will use 4ths, 5ths, 2nds and tritones.
+% There can be exceptions to this rule to accommodate voice-leading,
+% but the intervallic color should sound distinct between the two progressions.
+%
+% For a directed progression, remember a few different strategies:
+% sequential movement or variations on familiar bass patterns from tonal music;
+% an intermediate cadence or two within the 12-chord progression;
+% melodic pattern/repetition;
+% strong contrary motion between bass and soprano, especially at cadence points;
+% a strong linear direction in bass and/or soprano.
+%
+% Optional: Add a melody to one of these two progressions
+% with an independent rhythm from the harmony.
+%
+% Post your assignment (pdf/mp3) to your share drive work folder
+% and bring a printed copy to class.
+% Name the document Yourlastname_Sketch1_Harmony.pdf
+
+X:1
+T:MUS241 Harmony Sketch #1
+T:Extended Tertian Harmony
+C:Ali Corbin
+M:none
+L:1/1
+Q:1/1=50
+K:none
+%%MIDI program 1 42 % cello
+%%MIDI program 2 42 % cello
+%%MIDI program 3 42 % cello
+V:soprano clef=treble
+A      B    ^c    d    f     f     f    _e     d    c   _B   =A ||
+V:middle cleff=treble
+[EGB][D^Fc][EGB][B,FA][A,CG][B,DA][ACE][A,CG][FCE][EGD][AEG][CE]||
+V:bass clef=bass
+C,    ^A,,  =A,, _G,,  E,,   C,,   D,,  F,,   _A,, =B,, ^C,  [D,F,] ||
+w:A   B	    A	 Gb    F     B     D	F     D    C	A    D
+
+X:2
+T:MUS241 Harmony Sketch #1
+T:Quartal/Quintal Harmony (chords built in 4ths and/or 5ths)
+C:Ali Corbin
+M:none
+L:1/1
+Q:1/1=100
+K:none
+%%MIDI program 1 42 % cello
+%%MIDI program 2 42 % cello
+V:1 clef=treble
+A  =B   ^c   d   f   f   f   _e   d    c   _B  A
+V:2 clef=bass
+C, _B,, A,, _G,, E,, C,, D,, F,, _A,, =B,, ^C, D,
+
+
+
