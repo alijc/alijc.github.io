@@ -3,6 +3,23 @@
 %%titleformat B-1 T H1, N 
 %%writefields QP 0
 
+X: 1000
+T: Parallel Organum from the Musica enchiriadis
+M: none
+L: 1/1
+K: none
+%%MIDI program 1 41 % Viola
+%%MIDI program 2 41 % Viola
+%%score ( principalis organalis )
+V:principalis
+"^At the octave" A c d d d d d e c B A |"^At the fifth" A c d d d d d e c B A |"^At the fourth"DFGGGGGAFED|
+V:organalis
+   A, C D D D D D E C B, A, |DFGGGGGAFED| A,CDDDDDECB,A,|
+w:Tu pa-tris sem-pi-ter-nus es fi-li-us
+
+%%text
+%%text
+%%text
 %%center      Thirteenth-Century Polyphony
 %%center      http://www.medieval.org/emfaq/harmony/13c.html
 %%center      Margo Schulter
@@ -26,7 +43,7 @@ w:          		P5    	    	      	      | P4
 w:	     		M3             | m3
 "^Relatively tense"	[CD] [DE] [FG] [GA] [AB] | [Dc] [Ed] [Gf] [Ag] [Ba] | [CA] [Fd] [Ge] |z||
 w:	     		M2      	    	 | m7	     	       	    | M6
-"Strongly discordant"	[EF] [A_B] [=Bc] | [C=B] [Fe] [_Ba] | [E_B] [F=B] | [Ec] [Af] [Bg] |z||
+"^Strongly discordant"	[EF] [A_B] [=Bc] | [C=B] [Fe] [_Ba] | [E_B] [F=B] | [Ec] [Af] [Bg] |z||
 w:	  		m2   	   	 | M7	      	    | tt    	  | m6(often)
 %%begintext
 Unstable intervals want to resolve to stable ones
@@ -396,3 +413,4 @@ w:De  pa- ra-dis qui~us  fa- ran com-pa-ny-*  *   a
 w:Per que'l fal-lir es  de  carn hu-me-nal.*   *   *
 w:Al  be    fi- dei con-fes  e   pe-ni-dén.*   *   *
 w:Tot quan  vol-rets vos er ben  au-tre-yat.*  *   *
+
