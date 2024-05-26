@@ -101,6 +101,7 @@ while read line; do
     title=$( echo $line | cut -d ":" -f1 )
     author=$( echo $line | cut -d ":" -f2 )
 
+    echo $line
     echo NLS
     getnlsinfo "$author" "$title"
 
