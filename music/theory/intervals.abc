@@ -1,0 +1,31 @@
+%%abc-version 2.1
+%%titletrim true
+%%titleformat A-1 T C1, Z-1, S-1
+%%writefields QP 0
+
+X:1
+T:Musical Intervals: Mnemonics
+M:4/4
+L:1/4
+Q:1/4=80
+%%MIDI program 41 % Viola
+K:C
+   B,    C   B, z| C D C z	 |A,  C   A, z| C  E    C z |
+w:mi-nor second  |Ma-jor second	 |mi-nor third|Ma-jor third |
+w: ti   do  ti   |do re do	 |la  do la   |do  mi   do  |
+w:ochi cher-nye  |Happy Birth-day|To dream the|Doe(a) deer a|
+w:Jaws theme	 |		 |( impossible dream)|	    |
+w:I'm dream-ing	 |
+w:(of~a white~Xmas)|
+   C   F    C z  | F2  B2 | C   G    C z | c       E       c z |
+w:Per-fect fourth|Tri-tone|Per-fect fifth|mi-     nor     sixth|
+w:do  fa  do     |fa  to  |do  sol  do   |do       mi      do  |
+w:Here Comes	 |Ma-ri(a)|Star Wars	 |Where does~love begin|
+w:(the bride)    |	  |Twinkle, twinkle|	   	       |
+w:~ Sum-mer~time |
+   C  A   C z | D  c   D z   | C  B     C  z| C c C z ||
+w:Ma-jor sixth|mi-nor seventh|Ma-jor seventh|Oc-tave  | 	       
+w:do  la  do  |re do   re    | do ti   do   |do do do |       
+w: N  B(C)    |Star Trek     |Ba(li) Hai    |Some-where|	       
+w:    	      |There's a     |	     	    |(over the rainbow)|
+w:	      |(place for us)
